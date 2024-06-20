@@ -19,8 +19,6 @@ IP,ISP,Country,Region,Abuse Confidence Score
 66.42.106.163,Vultr Holdings LLC,United States,California,48
 173.244.49.60,LogicWeb,Taiwan,Taipei,11
 176.125.229.144,M247 Europe SRL,Montenegro,Podgorica,36
-162.158.111.29,CloudFlare Inc.,Germany,Hessen,0
-172.68.110.254,CloudFlare Inc.,Germany,Bayern,0
 86.106.74.253,M247 Europe SRL,Hungary,Budapest,47
 103.141.47.225,PT. Naksyabandia Sejati,Indonesia,Jawa Barat,100
 106.75.175.181,Shanghai UCloud Information Technology Company Limited,China,Shanghai,100
@@ -83,3 +81,8 @@ IP,ISP,Country,Region,Abuse Confidence Score
 213.136.93.171,Contabo GmbH,Germany,Rheinland-Pfalz,100
 152.42.172.246,DigitalOcean LLC,Singapore,Singapore,100
 139.59.147.218,DigitalOcean LLC,Germany,Hessen,100
+213.175.217.81,eUKhost LTD,United Kingdom of Great Britain and Northern Ireland,England,100
+91.194.91.202,Contabo GmbH,Germany,Bayern,100
+103.13.112.90,Leapswitch Networks Private Limited,India,Maharashtra,100
+13.79.218.236,Microsoft Corporation,Microsoft Corporation,Dublin,100
+123.57.10.186,Aliyun Computing Co. Ltd,China,Beijing,100
