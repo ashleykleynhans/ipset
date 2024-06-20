@@ -1,6 +1,6 @@
 # Malicious IP List
 
-> [!INFO]
+> [!NOTE]
 > This is a list of malicious IPs that have performed unsolicited scans
 > against production applications.
 
