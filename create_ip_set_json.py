@@ -7,7 +7,7 @@ with open('ipset.csv', mode='r') as file:
     reader = csv.DictReader(file)
 
     # Extract IP addresses
-    ip_addresses = [row['IP'] for row in reader]
+    ip_addresses = [row['IP'] + '/32' for row in reader]
 
 # Output as JSON array
 print(json.dumps(ip_addresses, indent=4))
