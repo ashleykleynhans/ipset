@@ -448,3 +448,30 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T18:12:23+0000,194.163.145.202,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo,AS51167 Contabo GmbH
 2024-06-21T18:25:38+0000,4.211.250.5,100,France,FR,IDF,Île-de-France,Paris,75000,48.856567,2.347322,Europe/Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),AS8075 Microsoft Corporation
 2024-06-21T18:26:54+0000,159.89.203.182,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T18:35:39+0000,158.69.255.26,100,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS
+2024-06-21T18:35:55+0000,104.248.148.107,45,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T18:32:46+0000,122.152.237.34,100,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-21T18:36:09+0000,217.21.76.94,60,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Hostinger International Limited,Hostinger International Limited,AS47583 Hostinger International Limited
+2024-06-21T18:38:58+0000,209.97.145.94,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T18:42:02+0000,152.42.190.149,30,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-21T18:42:11+0000,81.177.135.201,100,Russia,RU,MOW,Moscow,Moscow,,55.7972,37.5656,Europe/Moscow,RTCOMM,Avguro Technologies Ltd.,AS8342 JSC RTComm.RU
+2024-06-21T18:44:15+0000,103.77.107.220,78,Indonesia,ID,JK,Jakarta,Jakarta,,-6.22805,106.799,Asia/Jakarta,PT Berkah Solusi Teknologi Informasi,,AS135450 PT Berkah Solusi Teknologi Informasi
+2024-06-21T18:47:11+0000,186.234.80.61,0,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000-000,-22.9068,-43.1729,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.
+2024-06-21T18:47:56+0000,112.175.184.2,100,South Korea,KR,41,Gyeonggi-do,Yongin-si,169,37.298,127.0777,Asia/Seoul,Korea Telecom,Kornet,AS4766 Korea Telecom
+2024-06-21T18:48:33+0000,176.56.56.132,100,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,NetConnex Broadband Ltd.,Nimbus Hosting LTD,AS21396 NetConnex Broadband Ltd.
+2024-06-21T18:50:05+0000,149.88.26.74,22,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-21T18:58:16+0000,20.174.8.108,100,United Arab Emirates,AE,DU,Dubai,Dubai,171103,25.266666,55.316666,Asia/Dubai,Microsoft Corporation,Microsoft Azure Cloud (uaenorth),AS8075 Microsoft Corporation
+2024-06-21T19:00:28+0000,20.205.110.167,100,Hong Kong,HK,HCW,Central and Western District,Hong Kong,00000,22.267,114.188,Asia/Hong_Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation
+2024-06-21T19:08:17+0000,20.246.193.190,65,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-06-21T19:13:29+0000,195.78.54.110,14,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-06-21T19:18:50+0000,69.161.159.1,100,Canada,CA,BC,British Columbia,Burnaby,V5G,49.2509,-123.01,America/Vancouver,In2net Network Inc.,In2net Network Inc.,AS26753 In2net Network Inc.
+2024-06-21T19:24:30+0000,45.32.106.250,86,Singapore,SG,05,South West,Singapore,628043,1.311,103.694,Asia/Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-21T19:25:37+0000,185.26.122.44,80,Russia,RU,SPE,St.-Petersburg,St Petersburg,,59.9806,30.3241,Europe/Moscow,Hostland LTD,Hostland ltd,AS62082 Hostland LTD
+2024-06-21T19:22:44+0000,154.47.29.218,19,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-21T19:26:44+0000,120.24.108.217,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-21T19:34:36+0000,185.223.31.96,100,Germany,DE,NW,North Rhine-Westphalia,Münster,48165,51.902,7.66567,Europe/Berlin,aurologic GmbH,Dezaphosting004,AS30823 aurologic GmbH
+2024-06-21T19:30:54+0000,82.165.215.24,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,ionos-cloud nj1.pil.us,IONOS SE,AS54548 IONOS Cloud Inc.
+2024-06-21T19:39:33+0000,45.122.221.29,100,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.8231,106.63,Asia/Ho_Chi_Minh,Viet Solutions Services Trading Company Limited,VHOST,AS56150 Viet Solutions Services Trading Company Limited
+2024-06-21T19:36:56+0000,125.212.218.5,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,Viettel Corporation,Viettel Group,AS38731 Vietel - CHT Compamy Ltd
+2024-06-21T19:37:28+0000,20.246.193.197,23,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-06-21T19:38:28+0000,195.117.36.241,100,Poland,PL,16,Opole Voivodeship,Opole,45-828,50.6679,17.8755,Europe/Warsaw,Orange Polska Spolka Akcyjna,IQgroup Adam Buhl,AS5617 Orange Polska Spolka Akcyjna
