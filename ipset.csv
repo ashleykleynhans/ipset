@@ -353,7 +353,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21,203.210.22.145,0,South Korea,KR,41,Gyeonggi-do,Yongin-si,16965,37.2816,127.106,Asia/Seoul,Dotname Korea Corp,"Moack Co., Ltd",AS138195 MOACK.Co.LTD
 2024-06-21,45.236.48.45,100,Brazil,BR,MG,Minas Gerais,Pouso Alegre,37550,-22.2549,-45.9075,America/Sao_Paulo,Rede Brasil Networks,Rede Brasil Networks,AS268205 Rede Brasil Networks
 2024-06-21,138.197.46.178,97,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
-2024-06-21,65.49.1.100,,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-06-21,65.49.1.100,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
 2024-06-21,52.201.247.69,23,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-06-21,162.214.110.146,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-06-21,103.74.116.72,100,Vietnam,VN,SG,Ho Chi Minh,Binh Tan District,,10.8017,106.646,Asia/Ho_Chi_Minh,TaDu Joint Stock Company,TADU,AS63759 TaDu Joint Stock Company
