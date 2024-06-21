@@ -423,3 +423,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T17:09:36+0000,162.215.208.215,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-06-21T17:16:55+0000,120.24.109.199,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
 2024-06-21T17:21:01+0000,91.92.243.31,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-21T17:40:11+0000,177.52.160.16,100,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,Dialhost Internet Eireli,Dialhost Internet Eireli,AS262448 DIALHOST INTERNET EIRELI
+2024-06-21T17:49:03+0000,119.91.155.155,100,China,CN,BJ,Beijing,Chaowai,,39.9084,116.442,Asia/Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-21T17:51:42+0000,164.90.228.79,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:51:42+0000,139.59.136.184,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:51:43+0000,157.230.19.140,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:52:10+0000,64.227.70.2,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:52:11+0000,206.81.24.74,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-21T17:52:11+0000,164.92.244.132,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:52:36+0000,185.196.9.227,100,Switzerland,CH,BE,Bern,Bern,3000,46.948,7.44745,Europe/Zurich,Simple Carrier LLC,Simple Carrier LLC,AS42624 Simple Carrier LLC
+2024-06-21T17:52:41+0000,96.126.110.181,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-21T17:52:45+0000,64.226.78.121,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:52:46+0000,159.89.12.166,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:52:59+0000,139.162.155.225,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud
+2024-06-21T17:54:49+0000,138.197.191.87,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:54:49+0000,206.189.19.19,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T17:54:49+0000,178.128.207.138,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
+2024-06-21T17:55:46+0000,176.126.103.79,92,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6172,Europe/Moscow,Miglovets Egor Andreevich,Dmitry Viktorovich Petrov,AS210546 Miglovets Egor Andreevich
+2024-06-21T17:55:53+0000,159.89.17.243,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T18:03:26+0000,192.46.211.230,100,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud
+2024-06-21T18:05:12+0000,161.35.218.28,46,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T18:08:45+0000,180.103.115.168,100,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-06-21T18:10:28+0000,191.96.227.209,100,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-21T18:12:23+0000,194.163.145.202,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo,AS51167 Contabo GmbH
+2024-06-21T18:25:38+0000,4.211.250.5,100,France,FR,IDF,Île-de-France,Paris,75000,48.856567,2.347322,Europe/Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),AS8075 Microsoft Corporation
+2024-06-21T18:26:54+0000,159.89.203.182,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
