@@ -383,3 +383,20 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T14:36:38+0000,216.10.244.224,100,India,IN,MH,Maharashtra,Mumbai,400001,19.1139,72.8928,Asia/Kolkata,PDR,P.D.R Solutions FZC,AS394695 PDR
 2024-06-21T15:05:31+0000,85.119.122.23,100,Malta,MT,04,Birkirkara,Birkirkara,BKR,35.8913,14.4581,Europe/Malta,Melita Ltd,Melita Limited,AS200805 Melita Limited
 2024-06-21T15:01:53+0000,84.17.48.101,26,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-06-21T14:08:19+0000,185.184.155.109,100,Australia,AU,NSW,New South Wales,Sydney,1001,-33.8688,151.209,Australia/Sydney,Hostopia Australia Web Pty Ltd,,AS38719 Dreamscape Networks Limited
+2024-06-21T14:47:36+0000,162.241.253.225,37,United States,US,UT,Utah,Salt Lake City,84138,40.7608,-111.891,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T14:49:25+0000,47.107.64.152,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-21T15:03:59+0000,194.32.122.10,38,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-06-21T15:11:01+0000,162.240.144.29,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T14:33:12+0000,39.105.120.190,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-21T14:34:58+0000,45.149.78.89,100,Iran,IR,23,Tehran,Tehran,,35.7863,51.3811,Asia/Tehran,Pars Parva System LLC,ParsPack,AS60631 Pars Parva System LLC
+2024-06-21T14:59:18+0000,162.215.131.1,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T15:11:45+0000,162.240.161.12,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T15:11:47+0000,162.241.52.56,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,"Network Solutions, LLC",Unified Layer,"AS19871 Network Solutions, LLC"
+2024-06-21T15:13:03+0000,81.177.136.216,100,Russia,RU,MOW,Moscow,Moscow,,55.7972,37.5656,Europe/Moscow,RTCOMM,Avguro Technologies Ltd.,AS8342 JSC RTComm.RU
+2024-06-21T15:13:58+0000,162.214.79.121,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T14:18:32+0000,103.161.173.65,100,Vietnam,VN,SG,Ho Chi Minh,Quan Chin,,10.8507,106.721,Asia/Ho_Chi_Minh,MINHHIEN,Minh Hien Solutions Company Limited,AS135951 Webico Company Limited
+2024-06-21T15:02:54+0000,54.36.177.206,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6917,3.20157,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-21T15:12:49+0000,162.240.221.50,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T15:16:26+0000,162.19.140.4,30,Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,Europe/Berlin,OVH SAS,v S,AS16276 OVH SAS
+2024-06-21T15:19:15+0000,72.9.145.44,93,Switzerland,CH,ZH,Zurich,Zurich,8000,47.3769,8.54169,Europe/Zurich,DFW Datacenter,Li Yan,AS30277 DFW Datacenter
