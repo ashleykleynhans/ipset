@@ -416,3 +416,10 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T16:23:58+0000,162.214.158.81,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-06-21T16:31:17+0000,119.18.48.172,100,India,IN,MH,Maharashtra,Nashik,422001,19.9971,73.7533,Asia/Kolkata,PDR,WebsiteDNSPool2,AS394695 PDR
 2024-06-21T16:44:31+0000,43.157.111.74,90,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-06-21T16:50:17+0000,103.180.165.204,100,Indonesia,ID,KI,East Kalimantan,Bontang Baru,,0.1194,117.487,Asia/Makassar,CV. NATANETWORK SOLUTION,CV Jayamiqen Konstruksi,AS138131 CV. NATANETWORK SOLUTION
+2024-06-21T16:57:42+0000,5.188.159.153,100,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,"OOO ""Network of data-centers ""Selectel""",,"AS49505 OOO ""Network of data-centers ""Selectel"""
+2024-06-21T16:59:27+0000,185.191.127.212,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Amarutu Technology Ltd,SC Amarutu NL4,AS206264 Amarutu Technology Ltd
+2024-06-21T17:03:55+0000,39.101.165.37,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-21T17:09:36+0000,162.215.208.215,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T17:16:55+0000,120.24.109.199,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-21T17:21:01+0000,91.92.243.31,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
