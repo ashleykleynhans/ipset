@@ -405,3 +405,14 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T15:31:50+0000,162.240.35.131,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-06-21T15:37:35+0000,138.128.174.26,100,United States,US,FL,Florida,Orlando,32817,28.5879,-81.2264,America/New_York,HostDime.com,Digital Hosting,"AS33182 HostDime.com, Inc."
 2024-06-21T15:38:45+0000,43.142.194.216,100,China,CN,BJ,Beijing,Haidian,,39.9786,116.302,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-21T15:44:06+0000,84.239.42.141,38,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-06-21T15:50:17+0000,138.199.56.242,36,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdnext PRG,AS212238 Datacamp Limited
+2024-06-21T15:51:35+0000,191.101.217.67,15,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-21T15:51:56+0000,94.156.71.117,54,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-21T15:59:34+0000,45.61.186.180,100,United States,US,FL,Florida,Miami,33132,25.7838,-80.1823,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions
+2024-06-21T16:06:20+0000,103.175.220.129,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.20898,106.82,Asia/Jakarta,PT Biznet Gio Nusantara,PT Biznet Gio Nusantara,AS133800 PT Biznet Gio Nusantara
+2024-06-21T16:15:11+0000,81.68.123.147,100,China,CN,SH,Shanghai,Shanghai,,31.2222,121.4581,Asia/Shanghai,EuroNet Internet,Euronet Communications B.V.,AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-21T16:22:01+0000,124.70.205.207,100,China,CN,SH,Shanghai,Shanghai,,31.2304,121.4737,Asia/Shanghai,Huawei Cloud Service data center,Huawei Cloud Service,AS55990 Huawei Cloud Service data center
+2024-06-21T16:23:58+0000,162.214.158.81,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T16:31:17+0000,119.18.48.172,100,India,IN,MH,Maharashtra,Nashik,422001,19.9971,73.7533,Asia/Kolkata,PDR,WebsiteDNSPool2,AS394695 PDR
+2024-06-21T16:44:31+0000,43.157.111.74,90,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
