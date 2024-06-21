@@ -170,7 +170,7 @@ IP,ISP,Country,Region,Abuse Confidence Score,Date Added
 69.163.180.167,New Dream Network LLC,United States,California,100,2024-06-21
 91.206.200.94,DELTA-X Ltd,Ukraine,Kyiv,100,2024-06-21
 62.60.160.64,Iranian Research Organization for Science & Technology,Iran,Tehran,100,2024-06-21
-31.24.44.159,Axarnet Comunicaciones S.L.,Spain,Valenciana, Comunidad,100,2024-06-21
+31.24.44.159,Axarnet Comunicaciones S.L.,Spain,Valenciana,100,2024-06-21
 47.93.161.187,Aliyun Computing Co. Ltd,China,Beijing,100,2024-06-21
 185.231.180.223,Noyan Abr Arvan Co.,Iran,Tehran,100,2024-06-21
 31.220.89.56,Contabo GmbH,Hong Kong,Hong Kong,100,2024-06-21
@@ -228,3 +228,14 @@ IP,ISP,Country,Region,Abuse Confidence Score,Date Added
 172.121.219.101,EGIHosting,United States,California,8,2024-06-21
 91.92.252.16,LIMENET,Netherlands,Noord-Holland,84,2024-06-21
 120.77.35.242,Aliyun Computing Co. Ltd,China,Guangdong,100,2024-06-21
+103.12.77.128,Moc Lam Trading and Services Joint Stock Company,Viet Nam,Ha Noi,100,2024-06-21
+43.155.89.190,Aceville Pte.Ltd.,Hong Kong,Hong Kong,100,2024-06-21
+172.212.73.231,Microsoft Limited,United States,Virginia,100,2024-06-21
+95.181.233.156,M247 Europe SRL,Monaco,Monaco,28,2024-06-21
+84.239.54.31,Invite Systems SRL,Italy,Lombardia,19,2024-06-21
+165.22.58.178,DigitalOcean LLC,Singapore,Singapore,100,2024-06-21
+185.184.155.22,DreamScape Networks FZ-LLC,Australia,New South Wales,100,2024-06-21
+69.63.64.21,Swaziland PTC,Eswatini,Hhohho,100,2024-06-21
+81.181.61.56,BinBox Global Services SRL,Switzerland,Zurich,10,2024-06-21
+91.92.242.82,LIMENET,Netherlands,Noord-Holland,45,2024-06-21
+199.195.252.17,Frantech Solutions,United States,New York,100,2024-06-21
