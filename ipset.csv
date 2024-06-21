@@ -146,7 +146,7 @@ IP,ISP,Country,Region,Abuse Confidence Score,Date Added
 45.10.151.10,Moon DC,Turkiye,Ankara,100,2024-06-21
 116.62.155.4,Aliyun Computing Co. Ltd,China,Zhejiang,100,2024-06-21
 107.189.29.186,Frantech Solutions,Luxembourg,Luxembourg,100,2024-06-21
-154.0.169.64,Afrihost (Pty) Ltd,South Africa,South Africa,100,2024-06-21
+154.0.169.64,Afrihost (Pty) Ltd,South Africa,Gauteng,100,2024-06-21
 65.111.14.96,3XK Tech GmbH,United States,Virginia,0,2024-06-21
 51.79.26.235,OVH Hosting Inc.,Canada,Quebec,100,2024-06-21
 120.77.84.25,Aliyun Computing Co. Ltd,China,Guangdong,100,2024-06-21
@@ -317,3 +317,19 @@ IP,ISP,Country,Region,Abuse Confidence Score,Date Added
 191.96.168.127,Cyber Assets Fzco,Netherlands,Noord-Holland,11,2024-06-21
 91.92.240.88,LIMENET,Netherlands,Noord-Holland,100,2024-06-21
 65.49.20.68,The Shadow Server Foundation,The Shadow Server Foundation,California,100,2024-06-21
+154.47.29.197,DataCamp Limited,Croatia,Grad Zagreb,46,2024-06-21
+162.216.17.47,Akamai Technologies Inc.,United States,New Jersey,92,2024-06-21
+195.4.20.22,JusProg e.V.,Germany,Nordrhein-Westfalen,23,2024-06-21
+34.78.85.104,Google LLC,Belgium,Brussels Hoofdstedelijk Gewest,100,2024-06-21
+34.172.237.230,Google LLC,United States,Iowa,100,2024-06-21
+181.214.173.71,Cyber Assets Fzco,Germany,Berlin,20,2024-06-21
+5.77.63.90,eUKhost LTD,United Kingdom of Great Britain and Northern Ireland,England,19,2024-06-21
+62.215.206.172,Fast Communication Company Ltd,Kuwait,Al 'Asimah,49,2024-06-21
+81.181.54.25,BinBox Global Services SRL,United States,California,100,2024-06-21
+37.19.223.15,DataCamp Limited,Austria,Wien,24,2024-06-21
+188.126.89.118,GleSYS AB,Finland,Uusimaa,39,2024-06-21
+175.100.79.223,Viettel (Cambodia) Pte. Ltd.,Cambodia,Phnom Penh,11,2024-06-21
+139.59.247.160,Digital Ocean Inc.,Singapore,Singapore,100,2024-06-21
+191.96.168.135,Cyber Assets Fzco,Netherlands,Noord-Holland,14,2024-06-21
+47.74.52.41,AliCloud JP,Japan,Tokyo,100,2024-06-21
+134.209.103.240,DigitalOcean LLC,Singapore,Singapore,64,2024-06-21
