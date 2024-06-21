@@ -475,3 +475,13 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T19:36:56+0000,125.212.218.5,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,Viettel Corporation,Viettel Group,AS38731 Vietel - CHT Compamy Ltd
 2024-06-21T19:37:28+0000,20.246.193.197,23,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
 2024-06-21T19:38:28+0000,195.117.36.241,100,Poland,PL,16,Opole Voivodeship,Opole,45-828,50.6679,17.8755,Europe/Warsaw,Orange Polska Spolka Akcyjna,IQgroup Adam Buhl,AS5617 Orange Polska Spolka Akcyjna
+2024-06-21T19:37:03+0000,162.240.233.135,75,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-21T20:10:07+0000,94.156.65.8,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-21T20:38:44+0000,132.148.166.228,27,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-21T21:02:43+0000,194.5.48.245,33,Japan,JP,13,Tokyo,Tokyo,151-0053,35.6893,139.6899,Asia/Tokyo,Ipxo Limited,,AS206092 Internet Utilities Europe and Asia Limited
+2024-06-21T21:36:06+0000,106.75.5.52,100,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
+2024-06-21T21:57:06+0000,159.65.239.230,39,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-21T22:09:51+0000,156.146.55.175,28,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-21T22:20:33+0000,51.158.26.254,0,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,SCALEWAY,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-06-21T22:20:34+0000,62.210.14.149,0,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-06-21T22:51:43+0000,8.218.121.145,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd."
