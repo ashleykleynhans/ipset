@@ -627,3 +627,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-22T12:14:47+0000,103.47.185.185,100,Myanmar,MM,17,Shan State,Lashio,,22.9359,97.7498,Asia/Yangon,"Myanmar Technology Gateway Co., Ltd","Myanmar Technology Gateway Co., Ltd","AS135149 Myanmar Technology Gateway Co., Ltd"
 2024-06-22T12:19:40+0000,91.92.250.32,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-22T12:27:09+0000,103.77.107.73,81,Indonesia,ID,JK,Jakarta,Jakarta,,-6.22805,106.799,Asia/Jakarta,PT Berkah Solusi Teknologi Informasi,,AS135450 PT Berkah Solusi Teknologi Informasi
+2024-06-22T12:41:11+0000,124.40.255.186,40,Indonesia,ID,YO,Yogyakarta,Bantul,,-7.81164,110.336,Asia/Jakarta,PT Lintas Data Prima,,"AS45305 Lintas Data Prima, PT"
+2024-06-22T12:51:26+0000,95.181.236.148,27,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
+2024-06-22T12:55:18+0000,185.184.155.5,100,Australia,AU,NSW,New South Wales,Sydney,1001,-33.8688,151.209,Australia/Sydney,Hostopia Australia Web Pty Ltd,,AS38719 Dreamscape Networks Limited
+2024-06-22T13:00:06+0000,139.59.143.102,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-22T13:03:14+0000,97.64.20.231,100,United States,US,CA,California,Los Angeles,90017,34.0515,-118.2707,America/Los_Angeles,IT7 Networks Inc,Cluster Logic Inc,AS25820 IT7 Networks Inc
+2024-06-22T13:55:06+0000,84.17.48.75,28,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-06-22T13:58:24+0000,118.253.177.161,100,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,"No.293, Wanbao Avenue",Chinanet HN,AS63835 CT-HuNan-Changsha-IDC
+2024-06-22T13:54:12+0000,81.181.60.61,100,United States,US,WA,Washington,Seattle,98160,47.6034,-122.3414,America/Los_Angeles,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-22T14:45:36+0000,185.253.97.237,38,Norway,NO,03,Oslo County,Oslo,0001,59.9252,10.8203,Europe/Oslo,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-06-22T14:49:18+0000,138.199.59.166,31,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limiteds
+2024-06-22T16:02:50+0000,94.156.69.229,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-22T16:18:03+0000,165.231.182.134,36,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-06-22T17:07:32+0000,93.123.39.205,100,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,Silent Connection Ltd.,Silent Connection LTD,AS215240 Silent Connection Ltd.
+2024-06-22T17:24:55+0000,37.46.113.252,34,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
+2024-06-22T17:53:21+0000,181.214.218.233,23,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-22T17:53:36+0000,134.209.25.199,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-22T17:53:36+0000,138.68.144.227,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-22T17:53:37+0000,64.226.65.160,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-22T18:09:23+0000,94.228.169.199,87,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD
+2024-06-22T18:45:39+0000,185.93.3.110,45,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-06-22T19:01:11+0000,149.88.26.84,10,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-22T19:46:41+0000,103.42.56.49,87,Vietnam,VN,SG,Ho Chi Minh,Phường Bảy,,10.7704,106.684,Asia/Ho_Chi_Minh,THEGIOISO,Digital world data online company,AS45899 VNPT Corp
