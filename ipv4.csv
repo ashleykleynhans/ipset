@@ -782,3 +782,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T08:55:07+0000,51.158.167.59,11,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Online S.A.S.,Scaleway,AS12876 SCALEWAY S.A.S.
 2024-06-24T09:14:49+0000,134.209.249.86,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-24T09:34:06+0000,146.70.59.171,15,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-06-24T09:39:15+0000,176.125.230.134,31,Malta,MT,57,Is-Swieqi,Swieqi,SWQ,35.9231,14.4738,Europe/Malta,M247 Europe SRL,M247 Ltd Malta,AS9009 M247 Europe SRL
+2024-06-24T09:59:20+0000,103.120.242.158,100,Vietnam,VN,HN,Hanoi,Thanh Xuân District,,20.9996,105.809,Asia/Bangkok,THREETSS,3T System Solutions Company Limited,AS45899 VNPT Corp
+2024-06-24T10:13:40+0000,45.156.128.101,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-06-24T10:42:28+0000,62.171.165.202,26,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-24T10:43:26+0000,185.50.25.12,100,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,Beget LLC,Beget,AS198610 Beget LLC
+2024-06-24T10:44:48+0000,154.47.29.219,13,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-24T11:19:58+0000,172.121.142.247,12,France,FR,IDF,Île-de-France,Paris,93200,48.8566,2.3522,Europe/Paris,Sprious LLC,EGIHosting,AS54252 Sprious LLC
+2024-06-24T11:28:24+0000,139.59.43.165,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T11:42:38+0000,118.27.99.19,39,Japan,JP,13,Tokyo,Chiyoda,100-8111,35.6916,139.768,Asia/Tokyo,"GMO Internet, Inc.",interQ,"AS7506 GMO Internet,Inc"
+2024-06-24T11:43:39+0000,213.232.87.232,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Tefincom S.A.,NordVPN,AS136787 TEFINCOM S.A.
+2024-06-24T11:45:00+0000,212.102.35.61,21,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-24T11:50:54+0000,111.230.202.147,100,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T12:01:15+0000,154.0.175.200,100,South Africa,ZA,GP,Gauteng,Sandton,2196,-26.0461,28.0599,Africa/Johannesburg,Afrihost (Pty) Ltd,,AS37611 Afrihost (Pty) Ltd
+2024-06-24T12:13:19+0000,178.128.187.183,100,United States,US,CA,California,Santa Clara,95051,37.3417,-121.9753,America/Los_Angeles,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
+2024-06-24T12:57:38+0000,51.38.41.215,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-24T13:14:11+0000,91.206.201.120,24,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,new Delta-X,"""DELTA-X"" LTD",AS200000 Hosting Ukraine LTD
+2024-06-24T13:17:42+0000,109.123.239.11,62,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Casablanca INT fraction,Casablanca INT,AS141995 Contabo Asia Private Limited
+2024-06-24T13:20:44+0000,156.146.55.186,22,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-24T13:42:52+0000,134.122.123.193,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T13:47:41+0000,181.215.176.246,1,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-24T13:52:16+0000,81.181.61.22,1,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-24T13:53:12+0000,37.46.113.250,33,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
