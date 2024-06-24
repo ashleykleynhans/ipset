@@ -715,3 +715,61 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-23T14:36:47+0000,181.214.173.66,15,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-06-23T14:44:36+0000,37.19.223.237,22,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
 2024-06-23T14:55:41+0000,178.176.229.171,99,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,MegaFon,,AS24866 Cloud Megafon
+2024-06-23T23:54:17+0000,145.239.86.113,100,Poland,PL,02,Lower Silesia,Wroclaw,50-019,51.1043,17.0335,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS
+2024-06-24T00:07:41+0000,46.229.230.105,44,Slovakia,SK,BL,Bratislava Region,Bratislava,851 04,48.1225,17.1393,Europe/Bratislava,VNET,VNET-org,AS29405 VNET a.s.
+2024-06-24T00:17:06+0000,91.92.245.254,0,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-24T00:17:36+0000,162.255.118.204,76,United States,US,CA,California,Los Angeles,90064,34.0356,-118.442,America/Los_Angeles,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc."
+2024-06-24T00:18:07+0000,175.178.196.157,12,China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Golden-Bridge Netcom communication Co., LTD.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T00:19:21+0000,92.223.85.63,35,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.
+2024-06-24T00:21:00+0000,101.34.244.228,100,China,CN,BJ,Beijing,Haidian,,39.9786,116.302,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T00:29:09+0000,156.146.55.159,95,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-24T00:35:35+0000,191.101.217.62,0,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-24T00:38:10+0000,165.232.180.240,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T00:38:51+0000,91.92.252.110,34,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-24T00:44:23+0000,189.140.98.14,0,Mexico,MX,TAM,Tamaulipas,Reynosa,88795,25.8857,-98.3456,America/Matamoros,UNINET,Gestión de direccionamiento UniNet,AS8151 UNINET
+2024-06-24T00:51:14+0000,181.214.206.28,19,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Ipxo,AS3257 GTT Communications Inc.
+2024-06-24T01:00:22+0000,47.111.116.44,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-24T01:04:35+0000,82.180.172.163,52,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Hostinger International Limited,Hostinger,AS47583 Hostinger International Limited
+2024-06-24T01:07:05+0000,23.26.220.29,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
+2024-06-24T01:12:09+0000,192.46.208.145,0,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud
+2024-06-24T01:22:32+0000,162.214.197.33,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-24T01:38:46+0000,191.96.150.203,100,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-24T01:44:40+0000,125.212.209.171,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,Viettel Corporation,Viettel Group,AS7552 Viettel Group
+2024-06-24T01:44:48+0000,93.123.85.168,20,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,MortalSoft Ltd.,MortalSoft Ltd,AS216240 MortalSoft Ltd.
+2024-06-24T01:50:09+0000,104.215.59.124,14,Japan,JP,27,Ōsaka,Osaka,540-0002,34.6939,135.5022,Asia/Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japanwest),AS8075 Microsoft Corporation
+2024-06-24T02:11:29+0000,181.214.218.158,10,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-24T02:21:33+0000,178.208.67.26,25,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,MCHOST,,AS216139 Iron Hosting Centre LTD
+2024-06-24T02:34:09+0000,52.160.33.137,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-06-24T02:45:15+0000,181.214.218.154,29,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-24T02:51:13+0000,148.72.214.194,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-24T02:57:50+0000,103.214.175.9,100,Hong Kong,HK,KSS,Sham Shui Po,Cheung Sha Wan,,22.3363,114.158,Asia/Hong_Kong,VH-GLOBAL,"Hong Kong YunLiFang Co., Limited",AS42960 VH Global Limited
+2024-06-24T03:13:35+0000,171.244.0.91,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,VIETEL,Viettel Corporation,AS7552 Viettel Group
+2024-06-24T03:35:53+0000,150.109.148.216,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-06-24T03:48:19+0000,20.190.35.44,0,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation
+2024-06-24T04:01:28+0000,157.7.104.31,42,Japan,JP,13,Tokyo,Chiyoda,100-8111,35.6906,139.77,Asia/Tokyo,"GMO Internet, Inc","GMO Internet, Inc.","AS7506 GMO Internet,Inc"
+2024-06-24T04:16:28+0000,140.228.24.56,74,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-06-24T04:12:49+0000,54.37.121.239,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,Ovh Hosting,AS16276 OVH SAS
+2024-06-24T04:20:56+0000,119.45.26.99,100,China,CN,HN,Hunan,Changsha,410000,28.2282,112.939,Asia/Shanghai,China Unicom CHINA169 Guangdong Province network,"HUNAN CATV Network Group Co., LTD.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T04:35:31+0000,84.17.48.184,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-06-24T04:28:33+0000,198.12.238.48,49,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-24T05:00:51+0000,223.76.215.193,100,China,CN,HB,Hubei,Wuhan,,30.589,114.2681,Asia/Shanghai,China Mobile communications corporation,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-06-24T05:04:51+0000,91.92.243.125,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-24T05:05:49+0000,138.68.188.84,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T05:12:22+0000,139.59.83.72,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T05:18:39+0000,104.248.23.240,61,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T05:28:24+0000,159.223.46.93,3,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T05:15:45+0000,15.237.93.209,78,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc."
+2024-06-24T05:48:43+0000,78.153.149.214,3,Russia,RU,MOW,Moscow,Moscow,101000,55.7483,37.6171,Europe/Moscow,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC
+2024-06-24T05:50:53+0000,139.59.27.59,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T05:56:05+0000,91.92.254.146,96,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-24T06:11:58+0000,116.198.242.201,0,China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Asia/Shanghai,CHINATELECOM Jiangsu Suqian IDC network,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS137699 CHINATELECOM Jiangsu Suqian IDC network
+2024-06-24T06:13:16+0000,192.185.4.71,2,United States,US,GA,Georgia,Atlanta,30302,33.749,-84.388,America/New_York,"Network Solutions, LLC",WEBSITEWELCOME.COM,"AS19871 Network Solutions, LLC"
+2024-06-24T06:13:31+0000,148.72.247.134,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-24T06:28:06+0000,1.1.1.1,0,Australia,AU,QLD,Queensland,South Brisbane,4101,-27.4766,153.0166,Australia/Brisbane,"Cloudflare, Inc",APNIC and Cloudflare DNS Resolver project,"AS13335 Cloudflare, Inc."
+2024-06-24T06:30:43+0000,185.51.134.173,23,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-06-24T06:36:07+0000,49.232.145.205,100,China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T06:45:38+0000,191.96.168.144,3,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-24T06:58:45+0000,39.98.44.46,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-24T07:05:27+0000,185.253.97.246,26,Norway,NO,03,Oslo County,Oslo,0001,59.9252,10.8203,Europe/Oslo,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-06-24T07:21:31+0000,103.176.179.125,100,Vietnam,VN,HN,Hanoi,Đống Đa District,,21.0165,105.808,Asia/Bangkok,NINETECH,9tech Viet NAM Trading Joint Stock Company,AS131353 NhanHoa Software company
+2024-06-24T07:23:07+0000,46.246.8.177,11,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
