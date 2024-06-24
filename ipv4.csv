@@ -765,7 +765,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T06:11:58+0000,116.198.242.201,0,China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Asia/Shanghai,CHINATELECOM Jiangsu Suqian IDC network,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS137699 CHINATELECOM Jiangsu Suqian IDC network
 2024-06-24T06:13:16+0000,192.185.4.71,2,United States,US,GA,Georgia,Atlanta,30302,33.749,-84.388,America/New_York,"Network Solutions, LLC",WEBSITEWELCOME.COM,"AS19871 Network Solutions, LLC"
 2024-06-24T06:13:31+0000,148.72.247.134,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
-2024-06-24T06:28:06+0000,1.1.1.1,0,Australia,AU,QLD,Queensland,South Brisbane,4101,-27.4766,153.0166,Australia/Brisbane,"Cloudflare, Inc",APNIC and Cloudflare DNS Resolver project,"AS13335 Cloudflare, Inc."
 2024-06-24T06:30:43+0000,185.51.134.173,23,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
 2024-06-24T06:36:07+0000,49.232.145.205,100,China,CN,GD,Guangdong,Shenzhen,,22.5431,114.058,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
 2024-06-24T06:45:38+0000,191.96.168.144,3,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
@@ -773,3 +772,13 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T07:05:27+0000,185.253.97.246,26,Norway,NO,03,Oslo County,Oslo,0001,59.9252,10.8203,Europe/Oslo,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
 2024-06-24T07:21:31+0000,103.176.179.125,100,Vietnam,VN,HN,Hanoi,Đống Đa District,,21.0165,105.808,Asia/Bangkok,NINETECH,9tech Viet NAM Trading Joint Stock Company,AS131353 NhanHoa Software company
 2024-06-24T07:23:07+0000,46.246.8.177,11,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-06-24T08:10:00+0000,149.28.96.179,0,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-24T07:44:32+0000,43.142.164.252,100,China,CN,SH,Shanghai,Shanghai,,31.2304,121.474,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T08:07:10+0000,213.175.66.138,100,Latvia,LV,RIX,Rīga,Riga,LV-1001,56.9559,24.1753,Europe/Riga,TELIANET,,AS5518 SIA Tet
+2024-06-24T08:15:57+0000,217.21.90.224,2,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,Hostinger International Limited,Hostinger,AS47583 Hostinger International Limited
+2024-06-24T08:29:50+0000,91.206.200.101,100,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,new Delta-X,"""DELTA-X"" LTD",AS200000 Hosting Ukraine LTD
+2024-06-24T08:35:24+0000,195.161.68.159,100,Russia,RU,IRK,Irkutsk Oblast,Irkutsk,664000,52.2777,104.25,Asia/Krasnoyarsk,RTCOMM,,AS8342 JSC RTComm.RU
+2024-06-24T08:52:19+0000,45.79.209.150,100,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-24T08:55:07+0000,51.158.167.59,11,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Online S.A.S.,Scaleway,AS12876 SCALEWAY S.A.S.
+2024-06-24T09:14:49+0000,134.209.249.86,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T09:34:06+0000,146.70.59.171,15,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
