@@ -711,3 +711,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-23T13:21:07+0000,172.172.68.92,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation
 2024-06-23T13:24:01+0000,84.239.40.245,27,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
 2024-06-23T13:25:12+0000,85.192.41.110,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD
+2024-06-23T14:18:06+0000,163.5.210.79,100,France,FR,IDF,Île-de-France,Le Kremlin-Bicetre,94270,48.8157,2.36285,Europe/Paris,12651980 Canada Inc.,Ionis Group - Ionis Schools of Technology and Management,AS399486 12651980 CANADA INC.
+2024-06-23T14:36:47+0000,181.214.173.66,15,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-23T14:44:36+0000,37.19.223.237,22,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
+2024-06-23T14:55:41+0000,178.176.229.171,99,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,MegaFon,,AS24866 Cloud Megafon
