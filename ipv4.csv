@@ -804,3 +804,16 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T13:47:41+0000,181.215.176.246,1,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-06-24T13:52:16+0000,81.181.61.22,1,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-06-24T13:53:12+0000,37.46.113.250,33,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
+2024-06-24T14:05:42+0000,123.30.234.70,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp
+2024-06-24T14:05:42+0000,128.199.152.116,21,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T14:27:42+0000,78.153.140.222,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,AS202306 HOSTGLOBAL.PLUS LTD
+2024-06-24T14:45:06+0000,23.26.220.28,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
+2024-06-24T15:06:01+0000,95.181.236.154,3,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
+2024-06-24T15:26:17+0000,78.153.140.223,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,AS202306 HOSTGLOBAL.PLUS LTD
+2024-06-24T15:30:23+0000,31.25.243.68,62,Russia,RU,SVE,Sverdlovsk Oblast,Yekaterinburg,620000,56.8146,60.6169,Asia/Yekaterinburg,DATAEKB,,AS39741 data-centr ekaterinburg OOO
+2024-06-24T15:57:16+0000,35.228.201.97,45,Finland,FI,02,South Karelia,Lappeenranta,,61.0549,28.1896,Europe/Helsinki,Google LLC,Google Cloud (europe-north1),AS15169 Google LLC
+2024-06-24T16:20:58+0000,195.3.223.228,100,Poland,PL,14,Mazovia,Warsaw,02-634,52.1957,20.9921,Europe/Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,AS201814 MEVSPACE sp. z o.o.
+2024-06-24T16:25:21+0000,84.239.42.152,20,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-06-24T016:43:00+0000,62.197.149.113,54,Lithuania,LT,VL,Vilnius,Vilnius,,54.6871,25.2796,Europe/Vilnius,Cyberzone S.A.,Cyberzone S.A,AS209854 Cyberzone S.A.
+2024-06-24T016:45:00+0000,13.79.89.32,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-06-24T17:25:38+0000,156.146.55.185,43,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
