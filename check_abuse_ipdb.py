@@ -53,8 +53,11 @@ def check_abuse_ipdb():
         params=querystring
     )
 
-    decodedResponse = json.loads(response.text)
-    print(json.dumps(decodedResponse, sort_keys=True, indent=4))
+    if response.status_code >= 500:
+        print(f'Server error: {response.status_code}')
+    else:
+        decodedResponse = json.loads(response.text)
+        print(json.dumps(decodedResponse, sort_keys=True, indent=4))
 
 
 if __name__ == '__main__':
