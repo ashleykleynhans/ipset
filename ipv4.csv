@@ -883,3 +883,27 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T09:41:53+0000,68.183.85.160,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-25T09:45:46+0000,87.236.210.205,39,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,Aria Web Development,Aria Web Development LLC,AS57230 Aria Web Development LLC
 2024-06-25T09:50:33+0000,129.80.209.136,100,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation
+2024-06-25T10:20:16+0000,104.234.204.144,100,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,Ipxo LLC,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-06-25T10:18:41+0000,195.179.237.183,51,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,HOSTINGER US,Hostinger International Limited,AS47583 Hostinger International Limited
+2024-06-25T10:41:55+0000,84.239.54.13,10,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-06-25T10:42:38+0000,185.253.97.253,41,Norway,NO,03,Oslo County,Oslo,0001,59.9252,10.8203,Europe/Oslo,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-06-25T11:00:42+0000,54.38.70.80,31,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-25T011:11:00+0000,45.32.201.8,22,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:36:01+0000,149.28.195.66,4,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:37:28+0000,149.28.112.58,3,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:37:42+0000,146.59.44.64,100,Poland,PL,14,Mazovia,Warsaw,00-441,52.2251,21.0477,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS
+2024-06-25T11:39:27+0000,149.28.192.84,4,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:40:25+0000,64.176.205.117,4,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:44:04+0000,144.202.79.101,21,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:47:28+0000,207.148.13.214,38,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:53:15+0000,45.32.85.216,48,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:53:43+0000,108.61.241.165,13,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:54:04+0000,149.28.220.13,27,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T11:56:23+0000,45.63.17.36,25,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T12:09:07+0000,51.158.79.217,23,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,SCALEWAY,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-06-25T12:14:48+0000,23.26.220.11,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
+2024-06-25T12:20:12+0000,84.247.48.53,27,Ireland,IE,L,Leinster,Dublin,D02,53.3331,-6.24889,Europe/Dublin,M247 Europe SRL,M247 Ltd Dublin,AS9009 M247 Europe SRL
+2024-06-25T12:27:24+0000,198.204.232.226,26,United States,US,MO,Missouri,Kansas City,64116,39.1374,-94.5786,America/Chicago,"Nocix, LLC",DEEZNUTZLLC,"AS33387 Nocix, LLC"
+2024-06-25T10:08:26+0000,172.121.209.60,0,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,GTT Communications Inc.,EGIHosting,AS3257 GTT Communications Inc.
+2024-06-25T10:12:31+0000,70.32.90.128,0,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-25T11:56:05+0000,207.246.70.228,36,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
