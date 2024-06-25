@@ -907,3 +907,12 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T10:08:26+0000,172.121.209.60,0,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,GTT Communications Inc.,EGIHosting,AS3257 GTT Communications Inc.
 2024-06-25T10:12:31+0000,70.32.90.128,0,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
 2024-06-25T11:56:05+0000,207.246.70.228,36,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T12:38:57+0000,47.107.131.133,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-25T12:56:10+0000,84.239.42.142,37,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-06-25T13:03:57+0000,34.41.189.255,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-06-25T14:06:31+0000,51.89.6.222,21,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,OVH GmbH,AS16276 OVH SAS
+2024-06-25T14:30:17+0000,172.233.17.150,35,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud
+2024-06-25T14:50:18+0000,84.247.48.59,27,Ireland,IE,L,Leinster,Dublin,D02,53.3331,-6.24889,Europe/Dublin,M247 Europe SRL,M247 Ltd Dublin,AS9009 M247 Europe SRL
+2024-06-25T15:12:12+0000,4.151.218.131,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-06-25T15:14:47+0000,84.239.42.136,46,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-06-25T15:15:08+0000,39.101.185.186,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
