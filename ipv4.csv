@@ -855,3 +855,31 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T04:46:01+0000,167.99.66.166,100,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-25T05:06:27+0000,89.163.225.88,16,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40472,51.2673,6.81752,Europe/Berlin,myLoc managed IT AG,myLoc managed IT AG,AS24961 WIIT AG
 2024-06-25T05:17:10+0000,20.191.202.4,38,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation
+2024-06-25T05:36:13+0000,191.96.168.40,20,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-25T05:45:16+0000,101.33.210.56,100,China,CN,BJ,Beijing,Haidian,,39.9786,116.302,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-25T05:49:51+0000,213.217.31.51,100,Turkey,TR,34,Istanbul,Şişli,34381,41.0675,28.9879,Europe/Istanbul,Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi,Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi,AS48011 Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
+2024-06-25T05:54:07+0000,23.94.126.36,57,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,HostPapa,Ipxo LLC,AS23470 ReliableSite.Net LLC
+2024-06-25T06:01:52+0000,141.105.66.247,57,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,Hostkey B.V.,"LLC ""Server v arendy""",AS50867 HOSTKEY B.V.
+2024-06-25T06:32:20+0000,91.206.200.130,60,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,new Delta-X,"""DELTA-X"" LTD",AS200000 Hosting Ukraine LTD
+2024-06-25T06:58:04+0000,64.23.138.89,28,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T07:04:06+0000,2.57.171.52,39,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,Latitude.sh LTDA,,AS262287 Latitude.sh LTDA
+2024-06-25T07:06:56+0000,89.149.24.17,9,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Binbox Global Services,AS3257 GTT Communications Inc.
+2024-06-25T07:15:23+0000,185.51.134.250,25,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-06-25T07:23:15+0000,185.108.105.181,17,United Kingdom,GB,SCT,Scotland,Glasgow,ML6 8HW,55.8642,-4.2518,Europe/London,Hostroyale Glasgow Network,,AS203020 HostRoyale Technologies Pvt Ltd
+2024-06-25T07:25:04+0000,139.59.91.78,34,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T07:44:58+0000,83.97.23.188,22,Germany,DE,BE,Land Berlin,Berlin,10178,52.5222,13.4093,Europe/Berlin,M247 Europe SRL,M247 Ltd Berlin,AS9009 M247 Europe SRL
+2024-06-25T07:51:59+0000,2.57.171.44,60,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,Latitude.sh LTDA,,AS262287 Latitude.sh LTDA
+2024-06-25T07:37:22+0000,89.116.147.29,37,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Hostinger International Limited,"SC ""Lithuanian Radio and TV Center""",AS47583 Hostinger International Limited
+2024-06-25T07:56:53+0000,159.65.147.194,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T08:12:04+0000,198.54.123.137,62,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc."
+2024-06-25T08:13:14+0000,83.147.54.73,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-06-25T08:20:04+0000,97.79.239.127,81,United States,US,TX,Texas,Schertz,78154,29.6078,-98.2843,America/Chicago,Global Virtual Opportunities,Spectrum,AS46549 Global Virtual Opportunities
+2024-06-25T08:39:30+0000,84.239.6.147,69,United States,US,KY,Kentucky,Louisville,40296,38.2539,-85.76,America/Kentucky/Louisville,Datacamp Limited,BINBOX Louisville,AS212238 Datacamp Limited
+2024-06-25T08:42:50+0000,135.125.183.119,100,Germany,DE,HE,Hesse,Limburg an der Lahn,65549,50.3878,8.07286,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS
+2024-06-25T08:44:48+0000,91.92.249.164,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-25T08:49:44+0000,65.49.20.66,100,United States,US,CA,California,Milpitas,95035,37.4352,-121.899,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-06-25T09:22:21+0000,162.0.209.186,27,United States,US,CA,California,Los Angeles,90064,34.0356,-118.442,America/Los_Angeles,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc."
+2024-06-25T09:27:32+0000,51.79.229.197,100,Singapore,SG,01,Central Singapore,Singapore,069536,1.27989,103.849,Asia/Singapore,OVH Hosting,OVH Singapore PTE. LTD,AS16276 OVH SAS
+2024-06-25T09:41:53+0000,68.183.85.160,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T09:45:46+0000,87.236.210.205,39,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,Aria Web Development,Aria Web Development LLC,AS57230 Aria Web Development LLC
+2024-06-25T09:50:33+0000,129.80.209.136,100,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation
