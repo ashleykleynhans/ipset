@@ -916,3 +916,47 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T15:12:12+0000,4.151.218.131,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
 2024-06-25T15:14:47+0000,84.239.42.136,46,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
 2024-06-25T15:15:08+0000,39.101.185.186,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-25T15:22:11+0000,176.125.230.141,22,Malta,MT,57,Is-Swieqi,Swieqi,SWQ,35.9231,14.4738,Europe/Malta,M247 Europe SRL,M247 Ltd Malta,AS9009 M247 Europe SRL
+2024-06-25T16:14:00+0000,91.92.242.17,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-25T16:23:57+0000,185.180.140.6,100,United States,US,GA,Georgia,Atlanta,30302,33.7488,-84.3877,America/New_York,"NSEC - Sistemas Informaticos, S.A.",ICG,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-06-25T16:28:44+0000,174.128.182.184,100,United States,US,IL,Illinois,Chicago,,41.8781,-87.6297,America/Chicago,"Atlantic Metro Communications II, Inc.",Atlantic Metro Communications,"AS29838 Atlantic Metro Communications II, Inc."
+2024-06-25T16:34:09+0000,64.226.65.115,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T16:34:09+0000,139.59.138.102,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T16:50:43+0000,81.169.144.135,63,Germany,DE,BE,Land Berlin,Berlin,10249,52.5272,13.4539,Europe/Berlin,Strato AG,Strato AG,AS6724 Strato AG
+2024-06-25T16:57:04+0000,149.28.52.77,10,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T16:59:31+0000,195.88.87.247,100,Germany,DE,BY,Bavaria,Nuremberg,90403,49.4527,11.0783,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-25T17:01:05+0000,77.244.219.168,100,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,"OOO ""Network of data-centers ""Selectel""",Selectel Ltd.,"AS49505 OOO ""Network of data-centers ""Selectel"""
+2024-06-25T17:01:38+0000,46.226.10.69,100,Norway,NO,46,Vestland,Bergen,5014,60.3926,5.32449,Europe/Oslo,RENTARACK,,AS39783 Webhuset AS
+2024-06-25T17:01:56+0000,140.82.20.147,10,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T17:23:02+0000,82.165.194.204,35,Germany,DE,NW,North Rhine-Westphalia,Essen,45127,51.4556,7.01156,Europe/Berlin,IONOS SE,Ionos,AS8560 IONOS SE
+2024-06-25T17:23:59+0000,144.202.51.123,10,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T17:27:34+0000,91.199.118.49,49,Germany,DE,HE,Hesse,Frankfurt am Main,65933,50.0971,8.5952,Europe/Berlin,Clouvider Limited,Clouvider HB,AS62240 Clouvider
+2024-06-25T17:30:55+0000,104.238.140.205,17,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T17:35:18+0000,104.45.41.45,100,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation
+2024-06-25T17:36:56+0000,185.65.246.84,100,Ukraine,UA,30,Kyiv City,Kyiv,,50.449,30.4245,Europe/Kiev,Hosting Ukraine LTD,VPS,AS200000 Hosting Ukraine LTD
+2024-06-25T17:37:13+0000,45.77.220.23,10,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T17:37:36+0000,45.32.132.14,10,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T17:39:25+0000,45.77.3.187,18,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-25T17:51:37+0000,188.166.108.93,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-25T17:52:24+0000,104.237.130.38,100,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-25T17:52:25+0000,68.183.9.16,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:52:31+0000,159.65.18.197,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:52:40+0000,159.223.132.86,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:52:41+0000,206.189.233.36,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:52:52+0000,172.105.16.117,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-06-25T17:52:52+0000,172.105.16.40,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-06-25T17:52:58+0000,146.190.242.161,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:53:12+0000,146.190.63.248,100,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:53:51+0000,96.126.110.74,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-25T17:53:58+0000,172.105.16.34,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-06-25T17:54:00+0000,128.199.182.55,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:54:18+0000,139.162.210.205,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,LINODE-UK,"Linode, LLC",AS63949 Akamai Connected Cloud
+2024-06-25T17:55:04+0000,159.89.174.87,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:55:26+0000,167.99.210.137,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:55:30+0000,157.245.204.205,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T17:58:55+0000,147.182.200.94,100,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T18:01:34+0000,23.239.21.238,100,United States,US,CA,California,Fremont,94536,37.5625,-122.0004,America/Los_Angeles,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-25T18:02:19+0000,172.105.197.17,100,Japan,JP,13,Tokyo,Tokyo,151-0053,35.6893,139.6899,Asia/Tokyo,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-06-25T18:02:23+0000,139.162.101.202,100,Japan,JP,13,Tokyo,Tokyo,151-0053,35.6893,139.6899,Asia/Tokyo,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud
+2024-06-25T18:02:32+0000,128.199.182.152,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T18:09:25+0000,91.199.118.51,53,Germany,DE,HE,Hesse,Frankfurt am Main,65933,50.0971,8.5952,Europe/Berlin,Clouvider Limited,Clouvider HB,AS62240 Clouvider
