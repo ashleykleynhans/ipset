@@ -817,3 +817,41 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T016:43:00+0000,62.197.149.113,54,Lithuania,LT,VL,Vilnius,Vilnius,,54.6871,25.2796,Europe/Vilnius,Cyberzone S.A.,Cyberzone S.A,AS209854 Cyberzone S.A.
 2024-06-24T016:45:00+0000,13.79.89.32,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
 2024-06-24T17:25:38+0000,156.146.55.185,43,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-24T17:59:01+0000,91.92.250.119,65,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-24T18:11:48+0000,167.71.88.49,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T18:18:41+0000,161.35.169.232,94,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC
+2024-06-24T18:34:29+0000,185.51.134.91,20,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-06-24T19:15:02+0000,78.153.140.224,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,AS202306 HOSTGLOBAL.PLUS LTD
+2024-06-24T19:18:33+0000,161.97.97.74,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-24T19:26:12+0000,50.62.141.175,47,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-24T20:20:28+0000,122.51.68.126,4,China,CN,GD,Guangdong,Guangzhou,510000,23.0434,113.4,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,Guangzhou Haizhiguang communication technology Limited,AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-24T20:25:45+0000,194.5.48.6,3,Japan,JP,13,Tokyo,Tokyo,151-0053,35.6893,139.6899,Asia/Tokyo,Ipxo Limited,,AS206092 Internet Utilities Europe and Asia Limited
+2024-06-24T21:34:32+0000,216.158.229.178,19,United States,US,NJ,New Jersey,Secaucus,07094,40.7862,-74.0743,America/New_York,"Interserver, Inc","Interserver, Inc","AS19318 Interserver, Inc"
+2024-06-24T21:37:10+0000,103.45.229.40,42,Vietnam,VN,HN,Hanoi,Hoan Kiem,,21.0209,105.847,Asia/Bangkok,ESC,Online Solution Company Limited,AS24085 Quang Trung Software City Development Company
+2024-06-24T21:43:02+0000,89.187.164.156,87,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL EQ6,AS60068 Datacamp Limited
+2024-06-24T21:51:07+0000,134.209.104.76,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T22:10:15+0000,45.134.36.170,43,Malaysia,MY,14,Kuala Lumpur,Kuala Lumpur,50480,3.16643,101.678,Asia/Kuala_Lumpur,Evoxt Enterprise,Evoxt SDN BHD,AS149440 Evoxt Enterprise
+2024-06-24T22:11:28+0000,45.226.228.205,100,Argentina,AR,C,Buenos Aires F.D.,Buenos Aires,1871,-34.6142,-58.3811,America/Argentina/Buenos_Aires,Erezuma Martin,Erezuma Martin,AS265876 EREZUMA MARTIN (T-WIRELESS)
+2024-06-24T21:58:24+0000,31.25.90.170,92,Iran,IR,07,Fars,Lamerd,,27.334,53.179,Asia/Tehran,Saba Abr Mizban LLC,Saba Abr Mizban LLC,AS34412 Saba Abr Mizban LLC
+2024-06-24T22:50:28+0000,159.89.194.195,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-24T22:51:09+0000,37.46.115.47,13,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
+2024-06-24T23:06:24+0000,91.92.249.23,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-24T23:18:59+0000,162.0.237.182,53,United States,US,CA,California,Los Angeles,90064,34.0356,-118.442,America/Los_Angeles,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc."
+2024-06-24T23:24:55+0000,92.205.52.167,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Go Daddy Netherlands B.V,AS21499 Host Europe GmbH
+2024-06-24T23:49:31+0000,46.242.128.223,100,Poland,PL,32,West Pomerania,Szczecin,70-653,53.4224,14.5635,Europe/Warsaw,home.pl network,home.pl S.A.,AS12824 home.pl S.A.
+2024-06-25T00:00:12+0000,84.239.54.34,16,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-06-25T00:20:21+0000,198.54.125.68,59,United States,US,CA,California,Los Angeles,90064,34.0356,-118.442,America/Los_Angeles,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc."
+2024-06-25T00:25:41+0000,112.78.125.227,46,Japan,JP,27,Ōsaka,Osaka,540-0002,34.704,135.495,Asia/Tokyo,SAKURA Internet Inc.,SAKURA,AS9371 SAKURA Internet Inc.
+2024-06-25T00:53:23+0000,84.239.54.59,10,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-06-25T01:29:48+0000,149.88.26.93,12,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-25T02:05:45+0000,146.70.59.155,10,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-06-25T02:19:28+0000,212.132.118.21,73,Germany,DE,BW,Baden-Wurttemberg,Karlsruhe,76137,48.9921,8.40221,Europe/Berlin,IONOS SE ber.de,IONOS SE,AS8560 IONOS SE
+2024-06-25T02:23:33+0000,45.148.10.75,50,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED
+2024-06-25T02:34:35+0000,180.110.242.212,44,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-06-25T02:45:57+0000,104.168.101.164,100,United States,US,NY,New York,Buffalo,14205,42.8856,-78.8736,America/New_York,HostPapa,,AS36352 HostPapa
+2024-06-25T03:26:02+0000,13.114.95.233,10,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc."
+2024-06-25T03:29:58+0000,165.232.189.51,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T03:57:29+0000,217.19.239.242,62,Belgium,BE,VLG,Flanders,Ghent,9050,51.1135,3.79128,Europe/Brussels,HOSTING-SERVICE,,AS34762 Combell NV
+2024-06-25T04:46:01+0000,167.99.66.166,100,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-25T05:06:27+0000,89.163.225.88,16,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40472,51.2673,6.81752,Europe/Berlin,myLoc managed IT AG,myLoc managed IT AG,AS24961 WIIT AG
+2024-06-25T05:17:10+0000,20.191.202.4,38,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation
