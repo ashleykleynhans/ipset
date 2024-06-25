@@ -80,6 +80,18 @@ python3 report_to_abuse_ipdb.py \
     --reason "Malicious Behaviour/Probing for vulnerabilities/Brute force attempts"
 ```
 
+## Check the CSV file for duplicate entries
+
+```bash
+python3 find_duplicates.py
+```
+
+## Generate a pie chart from the list of Malicious IP Addresses
+
+```bash
+python3 generate_pie_chart.py
+```
+
 ## Community and Contributing
 
 Pull requests and issues on [GitHub](https://github.com/ashleykleynhans/ipset)
