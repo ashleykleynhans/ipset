@@ -1080,3 +1080,21 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-26T10:49:53+0000,181.214.173.83,16,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-06-26T10:52:54+0000,37.19.223.105,60,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
 2024-06-26T10:41:25+0000,212.102.40.226,10,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL,AS60068 Datacamp Limited
+2024-06-26T11:26:32+0000,165.231.161.130,10,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-06-26T11:26:27+0000,201.49.137.239,10,Brazil,BR,AL,Alagoas,Boca da Mata,57680,-9.6455,-36.1401,America/Maceio,JuniorNet Fibra,JuniorNet Fibra,AS270570 JuniorNet Fibra
+2024-06-26T11:26:34+0000,84.247.41.9,8,United Kingdom,GB,SCT,Scotland,Edinburgh,EH1,55.9552,-3.2,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd
+2024-06-26T11:53:57+0000,34.140.58.13,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC
+2024-06-26T11:55:04+0000,45.156.128.116,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-06-26T11:55:13+0000,85.143.203.34,100,Russia,RU,SPE,St.-Petersburg,St Petersburg,190005,59.8929,30.3285,Europe/Moscow,Comfortel Ltd.,Comfortel Ltd,AS56534 Comfortel Ltd.
+2024-06-26T12:15:58+0000,50.114.59.13,29,Hong Kong,HK,KKC,Kowloon City,Kowloon City,,22.3361,114.1999,Asia/Hong_Kong,Prime Security Corp.,IPXO,AS400618 Prime Security Corp.
+2024-06-26T11:40:49+0000,81.181.57.25,100,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-26T12:31:55+0000,34.228.39.58,55,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-06-26T12:45:24+0000,84.17.52.53,26,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-26T13:15:55+0000,37.46.115.48,32,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
+2024-06-26T14:03:09+0000,43.131.56.42,18,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-06-26T15:00:16+0000,154.86.128.221,96,Hong Kong,HK,NSK,Sai Kung District,Tseung Kwan O,,22.3119,114.257,Asia/Hong_Kong,DINGFENG Network,,AS134548 DXTL Tseung Kwan O Service
+2024-06-26T14:57:37+0000,4.151.218.216,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-06-26T14:56:39+0000,129.232.215.10,100,South Africa,ZA,WC,Western Cape,Cape Town,7550,-33.8631,18.6409,Africa/Johannesburg,xneelo-JHB,,AS37153 Xneelo (Pty) Ltd
+2024-06-26T15:03:29+0000,185.129.168.248,82,Iran,IR,23,Tehran,Tehran,,35.7643,51.4147,Asia/Tehran,"Abazarhaye Farsi Shabakeh (Persian Tools) Co., LTD.",,"AS57687 Abzarhaye Farsi Shabakeh Co.,LTD."
+2024-06-26T15:20:59+0000,204.137.14.68,100,United States,US,IL,Illinois,Chicago,60616,41.8403,-87.6137,America/Chicago,Atomic Holdings LLC,Atomic Holdings LLC,AS399820 Atomic Networks LLC
+2024-06-26T15:40:52+0000,165.232.176.90,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
