@@ -12,6 +12,8 @@ unsolicited scans against production applications.
    </div>
 </div>
 
+<img src="abuse-pie-chart.png" alt="Abuse by Country Pie Chart" width="100%">
+
 ## Installation
 
 ### Clone the repo, create venv and install requirements
