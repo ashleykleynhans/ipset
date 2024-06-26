@@ -1062,3 +1062,21 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-26T06:24:44+0000,162.214.198.179,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-06-26T06:26:57+0000,195.181.161.8,15,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
 2024-06-26T06:28:55+0000,162.214.127.74,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-26T06:32:42+0000,95.181.233.148,54,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7337,7.42462,Europe/Monaco,M247 Europe SRL,M247 Ltd Milan,AS9009 M247 Europe SRL
+2024-06-26T06:42:41+0000,162.241.149.186,100,United States,US,GA,Georgia,Atlanta,30302,33.7488,-84.3877,America/New_York,"Network Solutions, LLC",Unified Layer,"AS19871 Network Solutions, LLC"
+2024-06-26T06:43:19+0000,46.249.102.187,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BitCommand LLC,Deployish Limited,AS212552 BitCommand LLC
+2024-06-26T06:45:13+0000,103.191.208.179,100,India,IN,MH,Maharashtra,Nashik,422009,19.98,73.7696,Asia/Kolkata,Digital Snap,Digisnap,AS150055 DIGITAL SNAP
+2024-06-26T06:48:36+0000,89.187.164.171,65,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL EQ6,AS60068 Datacamp Limited
+2024-06-26T07:27:19+0000,154.47.29.210,17,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-26T07:29:37+0000,160.178.157.241,10,Morocco,MA,06,Casablanca-Settat,Settat,,33.0152,-7.6242,Africa/Casablanca,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+2024-06-26T07:38:38+0000,194.32.122.14,41,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-06-26T07:29:59+0000,65.49.1.53,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-06-26T07:50:09+0000,20.191.202.2,54,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation
+2024-06-26T08:06:56+0000,37.46.113.248,16,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
+2024-06-26T10:28:24+0000,128.90.128.13,30,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc."
+2024-06-26T10:32:22+0000,40.123.248.237,86,South Africa,ZA,GP,Gauteng,Johannesburg,2001,-26.20229,28.034195,Africa/Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),AS8075 Microsoft Corporation
+2024-06-26T10:43:19+0000,109.202.99.36,100,The Netherlands,NL,NH,North Holland,Duivendrecht,1115,52.3294,4.93964,Europe/Amsterdam,Global Layer network,,AS49453 Global Layer B.V.
+2024-06-26T10:44:38+0000,213.232.87.228,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Tefincom S.A.,NordVPN,AS136787 TEFINCOM S.A.
+2024-06-26T10:49:53+0000,181.214.173.83,16,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-26T10:52:54+0000,37.19.223.105,60,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
+2024-06-26T10:41:25+0000,212.102.40.226,10,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL,AS60068 Datacamp Limited
