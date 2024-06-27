@@ -1254,3 +1254,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T16:55:09+0000,92.42.15.216,34,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,Selectel,,"AS50340 OOO ""Network of data-centers ""Selectel"""
 2024-06-27T16:57:25+0000,81.181.63.43,16,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-06-27T17:05:12+0000,51.15.64.38,13,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3667,4.89454,Europe/Amsterdam,SCALEWAY,,AS12876 SCALEWAY S.A.S.s
+2024-06-27T17:15:42+0000,188.126.89.107,17,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-06-27T17:20:59+0000,104.238.136.229,18,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T17:22:11+0000,45.63.107.113,25,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T17:32:35+0000,31.172.76.113,33,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,FORNEX,Fornex Hosting S.L.,AS49063 Dataline Ltd
+2024-06-27T17:36:09+0000,149.28.54.178,18,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T17:43:28+0000,20.246.194.116,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-06-27T17:45:01+0000,84.247.48.60,19,Ireland,IE,L,Leinster,Dublin,D02,53.3331,-6.24889,Europe/Dublin,M247 Europe SRL,M247 Ltd Dublin,AS9009 M247 Europe SRL
+2024-06-27T17:48:42+0000,20.246.194.119,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-06-27T17:51:53+0000,149.28.214.28,35,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T17:52:32+0000,146.59.159.153,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-27T18:02:12+0000,188.126.79.14,35,Sweden,SE,AB,Stockholm County,Stockholm,126 30,59.3098,17.9796,Europe/Stockholm,GleSYS AB,CyberGhost,AS42708 GleSYS AB
+2024-06-27T18:09:48+0000,84.239.42.157,39,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-06-27T18:24:34+0000,198.211.110.107,17,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-27T18:33:34+0000,176.125.229.142,23,Montenegro,ME,16,Podgorica,Podgorica,,42.4411,19.2636,Europe/Podgorica,M247 Europe SRL,M247 Ltd Montenegro,AS9009 M247 Europe SRL
+2024-06-27T18:35:05+0000,31.207.38.189,100,France,FR,IDF,Île-de-France,Paris,75017,48.884,2.29217,Europe/Paris,Groupe LWS SARL,Ligne Web Services,AS210403 Groupe LWS SARL
+2024-06-27T18:35:09+0000,161.97.162.29,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-27T18:10:28+0000,151.236.220.195,18,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Linode,"Linode, LLC",AS63949 Akamai Connected Cloud
+2024-06-27T18:40:27+0000,192.250.239.174,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,WHG Hosting Services Ltd,WHG Hosting Services Ltd,AS51713 WHG Hosting Services Ltd
+2024-06-27T18:48:36+0000,185.93.3.109,22,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-06-27T18:56:42+0000,181.214.218.252,41,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-27T18:50:44+0000,47.251.13.32,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba Cloud LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T19:04:34+0000,185.50.25.40,59,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,Beget LLC,Beget,AS198610 Beget LLC
+2024-06-27T19:16:11+0000,84.247.134.69,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-27T18:29:15+0000,52.28.28.179,10,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
+2024-06-27T19:13:29+0000,41.185.114.17,100,South Africa,ZA,WC,Western Cape,Cape Town,7405,-33.9199,18.4666,Africa/Johannesburg,1 GRID (PTY) LTD,Grid,AS36943 1 GRID (PTY) LTD
