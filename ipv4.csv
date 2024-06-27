@@ -1242,3 +1242,15 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T13:54:59+0000,45.77.87.199,11,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-27T14:48:45+0000,103.159.239.202,100,India,IN,MH,Maharashtra,Nagpur,440001,21.1124,79.1038,Asia/Kolkata,M21 Data Center,,AS141294 M21 Data Center
 2024-06-27T15:09:03+0000,91.136.11.89,68,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Internet Names Business,Internet Names Business Inc,AS9115 Internet Names for Business Inc
+2024-06-27T15:32:32+0000,45.119.84.18,100,Vietnam,VN,SG,Ho Chi Minh,Quan Binh Thanh,,10.79,106.711,Asia/Ho_Chi_Minh,Long Van System Solution JSC,Lvss,AS131386 Long Van System Solution JSC
+2024-06-27T15:38:58+0000,43.130.42.77,91,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-06-27T15:53:47+0000,64.23.242.25,100,United States,US,CA,California,San Francisco,94142,37.7809,-122.4245,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T16:01:23+0000,198.211.125.40,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-27T16:12:22+0000,135.125.1.9,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9959,2.11757,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-27T16:17:08+0000,155.138.244.246,18,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T16:19:21+0000,156.146.55.180,34,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-27T16:25:10+0000,149.28.212.10,11,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T15:45:14+0000,216.128.134.94,11,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T16:55:09+0000,92.42.15.216,34,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,Selectel,,"AS50340 OOO ""Network of data-centers ""Selectel"""
+2024-06-27T16:57:25+0000,81.181.63.43,16,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-27T17:05:12+0000,51.15.64.38,13,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3667,4.89454,Europe/Amsterdam,SCALEWAY,,AS12876 SCALEWAY S.A.S.s
