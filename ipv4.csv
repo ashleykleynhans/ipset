@@ -1148,3 +1148,44 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-26T18:42:12+0000,45.63.89.70,18,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-26T18:56:18+0000,216.128.138.179,11,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-26T19:12:31+0000,202.92.5.49,11,Vietnam,VN,HN,Hanoi,Ba Đình District,,21.0288,105.805,Asia/Bangkok,INET,iNET Media Company Limited,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+2024-06-26T19:40:24+0000,103.186.218.106,100,Bangladesh,BD,B,Chittagong,Chittagong,4000,22.3384,91.8317,Asia/Dhaka,IQ-TEL,Iqtel,AS139325 IQ-TEL
+2024-06-26T19:08:55+0000,144.202.98.9,28,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-26T20:35:34+0000,46.246.8.164,32,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-06-26T20:24:22+0000,185.80.234.193,100,The Netherlands,NL,OV,Overijssel,Enschede,7521,52.2249,6.852,Europe/Amsterdam,Zomro B.V.,Zomro,AS204601 Zomro B.V.
+2024-06-26T20:46:49+0000,119.23.49.200,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-26T20:53:13+0000,154.38.162.222,100,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC"
+2024-06-26T22:02:35+0000,81.181.63.28,10,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-26T22:25:54+0000,94.156.71.219,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-26T22:35:36+0000,213.109.147.81,44,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,BlueVPS OU,BlueVPS OU,AS62005 BlueVPS OU
+2024-06-26T22:46:02+0000,160.153.156.35,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Host Europe GmbH,"GoDaddy.com, LLC",AS21501 Host Europe GmbH
+2024-06-26T22:47:18+0000,175.100.79.208,44,Cambodia,KH,12,Phnom Penh,Phnom Penh,,11.5583,104.9121,Asia/Phnom_Penh,"VIETTEL (CAMBODIA) PTE., LTD","Viettel (cambodia) Pte., Ltd.",AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+2024-06-26T23:16:37+0000,38.242.222.177,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.2184,6.7734,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-26T23:23:06+0000,81.181.61.96,34,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-26T23:43:24+0000,83.97.23.183,31,Germany,DE,BE,Land Berlin,Berlin,10178,52.5222,13.4093,Europe/Berlin,M247 Europe SRL,M247 Ltd Berlin,AS9009 M247 Europe SRL
+2024-06-27T00:02:40+0000,194.163.137.108,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo,AS51167 Contabo GmbH
+2024-06-27T00:17:10+0000,104.164.161.34,7,United States,US,MD,Maryland,Thurmont,21788,39.6103,-77.4064,America/New_York,EGIHosting,KNB Proxy World,AS11404 Wave Broadband
+2024-06-27T00:58:41+0000,163.172.158.237,25,France,FR,IDF,Île-de-France,Vitry-sur-Seine,94400,48.792,2.39851,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-06-27T01:11:45+0000,181.214.218.241,9,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-27T01:31:13+0000,185.215.180.76,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.2184,6.7734,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-27T01:55:08+0000,3.133.121.108,84,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-06-27T02:10:11+0000,34.22.213.78,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-06-27T02:52:07+0000,3.15.156.10,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-06-27T02:52:50+0000,47.88.78.6,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T03:10:00+0000,81.181.56.96,10,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-27T02:23:59+0000,222.78.21.179,11,China,CN,FJ,Fujian,Zhangzhou,,24.5027,117.6495,Asia/Shanghai,Chinanet,Chinanet FJ,AS4134 CHINANET-BACKBONE
+2024-06-27T02:16:29+0000,47.251.11.3,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba Cloud LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T03:16:38+0000,107.180.117.5,56,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-27T03:27:43+0000,146.70.59.148,20,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-06-27T03:32:42+0000,194.55.186.107,100,United States,US,VA,Virginia,Ashburn,20104,39.0814,-77.6443,America/New_York,Mario Networks Limited,Neterra Ltd,AS50580 Mario Networks Limited
+2024-06-27T03:37:22+0000,152.89.198.67,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Chang Way Technologies Co. Limited,Starcrecium Limited,AS57523 Chang Way Technologies Co. Limited
+2024-06-27T03:50:02+0000,89.187.171.141,100,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,DataCamp Limited,AS60068 Datacamp Limited
+2024-06-27T04:49:55+0000,195.181.161.25,30,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
+2024-06-27T04:55:18+0000,43.139.65.174,80,China,CN,BJ,Beijing,Haidian,,39.9786,116.302,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-27T05:16:57+0000,84.239.49.32,28,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,INVITE Systems SRL,AS44679 INVITE Systems SRL
+2024-06-27T05:27:25+0000,156.236.31.199,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,BitCommand LLC,BitCommand LLC,AS212552 BitCommand LLC
+2024-06-27T05:40:43+0000,77.77.222.95,10,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Sarajevo,,43.8453,18.3592,Europe/Sarajevo,TELEMACH BH,,AS42560 Telemach BH d.o.o. Sarajevo
+2024-06-27T05:54:38+0000,47.88.5.56,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T05:54:44+0000,47.88.90.156,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T05:55:41+0000,47.251.15.21,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba Cloud LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T05:37:30+0000,102.129.145.39,99,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,AS174,DET Africa (Pty) LTD,AS174 Cogent Communications
+2024-06-27T06:02:20+0000,47.88.86.63,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
