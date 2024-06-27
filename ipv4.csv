@@ -1189,3 +1189,31 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T05:55:41+0000,47.251.15.21,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba Cloud LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
 2024-06-27T05:37:30+0000,102.129.145.39,99,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,AS174,DET Africa (Pty) LTD,AS174 Cogent Communications
 2024-06-27T06:02:20+0000,47.88.86.63,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T06:35:59+0000,178.128.53.14,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
+2024-06-27T05:56:56+0000,47.88.94.161,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-27T06:36:19+0000,88.173.222.130,100,France,FR,IDF,Île-de-France,Villiers-le-Bel,95400,49.0109,2.393,Europe/Paris,ProXad network / Free SAS,Proxad / Free SAS,AS12322 Free SAS
+2024-06-27T06:50:58+0000,91.92.254.20,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-27T07:10:24+0000,84.239.40.243,27,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
+2024-06-27T07:11:57+0000,47.97.97.112,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-27T07:20:35+0000,66.42.127.82,10,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T07:25:17+0000,188.126.89.103,37,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-06-27T08:01:09+0000,104.199.31.214,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-06-27T08:01:10+0000,216.128.146.139,24,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:01:17+0000,20.250.161.41,100,Switzerland,CH,ZH,Zurich,Zurich,8001,47.37204,8.54094,Europe/Zurich,Microsoft Corporation,Microsoft Azure Cloud (switzerlandnorth),AS8075 Microsoft Corporation
+2024-06-27T08:16:33+0000,65.108.218.92,91,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH
+2024-06-27T08:19:55+0000,108.61.204.101,35,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:22:06+0000,207.246.117.247,32,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:24:50+0000,144.202.125.85,17,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:27:40+0000,207.246.79.2,10,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:22:46+0000,140.82.49.88,10,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:34:15+0000,140.82.25.125,30,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:03:12+0000,45.77.219.237,34,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:31:33+0000,45.63.104.22,10,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:32:18+0000,139.59.100.234,50,Singapore,SG,05,South West,Singapore,628043,1.311,103.694,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T08:43:41+0000,95.181.236.149,33,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
+2024-06-27T08:49:07+0000,45.63.94.152,10,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:53:55+0000,140.82.24.20,17,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:45:48+0000,45.77.186.188,18,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T08:58:41+0000,149.28.245.21,18,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T09:07:41+0000,144.202.38.212,29,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-27T09:14:43+0000,149.28.213.45,30,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
