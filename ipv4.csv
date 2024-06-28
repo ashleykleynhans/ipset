@@ -1385,3 +1385,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-28T09:10:32+0000,198.251.81.188,8,United States,US,NY,New York,Staten Island,10311,40.6063,-74.1774,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions
 2024-06-28T09:11:57+0000,191.101.31.97,10,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-06-28T09:14:16+0000,84.239.49.13,29,Romania,RO,IF,Ilfov,Bucharest,077086,44.4589,26.1656,Europe/Bucharest,INVITE Systems SRL,INVITE Systems SRL,AS44679 INVITE Systems SRL
+2024-06-28T09:23:57+0000,147.124.215.112,10,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,"Majestic Hosting Solutions, LLC","Majestic Hosting Solutions, LLC","AS396073 Majestic Hosting Solutions, LLC"
+2024-06-28T10:01:55+0000,175.6.96.154,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,"No.293, Wanbao Avenue",Chinanet HN,AS63835 CT-HuNan-Changsha-IDC
+2024-06-28T10:25:31+0000,120.82.67.14,100,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,CNC Group CHINA169 Guangdong Province Network,,AS17816 China Unicom IP network China169 Guangdong province
+2024-06-28T10:47:21+0000,108.167.157.72,41,United States,US,TX,Texas,Houston,77092,29.8134,-95.4641,America/Chicago,WEBSITEWELCOME.COM,wildwestsbelgians.com,"AS19871 Network Solutions, LLC"
+2024-06-28T10:48:01+0000,52.160.33.133,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-06-28T10:40:03+0000,62.210.13.236,7,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-06-28T11:07:31+0000,103.153.78.154,100,Vietnam,VN,HN,Hanoi,Đống Đa District,,21.0275,105.8,Asia/Bangkok,HN-VIETSERVER,Representative office in HaNoi of VietServer Services technology company limited,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+2024-06-28T11:08:22+0000,34.78.249.41,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-06-28T11:10:30+0000,34.140.63.218,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC
+2024-06-28T11:15:46+0000,34.140.130.61,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC
+2024-06-28T11:23:49+0000,82.141.159.219,26,Hungary,HU,PE,Pest County,Budaörs,2040,47.4651,18.9552,Europe/Budapest,INVITEL Zrt,,AS12301 Invitech ICT Services Kft.
+2024-06-28T11:45:11+0000,107.180.116.234,58,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-28T12:02:41+0000,184.105.139.70,100,United States,US,TX,Texas,Fort Worth,76179,32.9071,-97.4257,America/Chicago,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-06-28T12:22:06+0000,138.199.59.145,21,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited
+2024-06-28T12:26:03+0000,92.53.96.4,13,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,TimeWeb Co. LTD,,AS9123 TimeWeb Ltd.
+2024-06-28T12:28:15+0000,35.184.208.238,17,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-06-28T12:33:29+0000,95.181.233.152,22,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7337,7.42462,Europe/Monaco,M247 Europe SRL,M247 Ltd Milan,AS9009 M247 Europe SRL
+2024-06-28T12:42:35+0000,138.197.6.253,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-28T12:43:52+0000,35.178.169.81,40,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc."
+2024-06-28T12:53:48+0000,69.164.202.100,60,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-28T12:58:59+0000,120.25.104.120,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-28T13:01:01+0000,176.126.103.101,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6172,Europe/Moscow,Miglovets Egor Andreevich,Dmitry Viktorovich Petrov,AS210546 Miglovets Egor Andreevich
+2024-06-28T13:08:47+0000,82.180.145.201,100,India,IN,MH,Maharashtra,Mumbai,400710,19.0748,72.8856,Asia/Kolkata,Contabo Asia Private Limited,Packethub S.A,AS141995 Contabo Asia Private Limited
