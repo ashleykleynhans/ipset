@@ -1336,3 +1336,32 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-28T04:47:36+0000,134.209.100.10,48,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-28T05:04:24+0000,45.195.204.97,100,Hong Kong,HK,HEA,Eastern,Chai Wan,,22.2661,114.247,Asia/Hong_Kong,Gigabit Solution Limited,Ancent Group Limited,AS136950 Hong Kong FireLine Network LTD
 2024-06-28T05:04:38+0000,88.198.49.188,79,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-06-28T05:18:13+0000,84.17.52.16,18,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-28T05:21:13+0000,49.50.175.200,40,South Korea,KR,41,Gyeonggi-do,Seongnam-si,13606,37.3827,127.119,Asia/Seoul,NBP,,AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.
+2024-06-28T05:37:46+0000,141.94.247.170,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9959,2.11757,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-28T05:54:23+0000,128.199.148.52,39,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-28T05:54:54+0000,47.254.76.138,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T05:55:08+0000,47.251.14.232,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba Cloud LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T05:59:21+0000,47.89.195.210,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T05:59:33+0000,104.152.223.170,100,United States,US,OR,Oregon,Roseburg,97470,43.2294,-123.2392,America/Los_Angeles,H4Y Technologies LLC,H4Y Technologies LLC,AS397373 H4Y Technologies LLC
+2024-06-28T05:59:52+0000,47.254.25.10,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:00:12+0000,102.165.48.97,100,United States,US,DC,District of Columbia,Washington,56972,38.894,-77.0365,America/New_York,AS174,DET Africa (Pty) LTD,AS174 Cogent Communications
+2024-06-28T06:00:24+0000,47.254.74.59,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:00:45+0000,47.88.93.234,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:01:10+0000,47.89.193.239,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:01:27+0000,47.88.94.28,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:01:27+0000,47.88.94.159,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:01:30+0000,47.254.85.182,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:03:46+0000,47.254.16.187,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:04:59+0000,47.88.6.178,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:04:59+0000,47.88.87.97,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:06:36+0000,47.89.193.162,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-28T06:11:05+0000,51.89.153.66,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,OVH Ltd,AS16276 OVH SAS
+2024-06-28T06:18:26+0000,144.172.118.90,100,United States,US,TX,Texas,Spring,77388,30.0516,-95.4707,America/Chicago,Data Ideas llc,FranTech Solutions,AS398355 Data Ideas llc.
+2024-06-28T06:20:14+0000,159.203.8.178,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-28T06:21:18+0000,45.61.185.172,100,United States,US,FL,Florida,Miami,33132,25.7838,-80.1823,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions
+2024-06-28T06:26:29+0000,51.75.247.45,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-28T06:27:08+0000,185.93.3.112,36,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-06-28T06:27:42+0000,66.42.60.228,33,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC"
+2024-06-28T06:44:37+0000,195.192.133.200,39,Germany,DE,BE,Land Berlin,Berlin,10999,52.4941,13.4291,Europe/Berlin,SysEleven GmbH,SysEleven GmbH,AS25291 INTERDOTLINK SYSELEVEN
+2024-06-28T06:50:36+0000,206.189.234.100,11,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
