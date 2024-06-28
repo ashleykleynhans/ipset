@@ -1279,3 +1279,60 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T19:16:11+0000,84.247.134.69,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
 2024-06-27T18:29:15+0000,52.28.28.179,10,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
 2024-06-27T19:13:29+0000,41.185.114.17,100,South Africa,ZA,WC,Western Cape,Cape Town,7405,-33.9199,18.4666,Africa/Johannesburg,1 GRID (PTY) LTD,Grid,AS36943 1 GRID (PTY) LTD
+2024-06-27T19:21:20+0000,104.156.55.222,100,United States,US,FL,Florida,Tampa,33614,28.0109,-82.4948,America/New_York,"HIVELOCITY, Inc.","HIVELOCITY, Inc.","AS29802 HIVELOCITY, Inc."
+2024-06-27T19:53:56+0000,128.199.163.83,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T19:54:47+0000,141.148.197.223,18,India,IN,MH,Maharashtra,Mumbai,400701,19.0748,72.8856,Asia/Kolkata,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation
+2024-06-27T20:11:05+0000,193.176.79.254,35,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,BEGET.RU,,AS198610 Beget LLC
+2024-06-27T20:43:28+0000,78.46.38.144,18,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-06-27T20:59:38+0000,51.255.49.38,40,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-27T18:47:19+0000,66.42.62.218,8,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC"
+2024-06-27T21:15:45+0000,146.190.217.185,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T21:24:42+0000,81.181.63.3,22,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-27T21:36:06+0000,104.248.45.30,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T21:48:45+0000,51.91.151.60,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-27T22:04:59+0000,158.42.250.49,24,Spain,ES,VC,Valencia,Valencia,46010,39.4923,-0.4046,Europe/Madrid,Entidad Publica Empresarial Red.es,UPV,AS766 Entidad Publica Empresarial Red.es
+2024-06-27T22:20:23+0000,95.181.236.152,32,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
+2024-06-27T22:21:41+0000,3.1.6.177,10,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
+2024-06-27T22:24:54+0000,5.134.14.49,9,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,UKDedicated LTD,Guru GRH,AS34282 UKDedicated LTD
+2024-06-27T22:42:32+0000,91.92.244.64,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-27T22:54:57+0000,142.93.215.22,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T23:11:38+0000,47.106.243.226,17,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-27T23:28:19+0000,167.71.102.193,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-27T23:34:52+0000,94.156.68.8,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-27T23:36:32+0000,181.215.176.127,26,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-27T23:45:05+0000,50.83.26.61,100,United States,US,AL,Alabama,Opp,36467,31.2778,-86.254,America/Chicago,Mediacom Communications,MEDIACOM,AS30036 Mediacom Communications Corp
+2024-06-27T23:51:19+0000,81.181.54.7,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-28T00:01:47+0000,180.211.99.165,18,India,IN,GJ,Gujarat,Ahmedabad,380052,23.0276,72.5871,Asia/Kolkata,BlazeNet,Blazenet Pvt Ltd,AS17625 BlazeNet's Network
+2024-06-28T00:06:26+0000,34.76.158.233,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-06-28T00:18:39+0000,118.179.82.165,100,Bangladesh,BD,C,Dhaka Division,Dhaka,1000,23.7272,90.4093,Asia/Dhaka,Dhakacom Limited,AmberIT Limited,AS23956 AmberIT Limited
+2024-06-28T00:25:24+0000,82.223.29.20,100,Spain,ES,RI,La Rioja,Logroño,26007,42.457,-2.45729,Europe/Madrid,arsys.es,,AS8560 IONOS SE
+2024-06-28T00:52:25+0000,176.56.237.126,18,The Netherlands,NL,NB,North Brabant,Nuland,5391,51.7223,5.44589,Europe/Amsterdam,RouteLabel,RouteLabel V.O.F,AS198203 RouteLabel V.O.F.
+2024-06-28T00:53:23+0000,188.252.185.180,100,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,XNET,,AS31012 A1 Hrvatska d.o.o.
+2024-06-28T01:07:07+0000,89.104.82.11,44,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,"JSC ""RU-CENTER""","JSC ""RU-CENTER""","AS48287 JSC ""RU-CENTER"""
+2024-06-28T01:09:32+0000,34.217.119.218,23,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-06-28T01:15:30+0000,178.170.244.122,29,Russia,RU,MOW,Moscow,Moscow,143441,55.8338,37.4025,Europe/Moscow,"""Domain names registrar REG.RU"", Ltd","""Domain names registrar REG.RU"", Ltd","AS206812 ""Domain names registrar REG.RU"", Ltd"
+2024-06-28T01:18:45+0000,18.132.124.236,29,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc."
+2024-06-28T01:25:59+0000,148.66.130.195,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,GODADDY,,"AS26496 GoDaddy.com, LLC"
+2024-06-28T01:42:22+0000,130.180.75.42,100,Germany,DE,HE,Hesse,Butzbach,35510,50.4258,8.6723,Europe/Berlin,Vodafone,Vodafone NRW GmbH,AS3209 Vodafone GmbH
+2024-06-28T01:47:40+0000,152.42.193.121,89,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-28T01:52:02+0000,83.147.52.49,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-06-28T02:01:08+0000,95.181.233.147,33,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7337,7.42462,Europe/Monaco,M247 Europe SRL,M247 Ltd Milan,AS9009 M247 Europe SRL
+2024-06-28T02:05:38+0000,194.9.56.102,100,Iran,IR,10,Isfahan,Isfahan,,32.6533,51.6743,Asia/Tehran,Gostaresh Ertebat Azin Kia Company PJSC,Gostaresh Ertebat Azin Kia Company PJSC,AS206495 Gostaresh Ertebat Azin Kia Company PJSC
+2024-06-28T02:32:57+0000,124.222.164.140,52,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-06-28T02:36:54+0000,91.92.243.2,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-28T02:38:39+0000,185.206.225.27,28,Norway,NO,03,Oslo County,Oslo,1266,59.9127,10.7461,Europe/Oslo,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-06-28T02:44:09+0000,185.191.76.27,42,Iran,IR,23,Tehran,Tehran,,35.7655,51.4426,Asia/Tehran,Rasaneh Avabarid Private Joint Stock Company,Rasaneh Avabarid Private Joint Stock Company,AS51431 Rasaneh Avabarid Private Joint Stock Company
+2024-06-28T02:49:48+0000,173.205.81.73,100,United States,US,NJ,New Jersey,Secaucus,07094,40.7876,-74.06,America/New_York,QuadraNet Enterprises LLC,QuadraNet,AS8100 QuadraNet Enterprises LLC
+2024-06-28T03:16:50+0000,46.246.8.149,10,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-06-28T03:31:02+0000,78.111.7.71,100,Iran,IR,23,Tehran,Tehran,,35.6892,51.389,Asia/Tehran,Towse'eh Sarmayeh Gozari Entekhab Group PJSC,Moasese Gostaresh Etelaat Va Ertebatat Farhangi Neda Rayaneh,AS44410 Towse'eh Sarmayeh Gozari Entekhab Group PJSC
+2024-06-28T03:40:18+0000,128.199.128.212,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-28T03:40:37+0000,208.113.188.105,47,United States,US,CA,California,Brea,92821,33.9119,-117.881,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
+2024-06-28T03:47:11+0000,178.208.67.13,69,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,MCHOST,,AS216139 Iron Hosting Centre LTD
+2024-06-28T03:57:32+0000,54.37.224.64,44,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-28T03:58:26+0000,64.62.156.41,100,United States,US,CA,California,Fremont,94539,37.49,-121.931,America/Los_Angeles,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
+2024-06-28T04:04:40+0000,172.245.106.36,57,United States,US,NY,New York,Buffalo,14205,42.8856,-78.8736,America/New_York,HostPapa,,AS36352 HostPapa
+2024-06-28T04:14:09+0000,69.163.182.194,34,United States,US,CA,California,Brea,92821,33.9339,-117.8854,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
+2024-06-28T04:30:51+0000,108.160.138.223,50,Japan,JP,12,Chiba,Yotsukaidō,284-0005,35.65,140.167,Asia/Tokyo,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-06-28T04:47:36+0000,134.209.100.10,48,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-28T05:04:24+0000,45.195.204.97,100,Hong Kong,HK,HEA,Eastern,Chai Wan,,22.2661,114.247,Asia/Hong_Kong,Gigabit Solution Limited,Ancent Group Limited,AS136950 Hong Kong FireLine Network LTD
+2024-06-28T05:04:38+0000,88.198.49.188,79,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
