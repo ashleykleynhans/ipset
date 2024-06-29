@@ -1517,3 +1517,42 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-29T05:43:39+0000,122.114.61.125,63,China,CN,HA,Henan,Zhengzhou,450000,34.7208,113.794,Asia/Shanghai,CHINA UNICOM China169 Backbone,"Zhengzhou GIANT Computer Network Technology Co., Ltd",AS4837 CHINA UNICOM China169 Backbone
 2024-06-29T06:00:22+0000,91.92.250.68,83,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-29T06:00:28+0000,124.217.226.207,100,Malaysia,MY,14,Kuala Lumpur,Kuala Lumpur,58100,3.09657,101.677,Asia/Kuala_Lumpur,Shinjiru Technology Sdn Bhd,Shinjiru Technology Sdn Bhd,AS45839 Shinjiru Technology Sdn Bhd
+2024-06-29T06:25:17+0000,156.146.55.182,52,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-29T06:44:15+0000,223.247.145.225,100,China,CN,AH,Anhui,Rongcheng,,30.6007,117.925,Asia/Shanghai,Chinanet,Chinanet AH,AS4134 CHINANET-BACKBONE
+2024-06-29T06:55:34+0000,154.16.49.87,100,United States,US,DC,District of Columbia,Washington,56972,38.894,-77.0365,America/New_York,AS174,,AS174 Cogent Communications
+2024-06-29T07:02:28+0000,91.134.248.192,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH Webhosting,AS16276 OVH SAS
+2024-06-29T07:02:54+0000,35.244.101.12,11,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS396982 Google LLC
+2024-06-29T07:16:30+0000,92.205.3.142,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,GD MASS Network,AS21499 Host Europe GmbH
+2024-06-29T07:18:58+0000,192.254.193.143,100,United States,US,MA,Massachusetts,Burlington,01803,42.4958,-71.1934,America/New_York,Unified Layer,WEBSITEWELCOME.COM,AS46606 Unified Layer
+2024-06-29T07:21:24+0000,92.205.182.254,68,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Host Europe GmbH,AS21499 Host Europe GmbH
+2024-06-29T07:21:44+0000,92.205.108.145,69,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,GCN SXB1,AS21499 Host Europe GmbH
+2024-06-29T07:22:04+0000,38.242.248.247,44,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-29T07:24:01+0000,52.230.86.139,53,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-06-29T07:24:23+0000,107.180.115.116,50,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:24:29+0000,92.205.2.206,66,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,GD MASS Network,AS21499 Host Europe GmbH
+2024-06-29T07:25:12+0000,92.204.65.19,66,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Host Europe GmbH,AS21499 Host Europe GmbH
+2024-06-29T07:28:30+0000,107.180.118.153,17,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:29:10+0000,198.12.236.61,53,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:29:26+0000,192.241.141.250,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-06-29T07:37:07+0000,148.72.211.177,69,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-29T07:37:40+0000,148.72.247.255,10,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-29T07:39:26+0000,68.178.160.245,77,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-29T07:39:30+0000,91.136.11.94,61,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Internet Names Business,Internet Names Business Inc,AS9115 Internet Names for Business Inc
+2024-06-29T07:39:34+0000,208.109.175.198,71,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:40:59+0000,120.77.202.101,100,China,CN,GD,Guangdong,Shenzhen,,22.5559,114.0577,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-06-29T07:41:03+0000,81.181.63.42,21,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-29T07:47:09+0000,68.178.153.122,18,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-29T06:45:41+0000,34.97.83.181,11,Japan,JP,27,Ōsaka,Osaka,,34.6937,135.5022,Asia/Tokyo,Google LLC,Google Cloud (asia-northeast2),AS396982 Google LLC
+2024-06-29T07:48:43+0000,92.205.185.112,95,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Host Europe GmbH,AS21499 Host Europe GmbH
+2024-06-29T07:48:48+0000,132.148.128.189,18,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:53:56+0000,216.69.168.172,94,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:55:04+0000,142.4.3.133,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-29T05:11:44+0000,45.133.173.116,9,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-06-29T07:51:23+0000,208.109.214.92,66,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-29T07:53:10+0000,68.178.166.166,63,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-29T07:59:06+0000,37.46.113.238,15,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
+2024-06-29T07:59:34+0000,103.92.235.71,100,India,IN,KA,Karnataka,Bengaluru,560056,13.021,77.6792,Asia/Kolkata,Ovi Hosting Pvt Ltd,Ovi Hosting Pvt Ltd,AS135822 Ovi Hosting Pvt Ltd
+2024-06-29T07:56:58+0000,162.214.92.127,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-29T08:05:36+0000,162.240.170.238,62,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-29T08:13:17+0000,148.72.207.110,76,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-29T08:17:25+0000,97.74.90.248,59,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
