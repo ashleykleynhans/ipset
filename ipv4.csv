@@ -1580,3 +1580,20 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-29T12:31:15+0000,45.56.77.197,49,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
 2024-06-29T12:34:14+0000,166.70.207.2,78,United States,US,UT,Utah,Provo,84606,39.321,-111.094,America/Denver,"XMission, L.C.","XMission, L.C.","AS6315 XMission, L.C."
 2024-06-29T12:37:29+0000,45.33.1.206,40,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T12:52:23+0000,96.126.112.100,17,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T12:53:20+0000,139.59.108.22,80,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-29T12:55:22+0000,3.128.255.174,73,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-06-29T12:58:40+0000,165.22.212.101,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-29T12:58:41+0000,198.58.101.172,34,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T12:58:07+0000,69.164.199.23,35,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T13:06:39+0000,96.126.120.208,29,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T13:16:55+0000,66.228.48.202,24,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T13:28:23+0000,38.242.219.127,17,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-29T13:27:29+0000,198.58.109.242,24,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T13:39:11+0000,168.100.247.10,9,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,E SHELLS INC,E SHELLS INC,AS398710 E SHELLS INC
+2024-06-29T13:36:03+0000,45.56.69.143,23,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T13:39:35+0000,45.33.122.55,24,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T13:47:44+0000,45.56.78.216,35,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T14:17:47+0000,154.12.229.4,27,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC"
+2024-06-29T14:17:38+0000,45.33.31.94,44,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T14:35:11+0000,34.79.162.186,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
