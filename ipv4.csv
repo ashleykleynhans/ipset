@@ -1678,3 +1678,27 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-30T09:51:09+0000,74.208.226.123,85,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"ProfitBricks, Inc.",IONOS Inc,AS54548 IONOS Cloud Inc.
 2024-06-30T09:56:34+0000,66.228.48.73,35,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
 2024-06-30T09:58:56+0000,54.150.58.80,81,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc."
+2024-06-30T10:17:37+0000,81.181.63.21,31,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-30T10:20:02+0000,66.228.49.26,50,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T10:45:48+0000,8.213.199.111,100,Thailand,TH,10,Bangkok,Bangkok,10200,13.7512,100.5172,Asia/Bangkok,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-30T10:31:31+0000,45.56.70.78,25,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T10:32:31+0000,191.96.168.49,11,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-06-30T10:51:25+0000,5.252.54.39,59,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo GmbH,"AS40021 Nubes, LLC"
+2024-06-30T11:30:32+0000,103.178.234.231,100,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.8231,106.63,Asia/Ho_Chi_Minh,VPSTTT,VPSTTT Technology Company Limited,AS140810 Megacore Technology Company Limited
+2024-06-30T11:06:14+0000,94.231.106.67,100,Denmark,DK,84,Capital Region,Skovlunde,2740,55.7144,12.3974,Europe/Copenhagen,team.blue Denmark A/S,Zitcom,AS48854 team.blue Denmark A/S
+2024-06-30T11:50:01+0000,91.92.244.177,28,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-30T10:49:15+0000,18.215.59.11,81,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-06-30T12:10:16+0000,94.156.69.215,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-30T12:28:24+0000,13.83.41.180,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-06-30T12:25:32+0000,128.199.68.173,44,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-30T13:21:15+0000,81.181.61.19,16,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-30T12:13:59+0000,45.93.136.130,24,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,Hostinger International Limited,Hostinger International Limited,AS47583 Hostinger International Limited
+2024-06-30T12:29:49+0000,173.236.140.43,72,United States,US,CA,California,Brea,92821,33.9167,-117.9,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
+2024-06-30T12:38:31+0000,172.212.58.151,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-06-30T12:47:04+0000,52.228.152.131,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-06-30T13:43:56+0000,103.109.244.101,100,Belgium,BE,VLG,Flanders,Antwerp,2050,51.2192,4.3917,Europe/Brussels,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,AS39486 HostRoyale Technologies Pvt Ltd
+2024-06-30T14:02:14+0000,1.92.86.197,24,China,CN,GD,Guangdong,Guangzhou,510000,23.1317,113.266,Asia/Shanghai,Huawei Cloud Service data center,Huawei Public Cloud Service,AS55990 Huawei Cloud Service data center
+2024-06-30T14:24:14+0000,104.40.64.149,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-06-30T14:25:38+0000,37.46.113.245,16,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
+2024-06-30T14:38:13+0000,199.195.253.175,73,United States,US,NY,New York,New York,10004,40.7038,-74.0138,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions
+2024-06-30T14:54:09+0000,104.164.161.44,8,United States,US,MD,Maryland,Thurmont,21788,39.6103,-77.4064,America/New_York,EGIHosting,KNB Proxy World,AS11404 Wave Broadband
