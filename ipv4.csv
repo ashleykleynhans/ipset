@@ -1702,3 +1702,20 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-30T14:25:38+0000,37.46.113.245,16,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
 2024-06-30T14:38:13+0000,199.195.253.175,73,United States,US,NY,New York,New York,10004,40.7038,-74.0138,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions
 2024-06-30T14:54:09+0000,104.164.161.44,8,United States,US,MD,Maryland,Thurmont,21788,39.6103,-77.4064,America/New_York,EGIHosting,KNB Proxy World,AS11404 Wave Broadband
+2024-06-30T15:18:17+0000,81.181.61.14,9,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-30T15:19:15+0000,103.209.8.10,28,Indonesia,ID,JK,Jakarta,Jakarta,,-6.19903,106.831,Asia/Jakarta,PPM Manajemen,PPM Manajemen,AS134652 PPM Manajemen
+2024-06-30T15:34:43+0000,84.17.48.98,18,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-06-30T15:48:27+0000,161.35.30.171,42,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-30T16:27:54+0000,185.234.71.90,100,Germany,DE,BW,Baden-Wurttemberg,Karlsruhe,76229,48.9751,8.4456,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-30T16:38:33+0000,51.89.195.107,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,OVH Ltd,AS16276 OVH SAS
+2024-06-30T17:07:14+0000,23.95.248.83,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,HostPapa,,AS36352 HostPapa
+2024-06-30T17:12:57+0000,208.109.188.30,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-06-30T17:15:26+0000,119.42.148.178,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Netsec Limited,InfoMove Limited,AS45753 Netsec Limited
+2024-06-30T17:33:27+0000,81.181.56.9,16,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-06-30T18:03:36+0000,162.240.104.62,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-30T18:33:56+0000,148.72.245.234,97,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-30T18:36:28+0000,84.239.54.69,16,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-06-30T18:53:19+0000,97.74.93.146,72,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-30T19:19:05+0000,5.164.29.116,100,Russia,RU,TUL,Tula Oblast,Barsuki,,54.2655,37.4875,Europe/Moscow,"CJSC ""ER-Telecom Holding"" Tula branch","JSC ""ER-Telecom Holding"" Tula Branch","AS52207 JSC ""ER-Telecom Holding"""
+2024-06-30T19:25:12+0000,45.133.173.120,22,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-06-30T20:06:37+0000,37.46.115.49,17,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
