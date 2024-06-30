@@ -1656,3 +1656,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-30T05:01:49+0000,162.212.152.110,100,United States,US,NY,New York,Flushing,11367,40.7282,-73.7949,America/New_York,"tzulo, inc.",ServerCheap INC,"AS11878 tzulo, inc."
 2024-06-30T05:18:16+0000,148.72.214.245,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
 2024-06-30T06:14:54+0000,104.200.17.17,10,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T06:17:59+0000,173.46.80.220,100,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Datacamp Limited,,AS212238 Datacamp Limited
+2024-06-30T06:19:16+0000,104.200.17.109,18,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T06:28:42+0000,104.200.17.195,10,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T06:40:11+0000,198.58.98.29,24,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T06:40:57+0000,164.132.170.4,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-06-30T06:53:35+0000,45.56.70.44,24,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T06:57:56+0000,45.33.28.82,10,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T06:59:59+0000,104.234.140.20,56,Japan,JP,13,Tokyo,Tokyo,151-0053,35.6893,139.6899,Asia/Tokyo,Ipxo LLC,SECFIREWALLAS,AS396356 Latitude.sh
+2024-06-30T07:17:36+0000,84.239.40.206,70,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
+2024-06-30T07:19:27+0000,194.110.13.96,89,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-06-30T07:28:39+0000,154.47.29.215,33,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-06-30T07:37:32+0000,84.54.51.35,100,The Netherlands,NL,LI,Limburg,Eygelshoven,6471,50.8897,6.0563,Europe/Amsterdam,Pfcloud UG,Pfcloud UG,AS51396 Pfcloud UG
+2024-06-30T07:46:30+0000,65.108.227.165,85,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH
+2024-06-30T07:49:59+0000,45.156.129.54,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-06-30T08:21:02+0000,185.205.246.107,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-06-30T08:52:08+0000,51.195.88.79,100,Germany,DE,HE,Hesse,Limburg an der Lahn,65549,50.3878,8.07286,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS
+2024-06-30T09:21:28+0000,47.88.101.3,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-30T09:42:06+0000,3.137.54.204,75,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-06-30T09:45:36+0000,45.56.127.231,51,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T09:51:09+0000,74.208.226.123,85,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"ProfitBricks, Inc.",IONOS Inc,AS54548 IONOS Cloud Inc.
+2024-06-30T09:56:34+0000,66.228.48.73,35,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-30T09:58:56+0000,54.150.58.80,81,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc."
