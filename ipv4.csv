@@ -1597,3 +1597,62 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-29T14:17:47+0000,154.12.229.4,27,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC"
 2024-06-29T14:17:38+0000,45.33.31.94,44,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
 2024-06-29T14:35:11+0000,34.79.162.186,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-06-29T14:44:16+0000,167.71.26.6,75,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-29T14:53:03+0000,83.147.52.37,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-06-29T15:35:05+0000,104.237.142.26,76,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T15:53:40+0000,95.181.233.146,21,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7337,7.42462,Europe/Monaco,M247 Europe SRL,M247 Ltd Milan,AS9009 M247 Europe SRL
+2024-06-29T16:03:05+0000,47.245.32.141,100,Japan,JP,13,Tokyo,Tokyo,102-0082,35.6893,139.6899,Asia/Tokyo,Alibaba Cloud LLC,ALICLOUD-JP,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-29T16:14:47+0000,45.33.26.89,30,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T16:19:59+0000,34.140.108.54,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC
+2024-06-29T16:28:19+0000,45.148.10.59,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED
+2024-06-29T16:34:09+0000,45.33.122.170,53,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T17:23:33+0000,39.109.126.254,100,Hong Kong,HK,NTW,Tsuen Wan District,Kwai Chung,,22.3692,114.132,Asia/Hong_Kong,Yisu Cloud LTD,Yisu Cloud LTD,AS142403 YISU CLOUD LTD
+2024-06-29T17:27:16+0000,84.239.40.234,19,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
+2024-06-29T17:43:05+0000,66.96.183.41,50,United States,US,FL,Florida,Jacksonville,32256,30.2439,-81.5322,America/New_York,"Newfold Digital, Inc.","Newfold Digital, Inc.","AS29873 Newfold Digital, Inc."
+2024-06-29T18:04:41+0000,146.70.59.142,27,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-06-29T18:09:08+0000,146.70.59.161,26,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-06-29T18:29:33+0000,173.255.212.119,76,United States,US,CA,California,Fremont,94536,37.5625,-122.0004,America/Los_Angeles,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T18:29:52+0000,34.170.130.18,15,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-06-29T18:50:14+0000,162.240.208.185,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-06-29T18:53:18+0000,138.197.144.102,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-29T19:18:22+0000,69.164.205.184,58,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T19:20:11+0000,84.239.54.76,9,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-06-29T19:55:04+0000,78.153.140.218,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,AS202306 HOSTGLOBAL.PLUS LTD
+2024-06-29T20:01:02+0000,35.195.123.144,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-06-29T20:33:47+0000,195.181.161.11,16,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
+2024-06-29T20:48:16+0000,198.58.112.148,68,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-06-29T21:17:35+0000,185.51.134.246,16,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-06-29T21:27:07+0000,185.22.65.5,100,Kazakhstan,KZ,75,Almaty,Almaty,,43.2433,76.8646,Asia/Almaty,PS Internet Company LLC Network,PS Internet Company LLC,AS48716 PS Internet Company LLP
+2024-06-29T21:28:59+0000,165.227.88.87,80,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-06-29T21:32:22+0000,84.239.42.146,47,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-06-29T22:20:18+0000,157.254.165.83,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,Ipxo LLC,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-06-29T22:34:23+0000,45.156.129.110,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-06-29T22:47:32+0000,138.199.59.136,25,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited
+2024-06-29T22:55:15+0000,45.156.129.125,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-06-29T23:12:12+0000,138.199.56.235,22,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdnext PRG,AS212238 Datacamp Limited
+2024-06-29T23:36:13+0000,62.146.178.100,100,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Fybe LLC,"AS40021 Nubes, LLC"
+2024-06-29T23:39:13+0000,123.233.201.26,11,China,CN,SD,Shandong,Jinan,,36.6756,117.0211,Asia/Shanghai,CNC Group CHINA169 Shandong Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-06-29T23:48:43+0000,103.82.240.139,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.22636,106.832,Asia/Jakarta,PT. EXABYTES NETWORK INDONESIA,PT. EXABYTES NETWORK INDONESIA,AS136170 PT. EXABYTES NETWORK INDONESIA
+2024-06-30T00:31:07+0000,102.37.222.134,66,South Africa,ZA,GP,Gauteng,Johannesburg,2001,-26.20229,28.034195,Africa/Johannesburg,Microsoft Corporation,Microsoft Azure Cloud (southafricanorth),AS8075 Microsoft Corporation
+2024-06-30T00:40:58+0000,156.146.55.170,77,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-06-30T00:53:11+0000,47.80.25.19,100,South Korea,KR,11,Seoul,Seoul,03153,37.5665,126.978,Asia/Seoul,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd."
+2024-06-30T01:02:54+0000,104.192.3.74,100,United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,America/New_York,DataWagon LLC,DataWagon LLC,AS27176 DataWagon LLC
+2024-06-30T01:35:45+0000,104.234.140.28,54,Japan,JP,13,Tokyo,Tokyo,151-0053,35.6893,139.6899,Asia/Tokyo,Ipxo LLC,SECFIREWALLAS,AS396356 Latitude.sh
+2024-06-30T01:56:28+0000,20.244.104.212,56,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation
+2024-06-30T02:02:36+0000,46.163.146.29,100,Russia,RU,SVE,Sverdlovsk Oblast,Yekaterinburg,620017,56.8439,60.6524,Asia/Yekaterinburg,INSYS network,,AS28890 INSYS LLC
+2024-06-30T02:22:10+0000,152.69.222.240,100,Singapore,SG,04,South East,Singapore,,1.36945,103.969,Asia/Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation
+2024-06-30T02:46:14+0000,147.28.180.198,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,"Packet Host, Inc.","Equinix Services, Inc","AS54825 Packet Host, Inc."
+2024-06-30T02:54:33+0000,45.139.196.14,53,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Labixe LTD,R1 Host,AS204914 LABIXE LTD
+2024-06-30T03:03:29+0000,31.184.209.12,86,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,"OOO ""Network of data-centers ""Selectel""",,"AS49505 OOO ""Network of data-centers ""Selectel"""
+2024-06-30T03:05:04+0000,146.70.59.162,21,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-06-30T03:20:46+0000,37.27.2.206,100,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH
+2024-06-30T03:33:35+0000,84.239.54.62,16,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-06-30T03:35:48+0000,185.189.114.120,23,Hungary,HU,BU,Budapest,Budapest,1132,47.4979,19.0402,Europe/Budapest,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-06-30T03:43:42+0000,91.92.247.121,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-06-30T03:49:01+0000,15.204.207.175,100,United States,US,VA,Virginia,Reston,20190,38.9609,-77.3429,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS
+2024-06-30T04:12:03+0000,139.180.220.187,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,Choopa,,"AS20473 The Constant Company, LLC"
+2024-06-30T04:28:01+0000,34.69.23.153,43,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-06-30T04:28:43+0000,3.92.104.39,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-06-30T05:01:49+0000,162.212.152.110,100,United States,US,NY,New York,Flushing,11367,40.7282,-73.7949,America/New_York,"tzulo, inc.",ServerCheap INC,"AS11878 tzulo, inc."
+2024-06-30T05:18:16+0000,148.72.214.245,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-06-30T06:14:54+0000,104.200.17.17,10,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
