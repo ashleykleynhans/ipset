@@ -1866,3 +1866,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-02T05:09:17+0000,156.146.55.179,12,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
 2024-07-02T05:12:33+0000,64.227.172.165,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-02T05:15:47+0000,51.15.243.253,28,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,SCALEWAY,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-07-02T06:19:56+0000,146.70.218.72,14,United States,US,CA,California,Los Angeles,90014,34.0435,-118.252,America/Los_Angeles,M247 Europe SRL,M247 Ltd Los Angeles,AS9009 M247 Europe SRL
+2024-07-02T06:21:54+0000,45.156.128.45,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-07-02T06:23:42+0000,185.220.69.114,30,United States,US,NY,New York,New York,10006,40.7093,-74.0131,America/New_York,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-07-02T07:07:35+0000,185.108.107.164,39,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hostroyale Finland,,AS51765 Oy Crea Nova Hosting Solution Ltd
+2024-07-02T07:11:47+0000,185.51.134.86,26,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-07-02T07:24:24+0000,45.134.213.6,45,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdnext MAD,AS212238 Datacamp Limited
+2024-07-02T07:56:14+0000,169.150.205.135,70,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-02T08:01:48+0000,57.128.132.155,77,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,OVH SAS,GmbH 1337 Services,AS16276 OVH SAS
+2024-07-02T08:04:58+0000,45.156.129.46,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-07-02T08:05:09+0000,38.102.84.107,3,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,Rica Web Services,Rica Web Services,AS26832 Rica Web Services
+2024-07-02T08:06:28+0000,34.78.228.189,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-02T08:46:53+0000,45.156.129.57,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-07-02T09:21:07+0000,20.57.138.211,19,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation
+2024-07-02T09:22:31+0000,149.34.245.209,53,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-02T09:48:06+0000,176.125.230.138,25,Malta,MT,57,Is-Swieqi,Swieqi,SWQ,35.9231,14.4738,Europe/Malta,M247 Europe SRL,M247 Ltd Malta,AS9009 M247 Europe SRL
+2024-07-02T09:48:29+0000,13.38.92.103,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc."
+2024-07-02T09:55:17+0000,128.90.170.25,82,Poland,PL,14,Mazovia,Warsaw,02-673,52.1828,20.9846,Europe/Warsaw,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc."
+2024-07-02T09:57:01+0000,146.70.59.140,11,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-07-02T10:00:43+0000,104.237.136.106,2,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-02T10:15:19+0000,188.126.79.25,18,Sweden,SE,AB,Stockholm County,Stockholm,126 30,59.3098,17.9796,Europe/Stockholm,GleSYS AB,CyberGhost,AS42708 GleSYS AB
