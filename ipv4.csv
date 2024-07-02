@@ -1886,3 +1886,34 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-02T09:57:01+0000,146.70.59.140,11,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
 2024-07-02T10:00:43+0000,104.237.136.106,2,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
 2024-07-02T10:15:19+0000,188.126.79.25,18,Sweden,SE,AB,Stockholm County,Stockholm,126 30,59.3098,17.9796,Europe/Stockholm,GleSYS AB,CyberGhost,AS42708 GleSYS AB
+2024-07-02T10:19:04+0000,185.93.3.107,3,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-07-02T09:21:45+0000,54.211.207.128,32,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-02T10:30:41+0000,45.33.76.8,12,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-02T10:33:32+0000,188.166.226.213,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
+2024-07-02T11:06:07+0000,45.134.140.230,70,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Cdnext ATL,AS212238 Datacamp Limited
+2024-07-02T11:24:32+0000,45.158.12.116,51,Türkiye,TR,35,İzmir Province,Izmir,35000,38.4123,27.1424,Europe/Istanbul,Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.,ODEAWEB Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi,AS211871 Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.
+2024-07-02T11:26:43+0000,34.172.91.68,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-02T11:57:32+0000,169.150.205.134,58,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-02T11:58:42+0000,119.29.249.99,100,Hong Kong,HK,NIS,Islands District,Hong Kong Island,96521,22.2432,114.197,Asia/Hong_Kong,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-07-02T12:32:47+0000,146.70.181.237,40,United Kingdom,GB,ENG,England,Stretford,M17,53.4614,-2.32453,Europe/London,M247 Europe SRL,M247 Ltd Manchester,AS9009 M247 Europe SRL
+2024-07-02T12:54:16+0000,5.62.20.35,100,Belgium,BE,VLG,Flanders,Ghent,9000,51.047,3.7206,Europe/Brussels,AVAST Software s.r.o.,Privax LTD,AS198605 AVAST Software s.r.o.
+2024-07-02T12:59:37+0000,165.231.182.153,60,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-07-02T13:08:47+0000,104.222.46.251,3,United States,US,NY,New York,Buffalo,14202,42.8867,-78.8927,America/New_York,ColoUp,ColoUp,AS19084 ColoUp
+2024-07-02T13:20:14+0000,13.64.111.106,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-02T13:28:22+0000,104.244.74.171,100,Luxembourg,LU,ME,Mersch,Roost,L-7759,49.7866,6.0753,Europe/Luxembourg,FranTech Solutions,BuyVM,AS53667 FranTech Solutions
+2024-07-02T13:57:42+0000,149.88.98.237,49,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-02T13:28:29+0000,144.202.37.203,18,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T13:35:17+0000,144.202.45.201,10,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T14:00:49+0000,51.38.188.106,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-07-02T12:51:45+0000,140.82.10.255,28,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T13:29:51+0000,64.176.213.194,11,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T14:07:23+0000,45.77.82.151,14,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T14:10:00+0000,45.32.160.144,4,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T14:07:34+0000,64.176.208.159,35,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,"The Constant Company, LLC","The Constant Company, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T14:14:10+0000,144.202.42.41,11,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T14:14:40+0000,137.220.50.217,29,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T12:53:07+0000,140.82.30.199,10,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T13:08:58+0000,66.135.14.238,18,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,"The Constant Company, LLC","Vivint Wireless, Inc.","AS20473 The Constant Company, LLC"
+2024-07-02T13:09:00+0000,108.61.70.146,18,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T13:13:40+0000,149.28.251.194,23,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-02T13:24:17+0000,140.82.13.92,38,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
