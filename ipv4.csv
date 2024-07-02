@@ -1850,3 +1850,19 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-01T23:18:50+0000,91.92.243.143,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-07-01T23:20:10+0000,94.136.168.158,78,United Kingdom,GB,ENG,England,London,SW1X,51.4526,-0.218825,Europe/London,UK Dedicated Servers Limited,LiquidNet Ltd,AS42831 UK Dedicated Servers Limited
 2024-07-01T23:32:24+0000,91.92.246.103,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-02T00:20:07+0000,104.243.41.214,29,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,ReliableSite.Net LLC,ReliableSite.Net LLC,AS23470 ReliableSite.Net LLC
+2024-07-02T00:23:16+0000,43.157.27.5,30,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-02T02:00:08+0000,165.227.34.244,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-02T02:47:01+0000,43.131.2.238,49,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-02T03:33:02+0000,176.125.229.139,23,Montenegro,ME,16,Podgorica,Podgorica,,42.4411,19.2636,Europe/Podgorica,M247 Europe SRL,M247 Ltd Montenegro,AS9009 M247 Europe SRL
+2024-07-02T03:35:46+0000,46.246.8.169,19,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-07-02T03:42:53+0000,188.241.177.60,24,Brazil,BR,SP,São Paulo,Itaim Bibi,01323,-23.5857,-46.6788,America/Sao_Paulo,M247 Europe SRL,M247 Ltd Brazil Infrastructure,AS9009 M247 Europe SRL
+2024-07-02T03:47:22+0000,165.231.182.144,36,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-07-02T03:53:15+0000,50.114.45.216,16,Japan,JP,27,Ōsaka,Osaka,543-0062,34.6946,135.5021,Asia/Tokyo,Ipxo LLC,,AS137409 GSL Networks Pty LTD
+2024-07-02T03:58:05+0000,45.156.129.48,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-07-02T04:46:39+0000,154.47.27.106,47,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-02T04:47:21+0000,91.219.239.193,38,Hungary,HU,BU,Budapest,Budapest,1011,47.5636,19.0947,Europe/Budapest,ServerAstra Kft.,ServerAstra Kft,AS56322 ServerAstra Kft.
+2024-07-02T05:07:34+0000,87.251.88.222,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited."
+2024-07-02T05:09:17+0000,156.146.55.179,12,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-07-02T05:12:33+0000,64.227.172.165,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-02T05:15:47+0000,51.15.243.253,28,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,SCALEWAY,ONLINE,AS12876 SCALEWAY S.A.S.
