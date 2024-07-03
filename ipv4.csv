@@ -2019,3 +2019,19 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-03T11:57:29+0000,165.154.120.203,100,Thailand,TH,10,Bangkok,Bangkok,10200,13.8054,100.6751,Asia/Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 2024-07-03T12:05:42+0000,209.38.30.73,29,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-03T12:06:10+0000,194.32.122.9,63,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-03T12:43:27+0000,165.154.182.92,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-03T12:54:01+0000,51.15.238.54,22,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,SCALEWAY,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-07-03T13:00:20+0000,34.22.242.192,29,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-03T13:06:47+0000,37.19.223.116,15,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
+2024-07-03T13:14:30+0000,65.38.121.160,55,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,BL Networks,BL Networks,AS399629 BL Networks
+2024-07-03T13:34:45+0000,91.90.121.155,52,United Kingdom,GB,ENG,England,Woodley,RG5,51.45,-0.88333,Europe/London,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-07-03T13:43:13+0000,185.220.101.7,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,Artikel10 e.V,AS60729 Stiftung Erneuerbare Freiheit
+2024-07-03T13:43:17+0000,185.220.101.149,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,AS60729 Stiftung Erneuerbare Freiheit
+2024-07-03T13:43:17+0000,185.220.101.0,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,Artikel10 e.V,AS60729 Stiftung Erneuerbare Freiheit
+2024-07-03T13:44:59+0000,138.199.43.18,34,United States,US,WA,Washington,Seattle,98160,47.6034,-122.3414,America/Los_Angeles,Datacamp Limited,Cdnext SEA,AS212238 Datacamp Limited
+2024-07-03T13:43:12+0000,89.58.26.216,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
+2024-07-03T13:52:25+0000,20.42.217.58,29,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation
+2024-07-03T14:20:43+0000,149.102.238.137,41,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-03T14:23:33+0000,149.50.215.72,41,Italy,IT,25,Lombardy,Milan,20161,45.4722,9.1922,Europe/Rome,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-03T14:36:46+0000,86.106.74.248,22,Hungary,HU,BU,Budapest,Budapest,1132,47.5163,19.0587,Europe/Budapest,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-07-03T14:52:10+0000,52.228.152.113,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
