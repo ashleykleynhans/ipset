@@ -1990,3 +1990,32 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-03T04:10:25+0000,81.181.56.55,21,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-07-03T04:17:51+0000,146.70.59.156,16,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
 2024-07-03T04:18:27+0000,104.40.74.178,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-03T05:06:42+0000,185.2.30.232,37,The Netherlands,NL,NH,North Holland,Amsterdam,1119,52.2832,4.7521,Europe/Amsterdam,AltusHost B.V.,AltusHost B.V.,AS51430 AltusHost B.V.
+2024-07-03T05:28:48+0000,81.181.56.119,24,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-03T05:58:38+0000,138.68.160.187,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-03T06:01:37+0000,37.46.113.246,29,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
+2024-07-03T06:07:39+0000,34.132.20.182,30,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-03T06:47:44+0000,144.126.152.75,100,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC"
+2024-07-03T07:25:05+0000,157.245.42.246,37,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-03T07:26:00+0000,172.245.210.13,100,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,HostPapa,RackNerd LLC,AS36352 HostPapa
+2024-07-03T07:36:22+0000,34.132.141.77,25,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-03T07:55:25+0000,146.70.111.146,46,Serbia,RS,,Central Serbia,Belgrade,,44.8266,20.4062,Europe/Belgrade,M247 Europe Infra,M247 Ltd,AS9009 M247 Europe SRL
+2024-07-03T08:07:24+0000,146.70.121.166,100,United Kingdom,GB,ENG,England,Barnsley,S70,53.55,-1.48333,Europe/London,M247 Europe Infra,M247 Ltd,AS9009 M247 Europe SRL
+2024-07-03T08:12:35+0000,18.182.27.190,19,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc."
+2024-07-03T08:18:28+0000,149.88.18.18,100,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-03T09:05:08+0000,154.47.29.204,18,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-03T09:06:07+0000,194.32.122.25,56,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-03T09:19:01+0000,185.189.114.123,25,Hungary,HU,BU,Budapest,Budapest,1132,47.4979,19.0402,Europe/Budapest,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-07-03T09:28:11+0000,81.181.61.54,16,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-03T10:28:19+0000,23.239.14.16,9,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-03T10:33:42+0000,84.17.48.100,25,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-03T10:54:24+0000,157.245.33.114,35,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-03T11:10:39+0000,123.58.215.102,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-03T11:20:26+0000,78.142.63.55,47,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,NS1.bg,NS1,AS57344 Telehouse EAD
+2024-07-03T11:40:54+0000,45.33.54.19,16,United States,US,CA,California,Fremont,94536,37.5625,-122.0004,America/Los_Angeles,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-03T11:49:01+0000,193.35.18.248,100,Netherlands,NL,LI,Limburg,Eygelshoven,6471WV,50.8956,6.0692,Europe/Amsterdam,Aggros Operations Ltd.,Pfcloud,AS202685 Aggros Operations Ltd.
+2024-07-03T11:55:42+0000,101.36.127.85,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-03T11:59:17+0000,84.247.48.52,15,Ireland,IE,L,Leinster,Dublin,D02,53.3331,-6.24889,Europe/Dublin,M247 Europe SRL,M247 Ltd Dublin,AS9009 M247 Europe SRL
+2024-07-03T11:57:29+0000,165.154.120.203,100,Thailand,TH,10,Bangkok,Bangkok,10200,13.8054,100.6751,Asia/Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-03T12:05:42+0000,209.38.30.73,29,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-03T12:06:10+0000,194.32.122.9,63,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
