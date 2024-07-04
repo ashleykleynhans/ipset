@@ -2362,3 +2362,15 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T20:08:33+0000,72.167.254.247,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
 2024-07-04T20:09:14+0000,161.35.145.67,36,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-04T19:53:42+0000,72.167.59.58,84,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-04T20:15:54+0000,176.9.29.58,30,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-04T20:14:38+0000,185.17.150.121,80,United Kingdom,GB,ENG,England,Maidenhead,SL6,51.5033,-0.6894,Europe/London,Iomart Cloud Services Limited,BWF Hosting Ltd,AS20860 IOMART CLOUD SERVICES LIMITED
+2024-07-04T20:19:19+0000,118.139.179.240,54,Singapore,SG,05,South West,Singapore,627753,1.32182,103.695,Asia/Singapore,Godaddy.com,,"AS26496 GoDaddy.com, LLC"
+2024-07-04T20:32:42+0000,92.205.230.214,86,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,Host Europe GmbH,,AS21499 Host Europe GmbH
+2024-07-04T20:33:07+0000,181.214.218.133,32,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-04T20:26:19+0000,20.234.142.63,19,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation
+2024-07-04T20:01:35+0000,110.173.132.140,100,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8739,151.209,Australia/Sydney,Hostopia Australia Web Pty Ltd,Anchor Systems Pty Ltd,AS55803 Hostopia Australia Web Pty Ltd
+2024-07-04T20:29:30+0000,185.208.175.110,68,Iran,IR,23,Tehran,Tehran,,35.7713,51.3739,Asia/Tehran,Pars Parva System Ltd,,AS60631 Pars Parva System LLC
+2024-07-04T20:32:17+0000,157.230.43.211,69,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T20:41:25+0000,160.20.109.244,70,Turkey,TR,16,Bursa Province,Bursa,16090,40.1885,29.061,Europe/Istanbul,Kayizer Teknoloji Ltd. Sti.,Kayizer Teknoloji Ltd. Sti,AS215645 Kayizer Teknoloji Ltd. Sti.
+2024-07-04T20:49:02+0000,95.181.236.156,31,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
+2024-07-04T21:09:44+0000,84.17.48.99,32,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
