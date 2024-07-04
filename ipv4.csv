@@ -2317,3 +2317,32 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T18:48:41+0000,107.180.116.139,50,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
 2024-07-04T18:49:53+0000,199.204.248.137,78,United States,US,NY,New York,Buffalo,14202,42.893,-78.8753,America/New_York,HostPapa,HostPapa,AS11989 HostPapa
 2024-07-04T18:50:49+0000,128.199.74.206,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T18:49:05+0000,20.234.82.123,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-04T18:52:35+0000,149.255.62.168,45,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Unlimited Web Hosting UK LTD,Unlimited Web Hosting UK LTD,AS34931 Awareness Software Limited
+2024-07-04T18:52:38+0000,23.158.40.130,91,United States,US,AZ,Arizona,Phoenix,,33.4483,-112.074,America/Phoenix,GTHost,Gateway Hosting LLC,AS63023 GTHost
+2024-07-04T18:53:48+0000,175.178.223.84,100,China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Golden-Bridge Netcom communication Co., LTD.",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-07-04T18:54:16+0000,68.178.222.80,39,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T18:55:03+0000,103.191.76.4,11,Malaysia,MY,10,Selangor,Petaling Jaya,47820,3.16593,101.607,Asia/Kuala_Lumpur,Jimat Technology Solution,Jimat Technology Solution,AS136727 Jimat Technology Solution
+2024-07-04T18:55:50+0000,68.178.149.50,40,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-04T18:59:46+0000,8.130.169.244,56,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,"Hangzhou Alibaba Advertising Co., Ltd.",Aliyun Computing Co.,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-07-04T19:00:28+0000,18.184.246.51,25,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
+2024-07-04T19:01:15+0000,95.10.233.244,16,Türkiye,TR,41,Kocaeli,Köseköy,41100,40.704,29.9957,Europe/Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,AS9121 Turk Telekomunikasyon Anonim Sirketi
+2024-07-04T19:01:35+0000,194.195.116.93,73,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-04T19:04:42+0000,38.114.121.38,97,United States,US,IL,Illinois,Chicago,,41.8781,-87.6297,America/Chicago,GTHost,,AS63023 GTHost
+2024-07-04T19:04:47+0000,68.178.223.61,88,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T19:04:17+0000,192.99.103.111,46,Canada,CA,QC,Quebec,Beauharnois,J6N,45.3151,-73.8779,America/Toronto,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS
+2024-07-04T19:06:18+0000,103.124.95.33,55,Vietnam,VN,HN,Hanoi,Đống Đa District,,21.0144,105.814,Asia/Bangkok,NhanHoa Software company,NHANHOA,AS131353 NhanHoa Software company
+2024-07-04T19:07:25+0000,46.22.135.149,100,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,BLACKNIGHT,,AS39122 Blacknight Internet Solutions Limited
+2024-07-04T19:15:42+0000,84.17.48.102,24,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-04T19:16:37+0000,68.178.145.156,73,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-04T19:20:55+0000,79.110.62.105,81,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.
+2024-07-04T19:21:21+0000,45.76.186.57,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-04T19:23:49+0000,72.167.210.241,45,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T19:24:50+0000,198.12.222.217,67,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T19:27:57+0000,110.77.135.70,53,Thailand,TH,10,Bangkok,Bangkok,10310,13.7863,100.5056,Asia/Bangkok,CAT Telecom Public Company Limited,,"AS131090 CAT TELECOM Public Company Ltd,CAT"
+2024-07-04T19:25:57+0000,103.186.184.102,10,India,IN,TN,Tamil Nadu,Coimbatore,641018,11.0171,76.9635,Asia/Kolkata,Qtime Businesses Private Limited,Webnox Technologies,AS141004 QTIME BUSINESSES PRIVATE LIMITED
+2024-07-04T19:31:58+0000,122.201.109.112,100,Australia,AU,NSW,New South Wales,Mascot,2020,-33.9245,151.185,Australia/Sydney,Dreamscape Networks PTY LTD,Net Logistics,AS38719 Dreamscape Networks Limited
+2024-07-04T19:33:42+0000,43.135.136.72,24,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-04T19:39:26+0000,92.204.220.169,88,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,GD MASS Network,Go Daddy Netherlands B.V,AS21499 Host Europe GmbH
+2024-07-04T19:41:35+0000,64.227.147.208,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T19:42:09+0000,216.146.27.188,48,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,Cloudie Networks LLC,Aquatis LLC,AS26548 PureVoltage Hosting Inc.
