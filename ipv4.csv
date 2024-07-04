@@ -2185,3 +2185,42 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T11:53:29+0000,108.174.8.21,29,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,LinkedIn Corporation,LinkedIn Corporation,AS14413 LinkedIn Corporation
 2024-07-04T11:55:34+0000,162.240.35.127,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-07-04T12:09:05+0000,104.47.11.62,37,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T12:13:43+0000,167.99.83.222,43,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T09:26:14+0000,104.47.30.126,22,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T09:36:52+0000,199.45.154.143,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-04T09:52:31+0000,34.123.170.104,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-04T10:49:52+0000,52.112.49.112,24,Malaysia,MY,01,Johor,Johor Bahru,,1.4926,103.7413,Asia/Kuala_Lumpur,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T10:55:08+0000,190.92.204.96,70,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS
+2024-07-04T10:59:49+0000,176.9.137.113,86,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-04T11:28:16+0000,80.82.77.202,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,IP Volume inc,AS202425 IP Volume inc
+2024-07-04T11:54:53+0000,193.70.81.110,79,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-07-04T09:25:54+0000,52.102.18.5,10,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T09:58:36+0000,52.102.13.37,10,Australia,AU,VIC,Victoria,Melbourne,,-37.8136,144.963,Australia/Melbourne,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T09:59:47+0000,104.47.51.190,33,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T10:27:21+0000,104.47.58.254,17,United States,US,VA,Virginia,Boydton,23917,36.6676,-78.3874,America/New_York,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T11:03:40+0000,108.174.8.25,30,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,LinkedIn Corporation,LinkedIn Corporation,AS14413 LinkedIn Corporation
+2024-07-04T11:45:25+0000,114.119.172.209,48,Singapore,SG,04,South East,Singapore,486035,1.33792,103.965,Asia/Singapore,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS
+2024-07-04T12:05:45+0000,80.76.49.97,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Networks France,AS399486 12651980 CANADA INC.
+2024-07-04T12:27:49+0000,66.55.67.102,100,United States,US,IL,Illinois,Chicago,60605,41.8781,-87.6297,America/Chicago,"Kamatera, Inc.",Cloud Web Manage,"AS36007 Kamatera, Inc."
+2024-07-04T09:34:48+0000,52.102.17.101,24,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T12:23:59+0000,65.49.1.45,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-04T12:27:12+0000,77.74.177.119,100,Russia,RU,MOW,Moscow,Moscow,,55.8365,37.4814,Europe/Moscow,Kaspersky Lab Switzerland GmbH,Kaspersky Lab AO,AS200107 Kaspersky Lab Switzerland GmbH
+2024-07-04T12:28:01+0000,184.94.240.88,92,United States,US,CA,California,San Jose,95134,37.4084,-121.954,America/Los_Angeles,Cisco Systems Ironport Division,Cisco Systems Ironport Division,AS16417 Cisco Systems Ironport Division
+2024-07-04T12:36:52+0000,104.47.17.126,9,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T11:15:22+0000,66.249.92.162,20,United States,US,MN,Minnesota,Minneapolis,55416,44.9509,-93.3366,America/Chicago,Google LLC,Google LLC,AS15169 Google LLC
+2024-07-04T12:27:07+0000,93.159.230.89,100,Russia,RU,MOW,Moscow,Moscow,,55.8363,37.4831,Europe/Moscow,Kaspersky Lab ZAO,,AS200107 Kaspersky Lab Switzerland GmbH
+2024-07-04T12:38:14+0000,104.47.57.254,16,United States,US,IA,Iowa,Des Moines,,41.5868,-93.6249,America/Chicago,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T12:44:21+0000,69.160.160.56,50,United States,US,AZ,Arizona,Tucson,85737,32.2367,-110.891,America/Phoenix,"Login, Inc.",Intelium Corp,"AS22772 Login, Inc."
+2024-07-04T10:54:54+0000,54.70.53.60,67,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-04T12:52:01+0000,143.198.68.20,38,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T12:59:06+0000,84.17.48.94,25,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-04T12:46:57+0000,52.102.16.181,33,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T12:40:40+0000,104.47.55.126,15,United States,US,WA,Washington,Quincy-moses Lake,98848,47.2342,-119.8525,America/Los_Angeles,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T12:36:50+0000,89.58.48.103,48,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
+2024-07-04T13:09:55+0000,52.102.18.213,10,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T13:20:21+0000,104.47.51.254,33,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T13:19:38+0000,188.213.202.153,18,United States,US,FL,Florida,Tampa,33655,27.9455,-82.4598,America/New_York,GSL Networks Pty LTD,"VPN Consumer Tampa, United States of America",AS137409 GSL Networks Pty LTD
+2024-07-04T13:21:39+0000,64.71.131.243,66,United States,US,CA,California,San Francisco,94111,37.795,-122.403,America/Los_Angeles,Hurricane Electric LLC,e.ventures US Master Manager LLC,AS6939 Hurricane Electric LLC
+2024-07-04T13:41:21+0000,89.58.51.117,39,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
+2024-07-04T13:49:46+0000,108.174.5.113,51,United States,US,VA,Virginia,Reston,20190,38.9586,-77.357,America/New_York,LinkedIn Corporation,LinkedIn Corporation,AS40793 LinkedIn Corporation
+2024-07-04T13:50:58+0000,103.102.228.3,30,France,FR,IDF,Île-de-France,Paris,75017,48.8775,2.29214,Europe/Paris,Skoali SAS,Skoali,AS216167 Skoali SAS
