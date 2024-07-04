@@ -2260,3 +2260,30 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T16:39:51+0000,94.102.49.206,68,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,IP Volume inc,AS202425 IP Volume inc
 2024-07-04T16:39:56+0000,89.248.171.23,83,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3667,4.89454,Europe/Amsterdam,IP Volume inc,Quasi Networks LTD.,AS202425 IP Volume inc
 2024-07-04T16:40:00+0000,80.82.70.198,73,Seychelles,SC,01,Anse-aux-Pins,Anse aux Pins,,-4.7046,55.5242,Indian/Mahe,IP Volume inc,IP Volume inc,AS202425 IP Volume inc
+2024-07-04T16:38:06+0000,103.31.83.123,40,Pakistan,PK,SD,Sindh,Karachi,75500,24.8309,67.0665,Asia/Karachi,Multinet 103-83/24,,AS9260 Multinet Pakistan Pvt. Ltd.
+2024-07-04T16:40:29+0000,161.35.246.138,66,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T16:41:50+0000,3.29.154.236,68,United Arab Emirates,AE,DU,Dubai,Dubai,,25.0731,55.298,Asia/Dubai,Amazon Technologies Inc.,Amazon Data Services UAE,"AS16509 Amazon.com, Inc."
+2024-07-04T16:46:40+0000,18.228.207.216,91,Brazil,BR,SP,São Paulo,São Paulo,01000-000,-23.5505,-46.6333,America/Sao_Paulo,Amazon Technologies Inc.,AWS EC2 (sa-east-1),"AS16509 Amazon.com, Inc."
+2024-07-04T16:46:54+0000,181.215.176.100,24,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-04T16:46:14+0000,121.36.11.242,100,China,CN,BJ,Beijing,Beijing,,39.9042,116.4073,Asia/Shanghai,Huawei Cloud Service data center,Huawei Cloud Service,AS55990 Huawei Cloud Service data center
+2024-07-04T16:52:11+0000,38.242.223.115,77,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-07-04T16:55:22+0000,23.92.68.218,93,United States,US,FL,Florida,Tampa,33614,28.0109,-82.4948,America/New_York,"HIVELOCITY, Inc.","HIVELOCITY, Inc","AS29802 HIVELOCITY, Inc."
+2024-07-04T16:56:53+0000,190.106.134.192,81,Argentina,AR,C,Buenos Aires F.D.,Buenos Aires,1871,-34.6037,-58.3816,America/Argentina/Buenos_Aires,G2K ARGENTINA S.A.,G2K ARGENTINA S.A,AS52236 G2K ARGENTINA S.A.
+2024-07-04T16:59:15+0000,164.52.209.30,72,India,IN,DL,National Capital Territory of Delhi,Delhi,110006,28.6542,77.2373,Asia/Kolkata,E2E Networks Limited,E2E Networks Limited,"AS132420 282, Sector 19"
+2024-07-04T16:50:38+0000,43.153.216.189,91,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-04T16:59:09+0000,106.161.65.206,47,Japan,JP,13,Tokyo,Tokyo,151-0071,35.6837,139.6805,Asia/Tokyo,Kddi Corporation,KDDI,AS2516 KDDI CORPORATION
+2024-07-04T17:00:35+0000,62.122.184.194,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,AS57523 Chang Way Technologies Co. Limited
+2024-07-04T16:57:04+0000,144.76.75.184,67,Germany,DE,BW,Baden-Wurttemberg,Görwihl,79733,47.6397,8.0716,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-04T17:01:41+0000,91.136.11.91,96,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Internet Names Business,Internet Names Business Inc,AS9115 Internet Names for Business Inc
+2024-07-04T17:06:00+0000,103.186.185.95,95,India,IN,TN,Tamil Nadu,Coimbatore,641018,11.0171,76.9635,Asia/Kolkata,Ovi Hosting Pvt Ltd,Webnox Technologies,AS141004 QTIME BUSINESSES PRIVATE LIMITED
+2024-07-04T17:09:48+0000,87.118.120.50,57,Germany,DE,TH,Thuringia,Erfurt,99084,50.9729,11.0277,Europe/Berlin,Keyweb AG,KEYWEB-III,AS31103 Keyweb AG
+2024-07-04T17:10:21+0000,91.142.222.180,69,Spain,ES,VC,Valencia,Alicante,03001,38.3482,-0.484339,Europe/Madrid,AXARnet-Network,,"AS50926 AXARNET COMUNICACIONES, S.L."
+2024-07-04T17:11:23+0000,156.146.55.165,55,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-07-04T17:12:33+0000,172.206.142.166,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-04T17:23:12+0000,103.181.182.139,45,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT Delta Awan Angkasa,PT Delta Awan Angkasa,AS149391 PT Delta Awan Angkasa
+2024-07-04T17:19:22+0000,142.132.213.130,30,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-04T17:24:55+0000,103.251.167.20,100,The Netherlands,NL,FL,Flevoland,Dronten,8253,52.5378,5.6966,Europe/Amsterdam,The Infrastructure Group B.V.,TOR EXIT nodes,AS60404 The Infrastructure Group B.V.
+2024-07-04T17:35:13+0000,70.32.89.159,100,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T17:36:20+0000,122.201.124.56,53,Australia,AU,NSW,New South Wales,Mascot,2020,-33.9245,151.185,Australia/Sydney,Dreamscape Networks PTY LTD,Vodien Australia PTY LTD,AS38719 Dreamscape Networks Limited
+2024-07-04T17:38:51+0000,216.225.193.146,35,United States,US,PA,Pennsylvania,Philadelphia,19103,39.9557,-75.1698,America/New_York,"ProfitBricks, Inc.",IONOS Inc,AS54548 IONOS Cloud Inc.
+2024-07-04T17:40:30+0000,54.37.11.28,19,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
