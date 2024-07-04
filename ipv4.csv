@@ -2295,3 +2295,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T18:09:37+0000,3.140.207.36,45,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
 2024-07-04T18:09:38+0000,185.49.231.19,68,Iran,IR,23,Tehran,Tehran,,35.7219,51.3347,Asia/Tehran,Saba Abr Mizban LLC,Saba Abr Mizban LLC,AS34412 Saba Abr Mizban LLC
 2024-07-04T18:10:49+0000,165.154.172.111,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-04T18:11:09+0000,103.213.38.229,84,Bangladesh,BD,C,Dhaka Division,Dhaka,1215,23.7607,90.3947,Asia/Dhaka,Nasim Uddin Ridoy,GOTMYHOST,AS150142 Wolast Technologies
+2024-07-04T18:13:37+0000,72.167.207.242,52,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T18:14:52+0000,72.167.32.215,43,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T18:14:53+0000,167.71.69.173,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T18:14:56+0000,200.73.115.38,25,Chile,CL,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536,America/Santiago,PowerHost Telecom SPA,PowerHost Telecom SPA,AS263237 PowerHost Telecom SPA
+2024-07-04T18:15:19+0000,178.62.46.243,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-07-04T18:19:44+0000,173.236.245.71,30,United States,US,CA,California,Brea,92821,33.9167,-117.9,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
+2024-07-04T18:26:10+0000,208.113.146.46,49,United States,US,CA,California,Brea,92821,33.9119,-117.881,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
+2024-07-04T18:26:37+0000,195.88.87.109,46,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-07-04T18:27:43+0000,45.33.118.101,24,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-04T18:29:36+0000,203.161.41.63,73,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Namecheap, Inc.","Namecheap, Inc","AS22612 Namecheap, Inc."
+2024-07-04T18:30:56+0000,68.178.155.222,99,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-04T18:34:02+0000,5.78.101.75,41,United States,US,OR,Oregon,Portland,97207,45.5242,-122.6684,America/Los_Angeles,Hetzner Online GmbH,Hetzner Online GmbH,AS212317 Hetzner Online GmbH
+2024-07-04T18:35:32+0000,92.205.2.99,87,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,GD MASS Network,AS21499 Host Europe GmbH
+2024-07-04T18:37:46+0000,136.243.167.86,11,Germany,DE,BE,Land Berlin,Berlin,10117,52.5203,13.3849,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-04T18:37:49+0000,198.12.247.154,66,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T18:41:43+0000,199.231.188.151,40,United States,US,NJ,New Jersey,Secaucus,07094,40.7862,-74.0743,America/New_York,"Interserver, Inc","Interserver, Inc","AS19318 Interserver, Inc"
+2024-07-04T18:44:26+0000,92.205.148.223,65,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Host Europe GmbH,AS21499 Host Europe GmbH
+2024-07-04T18:48:04+0000,198.71.234.19,80,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS400754 GoDaddy.com, LLC"
+2024-07-04T18:48:41+0000,107.180.116.139,50,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T18:49:53+0000,199.204.248.137,78,United States,US,NY,New York,Buffalo,14202,42.893,-78.8753,America/New_York,HostPapa,HostPapa,AS11989 HostPapa
+2024-07-04T18:50:49+0000,128.199.74.206,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
