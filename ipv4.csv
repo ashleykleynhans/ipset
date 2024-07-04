@@ -2157,3 +2157,31 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T09:38:43+0000,77.243.80.67,100,Kazakhstan,KZ,75,Almaty,Almaty,,43.2433,76.8646,Asia/Almaty,PS Internet Company LLP,PS Internet Company LLP,AS48716 PS Internet Company LLP
 2024-07-04T09:47:21+0000,191.101.217.60,16,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-07-04T09:49:10+0000,64.62.156.39,100,United States,US,CA,California,Fremont,94539,37.49,-121.931,America/Los_Angeles,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
+2024-07-04T10:11:57+0000,185.189.114.126,48,Hungary,HU,BU,Budapest,Budapest,1132,47.4979,19.0402,Europe/Budapest,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-07-04T10:34:26+0000,84.239.54.75,16,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-07-04T11:38:55+0000,79.137.68.184,58,Poland,PL,02,Lower Silesia,Wroclaw,50-088,51.0984,17.031,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS
+2024-07-04T09:12:30+0000,51.81.46.212,100,United States,US,VA,Virginia,Warrenton,20187,38.719,-77.7416,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS
+2024-07-04T09:12:31+0000,199.45.154.148,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-04T09:12:53+0000,104.47.56.126,16,United States,US,IA,Iowa,Des Moines,,41.5868,-93.6249,America/Chicago,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T09:14:44+0000,104.47.51.126,15,United States,US,VA,Virginia,Boydton,23917,36.6676,-78.3874,America/New_York,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T09:20:22+0000,192.133.77.15,17,United States,US,CA,California,San Francisco,94103,37.7766,-122.417,America/Los_Angeles,Twitter Inc.,Twitter Inc,AS13414 Twitter Inc.
+2024-07-04T09:21:39+0000,192.133.77.16,15,United States,US,CA,California,San Francisco,94103,37.7766,-122.417,America/Los_Angeles,Twitter Inc.,Twitter Inc,AS13414 Twitter Inc.
+2024-07-04T09:26:00+0000,104.47.11.254,23,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T09:34:54+0000,192.133.77.18,21,United States,US,CA,California,San Francisco,94103,37.7766,-122.417,America/Los_Angeles,Twitter Inc.,Twitter Inc,AS13414 Twitter Inc.
+2024-07-04T09:41:31+0000,108.174.2.216,25,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,LinkedIn Corporation,LinkedIn Corporation,AS55163 LinkedIn Corporation
+2024-07-04T09:52:28+0000,34.122.147.229,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-04T09:53:17+0000,104.197.69.115,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-04T09:55:32+0000,34.72.176.129,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-04T09:59:41+0000,52.112.125.8,24,Japan,JP,13,Tokyo,Tokyo,152-8503,35.68,139.77,Asia/Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),AS8075 Microsoft Corporation
+2024-07-04T10:12:02+0000,104.47.11.126,36,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T10:34:14+0000,192.133.77.17,9,United States,US,CA,California,San Francisco,94103,37.7766,-122.417,America/Los_Angeles,Twitter Inc.,Twitter Inc,AS13414 Twitter Inc.
+2024-07-04T10:47:29+0000,108.174.2.214,16,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,LinkedIn Corporation,LinkedIn Corporation,AS55163 LinkedIn Corporation
+2024-07-04T11:10:37+0000,168.119.110.134,11,Germany,DE,HE,Hesse,Bad Vilbel,61118,50.1787,8.73756,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-04T11:16:03+0000,135.148.100.196,100,United States,US,VA,Virginia,Reston,20190,38.958,-77.3592,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS
+2024-07-04T11:36:21+0000,104.47.73.126,22,United States,US,IA,Iowa,Des Moines,,41.5868,-93.6249,America/Chicago,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T11:37:24+0000,104.47.73.254,21,United States,US,WA,Washington,Quincy-moses Lake,98848,47.2342,-119.8525,America/Los_Angeles,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-04T11:44:40+0000,54.36.232.187,100,Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,Europe/Berlin,OVH SAS,Rolf Robin,AS16276 OVH SAS
+2024-07-04T11:47:12+0000,194.38.23.16,100,Ukraine,UA,12,Dnipropetrovsk Oblast,Dnipro,49126,48.4735,35.046,Europe/Kyiv,NTS,,AS48693 Rices Privately owned enterprise
+2024-07-04T11:53:29+0000,108.174.8.21,29,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,LinkedIn Corporation,LinkedIn Corporation,AS14413 LinkedIn Corporation
+2024-07-04T11:55:34+0000,162.240.35.127,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-07-04T12:09:05+0000,104.47.11.62,37,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
