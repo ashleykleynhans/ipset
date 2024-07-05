@@ -2529,3 +2529,33 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T14:15:16+0000,15.236.225.192,67,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc."
 2024-07-05T14:17:24+0000,34.0.198.104,30,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC
 2024-07-05T14:48:20+0000,104.47.18.190,1,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T15:01:41+0000,104.47.64.254,1,United States,US,DC,"Washington, D.C.",Washington,22747,38.7134,-78.159,America/New_York,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T15:01:46+0000,71.6.134.231,100,United States,US,NV,Nevada,Henderson,89012,36.022,-115.083,America/Los_Angeles,"CariNet, Inc.","CariNet, Inc.","AS10439 CariNet, Inc."
+2024-07-05T15:03:17+0000,104.47.65.254,1,United States,US,IA,Iowa,Des Moines,,41.5868,-93.6249,America/Chicago,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T14:20:34+0000,35.215.102.65,1,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS15169 Google LLC
+2024-07-05T14:20:43+0000,34.1.12.239,35,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC
+2024-07-05T15:17:31+0000,52.102.18.229,10,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T15:20:03+0000,91.92.251.88,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-05T15:22:24+0000,185.51.134.253,38,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-07-05T15:22:40+0000,188.165.87.109,36,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,OVH SAS,ONYPHE,AS16276 OVH SAS
+2024-07-05T15:28:36+0000,57.151.20.64,92,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-05T15:29:59+0000,52.102.11.117,1,Canada,CA,ON,Ontario,Toronto,,43.6532,-79.3831,America/Toronto,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T15:33:59+0000,79.137.65.46,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-07-05T15:34:51+0000,107.174.218.109,10,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,HostPapa,RackNerd LLC,AS36352 HostPapa
+2024-07-05T15:25:45+0000,45.148.10.230,41,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED
+2024-07-05T15:37:37+0000,52.102.13.197,1,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T15:38:56+0000,188.165.87.101,45,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,OVH SAS,ONYPHE,AS16276 OVH SAS
+2024-07-05T15:42:59+0000,52.202.236.132,43,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-05T15:46:14+0000,129.80.117.174,22,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation
+2024-07-05T15:46:36+0000,129.158.253.200,17,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation
+2024-07-05T15:46:36+0000,129.153.25.174,27,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation
+2024-07-05T15:50:54+0000,84.17.52.72,8,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-05T15:55:58+0000,54.71.187.124,64,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-05T16:05:30+0000,164.92.137.158,82,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T16:16:34+0000,130.44.215.71,12,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
+2024-07-05T16:17:58+0000,130.44.212.104,12,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
+2024-07-05T16:19:28+0000,147.160.184.122,28,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
+2024-07-05T16:19:38+0000,188.166.176.89,46,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
+2024-07-05T16:20:19+0000,27.115.124.70,45,China,CN,SH,Shanghai,Shanghai,,31.2222,121.4581,Asia/Shanghai,China Unicom Shanghai Province Network,,AS17621 China Unicom Shanghai network
+2024-07-05T16:20:22+0000,27.115.124.45,49,China,CN,SH,Shanghai,Shanghai,,31.2222,121.4581,Asia/Shanghai,China Unicom Shanghai Province Network,,AS17621 China Unicom Shanghai network
+2024-07-05T16:14:57+0000,139.177.233.202,34,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
