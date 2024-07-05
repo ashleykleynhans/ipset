@@ -2457,3 +2457,35 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T11:12:19+0000,95.181.233.151,29,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7337,7.42462,Europe/Monaco,M247 Europe SRL,M247 Ltd Milan,AS9009 M247 Europe SRL
 2024-07-05T11:15:06+0000,79.110.62.109,82,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.
 2024-07-05T11:18:34+0000,20.234.32.230,94,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-05T11:28:50+0000,46.246.8.153,11,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-07-05T11:29:35+0000,35.197.145.240,1,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC
+2024-07-05T08:42:03+0000,52.102.18.37,1,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T08:46:39+0000,52.102.18.21,1,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T08:52:20+0000,104.47.17.190,1,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T08:53:08+0000,52.112.49.104,9,Malaysia,MY,01,Johor,Johor Bahru,,1.4926,103.7413,Asia/Kuala_Lumpur,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:12:56+0000,104.47.74.126,28,United States,US,VA,Virginia,Boydton,23917,36.6676,-78.3874,America/New_York,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:20:03+0000,43.135.129.233,100,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-05T09:21:56+0000,3.90.34.232,51,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-05T09:30:08+0000,52.102.12.197,1,Australia,AU,VIC,Victoria,Melbourne,,-37.8136,144.963,Australia/Melbourne,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:38:51+0000,52.102.18.53,8,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:39:42+0000,52.102.18.85,1,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:44:12+0000,77.68.78.136,1,United Kingdom,GB,ENG,England,Gloucester,GL1 2EX,51.8613,-2.25056,Europe/London,Fasthosts Internet Ltd,Fasthosts Internet Limited,AS8560 IONOS SE
+2024-07-05T10:01:56+0000,171.244.43.14,70,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,VIETEL,Viettel Corporation,AS38731 Vietel - CHT Compamy Ltd
+2024-07-05T10:06:58+0000,104.47.85.62,1,United Kingdom,GB,WLS,Wales,Cardiff,,51.4837,-3.168,Europe/London,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T10:07:16+0000,104.47.66.126,10,United States,US,WA,Washington,Quincy-moses Lake,98848,47.2342,-119.8525,America/Los_Angeles,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T10:10:49+0000,104.47.55.254,10,United States,US,VA,Virginia,Boydton,23917,36.6676,-78.3874,America/New_York,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T10:10:51+0000,184.72.121.156,43,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-05T10:39:07+0000,52.102.16.165,1,Ireland,IE,L,Leinster,Dublin,,53.3498,-6.2603,Europe/Dublin,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T11:01:39+0000,104.47.18.126,1,Netherlands,NL,NH,North Holland,Amsterdam,,52.3675,4.9041,Europe/Amsterdam,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T11:11:31+0000,52.102.12.69,1,Canada,CA,QC,Quebec,Quebec,,52.9399,-73.5491,America/Toronto,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T11:13:14+0000,62.210.26.42,8,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-07-05T11:13:15+0000,163.172.195.2,9,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-07-05T11:15:10+0000,62.210.9.75,8,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.
+2024-07-05T11:15:10+0000,212.83.173.29,1,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Online,Free SAS,AS12876 SCALEWAY S.A.S.
+2024-07-05T11:15:43+0000,195.154.49.171,1,France,FR,IDF,Île-de-France,Paris,75008,48.8713,2.32142,Europe/Paris,Online SAS,,AS12876 SCALEWAY S.A.S.
+2024-07-05T11:33:57+0000,52.102.17.117,1,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T11:40:15+0000,220.151.9.22,42,Japan,JP,11,Saitama,Midorichō,332-0021,35.8095,139.6989,Asia/Tokyo,UCOM Corp.,MSK Software Inc.,AS17506 ARTERIA Networks Corporation
+2024-07-05T09:41:23+0000,104.47.57.126,1,United States,US,TX,Texas,San Antonio,,29.4251,-98.4945,America/Chicago,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:54:50+0000,104.47.25.254,1,France,FR,PAC,Provence-Alpes-Côte d'Azur,Marseille,,43.2964,5.3697,Europe/Paris,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T09:56:45+0000,104.47.75.254,1,Canada,CA,QC,Quebec,Quebec,,52.9399,-73.5491,America/Toronto,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
+2024-07-05T11:14:13+0000,52.102.17.85,1,Austria,AT,9,Vienna,Vienna,,48.2081,16.3738,Europe/Vienna,Microsoft Corporation,Microsoft Corporation,AS8075 Microsoft Corporation
