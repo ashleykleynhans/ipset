@@ -2428,3 +2428,32 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T05:03:50+0000,92.118.39.32,67,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Unmanaged LTD,Pptechnology Limited,AS47890 UNMANAGED LTD
 2024-07-05T05:01:52+0000,50.114.115.79,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,Ipxo LLC,HOSTING-SOLUTIONS,AS23470 ReliableSite.Net LLC
 2024-07-05T05:06:43+0000,84.239.40.233,26,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
+2024-07-05T04:58:05+0000,13.91.164.133,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-05T05:20:20+0000,52.221.214.65,11,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
+2024-07-05T06:08:30+0000,38.88.124.138,56,Canada,CA,BC,British Columbia,Vancouver,V5Z,49.2476,-123.1234,America/Vancouver,Tech Futures Interactive Inc.,Tech Futures Interactive Inc,AS394256 Tech Futures Interactive Inc.
+2024-07-05T06:15:01+0000,188.126.79.18,15,Sweden,SE,AB,Stockholm County,Stockholm,126 30,59.3098,17.9796,Europe/Stockholm,GleSYS AB,CyberGhost,AS42708 GleSYS AB
+2024-07-05T06:47:38+0000,52.189.75.209,66,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-05T06:49:24+0000,146.70.228.86,62,United States,US,FL,Florida,Viera West,,28.245,-80.7338,America/New_York,M247 Europe SRL,M247 Ltd Miami,AS9009 M247 Europe SRL
+2024-07-05T06:53:02+0000,178.128.49.136,45,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
+2024-07-05T07:29:02+0000,149.40.49.141,33,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-05T07:38:16+0000,4.186.24.157,19,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation
+2024-07-05T08:01:25+0000,166.88.95.206,97,Japan,JP,27,Ōsaka,Osaka,530-0003,34.6963,135.494,Asia/Tokyo,Ace Data Centers II,Evoxt,AS149440 Evoxt Enterprise
+2024-07-05T08:03:34+0000,157.245.206.84,51,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T08:18:08+0000,84.17.52.43,25,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-05T08:33:42+0000,84.17.58.7,19,Italy,IT,25,Lombardy,Milan,20161,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited
+2024-07-05T09:39:59+0000,81.181.61.102,17,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-05T09:44:33+0000,138.199.35.49,44,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Datacamp Limited,Cdnext LAX,AS212238 Datacamp Limited
+2024-07-05T09:47:51+0000,159.223.81.99,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T09:57:02+0000,83.97.73.245,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Red Byte LLC,Red Byte LLC,AS208312 Red Byte LLC
+2024-07-05T10:04:12+0000,38.88.124.173,31,Canada,CA,BC,British Columbia,Vancouver,V5Z,49.2476,-123.1234,America/Vancouver,Tech Futures Interactive Inc.,Tech Futures Interactive Inc,AS394256 Tech Futures Interactive Inc.
+2024-07-05T10:11:57+0000,4.194.0.254,100,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-07-05T10:41:47+0000,84.17.48.76,28,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-05T10:42:19+0000,20.236.248.238,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-05T10:44:02+0000,195.154.56.5,1,France,FR,IDF,Île-de-France,Paris,75008,48.8713,2.32142,Europe/Paris,Online SAS,,AS12876 SCALEWAY S.A.S.
+2024-07-05T10:45:19+0000,37.46.115.53,17,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
+2024-07-05T10:52:24+0000,146.70.59.163,19,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-07-05T11:05:18+0000,107.175.196.110,56,United States,US,CA,California,San Francisco,94108,37.7925,-122.4122,America/Los_Angeles,HostPapa,Uzair Gadit,AS36352 HostPapa
+2024-07-05T11:03:51+0000,172.121.222.48,1,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,GTT Communications Inc.,EGIHosting,AS3257 GTT Communications Inc.
+2024-07-05T11:12:19+0000,95.181.233.151,29,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7337,7.42462,Europe/Monaco,M247 Europe SRL,M247 Ltd Milan,AS9009 M247 Europe SRL
+2024-07-05T11:15:06+0000,79.110.62.109,82,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.
+2024-07-05T11:18:34+0000,20.234.32.230,94,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
