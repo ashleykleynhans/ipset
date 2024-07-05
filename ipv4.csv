@@ -2374,3 +2374,57 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T20:41:25+0000,160.20.109.244,70,Turkey,TR,16,Bursa Province,Bursa,16090,40.1885,29.061,Europe/Istanbul,Kayizer Teknoloji Ltd. Sti.,Kayizer Teknoloji Ltd. Sti,AS215645 Kayizer Teknoloji Ltd. Sti.
 2024-07-04T20:49:02+0000,95.181.236.156,31,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
 2024-07-04T21:09:44+0000,84.17.48.99,32,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-04T20:45:58+0000,198.12.239.215,93,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-04T21:06:16+0000,51.195.106.112,75,Germany,DE,HE,Hesse,Limburg an der Lahn,65549,50.3878,8.07286,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS
+2024-07-04T21:20:58+0000,184.168.103.196,89,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-04T21:24:37+0000,103.170.204.69,100,Bangladesh,BD,C,Dhaka Division,Bhātāra,1219,23.7723,90.4253,Asia/Dhaka,YetFix Limited,YetFix Limited,AS142605 YetFix Limited
+2024-07-04T21:31:23+0000,81.12.28.43,100,Iran,IR,23,Tehran,Tehran,,35.7779,51.3946,Asia/Tehran,Iran Telecommunication Company PJS,Soroush Rasanheh Company Ltd,AS58224 Iran Telecommunication Company PJS
+2024-07-04T21:38:32+0000,20.236.249.48,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-04T21:36:09+0000,54.37.31.126,100,France,FR,HDF,Hauts-de-France,Wattrelos,59150,50.7012,3.21501,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-07-04T21:42:59+0000,82.223.111.83,83,Spain,ES,RI,La Rioja,Logroño,26007,42.457,-2.45729,Europe/Madrid,arsys.es,,AS8560 IONOS SE
+2024-07-04T21:46:16+0000,20.14.152.85,44,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation
+2024-07-04T21:46:28+0000,210.211.116.24,51,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.822,106.6257,Asia/Ho_Chi_Minh,VTDC,Viettel - CHT Company Ltd,AS38731 Vietel - CHT Compamy Ltd
+2024-07-04T21:31:57+0000,116.118.51.10,71,Vietnam,VN,HN,Hanoi,Cau Dien,,21.0393,105.767,Asia/Bangkok,AZDIGI Corporation,,AS63760 AZDIGI Corporation
+2024-07-04T22:01:00+0000,165.232.149.63,30,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T22:02:11+0000,89.213.191.40,11,France,FR,PDL,Pays de la Loire,Nantes,44000,47.2145,-1.5512,Europe/Paris,Groupe Neotech SAS,Groupe Neotech,AS47679 GROUPE NEOTECH SAS
+2024-07-04T22:19:50+0000,154.47.29.217,26,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-04T22:20:27+0000,209.97.175.154,46,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T22:21:10+0000,203.128.6.162,54,Pakistan,PK,PB,Punjab,Lahore,54570,31.5237,74.2641,Asia/Karachi,Brain Telecommunication Ltd.,Brain Telecommunication Ltd.,AS17911 Brain Telecommunication Ltd.
+2024-07-04T22:30:20+0000,162.55.105.138,74,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,,AS24940 Hetzner Online GmbH
+2024-07-04T22:34:27+0000,51.144.95.148,11,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation
+2024-07-04T22:40:49+0000,84.239.54.74,37,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-07-04T22:36:06+0000,160.119.100.243,100,South Africa,ZA,WC,Western Cape,Cape Town,7441,-33.91,18.4304,Africa/Johannesburg,DataKeepers (Pty) Ltd,DataKeepers (Pty) Ltd,AS328170 DataKeepers (Pty) Ltd
+2024-07-04T22:40:08+0000,167.86.115.161,84,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-07-04T22:54:07+0000,138.128.163.42,44,United States,US,FL,Florida,Orlando,32817,28.5879,-81.2264,America/New_York,HostDime.com,"GlowHost.com, LLC","AS33182 HostDime.com, Inc."
+2024-07-04T22:57:28+0000,103.162.21.230,41,Vietnam,VN,35,Lâm Đồng Province,Di Linh,,11.5748,108.066,Asia/Ho_Chi_Minh,DILINH,DI Linh Group Joint Stock Company,AS135951 Webico Company Limited
+2024-07-04T22:56:23+0000,195.54.178.6,100,Georgia,GE,TB,Tbilisi,Tbilisi,,41.6959,44.832,Asia/Tbilisi,Serv.Ge Network,Serv.Ge Ltd,AS47810 Proservice LLC
+2024-07-04T23:12:03+0000,212.102.49.69,36,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-04T23:21:59+0000,68.178.152.138,66,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-04T23:25:10+0000,159.223.37.24,40,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-04T23:26:18+0000,149.28.63.51,50,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
+2024-07-04T23:35:44+0000,188.126.89.126,32,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-07-05T00:16:27+0000,125.212.221.59,74,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,Viettel Corporation,Viettel Group,AS7552 Viettel Group
+2024-07-05T00:17:04+0000,5.253.247.89,53,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Dominic Scholz trading as ITP-Solutions GmbH & Co. KG,Luxvps,AS213250 Dominic Scholz trading as ITP-Solutions GmbH & Co. KG
+2024-07-05T00:30:21+0000,81.181.61.77,1,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-05T00:30:57+0000,34.79.12.118,11,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-05T00:37:27+0000,128.199.161.158,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T00:38:40+0000,52.169.82.64,65,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-05T00:42:06+0000,159.223.57.105,30,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T00:51:24+0000,45.133.172.120,23,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-07-05T00:54:28+0000,146.70.45.216,52,United States,US,FL,Florida,Hialeah,33018,25.9231,-80.3993,America/New_York,M247 Europe,M247 Ltd Miami,AS9009 M247 Europe SRL
+2024-07-05T00:55:35+0000,84.239.42.150,36,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-07-05T01:16:50+0000,84.17.60.15,1,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
+2024-07-05T01:35:46+0000,181.214.218.123,21,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-05T02:26:06+0000,91.92.209.54,42,Iran,IR,23,Tehran,Tehran,,35.7219,51.3347,Asia/Tehran,TIC,Telecommunication Company of Tehran,AS58224 Iran Telecommunication Company PJS
+2024-07-05T02:26:18+0000,146.70.59.169,34,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-07-05T01:56:58+0000,5.61.28.248,76,Iran,IR,01,Gilan Province,Rasht,,37.2773,49.5808,Asia/Tehran,Negah Roshan Pars - Parsdev Iran Network,,AS58262 Negah Roshan Pars Company (PJS)
+2024-07-05T03:40:31+0000,146.70.228.94,44,United States,US,FL,Florida,Viera West,,28.245,-80.7338,America/New_York,M247 Europe SRL,M247 Ltd Miami,AS9009 M247 Europe SRL
+2024-07-05T04:09:25+0000,195.181.161.14,32,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
+2024-07-05T02:06:38+0000,128.199.213.195,63,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T04:22:24+0000,46.246.8.168,24,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-07-05T04:44:29+0000,91.92.242.167,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-05T03:32:40+0000,81.181.61.113,1,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-05T04:04:29+0000,165.227.210.1,88,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-05T05:03:50+0000,92.118.39.32,67,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Unmanaged LTD,Pptechnology Limited,AS47890 UNMANAGED LTD
+2024-07-05T05:01:52+0000,50.114.115.79,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,Ipxo LLC,HOSTING-SOLUTIONS,AS23470 ReliableSite.Net LLC
+2024-07-05T05:06:43+0000,84.239.40.233,26,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
