@@ -2,8 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-PIE_CHART_IMAGE_FILE= 'abuse-pie-chart.png'
-
+PIE_CHART_IMAGE_FILE = 'abuse-pie-chart.png'
 
 if __name__ == '__main__':
     # Load data from CSV with error handling
@@ -30,15 +29,20 @@ if __name__ == '__main__':
 
         # Labels for the pie chart, only showing labels for top 10
         labels = [f'{index}: {value:.1f}%' for index, value in (top_countries * 100 / final_counts.sum()).items()]
-        labels.extend(['Others'])  # Simple label for 'Others'
+        labels.append('Others')  # Simple label for 'Others'
 
         # Plotting the pie chart
-        plt.figure(figsize=(10, 8))
-        plt.pie(final_counts, labels=labels, colors=colors, autopct=lambda pct: f'{pct:.1f}%' if pct > 5 else '', startangle=140)
+        plt.figure(figsize=(12, 9))
+        wedges, texts, autotexts = plt.pie(final_counts, labels=None, colors=colors, autopct=lambda pct: f'{pct:.1f}%' if pct > 3 else '', startangle=140, pctdistance=0.85)
+
+        # Add a legend
+        plt.legend(wedges, labels, title="Country", loc="center left", bbox_to_anchor=(1, 0, 0.5, 1))
+
         plt.title('Abuse Reports by Country: Top 10 and Others')
+        plt.axis('equal')
 
         # Save the figure to a file
-        plt.savefig(PIE_CHART_IMAGE_FILE)
+        plt.savefig(PIE_CHART_IMAGE_FILE, bbox_inches='tight')
         plt.close()
         print(f'Pie chart saved to: {PIE_CHART_IMAGE_FILE}')
     else:
