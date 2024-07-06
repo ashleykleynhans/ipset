@@ -35,7 +35,7 @@ def format_range(start, end):
     return f"{start}-{end}"
 
 
-if __name__ == '__main__':
+def main():
     # Read CSV and group by ASN
     asn_groups = defaultdict(list)
     with open('ipv4.csv', 'r') as f:
@@ -45,20 +45,33 @@ if __name__ == '__main__':
             asn = row['AS']
             asn_groups[asn].append(ip)
 
-    # Find common IP ranges for each ASN
+    # Find common IP ranges for each ASN with at least 10 IPs
     asn_ranges = {}
     for asn, ips in asn_groups.items():
-        ranges = find_ip_ranges(ips)
-        asn_ranges[asn] = ranges
+        if len(ips) >= 10:
+            ranges = find_ip_ranges(ips)
+            asn_ranges[asn] = ranges
 
     # Sort ASNs by frequency (number of IPs)
-    sorted_asns = sorted(asn_ranges.items(), key=lambda x: len(x[1]), reverse=True)
+    sorted_asns = sorted(
+        asn_ranges.items(),
+        key=lambda x: len(asn_groups[x[0]]),
+        reverse=True
+    )
 
-    # Print results
+    # Print results in markdown format
+    print("# IP Ranges Grouped by ASN (10+ IPs)")
+    print()
+
     for asn, ranges in sorted_asns:
-        print(f"ASN: {asn}")
-        print(f"Total IPs: {len(asn_groups[asn])}")
-        print("IP Ranges:")
-        for start, end in ranges:
-            print(f"  {format_range(start, end)}")
+        print(f"## {asn}")
+        print(f"**Total IPs:** {len(asn_groups[asn])}")
         print()
+        print("### IP Ranges:")
+        for start, end in ranges:
+            print(f"- `{format_range(start, end)}`")
+        print()
+
+
+if __name__ == "__main__":
+    main()
