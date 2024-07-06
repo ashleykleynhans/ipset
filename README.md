@@ -13,7 +13,8 @@ unsolicited scans against production applications.
 
   <div>
       <hr>
-      <img src="abuse-pie-chart.png" alt="Abuse by Country Pie Chart" width="100%">
+      <img src="chart-country.png" alt="Abuse by Country Pie Chart" width="100%">
+      <img src="chart-isp.png" alt="Abuse by Country Pie Chart" width="100%">
   </div>
 </div>
 
