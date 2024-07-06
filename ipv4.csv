@@ -2994,3 +2994,36 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T09:56:46+0000,13.79.89.45,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
 2024-07-06T10:33:34+0000,1.145.102.16,10,Australia,AU,NSW,New South Wales,Sydney,2046,-33.8582,151.127,Australia/Sydney,Telstra Limited,Telstra Corporation,AS1221 Telstra Limited
 2024-07-06T10:47:29+0000,82.165.74.190,40,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,IONOS,,AS8560 IONOS SE
+2024-07-06T11:00:11+0000,95.216.85.173,25,Finland,FI,18,Uusimaa,Helsinki,00100,60.1719,24.9347,Europe/Helsinki,Hetzner Online GmbH,,AS24940 Hetzner Online GmbH
+2024-07-06T11:10:16+0000,165.231.182.154,22,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-07-06T11:13:45+0000,141.95.113.183,100,Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,Europe/Berlin,OVH SAS,v S,AS16276 OVH SAS
+2024-07-06T11:14:43+0000,92.63.197.224,80,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Telkom Internet LTD,Korotkij Denis Aleksandrovich,AS210848 Telkom Internet LTD
+2024-07-06T11:13:59+0000,44.215.109.98,1,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-06T11:20:38+0000,45.61.88.194,29,Canada,CA,ON,Ontario,Ottawa,K2P,45.4153,-75.6894,America/Toronto,Web2Objects LLC,Web2Objects LLC,AS62874 Web2Objects LLC
+2024-07-06T11:24:28+0000,216.218.190.50,30,United States,US,PA,Pennsylvania,Bridgeville,15017,40.3562,-80.1101,America/New_York,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
+2024-07-06T11:20:35+0000,103.221.57.177,28,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,DZCRD Networks Ltd,DZCRD Networks Ltd,AS132817 DZCRD Networks Ltd
+2024-07-06T11:09:48+0000,3.21.97.0,1,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-06T11:20:16+0000,207.32.133.245,33,United States,US,MA,Massachusetts,Boston,02112,42.3601,-71.0589,America/New_York,20 Point Networks LLC,Vivid Hosting,AS64249 Charles River Operation
+2024-07-06T11:42:28+0000,45.80.158.27,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-06T11:42:30+0000,192.42.116.178,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.
+2024-07-06T11:44:06+0000,149.88.26.82,21,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-06T11:20:10+0000,103.221.57.165,11,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,DZCRD Networks Ltd,DZCRD Networks Ltd,AS132817 DZCRD Networks Ltd
+2024-07-06T11:42:27+0000,104.244.79.61,100,Luxembourg,LU,ME,Mersch,Roost,L-7759,49.7866,6.0753,Europe/Luxembourg,FranTech Solutions,BuyVM,AS53667 FranTech Solutions
+2024-07-06T11:42:33+0000,185.220.101.13,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,Artikel10 e.V,AS60729 Stiftung Erneuerbare Freiheit
+2024-07-06T11:50:35+0000,162.247.74.213,100,United States,US,NY,New York,New York,10123,40.7465,-74.0014,America/New_York,The Calyx Institute,The Calyx Institute,AS4224 The Calyx Institute
+2024-07-06T11:50:41+0000,104.244.73.43,81,Luxembourg,LU,ME,Mersch,Roost,L-7759,49.7866,6.0753,Europe/Luxembourg,FranTech Solutions,BuyVM,AS53667 FranTech Solutions
+2024-07-06T11:52:14+0000,143.198.120.174,37,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-06T11:53:17+0000,165.154.118.9,100,Thailand,TH,10,Bangkok,Bangkok,10200,13.8054,100.6751,Asia/Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-06T11:48:48+0000,165.22.4.76,20,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-06T11:57:47+0000,103.137.14.165,11,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,STREAMLINESERVERS,Streamline Servers PTY LTD,AS137409 GSL Networks Pty LTD
+2024-07-06T11:59:00+0000,54.89.186.166,1,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-06T11:59:01+0000,75.163.91.12,1,United States,US,NE,Nebraska,Omaha,68154,41.268,-96.1156,America/Chicago,"CenturyLink Communications, LLC","CenturyLink Communications, LLC","AS209 CenturyLink Communications, LLC"
+2024-07-06T11:59:08+0000,54.174.22.98,1,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-06T11:59:17+0000,52.123.138.200,26,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-06T12:02:55+0000,192.34.57.190,22,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-07-06T12:08:06+0000,184.73.28.43,1,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-06T12:08:58+0000,73.230.115.35,1,United States,US,PA,Pennsylvania,Moscow,18444,41.3462,-75.5327,America/New_York,"Comcast Cable Communications, LLC","Comcast IP Services, L.L.C.","AS7922 Comcast Cable Communications, LLC"
+2024-07-06T11:50:43+0000,89.58.41.251,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
+2024-07-06T12:04:00+0000,87.236.176.82,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
+2024-07-06T12:07:39+0000,192.133.77.14,32,United States,US,CA,California,San Francisco,94103,37.7766,-122.417,America/Los_Angeles,Twitter Inc.,Twitter Inc,AS13414 Twitter Inc.
+2024-07-06T12:12:31+0000,67.38.10.130,1,United States,US,FL,Florida,Fort Lauderdale,33301,26.1167,-80.1286,America/New_York,"AT&T Services, Inc.",PPPoX pool Rback6 SFLDMI,"AS7018 AT&T Services, Inc."
