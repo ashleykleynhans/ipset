@@ -2955,3 +2955,42 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T06:46:06+0000,154.16.49.72,100,United States,US,DC,District of Columbia,Washington,56972,38.894,-77.0365,America/New_York,AS174,,AS174 Cogent Communications
 2024-07-06T06:53:36+0000,193.118.52.30,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Zenlayer Inc,Zenlayer Inc,AS21859 Zenlayer Inc
 2024-07-06T07:02:40+0000,172.169.191.210,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-06T07:07:01+0000,182.52.236.13,59,Thailand,TH,10,Bangkok,Khwaeng Thung Song Hong,10210,13.8941,100.584,Asia/Bangkok,TOT Public Company Limited,Addresses for,AS23969 TOT Public Company Limited
+2024-07-06T07:13:45+0000,191.101.217.44,1,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-06T07:15:35+0000,172.169.206.224,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-06T07:18:34+0000,43.130.37.62,100,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-06T07:27:41+0000,146.70.59.135,23,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL
+2024-07-06T07:32:30+0000,80.82.77.33,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,IP Volume inc,AS202425 IP Volume inc
+2024-07-06T07:35:24+0000,148.153.56.82,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,"CDS Global Cloud Co., Ltd","CDS Global Cloud Co., Ltd","AS63199 CDS Global Cloud Co., Ltd"
+2024-07-06T07:39:17+0000,157.245.110.34,17,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-06T07:54:55+0000,185.108.107.133,41,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hostroyale Finland,,AS51765 Oy Crea Nova Hosting Solution Ltd
+2024-07-06T08:13:24+0000,46.182.4.118,53,France,FR,PAC,Provence-Alpes-Côte d'Azur,Marseille,13000,43.2965,5.36978,Europe/Paris,Hosteur SAS,TDF Cl04,AS204818 HOSTEUR SAS
+2024-07-06T08:16:04+0000,185.184.200.38,9,Germany,DE,BY,Bavaria,Nuremberg,90403,49.4521,11.0767,Europe/Berlin,Bvps,Ibraheem Massalha,AS42366 TerraTransit AG
+2024-07-06T08:48:46+0000,165.154.51.221,100,Thailand,TH,10,Bangkok,Bangkok,10200,13.8054,100.6751,Asia/Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-06T08:48:47+0000,101.36.108.133,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-06T08:54:22+0000,199.45.154.118,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T08:54:41+0000,181.214.218.161,49,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-06T08:56:00+0000,138.199.56.243,10,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdnext PRG,AS212238 Datacamp Limited
+2024-07-06T09:05:25+0000,80.249.90.174,13,Belarus,BY,HM,Minsk City,Minsk,220004,53.9006,27.559,Europe/Minsk,Business network jv,Business network LTD,AS12406 Business Network Ltd
+2024-07-06T09:05:25+0000,83.171.251.149,11,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Tefincom S.A.,Ipxo Limited,AS136787 TEFINCOM S.A.
+2024-07-06T09:05:27+0000,57.129.37.171,11,Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS
+2024-07-06T09:05:27+0000,195.64.239.87,22,Ukraine,UA,51,Odessa,Odesa,65000,46.4752,30.7338,Europe/Kyiv,TELECOMTRADE,,AS211250 TELECOM TRADE LLC
+2024-07-06T09:05:34+0000,81.25.79.90,24,Russia,RU,KYA,Krasnoyarsk Krai,Krasnoyarsk,660000,56.0133,92.7885,Asia/Krasnoyarsk,Orion Telecom LLC,Orion Telecom LLC,AS31257 Orion Telecom LLC
+2024-07-06T09:05:23+0000,109.110.73.118,30,Ukraine,UA,40,Sebastopol City,Sevastopol,90022,44.6089,33.53,Europe/Simferopol,Lancom Ltd.,Lancom Ltd,AS35816 Lancom Ltd.
+2024-07-06T09:05:23+0000,81.25.71.13,11,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,MCS LLC,MCS LLC,AS47204 MCS LLC
+2024-07-06T09:05:24+0000,178.151.218.24,26,Ukraine,UA,30,Kyiv City,Kyiv,02175,50.458,30.5303,Europe/Kyiv,Triolan,,AS13188 CONTENT DELIVERY NETWORK LTD
+2024-07-06T09:05:25+0000,193.238.32.241,11,Ukraine,UA,18,Zhytomyr,Korosten,11500,50.9588,28.6261,Europe/Kyiv,Dataline LLC,Dataline LLC,AS35297 Dataline LLC
+2024-07-06T09:05:28+0000,165.231.33.178,22,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Orion Network Limited,Fiber Grid,AS41564 Orion Network Limited
+2024-07-06T09:05:31+0000,37.205.114.60,1,Iraq,IQ,BG,Baghdad,Baghdad,,33.3364,44.4004,Asia/Baghdad,Super Cell Network for Internet Services LTD,Information Zone Company Internet & Computer Services - Ltd. Co,AS201749 SUPER CELL NETWORK FOR INTERNET SERVICES LTD
+2024-07-06T09:06:08+0000,3.15.156.29,1,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-06T09:16:59+0000,95.181.236.158,23,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
+2024-07-06T09:18:15+0000,167.71.112.5,80,United States,US,CA,California,Santa Clara,95051,37.3417,-121.9753,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-06T09:31:10+0000,35.196.209.100,36,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC
+2024-07-06T09:35:46+0000,65.49.1.52,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-06T09:39:33+0000,194.32.122.7,31,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-06T09:43:22+0000,191.101.217.58,35,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-06T09:36:54+0000,44.193.75.27,1,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-06T09:42:30+0000,45.80.158.236,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-06T09:56:46+0000,13.79.89.45,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-06T10:33:34+0000,1.145.102.16,10,Australia,AU,NSW,New South Wales,Sydney,2046,-33.8582,151.127,Australia/Sydney,Telstra Limited,Telstra Corporation,AS1221 Telstra Limited
+2024-07-06T10:47:29+0000,82.165.74.190,40,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,IONOS,,AS8560 IONOS SE
