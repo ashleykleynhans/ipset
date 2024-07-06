@@ -3027,3 +3027,29 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T17:28:21+0000,91.219.239.189,74,Hungary,HU,BU,Budapest,Budapest,1011,47.5636,19.0947,Europe/Budapest,ServerAstra Kft.,ServerAstra Kft,AS56322 ServerAstra Kft.
 2024-07-06T17:29:42+0000,206.168.34.123,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
 2024-07-06T17:30:15+0000,206.168.34.125,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-06T17:33:37+0000,139.177.189.68,24,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-06T17:28:05+0000,206.168.34.51,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-06T17:47:13+0000,43.130.7.211,95,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-06T17:47:20+0000,129.226.147.7,94,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-06T17:52:34+0000,130.245.32.94,18,United States,US,NY,New York,Stony Brook,11790,40.9076,-73.122,America/New_York,State University of New York at Stony Brook,State University of New York at Stony Brook,AS5719 State University of New York at Stony Brook
+2024-07-06T17:55:24+0000,206.168.34.208,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-06T17:57:55+0000,199.45.155.103,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T18:04:40+0000,103.60.233.11,100,Indonesia,ID,JB,West Java,Cimahi,,-6.89529,107.542,Asia/Jakarta,CIGS,,AS150504 PT CIGS Indonesia Digital
+2024-07-06T18:34:35+0000,181.215.176.121,8,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-06T18:40:16+0000,199.45.154.137,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T18:43:28+0000,206.168.34.33,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-06T18:56:48+0000,34.1.37.127,19,Qatar,QA,DA,Baladīyat ad Dawḩah,Doha,,25.2854,51.531,Asia/Qatar,Google LLC,Google Cloud,AS15169 Google LLC
+2024-07-06T19:20:24+0000,3.235.243.201,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-06T19:27:05+0000,34.66.213.53,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-06T20:41:13+0000,45.94.31.141,100,Netherlands,NL,NH,North Holland,Amsterdam,,52.36,4.855,Europe/Amsterdam,1337 Services GmbH,,AS210558 1337 Services GmbH
+2024-07-06T20:47:08+0000,207.90.244.14,100,United States,US,TX,Texas,Pflugerville,78660,30.4515,-97.5774,America/Chicago,Cogent Communications,"SHODAN, LLC",AS174 Cogent Communications
+2024-07-06T20:49:27+0000,149.248.79.156,42,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,BL Networks,BL Networks,AS399629 BL Networks
+2024-07-06T20:59:14+0000,139.177.233.188,25,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
+2024-07-06T20:59:14+0000,147.160.184.95,22,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
+2024-07-06T20:59:14+0000,147.160.184.151,23,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.
+2024-07-06T20:59:52+0000,199.45.154.129,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T21:00:07+0000,199.45.154.150,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T21:04:33+0000,23.137.104.134,57,United States,US,FL,Florida,Miami,33101,25.7689,-80.1946,America/New_York,Advin Services LLC,Advin Services LLC,AS206216 Advin Services LLC
+2024-07-06T19:57:24+0000,20.163.10.0,11,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
+2024-07-06T21:16:04+0000,34.27.110.105,10,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-06T21:25:23+0000,199.45.155.82,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."

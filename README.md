@@ -95,7 +95,7 @@ python3 find_duplicates.py
 ## Generate a pie chart from the list of Malicious IP Addresses
 
 ```bash
-python3 generate_pie_chart.py
+python3 generate_pie_chart.py --field Country
 ```
 
 ## Community and Contributing
