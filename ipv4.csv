@@ -3053,3 +3053,71 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T19:57:24+0000,20.163.10.0,11,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
 2024-07-06T21:16:04+0000,34.27.110.105,10,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-06T21:25:23+0000,199.45.155.82,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T21:33:53+0000,199.45.154.133,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T21:47:54+0000,199.45.154.116,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T22:01:39+0000,93.90.74.31,100,Germany,DE,BW,Baden-Wurttemberg,Wernau,73249,48.6954,9.41833,Europe/Berlin,Smartnet Limited,Alexander Fiedler,AS203446 SMARTNET LIMITED
+2024-07-06T22:01:40+0000,109.70.100.1,100,Austria,AT,9,Vienna,Vienna,1040,48.1946,16.3684,Europe/Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,AS208323 Foundation for Applied Privacy
+2024-07-06T22:01:41+0000,185.220.101.156,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,CIA TRIAD SECURITY LLC,AS60729 Stiftung Erneuerbare Freiheit
+2024-07-06T22:01:52+0000,185.220.103.6,100,United States,US,NY,New York,Brooklyn,11232,40.6561,-74.0078,America/New_York,The Calyx Institute,The Calyx Institute,AS4224 The Calyx Institute
+2024-07-06T22:14:44+0000,45.133.173.49,10,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-07-06T22:15:55+0000,165.154.120.223,100,Thailand,TH,10,Bangkok,Bangkok,10200,13.8054,100.6751,Asia/Bangkok,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-06T22:28:16+0000,45.156.130.8,100,United States,US,AZ,Arizona,Phoenix,85001,33.4484,-112.074,America/Phoenix,"NSEC - Sistemas Informaticos, S.A.",Inap PHX,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-07-06T22:38:47+0000,103.221.57.122,10,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,DZCRD Networks Ltd,DZCRD Networks Ltd,AS132817 DZCRD Networks Ltd
+2024-07-06T22:39:09+0000,185.210.207.200,34,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,UAB code200,UAB code200,AS209709 UAB code200
+2024-07-06T22:49:44+0000,199.45.154.117,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-06T22:50:53+0000,103.153.3.242,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2008,106.799,Asia/Jakarta,PT Dewa Bisnis Digital,PT Centra Telesindo Multimedia,AS140389 PT Dewa Bisnis Digital
+2024-07-06T23:07:56+0000,207.90.244.2,100,United States,US,TX,Texas,Pflugerville,78660,30.4515,-97.5774,America/Chicago,Cogent Communications,"SHODAN, LLC",AS174 Cogent Communications
+2024-07-06T23:38:38+0000,46.249.98.146,31,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BitCommand LLC,Deployish Limited,AS212552 BitCommand LLC
+2024-07-07T00:03:09+0000,188.126.89.113,27,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
+2024-07-07T00:13:08+0000,91.226.178.160,100,Russia,RU,TYU,Tyumen Oblast,Tyumen,625000,57.1479,65.5505,Asia/Yekaterinburg,Agentstvo ofisnyih tehnologiy INFOLINE Ltd.,Agentstvo ofisnyih tehnologiy INFOLINE Ltd,AS203805 Agentstvo ofisnyih tehnologiy INFOLINE Ltd.
+2024-07-07T00:13:36+0000,181.214.173.90,31,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-07T00:15:03+0000,72.167.253.29,51,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
+2024-07-07T00:15:44+0000,147.185.132.239,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-07T00:35:32+0000,199.45.155.86,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-07T00:51:40+0000,149.248.78.99,75,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,BL Networks,BL Networks,AS399629 BL Networks
+2024-07-07T00:57:43+0000,79.110.62.184,67,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.
+2024-07-07T01:34:02+0000,34.118.159.5,19,Canada,CA,QC,Quebec,Montreal,,45.5016,-73.5672,America/Toronto,Google LLC,Google Cloud (northamerica-northeast1),AS396982 Google LLC
+2024-07-07T01:31:07+0000,68.235.52.68,100,United States,US,IL,Illinois,Chicago,,41.8781,-87.6297,America/Chicago,"tzulo, inc.",AirVPN.org exit server (Praecipua),"AS11878 tzulo, inc."
+2024-07-07T01:39:31+0000,71.6.199.23,100,United States,US,CA,California,San Diego,92123,32.8296,-117.134,America/Los_Angeles,"CariNet, Inc.","CariNet, Inc.","AS10439 CariNet, Inc."
+2024-07-07T01:32:25+0000,199.45.155.91,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-07T01:46:01+0000,43.136.17.87,95,China,CN,BJ,Beijing,Haidian,,39.9786,116.302,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-07-07T01:51:55+0000,34.135.168.190,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-07T01:46:09+0000,172.169.1.85,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-07T02:12:54+0000,221.8.171.249,12,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-07T02:16:24+0000,35.239.143.245,31,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-07T02:22:25+0000,45.156.128.49,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,"NSEC - Sistemas Informaticos, S.A.",Inap AMS,"AS211680 NSEC - Sistemas Informaticos, S.A."
+2024-07-07T02:27:10+0000,94.182.172.194,77,Iran,IR,23,Tehran,Tehran,,35.7838,51.4361,Asia/Tehran,SHATEL Network,SHTL-NET-DED,AS31549 Aria Shatel Company Ltd
+2024-07-07T02:28:06+0000,65.49.1.30,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T02:29:09+0000,178.212.35.142,100,India,IN,MH,Maharashtra,Mumbai,400710,19.0748,72.8856,Asia/Kolkata,Contabo Asia Private Limited,Contabo GmbH,AS141995 Contabo Asia Private Limited
+2024-07-07T02:09:18+0000,13.88.19.25,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-07T02:35:34+0000,79.110.62.216,64,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.
+2024-07-07T02:37:53+0000,65.49.1.29,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T02:41:23+0000,65.49.1.36,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T02:32:59+0000,65.49.1.25,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T02:42:49+0000,65.49.1.32,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T02:53:40+0000,192.104.34.34,60,United States,US,MN,Minnesota,Minnetonka Mills,55345,44.9354,-93.4675,America/Chicago,US Internet Corp,"ProcessBolt, Inc.",AS10242 US Internet Corp
+2024-07-07T03:09:46+0000,91.243.50.206,100,Russia,RU,SPE,St.-Petersburg,St Petersburg,,59.8761,30.4339,Europe/Moscow,Petersburg Internet Network ltd,PIN DC,AS34665 Petersburg Internet Network ltd.
+2024-07-07T03:19:04+0000,110.154.97.10,25,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-07T03:27:20+0000,206.168.34.216,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-07T03:29:24+0000,35.205.205.158,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-07T03:46:53+0000,35.168.36.33,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-07T03:51:27+0000,84.239.40.252,35,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
+2024-07-07T04:04:04+0000,180.110.243.34,49,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-07-07T04:08:39+0000,139.211.28.75,8,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-07T03:59:05+0000,88.99.28.94,45,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
+2024-07-07T04:20:19+0000,78.153.140.224,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,LLC Company Interlan Communications,AS202306 HOSTGLOBAL.PLUS LTD
+2024-07-07T04:10:15+0000,149.248.77.139,59,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,BL Networks,BL Networks,AS399629 BL Networks
+2024-07-07T04:31:14+0000,206.238.221.46,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Tcloudnet,"Tcloudnet, Inc",AS399077 Tcloudnet
+2024-07-07T04:44:04+0000,185.51.134.88,22,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-07-07T04:49:44+0000,110.154.99.133,25,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-07T05:12:34+0000,64.62.197.237,100,United States,US,OR,Oregon,Mosier,97040,45.6514,-121.3833,America/Los_Angeles,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
+2024-07-07T05:20:54+0000,3.85.241.112,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-07T05:21:30+0000,184.105.247.196,100,United States,US,CA,California,San Francisco,94119,37.7749,-122.419,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T05:13:06+0000,64.62.197.240,100,United States,US,OR,Oregon,Mosier,97040,45.6514,-121.3833,America/Los_Angeles,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
+2024-07-07T04:53:54+0000,206.168.34.114,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-07T05:48:56+0000,84.239.40.198,17,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
+2024-07-07T05:47:50+0000,152.32.228.20,100,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+2024-07-07T06:19:23+0000,43.159.63.75,98,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Shenzhen Tencent Computer Systems Company Limited,Aceville Pte.ltd,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-07T06:21:54+0000,173.244.35.68,10,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,LogicWeb Inc.,Tesonet,AS64286 LogicWeb Inc.
+2024-07-07T06:34:53+0000,74.82.47.3,100,United States,US,CA,California,Milpitas,95035,37.4352,-121.899,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
+2024-07-07T06:27:03+0000,104.219.42.76,91,United States,US,PA,Pennsylvania,Philadelphia,19103,39.9557,-75.1698,America/New_York,IONOS SE,IONOS Inc,AS8560 IONOS SE
