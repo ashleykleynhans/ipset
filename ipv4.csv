@@ -3181,7 +3181,4 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-07T17:49:20+0000,31.220.0.86,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,AS206264 Amarutu Technology Ltd
 2024-07-07T17:59:44+0000,43.159.128.149,100,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
 2024-07-07T18:05:09+0000,129.226.158.156,34,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue"
-2024-07-07T16:32:25+0000,152.42.250.252,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-07-07T16:35:13+0000,204.8.98.55,93,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Quintex Alliance Consulting,AirVPN.org exit server (Mensa),AS62744 Quintex Alliance Consulting
-2024-07-07T16:42:34+0000,199.45.154.157,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
-2024-07-07T17:11:50+0000,85.239.33.117,100,Moldova,MD,CU,Chișinău Municipality,Chisinau,MD-2000,47.0042,28.8574,Europe/Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL
+2024-07-07T18:28:11+0000,138.197.80.182,28,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
