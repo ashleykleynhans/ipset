@@ -3182,3 +3182,47 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-07T17:59:44+0000,43.159.128.149,100,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
 2024-07-07T18:05:09+0000,129.226.158.156,34,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue"
 2024-07-07T18:28:11+0000,138.197.80.182,28,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-07-07T18:42:07+0000,199.45.154.159,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-07T19:00:25+0000,34.38.151.7,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-07T19:31:27+0000,103.18.35.72,19,Indonesia,ID,JT,Central Java,Purwokerto,,-7.4245,109.2302,Asia/Jakarta,PT. Indonesia Comnet Plus,,AS9341 PT Indonesia Comnets Plus
+2024-07-07T19:31:34+0000,185.241.149.213,26,United States,US,TX,Texas,Dallas,75247,32.8137,-96.8704,America/Chicago,Tier.Net Technologies LLC,,AS397423 Tier.Net Technologies LLC
+2024-07-07T19:58:01+0000,62.76.142.129,100,Russia,RU,MOW,Moscow,Moscow,,55.8233,37.6906,Europe/Moscow,Chernyshov Aleksandr Aleksandrovich,Qwarta LLC,AS202984 Chernyshov Aleksandr Aleksandrovich
+2024-07-07T19:59:15+0000,20.234.33.96,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-07T20:14:00+0000,94.253.177.98,11,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,XNET-CABLE,,AS31012 A1 Hrvatska d.o.o.
+2024-07-07T20:18:30+0000,164.90.142.137,71,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-07T20:14:08+0000,193.118.52.22,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Zenlayer Inc,Zenlayer Inc,AS21859 Zenlayer Inc
+2024-07-07T18:12:15+0000,34.87.233.35,11,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS396982 Google LLC
+2024-07-07T21:16:11+0000,111.7.100.33,85,China,CN,GD,Guangdong,Guangzhou,510000,23.1317,113.266,Asia/Shanghai,China Mobile communications corporation,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-07T22:05:36+0000,152.53.39.3,19,United States,US,VA,Virginia,Manassas,20110,38.7475,-77.5317,America/New_York,netcup GmbH,netcup GmbH,AS214996 netcup GmbH
+2024-07-07T21:51:59+0000,206.71.149.98,60,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,BL Networks,BL Networks,AS399629 BL Networks
+2024-07-07T22:29:16+0000,216.24.212.35,33,United States,US,AZ,Arizona,Phoenix,85001,33.4484,-112.074,America/Phoenix,Clouvider Limited,IPXO,AS62240 Clouvider
+2024-07-07T22:44:41+0000,34.173.12.125,10,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-07T22:51:59+0000,68.168.31.196,12,United Kingdom,GB,ENG,England,London,,51.5123,-0.0909,Europe/London,GTHost,OBJX Networks,AS63023 GTHost
+2024-07-07T22:52:55+0000,159.65.160.26,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-07T23:34:52+0000,45.83.123.225,30,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,IT WEB LTD,LXD,AS200313 IT WEB LTD
+2024-07-08T00:06:56+0000,44.222.134.117,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T00:39:28+0000,52.81.208.114,95,China,CN,BJ,Beijing,Beijing,,39.9288,116.3889,Asia/Shanghai,Beijing Guanghuan Xinwang Digital,AWS EC2 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital
+2024-07-08T00:40:13+0000,52.81.60.5,68,China,CN,BJ,Beijing,Beijing,,39.9288,116.3889,Asia/Shanghai,Beijing Guanghuan Xinwang Digital,AWS EC2 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital
+2024-07-08T00:41:27+0000,52.81.237.92,71,China,CN,BJ,Beijing,Beijing,,39.9288,116.3889,Asia/Shanghai,Beijing Guanghuan Xinwang Digital,AWS EC2 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital
+2024-07-08T00:42:14+0000,52.81.249.147,98,China,CN,BJ,Beijing,Beijing,,39.9288,116.3889,Asia/Shanghai,Beijing Guanghuan Xinwang Digital,AWS EC2 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital
+2024-07-08T00:42:27+0000,54.223.89.173,72,China,CN,BJ,Beijing,Beijing,,39.9288,116.3889,Asia/Shanghai,Beijing Guanghuan Xinwang Digital,AWS EC2 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital
+2024-07-08T00:46:18+0000,223.113.128.137,100,China,CN,JS,Jiangsu,Suzhou,215000,31.2983,120.583,Asia/Shanghai,China Mobile communications corporation,China Mobile,AS56046 China Mobile communications corporation
+2024-07-08T00:48:07+0000,106.75.100.92,69,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
+2024-07-08T01:15:10+0000,36.182.48.100,45,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-08T01:22:26+0000,223.113.128.132,100,China,CN,JS,Jiangsu,Suzhou,215000,31.2983,120.583,Asia/Shanghai,China Mobile communications corporation,China Mobile,AS56046 China Mobile communications corporation
+2024-07-08T01:24:56+0000,106.75.66.103,53,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
+2024-07-08T01:25:28+0000,106.75.100.73,64,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
+2024-07-08T01:27:31+0000,165.231.182.145,35,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-07-08T01:31:33+0000,217.160.45.31,16,Germany,DE,NW,North Rhine-Westphalia,Essen,45127,51.4556,7.01156,Europe/Berlin,IONOS SE,IONOS SE,AS8560 IONOS SE
+2024-07-08T01:48:30+0000,87.236.176.140,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-08T01:58:39+0000,212.227.81.71,29,Germany,DE,BW,Baden-Wurttemberg,Karlsruhe,76137,48.9921,8.40221,Europe/Berlin,IONOS SE,IONOS SE,AS8560 IONOS SE
+2024-07-08T01:33:33+0000,54.215.254.136,12,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc."
+2024-07-08T02:36:03+0000,181.214.206.9,19,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Ipxo,AS3257 GTT Communications Inc.
+2024-07-08T02:52:04+0000,18.246.243.148,100,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-08T03:21:59+0000,8.220.138.35,26,Philippines,PH,00,Metro Manila,Manila,1003,14.6019,120.9896,Asia/Manila,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd."
+2024-07-08T03:35:55+0000,52.81.203.9,84,China,CN,BJ,Beijing,Beijing,,39.9288,116.3889,Asia/Shanghai,Beijing Guanghuan Xinwang Digital,AWS EC2 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital
+2024-07-08T04:00:40+0000,178.20.55.16,100,France,FR,IDF,Île-de-France,Paris,75012,48.8323,2.4075,Europe/Paris,Ielo-liazo Services SAS,Association Nos Oignons,AS29075 IELO-LIAZO SERVICES SAS
+2024-07-08T04:00:42+0000,45.11.59.28,78,United States,US,WA,Washington,Seattle,98111,47.6062,-122.332,America/Los_Angeles,SOLLUTIUM EU Sp z.o.o.,US1 Sollutium VPS,AS43641 SOLLUTIUM EU Sp z.o.o.
+2024-07-08T04:44:23+0000,185.108.107.160,23,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hostroyale Finland,,AS51765 Oy Crea Nova Hosting Solution Ltd
+2024-07-08T04:59:01+0000,100.24.209.219,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T05:10:53+0000,52.169.237.78,41,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
