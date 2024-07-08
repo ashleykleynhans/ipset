@@ -3,3 +3,4 @@ python-dotenv
 pytz
 pandas
 matplotlib
+redis
