@@ -13,6 +13,8 @@ def get_args():
         '--field', '-field', '--f', '-f',
         type=str,
         required=True,
+        choices=('Country', 'Country Code', 'Region', 'Region Name', 'City', 'ZIP',
+                 'Latitude', 'Longitude', 'Timezone', 'ISP', 'Organization', 'AS'),
         help='CSV Field (eg. Country)'
     )
 
