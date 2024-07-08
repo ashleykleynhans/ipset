@@ -3226,3 +3226,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-08T04:44:23+0000,185.108.107.160,23,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hostroyale Finland,,AS51765 Oy Crea Nova Hosting Solution Ltd
 2024-07-08T04:59:01+0000,100.24.209.219,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-08T05:10:53+0000,52.169.237.78,41,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-08T05:49:56+0000,165.231.182.151,28,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Orion Network Limited,Fiber Grid,AS58065 Orion Network Limited
+2024-07-08T05:55:27+0000,85.203.21.210,41,Singapore,SG,03,North West,Singapore,,1.43819,103.789,Asia/Singapore,EXPRESS,VPN-Consumer-Network,AS206092 Internet Utilities Europe and Asia Limited
+2024-07-08T06:02:35+0000,147.185.132.92,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T06:07:03+0000,35.89.17.132,28,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-08T06:22:36+0000,152.42.190.149,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-07-08T06:45:29+0000,50.87.216.108,30,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-07-08T06:45:35+0000,147.185.132.79,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T06:54:22+0000,91.92.250.96,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-08T06:59:44+0000,165.154.206.250,100,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Scloud Pte Ltd,Scloud Pte Ltd,AS142002 Scloud Pte Ltd
+2024-07-08T07:03:46+0000,136.144.43.64,9,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,"VPN Consumer Dallas, United States of America",AS396356 Latitude.sh
+2024-07-08T07:03:46+0000,136.144.43.82,11,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,"VPN Consumer Dallas, United States of America",AS396356 Latitude.sh
+2024-07-08T07:03:47+0000,136.144.43.77,16,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,"VPN Consumer Dallas, United States of America",AS396356 Latitude.sh
+2024-07-08T07:23:08+0000,207.244.247.99,93,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC"
+2024-07-08T07:41:26+0000,45.119.84.79,71,Vietnam,VN,SG,Ho Chi Minh,Quan Mot,,10.79,106.711,Asia/Ho_Chi_Minh,Long Van System Solution JSC,Lvss,AS131386 Long Van System Solution JSC
+2024-07-08T07:47:52+0000,69.163.140.7,35,United States,US,CA,California,Brea,92821,33.9339,-117.8854,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
+2024-07-08T07:57:30+0000,34.42.19.51,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-08T06:22:36+0000,152.42.190.149,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
+2024-07-08T06:45:29+0000,50.87.216.108,30,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
+2024-07-08T06:54:22+0000,91.92.250.96,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-08T06:59:44+0000,165.154.206.250,100,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Scloud Pte Ltd,Scloud Pte Ltd,AS142002 Scloud Pte Ltd
+2024-07-08T07:03:46+0000,136.144.43.64,9,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,"VPN Consumer Dallas, United States of America",AS396356 Latitude.sh
+2024-07-08T07:03:46+0000,136.144.43.82,11,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,"VPN Consumer Dallas, United States of America",AS396356 Latitude.sh
+2024-07-08T07:03:47+0000,136.144.43.77,16,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,"VPN Consumer Dallas, United States of America",AS396356 Latitude.sh
+2024-07-08T07:41:26+0000,45.119.84.79,71,Vietnam,VN,SG,Ho Chi Minh,Quan Mot,,10.79,106.711,Asia/Ho_Chi_Minh,Long Van System Solution JSC,Lvss,AS131386 Long Van System Solution JSC
+2024-07-08T07:47:52+0000,69.163.140.7,35,United States,US,CA,California,Brea,92821,33.9339,-117.8854,America/Los_Angeles,"New Dream Network, LLC","New Dream Network, LLC","AS26347 New Dream Network, LLC"
