@@ -3290,3 +3290,20 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-08T16:15:24+0000,102.129.145.39,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,AS174,DET Africa (Pty) LTD,AS174 Cogent Communications
 2024-07-08T17:00:15+0000,52.169.105.121,57,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
 2024-07-08T17:19:08+0000,219.79.34.180,100,Hong Kong,HK,HEA,Eastern,Causeway Bay,96521,22.286,114.191,Asia/Hong_Kong,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited
+2024-07-08T18:11:26+0000,195.78.54.150,17,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-07-08T18:20:54+0000,54.221.10.118,55,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T18:42:35+0000,52.169.109.203,35,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-08T18:31:03+0000,182.40.104.255,100,China,CN,SD,Shandong,Jinan,250000,36.6683,117.021,Asia/Shanghai,China Telecom,Chinanet SD,"AS136195 Qingdao, Shandong Province, P.R.China."
+2024-07-08T19:12:23+0000,185.242.226.88,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,AI Spera,AS202425 IP Volume inc
+2024-07-08T19:26:50+0000,46.226.163.102,39,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD
+2024-07-08T19:39:40+0000,147.185.132.246,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T19:50:21+0000,77.90.185.17,100,Germany,DE,BY,Bavaria,Augsburg,86161,48.3506,10.9114,Europe/Berlin,Inside Network LTD,Inside Network LTD,AS215476 Inside Network LTD
+2024-07-08T20:09:03+0000,52.187.180.143,100,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-07-08T20:00:58+0000,147.185.132.70,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T20:01:02+0000,147.185.132.78,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T20:02:25+0000,147.185.132.132,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T20:12:00+0000,13.64.108.46,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-08T20:34:48+0000,107.189.8.19,100,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,FranTech Solutions,BuyVM,AS53667 FranTech Solutions
+2024-07-08T19:18:09+0000,147.185.132.234,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T19:49:36+0000,147.185.132.19,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-08T20:20:50+0000,147.185.132.31,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
