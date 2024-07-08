@@ -1153,7 +1153,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T05:54:38+0000,47.88.5.56,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
 2024-06-27T05:54:44+0000,47.88.90.156,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
 2024-06-27T05:55:41+0000,47.251.15.21,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,Alibaba Cloud LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
-2024-06-27T05:37:30+0000,102.129.145.39,99,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,AS174,DET Africa (Pty) LTD,AS174 Cogent Communications
 2024-06-27T06:02:20+0000,47.88.86.63,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
 2024-06-27T06:35:59+0000,178.128.53.14,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
 2024-06-27T05:56:56+0000,47.88.94.161,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,Alibaba.com LLC,ALICLOUD-US,"AS45102 Alibaba (US) Technology Co., Ltd."
@@ -3265,3 +3264,29 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-08T10:50:50+0000,3.12.251.153,58,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
 2024-07-08T10:52:55+0000,52.22.236.30,62,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-08T11:08:18+0000,52.15.147.27,67,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-08T11:10:51+0000,34.31.243.190,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-08T11:13:42+0000,18.116.205.62,53,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-08T11:35:09+0000,4.151.38.164,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-08T11:47:47+0000,44.220.185.62,61,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T11:48:51+0000,34.198.201.66,70,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T11:51:35+0000,172.206.143.215,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-08T12:04:35+0000,38.88.124.142,50,Canada,CA,BC,British Columbia,Vancouver,V5Z,49.2476,-123.1234,America/Vancouver,Tech Futures Interactive Inc.,Tech Futures Interactive Inc,AS394256 Tech Futures Interactive Inc.
+2024-07-08T12:30:10+0000,62.146.237.248,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Contabo Asia Private Limited,Contabo GmbH,AS141995 Contabo Asia Private Limited
+2024-07-08T12:37:05+0000,3.215.176.113,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T12:47:05+0000,54.167.223.174,63,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T13:03:17+0000,35.203.252.231,12,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-08T13:03:39+0000,3.212.128.62,61,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T13:09:51+0000,36.150.60.24,100,China,CN,JS,Jiangsu,Qinnan,,33.1402,119.789,Asia/Shanghai,China Mobile Communications Corporation,China Mobile Communications Corporation,AS56046 China Mobile communications corporation
+2024-07-08T13:33:58+0000,34.133.89.11,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-08T13:44:02+0000,172.81.132.106,45,United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,America/New_York,DataWagon LLC,DataWagon LLC,AS27176 DataWagon LLC
+2024-07-08T14:10:10+0000,181.214.218.243,24,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-08T14:13:16+0000,35.202.222.157,23,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-08T15:48:52+0000,154.83.17.194,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Yisu Cloud LTD,Yisu,AS142403 YISU CLOUD LTD
+2024-07-08T15:49:11+0000,94.245.128.169,14,Russia,RU,SA,Sakha,Yakutsk,677000,62.0313,129.7325,Asia/Yakutsk,Sakhatelecom,,AS12389 PJSC Rostelecom
+2024-07-08T15:49:09+0000,80.93.117.205,41,Ukraine,UA,12,Dnipropetrovsk Oblast,Apostolove,53802,47.6591,33.719,Europe/Kyiv,Eurotranstelecom Ltd,ETT KV1,AS35320 Eurotranstelecom Ltd
+2024-07-08T15:50:01+0000,35.187.125.4,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-08T15:57:01+0000,44.220.188.17,56,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-08T15:49:10+0000,5.183.131.38,28,Russia,RU,KDA,Krasnodar Krai,Krasnodar,350000,45.0355,38.975,Europe/Moscow,Rustel LLC,Rustel LLC,AS56985 RUSTEL LLC
+2024-07-08T16:15:24+0000,102.129.145.39,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,AS174,DET Africa (Pty) LTD,AS174 Cogent Communications
+2024-07-08T17:00:15+0000,52.169.105.121,57,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-08T17:19:08+0000,219.79.34.180,100,Hong Kong,HK,HEA,Eastern,Causeway Bay,96521,22.286,114.191,Asia/Hong_Kong,Hong Kong Telecommunications (HKT) Limited Mass Internet,Hong Kong Telecommunications (HKT) Limited,AS4760 HKT Limited
