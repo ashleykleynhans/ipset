@@ -3375,3 +3375,14 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-09T14:10:01+0000,4.151.230.108,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
 2024-07-09T14:36:47+0000,54.69.137.14,11,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
 2024-07-09T14:38:50+0000,185.220.101.22,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,Artikel10 e.V,AS60729 Stiftung Erneuerbare Freiheit
+2024-07-09T14:46:58+0000,34.213.244.172,100,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-09T15:19:28+0000,34.27.136.32,17,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-09T15:33:45+0000,103.180.179.36,21,India,IN,RJ,Rajasthan,Udaipur,313001,24.5854,73.7141,Asia/Kolkata,Multinet (Udaipur) Private Limited,Rathore Cable and O F C Networks Private Limited,AS133469 Multinet (Udaipur) Private Limited
+2024-07-09T16:37:45+0000,59.42.123.8,75,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE
+2024-07-09T16:42:36+0000,45.141.87.4,19,Russia,RU,SPE,St.-Petersburg,St Petersburg,190005,59.8898,30.3161,Europe/Moscow,Media Land LLC,MediaLand,AS206728 Media Land LLC
+2024-07-09T16:48:25+0000,180.110.242.106,91,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-07-09T16:52:44+0000,170.205.30.85,76,United States,US,CA,California,Los Angeles,90009,34.0544,-118.2441,America/Los_Angeles,Advin Services LLC,Advin Services LLC,AS206216 Advin Services LLC
+2024-07-09T16:56:11+0000,34.44.167.144,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-09T17:05:37+0000,188.126.89.10,31,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,CyberGhost SRL,AS42708 GleSYS AB
+2024-07-09T17:06:08+0000,13.250.55.71,37,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
+2024-07-09T17:07:31+0000,18.139.115.239,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
