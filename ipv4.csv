@@ -3350,3 +3350,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-09T09:36:47+0000,8.29.154.51,30,United States,US,MI,Michigan,Lansing,48917,42.6898,-84.6427,America/Detroit,"Liquid Web, L.L.C",Level 3,"AS36444 Liquid Web, L.L.C"
 2024-07-09T09:43:57+0000,110.154.97.171,51,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
 2024-07-09T09:50:19+0000,46.21.252.38,30,Russia,RU,MOW,Moscow,Moscow,109029,55.7483,37.6171,Europe/Moscow,Start LLC,StoreData retail,AS61400 Start LLC
+2024-07-09T10:00:57+0000,147.185.133.255,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-09T10:06:17+0000,107.178.239.193,9,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-09T10:06:19+0000,35.203.255.108,9,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-09T10:06:20+0000,107.178.238.57,9,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-09T10:25:08+0000,139.211.28.242,9,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-09T10:26:49+0000,31.177.95.182,11,Russia,RU,MOW,Moscow,Moscow,,55.7778,37.5029,Europe/Moscow,CENTER-HOSTING,JSC Ru-center,"AS48287 JSC ""RU-CENTER"""
+2024-07-09T10:21:42+0000,147.185.133.94,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-09T10:48:27+0000,184.154.46.44,73,United States,US,AZ,Arizona,Phoenix,85001,33.4484,-112.074,America/Phoenix,SingleHop LLC,SingleHop LLC,AS32475 SingleHop LLC
+2024-07-09T11:02:58+0000,104.223.62.198,11,United States,US,CA,California,Los Angeles,90014,34.0726,-118.261,America/Los_Angeles,QuadraNet Enterprises LLC,QuadraNet,AS8100 QuadraNet Enterprises LLC
+2024-07-09T11:11:34+0000,185.142.236.41,100,The Netherlands,NL,NH,North Holland,Amsterdam,1042,52.4019,4.8302,Europe/Amsterdam,Cogent Communications,BlackHOST Ltd.,AS174 Cogent Communications
+2024-07-09T11:18:10+0000,79.137.222.188,31,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,DINET-HOSTING,Hosting and Colocation Services,AS12695 LLC Digital Network
+2024-07-09T11:22:04+0000,104.209.34.159,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-09T11:25:43+0000,43.136.124.214,91,China,CN,BJ,Beijing,Haidian,,39.9786,116.302,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited
+2024-07-09T11:30:34+0000,199.195.253.124,100,United States,US,NY,New York,New York,10004,40.7038,-74.0138,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions
+2024-07-09T11:34:42+0000,117.72.41.175,100,China,CN,BJ,Beijing,Chaowai,,39.999,116.387,Asia/Shanghai,JDCOM,"Beijing Jingdong 360 Degree E-commerce Co., Ltd.",AS141679 China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
+2024-07-09T11:30:29+0000,80.94.92.106,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Unmanaged LTD,Pptechnology Limited,AS47890 UNMANAGED LTD
+2024-07-09T11:30:37+0000,91.219.237.56,100,Hungary,HU,BU,Budapest,Budapest,1011,47.5636,19.0947,Europe/Budapest,ServerAstra Kft.,ServerAstra Kft,AS56322 ServerAstra Kft.
+2024-07-09T11:30:35+0000,192.42.116.216,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.
+2024-07-09T12:13:55+0000,185.196.0.19,100,Malaysia,MY,14,Kuala Lumpur,Kuala Lumpur,,3.139,101.6868,Asia/Kuala_Lumpur,Cyberzone S.A.,,AS209854 Cyberzone S.A.
+2024-07-09T13:12:14+0000,51.8.223.81,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1166,8.6833,Europe/Berlin,Microsoft Germany,Microsoft Azure Cloud (germanycentral),AS8075 Microsoft Corporation
+2024-07-09T14:01:44+0000,185.100.85.23,93,Romania,RO,B,București,Bucharest,020335,44.4152,26.166,Europe/Bucharest,FlokiNET ehf,,AS200651 FlokiNET ehf
+2024-07-09T14:03:47+0000,35.239.92.58,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-09T14:10:01+0000,4.151.230.108,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-09T14:36:47+0000,54.69.137.14,11,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-09T14:38:50+0000,185.220.101.22,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,Artikel10 e.V,AS60729 Stiftung Erneuerbare Freiheit
