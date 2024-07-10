@@ -3434,3 +3434,18 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-10T04:36:44+0000,85.203.21.161,32,Singapore,SG,03,North West,Singapore,,1.43819,103.789,Asia/Singapore,EXPRESS,VPN-Consumer-Network,AS206092 Internet Utilities Europe and Asia Limited
 2024-07-10T04:43:02+0000,13.64.108.107,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
 2024-07-10T04:46:58+0000,13.94.103.53,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-10T05:12:57+0000,104.40.72.16,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-10T05:24:04+0000,191.101.217.76,11,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-10T06:09:55+0000,194.165.16.22,100,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.9206,23.9497,Europe/Vilnius,Flyservers S.A.,Flyservers S.A,AS48721 Flyservers S.A.
+2024-07-10T06:16:38+0000,110.154.99.167,35,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-10T06:32:21+0000,42.101.38.52,100,China,CN,HL,Heilongjiang,Harbin,150000,45.7421,126.663,Asia/Shanghai,China Telecom,Chinanet HL,"AS137698 Haerbing , Heilongjiang Province, P.R.China."
+2024-07-10T06:56:24+0000,89.147.108.90,100,Iceland,IS,1,Capital Region,Reykjavik,101,64.1429,-21.9447,Atlantic/Reykjavik,1984 ehf,1984 ehf,AS44925 1984 ehf
+2024-07-10T06:56:49+0000,45.66.35.35,100,The Netherlands,NL,NH,North Holland,Amsterdam,1069,52.3591,4.793,Europe/Amsterdam,Sabotage LLC,Sabotage LLC,AS61125 SABOTAGE LLC
+2024-07-10T07:33:52+0000,191.101.217.65,42,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-10T07:32:10+0000,35.161.107.33,12,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-10T07:46:22+0000,52.187.62.126,31,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-07-10T08:07:45+0000,182.44.10.67,99,China,CN,SD,Shandong,Jinan,250000,36.6683,117.021,Asia/Shanghai,Cloud Computing Corporation,Chinanet SD,AS58519 Cloud Computing Corporation
+2024-07-10T08:39:02+0000,104.154.146.47,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-10T09:00:34+0000,152.42.250.252,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-10T10:40:39+0000,103.203.59.1,100,China,CN,BJ,Beijing,Chaowai,,39.9007,116.488,Asia/Shanghai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd","AS136180 Beijing Tiantexin Tech. Co., Ltd."
+2024-07-10T10:52:40+0000,110.154.132.45,35,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
