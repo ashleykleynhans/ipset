@@ -3449,3 +3449,19 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-10T09:00:34+0000,152.42.250.252,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-10T10:40:39+0000,103.203.59.1,100,China,CN,BJ,Beijing,Chaowai,,39.9007,116.488,Asia/Shanghai,"Beijing Tiantexin Tech. Co., Ltd.","Beijing Tiantexin Tech. Co., Ltd","AS136180 Beijing Tiantexin Tech. Co., Ltd."
 2024-07-10T10:52:40+0000,110.154.132.45,35,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-10T10:56:36+0000,180.167.46.167,33,China,CN,SH,Shanghai,Shanghai,,31.2222,121.4581,Asia/Shanghai,China Telecom (Group),Chinanet SH,AS4812 China Telecom (Group)
+2024-07-10T10:57:34+0000,36.32.3.251,31,China,CN,AH,Anhui,Hefei,230000,31.8206,117.229,Asia/Shanghai,China Unicom Anhui Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-10T11:09:33+0000,119.49.239.236,19,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-10T11:26:48+0000,52.203.92.3,30,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-10T11:50:04+0000,36.182.48.71,43,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-10T12:34:32+0000,34.213.95.253,2,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-10T12:43:37+0000,206.168.34.121,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-10T12:52:45+0000,103.21.141.95,80,China,CN,SH,Shanghai,Pudong,,31.2288,121.521,Asia/Shanghai,China Telecom (Group),"Shanghai Meicheng Technology Information Co., Ltd.",AS4812 China Telecom (Group)
+2024-07-10T13:17:29+0000,41.143.45.12,33,Morocco,MA,07,Marrakesh-Safi,Marrakesh,,31.6298,-8.0101,Africa/Casablanca,ADSL Maroc telecom,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+2024-07-10T13:36:40+0000,20.191.143.172,100,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-07-10T13:46:46+0000,52.178.170.24,87,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-10T13:50:30+0000,35.206.115.46,43,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC
+2024-07-10T14:00:39+0000,20.236.249.81,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-10T14:09:40+0000,159.223.57.105,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-10T14:06:02+0000,35.203.253.4,14,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-10T13:58:32+0000,34.1.12.133,31,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC
