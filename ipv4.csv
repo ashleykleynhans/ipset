@@ -3386,3 +3386,51 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-09T17:05:37+0000,188.126.89.10,31,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,CyberGhost SRL,AS42708 GleSYS AB
 2024-07-09T17:06:08+0000,13.250.55.71,37,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
 2024-07-09T17:07:31+0000,18.139.115.239,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
+2024-07-09T17:22:17+0000,35.95.149.7,17,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-09T17:31:29+0000,3.0.91.16,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
+2024-07-09T17:32:13+0000,181.214.218.238,10,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-09T17:49:17+0000,109.131.143.182,75,Belgium,BE,BRU,Brussels Capital,Brussels,1200,50.842,4.4383,Europe/Brussels,Proximus SA,BELGACOM-ADSL1,AS5432 Proximus NV
+2024-07-09T18:26:47+0000,3.231.230.41,12,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-09T18:33:45+0000,185.241.149.213,100,United States,US,TX,Texas,Dallas,75247,32.8137,-96.8704,America/Chicago,Tier.Net Technologies LLC,,AS397423 Tier.Net Technologies LLC
+2024-07-09T18:48:16+0000,51.210.80.194,25,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6927,3.17785,Europe/Paris,OVH SAS,Octenium amine,AS16276 OVH SAS
+2024-07-09T19:01:54+0000,195.144.21.56,100,Austria,AT,9,Vienna,Vienna,1210,48.3003,16.3441,Europe/Vienna,Cogent Communications,BlackHOST LTD,AS174 Cogent Communications
+2024-07-09T19:04:33+0000,93.51.11.44,66,Italy,IT,21,Piedmont,Turin,10121,45.0914,7.6639,Europe/Rome,Fastweb SpA,Fastweb L3 PAT NAT,AS12874 Fastweb SpA
+2024-07-09T19:07:55+0000,79.137.248.15,100,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD
+2024-07-09T19:53:36+0000,176.111.174.112,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,AS57523 Chang Way Technologies Co. Limited
+2024-07-09T19:59:18+0000,58.212.237.112,29,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-07-09T20:01:19+0000,222.221.227.4,21,China,CN,YN,Yunnan,Jianshui,,24.4753,101.343,Asia/Shanghai,Chinanet,Chinanet YN,AS4134 CHINANET-BACKBONE
+2024-07-09T20:10:54+0000,60.188.57.0,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,Chinanet,,AS58461 CT-HangZhou-IDC
+2024-07-09T20:21:00+0000,35.215.73.70,12,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS15169 Google LLC
+2024-07-09T20:30:30+0000,45.58.184.193,100,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,Sharktech,Sharktech Inc,AS46844 Sharktech
+2024-07-09T20:37:43+0000,181.214.206.22,13,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Ipxo,AS3257 GTT Communications Inc.
+2024-07-09T20:39:28+0000,5.161.218.34,31,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Hetzner Online GmbH,Hetzner Online GmbH,AS213230 Hetzner Online GmbH
+2024-07-09T20:45:19+0000,36.41.75.167,100,China,CN,SN,Shaanxi,Yintai,,35.394,109.188,Asia/Shanghai,CHINANET SHAANXI province Cloud Base network,Chinanet SN,AS134768 CHINANET SHAANXI province Cloud Base network
+2024-07-09T21:20:50+0000,54.210.16.185,10,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-09T21:24:07+0000,204.27.64.10,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Noah Christopher Kemm trading as KemmIT,NTT Communications,AS216084 Noah Christopher Kemm trading as KemmIT
+2024-07-09T21:24:20+0000,109.70.100.65,100,Austria,AT,9,Vienna,Vienna,1040,48.1946,16.3696,Europe/Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,AS208323 Foundation for Applied Privacy
+2024-07-09T21:24:32+0000,185.220.100.247,100,Germany,DE,BY,Bavaria,Haßfurt,97437,50.0263,10.5157,Europe/Berlin,F3 Netze e.V.,F3 Netze e.V,AS205100 F3 Netze e.V.
+2024-07-09T21:57:07+0000,199.83.210.136,68,United States,US,IA,Iowa,Monticello,52310,42.2342,-91.1986,America/Chicago,H4Y Technologies LLC,H4Y Technologies LLC,AS397373 H4Y Technologies LLC
+2024-07-09T22:03:03+0000,83.147.52.49,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-07-09T22:05:07+0000,49.113.92.83,31,China,CN,XJ,Xinjiang,Ewirgol,,42.5246,87.5396,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-09T22:05:43+0000,42.92.120.229,23,China,CN,GS,Gansu,Yuzhong Chengguanzhen,,35.7518,104.286,Asia/Shanghai,Chinanet,Chinanet GS,AS4134 CHINANET-BACKBONE
+2024-07-10T00:00:38+0000,185.198.69.3,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Chang Way Technologies Co. Limited,Chang Way Technologies Co. Limited,AS57523 Chang Way Technologies Co. Limited
+2024-07-10T00:17:46+0000,110.154.98.164,18,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-10T00:24:20+0000,111.7.96.181,66,China,CN,GD,Guangdong,Guangzhou,510000,23.1317,113.266,Asia/Shanghai,China Mobile communications corporation,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-10T01:13:35+0000,35.188.30.194,17,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-10T01:19:32+0000,51.77.167.49,74,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,GmbH 1337 Services,AS16276 OVH SAS
+2024-07-10T01:23:58+0000,34.0.218.106,20,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC
+2024-07-10T01:39:37+0000,110.154.101.42,12,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-10T01:55:24+0000,94.156.69.67,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-10T02:03:23+0000,2.59.135.115,63,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,dataforest GmbH,dataforest GmbH,AS58212 dataforest GmbH
+2024-07-10T02:23:30+0000,38.88.124.138,63,Canada,CA,BC,British Columbia,Vancouver,V5Z,49.2476,-123.1234,America/Vancouver,Tech Futures Interactive Inc.,Tech Futures Interactive Inc,AS394256 Tech Futures Interactive Inc.
+2024-07-10T02:35:41+0000,34.78.196.17,12,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-10T02:42:45+0000,110.154.98.191,32,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-10T02:43:00+0000,83.147.52.37,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.
+2024-07-10T03:18:57+0000,35.225.2.159,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-10T03:27:14+0000,80.255.12.234,19,Germany,DE,BY,Bavaria,Lappersdorf,93138,49.0533,12.0726,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH
+2024-07-10T03:31:59+0000,175.16.253.175,12,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-10T03:27:27+0000,20.197.177.101,44,Brazil,BR,SP,Sao Paulo,São Paulo,01000-000,-23.55,-46.633,America/Sao_Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),AS8075 Microsoft Corporation
+2024-07-10T04:28:16+0000,94.156.79.39,100,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,Silent Connection Ltd.,Silent Connection LTD,AS215240 Silent Connection Ltd.
+2024-07-10T04:36:44+0000,85.203.21.161,32,Singapore,SG,03,North West,Singapore,,1.43819,103.789,Asia/Singapore,EXPRESS,VPN-Consumer-Network,AS206092 Internet Utilities Europe and Asia Limited
+2024-07-10T04:43:02+0000,13.64.108.107,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-10T04:46:58+0000,13.94.103.53,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
