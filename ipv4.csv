@@ -3539,3 +3539,16 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-11T14:18:26+0000,4.151.229.42,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
 2024-07-11T14:36:03+0000,52.169.180.51,25,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
 2024-07-11T14:53:52+0000,52.169.23.36,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-11T15:31:19+0000,18.232.68.54,60,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T15:52:23+0000,68.219.232.14,58,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-11T16:11:39+0000,54.173.227.219,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T16:24:45+0000,3.232.95.97,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T16:35:23+0000,180.242.108.86,25,Indonesia,ID,YO,Yogyakarta,Yogyakarta,,-7.8035,110.3646,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia
+2024-07-11T16:59:52+0000,103.216.223.206,100,Singapore,SG,05,South West,Singapore,128420,1.31667,103.75,Asia/Singapore,Host Universal Pty Ltd,Host Universal Pty Ltd,AS136557 Host Universal Pty Ltd
+2024-07-11T16:47:38+0000,52.160.33.173,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-11T16:54:29+0000,182.253.63.1,65,Indonesia,ID,LA,Lampung,Bandar Lampung,,-5.4291,105.2615,Asia/Jakarta,BIZNET,,AS17451 BIZNET NETWORKS
+2024-07-11T17:10:20+0000,34.70.127.171,10,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-11T18:05:51+0000,82.153.134.107,100,United States,US,IL,Illinois,Chicago,60616,41.8403,-87.6137,America/Chicago,Atomic Networks LLC,Atomic Networks LLC,AS399820 Atomic Networks LLC
+2024-07-11T18:01:56+0000,104.197.100.18,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-11T17:41:11+0000,3.216.132.159,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T18:45:57+0000,172.212.58.254,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
