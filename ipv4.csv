@@ -3524,3 +3524,18 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-11T11:15:51+0000,172.121.209.174,10,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,GTT Communications Inc.,EGIHosting,AS3257 GTT Communications Inc.
 2024-07-11T11:15:55+0000,103.105.167.48,2,United States,US,VA,Virginia,Ashburn,20147,39.0165,-77.4593,America/New_York,MOBILE SALES & DISTRIBUTION (PVT.) LIMITED,,AS64200 VIVID-HOSTING LLC
 2024-07-11T11:48:04+0000,35.203.253.7,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-11T11:59:21+0000,44.204.112.74,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T12:28:29+0000,110.154.133.176,41,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-11T12:45:42+0000,110.154.133.23,12,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-11T12:42:51+0000,44.203.149.223,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T13:14:02+0000,125.160.224.27,12,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia
+2024-07-11T13:12:18+0000,209.97.150.125,85,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-11T13:27:09+0000,110.154.98.7,39,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-11T13:13:42+0000,3.235.146.14,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T13:45:42+0000,44.193.11.20,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T13:56:11+0000,36.140.101.10,100,China,CN,GD,Guangdong,Guangzhou,510000,23.1317,113.266,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-11T13:58:48+0000,194.15.103.228,2,Turkey,TR,34,Istanbul,Kadıköy,34662,40.9941,29.064,Europe/Istanbul,Team Bilgi Teknolojileri Limited Sirketi,Team Bilgi Teknolojileri Limited Sirketi,AS209799 Team Bilgi Teknolojileri Limited Sirketi
+2024-07-11T14:14:41+0000,51.8.217.166,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1166,8.6833,Europe/Berlin,Microsoft Germany,Microsoft Azure Cloud (germanycentral),AS8075 Microsoft Corporation
+2024-07-11T14:18:26+0000,4.151.229.42,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-11T14:36:03+0000,52.169.180.51,25,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-11T14:53:52+0000,52.169.23.36,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
