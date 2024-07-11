@@ -3465,3 +3465,53 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-10T14:09:40+0000,159.223.57.105,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-10T14:06:02+0000,35.203.253.4,14,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
 2024-07-10T13:58:32+0000,34.1.12.133,31,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC
+2024-07-10T15:02:12+0000,34.78.68.58,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-10T16:29:31+0000,34.244.231.195,100,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,Amazon Technologies Inc.,AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc."
+2024-07-10T16:45:58+0000,194.55.186.41,70,United States,US,VA,Virginia,Ashburn,20104,39.0814,-77.6443,America/New_York,Mario Networks Limited,Neterra Ltd,AS50580 Mario Networks Limited
+2024-07-10T17:45:25+0000,191.101.217.68,11,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-10T17:47:10+0000,44.211.83.25,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-10T18:07:01+0000,94.156.69.44,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-10T18:07:49+0000,13.64.108.30,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-10T18:19:39+0000,20.232.121.66,26,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-10T18:41:28+0000,39.103.187.166,42,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-07-10T18:43:56+0000,87.236.176.48,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
+2024-07-10T18:46:36+0000,172.203.162.83,10,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-10T19:18:19+0000,154.205.159.35,19,Indonesia,ID,JK,Jakarta,Jakarta,,-6.19445,106.823,Asia/Jakarta,Kaopu Cloud HK Limited,Lightnode Limited,AS138915 Kaopu Cloud HK Limited
+2024-07-10T19:26:50+0000,34.197.67.5,9,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-10T19:43:43+0000,101.132.97.62,100,China,CN,SH,Shanghai,Shanghai,,31.2222,121.4581,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+2024-07-10T20:16:21+0000,44.220.188.35,55,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-10T20:36:38+0000,44.192.38.102,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-10T21:13:04+0000,139.59.100.234,100,Singapore,SG,05,South West,Singapore,628043,1.311,103.694,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-10T21:22:59+0000,36.68.53.90,31,Indonesia,ID,JT,Central Java,Tegal,,-6.8711,109.1385,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia
+2024-07-10T21:23:30+0000,128.199.167.175,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-10T21:25:09+0000,202.158.249.1,100,Vietnam,VN,SG,Ho Chi Minh,Quan Binh Thanh,,10.8183,106.7,Asia/Ho_Chi_Minh,"Phu Hai Computer Co., Ltd",Evps Technology Solutions Company Limited,"AS149148 Phu Hai Computer Co., Ltd"
+2024-07-10T21:43:39+0000,18.236.21.177,20,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-10T22:07:04+0000,91.92.250.119,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-10T22:08:05+0000,202.22.140.209,19,New Caledonia,NC,S,South Province,Noumea,98800,-22.2665,166.4742,Pacific/Noumea,OFFRATEL,Broadband ADSL Fixed ip address group,AS56089 OFFRATEL
+2024-07-10T22:18:23+0000,35.202.73.76,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-10T22:18:35+0000,106.75.66.161,100,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
+2024-07-10T22:31:14+0000,85.204.70.94,100,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd
+2024-07-10T22:45:18+0000,185.142.236.40,100,The Netherlands,NL,NH,North Holland,Amsterdam,1042,52.4019,4.8302,Europe/Amsterdam,Cogent Communications,BlackHOST Ltd.,AS174 Cogent Communications
+2024-07-10T22:46:16+0000,106.75.11.194,100,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
+2024-07-10T23:37:19+0000,34.22.208.68,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
+2024-07-10T23:46:52+0000,191.96.168.141,11,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-10T23:49:54+0000,83.222.191.62,100,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.7025,23.3062,Europe/Sofia,Lir.bg EOOD,Lir.bg EOOD,
+2024-07-11T00:48:28+0000,172.168.41.105,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-11T01:05:32+0000,57.152.56.137,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,MICROSOFT,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-11T01:13:59+0000,54.164.36.60,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T01:36:41+0000,110.154.97.29,28,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-11T01:59:57+0000,94.224.34.65,41,Belgium,BE,VLG,Flanders,Overijse,3090,50.7688,4.5383,Europe/Brussels,Telenet N.V.,Telenet,AS6848 Telenet BV
+2024-07-11T02:41:54+0000,35.193.14.136,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC
+2024-07-11T02:44:57+0000,54.198.251.80,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T02:57:22+0000,139.211.28.17,12,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-11T03:06:13+0000,172.191.241.165,29,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-11T03:58:07+0000,110.154.100.244,18,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-11T04:18:52+0000,3.27.2.189,2,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc."
+2024-07-11T04:24:45+0000,217.76.48.181,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Adept AB,Adept AB,AS51167 Contabo GmbH
+2024-07-11T04:30:59+0000,172.203.162.123,18,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-11T04:48:22+0000,175.16.73.240,2,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-11T05:09:09+0000,89.187.164.80,100,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL EQ6,AS60068 Datacamp Limited
+2024-07-11T05:09:46+0000,45.114.126.234,47,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Beijing 3389 Network Technology Co., Ltd.",Hkdapu,"AS136146 Beijing 3389 Network Technology Co., Ltd."
+2024-07-11T05:12:05+0000,37.48.64.102,23,The Netherlands,NL,NH,North Holland,Amsterdam,1090,52.3809,4.9022,Europe/Amsterdam,LeaseWeb Netherlands B.V.,LeaseWeb Netherlands B.V.,AS60781 LeaseWeb Netherlands B.V.
+2024-07-11T05:04:02+0000,34.121.236.218,18,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-11T05:29:28+0000,106.75.11.60,100,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation"
