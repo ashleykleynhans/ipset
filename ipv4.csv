@@ -1815,7 +1815,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-01T23:20:10+0000,94.136.168.158,78,United Kingdom,GB,ENG,England,London,SW1X,51.4526,-0.218825,Europe/London,UK Dedicated Servers Limited,LiquidNet Ltd,AS42831 UK Dedicated Servers Limited
 2024-07-01T23:32:24+0000,91.92.246.103,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-07-02T00:20:07+0000,104.243.41.214,29,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,ReliableSite.Net LLC,ReliableSite.Net LLC,AS23470 ReliableSite.Net LLC
-2024-07-02T00:23:16+0000,43.157.27.5,30,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
 2024-07-02T02:00:08+0000,165.227.34.244,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-02T03:33:02+0000,176.125.229.139,23,Montenegro,ME,16,Podgorica,Podgorica,,42.4411,19.2636,Europe/Podgorica,M247 Europe SRL,M247 Ltd Montenegro,AS9009 M247 Europe SRL
 2024-07-02T03:35:46+0000,46.246.8.169,19,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
@@ -2465,7 +2464,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T15:28:36+0000,57.151.20.64,92,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
 2024-07-05T15:33:59+0000,79.137.65.46,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
 2024-07-05T15:34:51+0000,107.174.218.109,10,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,HostPapa,RackNerd LLC,AS36352 HostPapa
-2024-07-05T15:25:45+0000,45.148.10.230,41,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED
 2024-07-05T15:38:56+0000,188.165.87.101,45,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,OVH SAS,ONYPHE,AS16276 OVH SAS
 2024-07-05T15:42:59+0000,52.202.236.132,43,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-05T15:46:14+0000,129.80.117.174,22,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation
@@ -3552,3 +3550,33 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-11T18:01:56+0000,104.197.100.18,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-11T17:41:11+0000,3.216.132.159,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-11T18:45:57+0000,172.212.58.254,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-11T18:52:53+0000,43.157.27.5,100,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-11T19:11:09+0000,4.151.38.212,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-11T19:25:13+0000,104.198.223.54,17,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-11T20:05:48+0000,54.245.72.42,42,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-11T20:06:31+0000,109.199.97.31,31,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,,AS51167 Contabo GmbH
+2024-07-11T20:12:04+0000,52.228.153.13,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-11T20:16:25+0000,104.209.35.51,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-11T21:12:44+0000,20.112.82.46,19,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation
+2024-07-11T21:24:48+0000,35.203.254.225,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-11T21:30:37+0000,20.118.69.96,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-11T21:33:05+0000,172.168.40.247,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-11T21:35:47+0000,34.34.234.16,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-11T22:19:02+0000,134.73.194.25,11,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,LayerHost,hen qiu,AS46573 LayerHost
+2024-07-11T22:19:05+0000,104.223.208.44,11,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,LayerHost,LayerHost,AS46573 LayerHost
+2024-07-11T22:20:17+0000,4.194.65.131,20,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-07-11T22:49:33+0000,185.122.141.137,35,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Tesonet VPN Retail Internal GB 1,,"AS201341 trafficforce, UAB"
+2024-07-11T22:51:36+0000,18.234.236.82,46,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-11T22:53:11+0000,45.148.10.230,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED
+2024-07-11T23:17:31+0000,103.200.23.149,19,Vietnam,VN,SG,Ho Chi Minh,Binh Tan District,,10.8093,106.666,Asia/Ho_Chi_Minh,VIETNIX,VIETNIX Solution and Technology Joint Stock Company,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+2024-07-11T23:31:24+0000,147.185.132.84,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-11T23:49:17+0000,50.112.189.31,25,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-11T23:51:03+0000,35.159.0.18,2,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
+2024-07-11T23:55:04+0000,35.239.97.153,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-12T00:35:14+0000,44.223.85.81,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T02:18:18+0000,82.147.84.32,100,Russia,RU,NVS,Novosibirsk Oblast,Novosibirsk,630000,54.9022,83.0335,Asia/Novosibirsk,BAXET,,AS57494 Adman LLC
+2024-07-12T03:37:43+0000,36.182.49.88,47,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-12T04:09:11+0000,20.2.64.93,100,Hong Kong,HK,HCW,Central and Western District,Hong Kong,00000,22.267,114.188,Asia/Hong_Kong,Microsoft Corporation,Microsoft Azure Cloud (eastasia),AS8075 Microsoft Corporation
+2024-07-12T04:46:07+0000,23.106.193.50,2,United States,US,WA,Washington,Seattle,98168,47.4902,-122.3004,America/Los_Angeles,"Leaseweb USA, Inc.","LeaseWeb USA, Inc. Seattle","AS396190 Leaseweb USA, Inc."
+2024-07-12T04:46:12+0000,64.120.34.11,2,United States,US,IL,Illinois,Lombard,60148,41.874,-88.0038,America/Chicago,Leaseweb USA,Ubiquity Server Solutions Chicago,"AS27411 Leaseweb USA, Inc."
+2024-07-12T05:01:12+0000,110.154.98.66,37,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
