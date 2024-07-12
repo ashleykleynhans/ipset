@@ -3615,3 +3615,15 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-12T11:36:13+0000,87.236.176.189,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
 2024-07-12T11:59:58+0000,87.236.176.152,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
 2024-07-12T12:21:27+0000,34.75.124.3,11,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC
+2024-07-12T12:54:24+0000,185.242.177.16,38,Austria,AT,4,Upper Austria,Leonding,4060,48.2582,14.2563,Europe/Vienna,LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation,Blue Shield Security GmbH,AS35369 LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation
+2024-07-12T13:01:35+0000,50.16.30.56,67,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T13:02:48+0000,34.72.95.62,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-12T13:11:38+0000,91.92.240.184,37,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-12T13:28:27+0000,34.234.216.190,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T13:46:10+0000,34.205.23.49,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T13:53:17+0000,52.44.147.231,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T13:55:31+0000,172.191.244.107,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-12T14:00:39+0000,3.230.123.181,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T14:19:02+0000,35.224.3.123,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-12T14:21:23+0000,23.154.177.8,100,United States,US,WY,Wyoming,Sheridan,82801,44.7862,-106.9608,America/Denver,Unredacted dba Universal Layer LLC,Universal Layer LLC,AS399532 Universal Layer LLC
+2024-07-12T15:03:33+0000,139.178.80.186,65,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,"Packet Host, Inc.",,"AS54825 Packet Host, Inc."
