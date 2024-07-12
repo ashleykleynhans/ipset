@@ -3627,3 +3627,18 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-12T14:19:02+0000,35.224.3.123,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-12T14:21:23+0000,23.154.177.8,100,United States,US,WY,Wyoming,Sheridan,82801,44.7862,-106.9608,America/Denver,Unredacted dba Universal Layer LLC,Universal Layer LLC,AS399532 Universal Layer LLC
 2024-07-12T15:03:33+0000,139.178.80.186,65,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,"Packet Host, Inc.",,"AS54825 Packet Host, Inc."
+2024-07-12T15:10:27+0000,128.199.80.12,67,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-12T14:41:56+0000,80.87.202.113,58,Russia,RU,IRK,Irkutsk Oblast,Irkutsk,664000,52.2984,104.2903,Asia/Irkutsk,JSC IOT,"JSC ""Server""",AS29182 JSC IOT
+2024-07-12T15:18:16+0000,4.246.170.250,32,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-12T15:30:31+0000,42.49.117.88,18,China,CN,HN,Hunan,Yueyang,414000,29.3568,113.129,Asia/Shanghai,China Unicom Hunan Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-12T15:45:25+0000,34.200.224.113,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T15:51:33+0000,110.154.102.212,12,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-12T16:08:13+0000,34.87.121.90,31,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC
+2024-07-12T16:36:52+0000,34.219.160.99,30,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-12T16:40:55+0000,175.22.85.226,26,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-12T16:44:23+0000,116.251.217.107,46,Singapore,SG,01,Central Singapore,Singapore,079903,1.2757,103.846,Asia/Singapore,OneAsiaHost,,AS24482 SG.GS
+2024-07-12T16:52:41+0000,107.22.255.125,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T17:44:54+0000,54.147.12.12,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T17:41:32+0000,44.203.0.110,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T18:24:39+0000,18.236.7.105,16,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-12T17:29:37+0000,180.252.89.163,16,Indonesia,ID,JB,West Java,Bogor,,-6.5945,106.789,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia
