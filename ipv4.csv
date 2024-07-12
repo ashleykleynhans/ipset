@@ -733,7 +733,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T05:15:45+0000,15.237.93.209,78,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc."
 2024-06-24T05:48:43+0000,78.153.149.214,3,Russia,RU,MOW,Moscow,Moscow,101000,55.7483,37.6171,Europe/Moscow,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC
 2024-06-24T05:50:53+0000,139.59.27.59,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-06-24T05:56:05+0000,91.92.254.146,96,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-24T06:13:16+0000,192.185.4.71,2,United States,US,GA,Georgia,Atlanta,30302,33.749,-84.388,America/New_York,"Network Solutions, LLC",WEBSITEWELCOME.COM,"AS19871 Network Solutions, LLC"
 2024-06-24T06:13:31+0000,148.72.247.134,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
 2024-06-24T06:30:43+0000,185.51.134.173,23,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
@@ -3601,3 +3600,18 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-12T07:56:25+0000,107.178.204.120,2,United States,US,CA,California,Mountain View,94043,37.4043,-122.0748,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
 2024-07-12T08:03:37+0000,34.44.62.210,18,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-12T07:56:25+0000,107.178.204.119,2,United States,US,CA,California,Mountain View,94043,37.4043,-122.0748,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-12T07:51:00+0000,87.236.176.161,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-12T09:21:41+0000,176.235.222.157,2,Türkiye,TR,34,Istanbul,Istanbul,34093,41.0247,28.9252,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.
+2024-07-12T09:21:42+0000,176.235.222.159,2,Türkiye,TR,34,Istanbul,Istanbul,34093,41.0247,28.9252,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.
+2024-07-12T09:24:23+0000,44.215.123.16,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.
+2024-07-12T09:48:59+0000,36.134.147.75,100,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-12T09:49:52+0000,121.229.185.160,91,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,China Telecom,Chinanet JS,AS134756 CHINANET Nanjing Jishan IDC network
+2024-07-12T09:55:58+0000,139.215.115.99,50,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-12T09:59:58+0000,91.92.254.146,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-12T10:39:59+0000,191.96.168.159,16,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-12T11:14:07+0000,20.38.38.32,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
+2024-07-12T11:31:12+0000,139.162.141.82,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud
+2024-07-12T11:31:14+0000,139.59.132.8,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-12T11:36:13+0000,87.236.176.189,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-12T11:59:58+0000,87.236.176.152,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-12T12:21:27+0000,34.75.124.3,11,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC
