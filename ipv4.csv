@@ -3728,3 +3728,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-13T18:30:33+0000,35.202.41.154,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-13T18:24:42+0000,3.228.16.11,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-13T18:48:01+0000,210.79.134.14,22,India,IN,UP,Uttar Pradesh,Mahoba,210427,25.2898,79.8777,Asia/Kolkata,"ReadyDedis, LLC",Bconnect,"AS140543 ReadyDedis, LLC"
+2024-07-13T19:22:05+0000,146.158.112.165,49,Russia,RU,ALT,Altai Krai,Barnaul,656002,53.3563,83.8087,Asia/Barnaul,ALFA TELECOM s.r.o.,SM Ltd,AS210616 SM Ltd.
+2024-07-13T19:39:25+0000,46.38.255.27,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,NETCUP-GMBH,AS197540 netcup GmbH
+2024-07-13T19:39:39+0000,45.138.16.42,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-13T19:40:40+0000,44.203.243.183,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
