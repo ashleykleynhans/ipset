@@ -3642,3 +3642,40 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-12T17:41:32+0000,44.203.0.110,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-12T18:24:39+0000,18.236.7.105,16,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
 2024-07-12T17:29:37+0000,180.252.89.163,16,Indonesia,ID,JB,West Java,Bogor,,-6.5945,106.789,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia
+2024-07-12T18:57:02+0000,87.236.176.250,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-12T19:25:27+0000,34.91.27.252,2,Netherlands,NL,GR,Groningen,Groningen,,53.2193,6.5665,Europe/Amsterdam,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC
+2024-07-12T18:50:47+0000,34.30.128.135,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-12T19:15:06+0000,164.52.200.238,30,India,IN,DL,National Capital Territory of Delhi,Delhi,110006,28.6542,77.2373,Asia/Kolkata,E2E Networks Limited,E2E Networks Limited,"AS132420 282, Sector 19"
+2024-07-12T19:20:18+0000,3.231.152.207,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-12T19:37:19+0000,37.228.136.74,51,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,Parsan Lin Co. PJS,Pars Online PJS,AS60976 Parsan Lin Co. PJS
+2024-07-12T20:05:03+0000,104.197.54.170,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-12T21:03:17+0000,3.148.108.43,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-12T21:15:55+0000,4.151.226.80,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-12T21:28:42+0000,20.118.68.253,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-12T21:45:44+0000,111.172.249.49,100,China,CN,HB,Hubei,Wuhan,,30.589,114.2681,Asia/Shanghai,China Telecom,Chinanet HB,AS138982 Hubei Jiangxia IDC
+2024-07-12T21:50:28+0000,35.208.205.22,48,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC
+2024-07-12T21:51:51+0000,116.130.185.126,100,China,CN,TJ,Tianjin,Tianjin,,39.1488,117.1762,Asia/Shanghai,China Unicom CHINA169 Network,China United Network Communications Corporation Limited,AS4837 CHINA UNICOM China169 Backbone
+2024-07-12T22:17:01+0000,107.178.204.10,2,United States,US,CA,California,Mountain View,94043,37.4043,-122.0748,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-12T22:21:17+0000,3.142.79.211,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-12T22:44:36+0000,34.29.187.114,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T00:06:52+0000,154.53.40.242,55,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC"
+2024-07-13T00:34:27+0000,20.25.198.77,77,United States,US,IL,Illinois,Chicago,60602,41.8819,-87.6278,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),AS8075 Microsoft Corporation
+2024-07-13T00:56:36+0000,45.141.215.67,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-13T01:07:42+0000,185.98.5.170,31,Kazakhstan,KZ,71,Astana,Astana,,51.1876,71.4491,Asia/Almaty,"LLP ""Kompaniya Hoster.KZ""",Hoster.KZ,"AS207333 LLP ""Kompaniya Hoster.KZ"""
+2024-07-13T01:08:45+0000,109.205.213.18,82,United States,US,NJ,New Jersey,Teterboro,07608,40.866,-74.0544,America/New_York,"Interserver, Inc",RaziNetwork,"AS19318 Interserver, Inc"
+2024-07-13T01:17:27+0000,194.163.155.246,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo,AS51167 Contabo GmbH
+2024-07-13T02:09:38+0000,185.205.246.163,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-07-13T02:58:32+0000,34.171.133.148,30,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T03:09:12+0000,172.191.41.133,41,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-13T03:19:29+0000,3.15.140.8,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-13T03:44:10+0000,4.227.23.125,54,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
+2024-07-13T03:56:22+0000,45.94.31.237,28,Netherlands,NL,NH,North Holland,Amsterdam,,52.36,4.855,Europe/Amsterdam,1337 Services GmbH,,AS210558 1337 Services GmbH
+2024-07-13T04:22:10+0000,172.83.14.40,94,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,,47,AS394996 47-2339071
+2024-07-13T04:31:37+0000,35.225.37.41,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T04:38:23+0000,172.203.161.75,23,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-13T04:52:17+0000,35.240.121.17,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC
+2024-07-13T04:40:44+0000,35.181.168.135,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,"Amazon.com, Inc.",AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc."
+2024-07-13T04:53:43+0000,44.195.93.37,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T05:20:35+0000,3.135.231.231,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-13T05:33:57+0000,3.216.29.131,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T04:30:09+0000,87.236.176.38,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
