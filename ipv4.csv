@@ -185,9 +185,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T00:00:00+0000,115.245.68.131,100,India,IN,RJ,Rajasthan,Jaipur,302002,26.9525,75.7105,Asia/Kolkata,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited
 2024-06-21T00:00:00+0000,20.110.254.114,99,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation
 2024-06-21T00:00:00+0000,185.85.189.235,100,Turkey,TR,16,Bursa Province,Bursa,16090,40.1885,29.061,Europe/Istanbul,iDeal Hosting Ltd,Ideal Hosting Teknoloji,AS29262 Ideal Hosting Teknoloji A.S.
-2024-06-21T00:00:00+0000,45.227.253.148,86,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Global Layer B.V.,DirectWebH CORP,AS49453 Global Layer B.V.
 2024-06-21T00:00:00+0000,192.241.101.140,100,United States,US,NY,New York,Buffalo,14202,42.8943,-78.8736,America/New_York,B2 Net Solutions Inc.,ServerMania Inc,AS55286 B2 Net Solutions Inc.
-2024-06-21T00:00:00+0000,45.227.253.147,93,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Global Layer B.V.,DirectWebH CORP,AS49453 Global Layer B.V.
 2024-06-21T00:00:00+0000,116.12.48.101,100,Singapore,SG,01,Central Singapore,Singapore,408868,1.33296,103.894,Asia/Singapore,USONYX Pte.Ltd,Usonyx PTE LTD,AS38532 Exabytes Network (Singapore) Pte. Ltd.
 2024-06-21T00:00:00+0000,107.167.7.218,100,United States,US,CA,California,Los Angeles,90017,34.0515,-118.2707,America/Los_Angeles,Sharktech,Sharktech,AS46844 Sharktech
 2024-06-21T00:00:00+0000,106.52.153.250,100,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
@@ -3696,3 +3694,20 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-13T12:18:32+0000,221.8.170.252,2,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
 2024-07-13T12:22:57+0000,44.198.175.183,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-13T12:29:22+0000,88.7.223.181,2,Spain,ES,AR,Aragon,Zaragoza,50018,41.6662,-0.8968,Europe/Madrid,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),AS3352 TELEFONICA DE ESPANA S.A.U.
+2024-07-13T12:21:02+0000,45.227.253.147,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Global Layer B.V.,DirectWebH CORP,AS49453 Global Layer B.V.
+2024-07-13T12:57:54+0000,5.62.41.32,56,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.
+2024-07-13T13:35:50+0000,110.154.103.216,2,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-13T13:59:01+0000,185.51.134.92,2,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
+2024-07-13T13:22:00+0000,41.193.87.82,2,South Africa,ZA,GP,Gauteng,Johannesburg,2194,-26.2309,28.0583,Africa/Johannesburg,Vox Telecom,Vox Telecom (Pty) Ltd,AS11845 Vox Telecom Ltd
+2024-07-13T14:20:52+0000,34.46.232.29,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T14:38:50+0000,110.154.99.43,18,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-13T14:32:48+0000,179.52.107.186,2,Dominican Republic,DO,25,Santiago Province,Santiago de los Caballeros,51000,19.447,-70.7041,America/Santo_Domingo,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,AS6400 Compañía Dominicana de Teléfonos S. A.
+2024-07-13T13:29:31+0000,45.227.253.148,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Global Layer B.V.,DirectWebH CORP,AS49453 Global Layer B.V.
+2024-07-13T14:54:44+0000,168.197.250.14,100,Argentina,AR,S,Santa Fe,Firmat,2630,-33.4331,-61.4948,America/Argentina/Cordoba,Omar Anselmo Ripoll (TDC NET),Omar Anselmo Ripoll (TDC NET),AS264776 Omar Anselmo Ripoll (TDC NET)
+2024-07-13T15:26:33+0000,212.102.33.154,57,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,DataCamp Limited,Cdn77 NYC,AS60068 Datacamp Limited
+2024-07-13T15:19:55+0000,34.34.234.24,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-13T15:33:15+0000,54.214.211.204,2,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-13T15:42:41+0000,45.88.186.38,100,United States,US,VA,Virginia,Dulles,20103,39.0019,-77.4556,America/New_York,ReliableSite.Net LLC,1337 Services GmbH,AS23470 ReliableSite.Net LLC
+2024-07-13T15:47:01+0000,103.206.114.125,2,India,IN,TS,Telangana,Hyderabad,500062,17.3724,78.4378,Asia/Kolkata,Sree SAI Services,Sree SAI Services,AS18229 CtrlS
+2024-07-13T15:46:48+0000,44.193.11.6,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T16:00:56+0000,34.42.238.232,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
