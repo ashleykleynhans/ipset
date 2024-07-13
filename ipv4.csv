@@ -964,7 +964,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T21:58:35+0000,149.88.26.78,22,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-06-25T22:03:33+0000,101.255.126.70,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT Remala Abadi,,AS38511 PT Remala Abadi
 2024-06-25T22:21:57+0000,110.42.217.219,100,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
-2024-06-25T22:43:26+0000,194.32.122.12,61,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
 2024-06-25T23:17:39+0000,138.199.56.247,25,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdnext PRG,AS212238 Datacamp Limited
 2024-06-25T23:17:53+0000,185.189.114.122,10,Hungary,HU,BU,Budapest,Budapest,1132,47.4979,19.0402,Europe/Budapest,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
 2024-06-26T00:08:44+0000,147.78.47.62,69,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Flyservers S.A.,Flyservers S.A,AS209588 Flyservers S.A.
@@ -3711,3 +3710,21 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-13T15:47:01+0000,103.206.114.125,2,India,IN,TS,Telangana,Hyderabad,500062,17.3724,78.4378,Asia/Kolkata,Sree SAI Services,Sree SAI Services,AS18229 CtrlS
 2024-07-13T15:46:48+0000,44.193.11.6,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-13T16:00:56+0000,34.42.238.232,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T15:47:14+0000,94.245.133.130,19,Russia,RU,SA,Sakha,Yakutsk,677000,62.0313,129.7325,Asia/Yakutsk,Sakhatelecom,,AS12389 PJSC Rostelecom
+2024-07-13T16:13:28+0000,32.216.107.198,2,United States,US,CT,Connecticut,Middlefield,06455,41.5168,-72.7235,America/New_York,Frontier Communications Solutions,LDSL-D Frontier Communications Wallingford - CT,"AS46690 Southern New England Telephone Company and SNET America, Inc."
+2024-07-13T16:31:53+0000,194.32.122.12,62,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-13T16:34:54+0000,31.15.22.210,27,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,"OOO ""LUGALINK""",Lugalink,"AS215623 OOO ""LUGALINK"""
+2024-07-13T16:35:00+0000,185.203.219.75,19,United States,US,IL,Illinois,Chicago,60602,41.8874,-87.6318,America/Chicago,Tefincom S.A.,Packethub S.A,AS141039 Packethub s.a.
+2024-07-13T16:35:02+0000,195.64.229.180,24,Ukraine,UA,51,Odessa,Odesa,65045,46.4888,30.7474,Europe/Kyiv,Telecom Trade LLC,Telecomtrade,AS211250 TELECOM TRADE LLC
+2024-07-13T16:34:57+0000,146.158.118.79,45,Russia,RU,KDA,Krasnodar Krai,Krasnodar,350000,45.0355,38.975,Europe/Moscow,SM Ltd.,SM Ltd,AS210616 SM Ltd.
+2024-07-13T16:35:00+0000,185.184.228.163,19,United States,US,NY,New York,New York,10286,40.7143,-74.006,America/New_York,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,AS39486 HostRoyale Technologies Pvt Ltd
+2024-07-13T16:46:24+0000,172.212.60.36,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-13T17:08:00+0000,77.90.185.4,100,Germany,DE,BY,Bavaria,Augsburg,86161,48.3506,10.9114,Europe/Berlin,Inside Network LTD,Inside Network LTD,AS215476 Inside Network LTD
+2024-07-13T17:10:30+0000,35.219.243.160,2,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC
+2024-07-13T17:25:59+0000,4.242.225.50,35,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
+2024-07-13T17:37:36+0000,3.0.19.14,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
+2024-07-13T18:10:39+0000,95.164.45.98,73,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Stark Industries Solutions LTD,Stark Industries Solutions LTD,AS44477 STARK INDUSTRIES SOLUTIONS LTD
+2024-07-13T18:15:00+0000,122.137.101.28,2,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-13T18:30:33+0000,35.202.41.154,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T18:24:42+0000,3.228.16.11,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T18:48:01+0000,210.79.134.14,22,India,IN,UP,Uttar Pradesh,Mahoba,210427,25.2898,79.8777,Asia/Kolkata,"ReadyDedis, LLC",Bconnect,"AS140543 ReadyDedis, LLC"
