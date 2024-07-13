@@ -173,7 +173,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T00:00:00+0000,31.220.89.56,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.2184,6.7734,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
 2024-06-21T00:00:00+0000,218.93.127.21,100,China,CN,JS,Jiangsu,Changzhou,,31.7685,119.9527,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
 2024-06-21T00:00:00+0000,102.23.122.251,100,Zambia,ZM,09,Lusaka Province,Lusaka,,-15.4067,28.2871,Africa/Lusaka,Infratel Corporation Limited,Infratel,AS328646 INFRATEL CORPORATION LIMITED
-2024-06-21T00:00:00+0000,45.227.253.149,97,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Global Layer B.V.,DirectWebH CORP,AS49453 Global Layer B.V.
 2024-06-21T00:00:00+0000,175.178.35.245,100,China,CN,BJ,Beijing,Beijing,,39.9042,116.407,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Golden-Bridge Netcom communication Co., LTD.",AS45090 Shenzhen Tencent Computer Systems Company Limited
 2024-06-21T00:00:00+0000,8.131.70.17,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Alibaba.com Singapore E-Commerce Private Limited,Aliyun Computing Co.,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
 2024-06-21T00:00:00+0000,36.255.3.63,100,India,IN,TS,Telangana,Hyderabad,500001,17.4354,78.4089,Asia/Kolkata,CtrlS,,AS18229 CtrlS
@@ -2831,7 +2830,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T04:13:58+0000,185.220.101.29,100,Germany,DE,BB,Brandenburg,Brandenburg,14621,52.6171,13.1207,Europe/Berlin,Stiftung Erneuerbare Freiheit,Artikel10 e.V,AS60729 Stiftung Erneuerbare Freiheit
 2024-07-06T04:45:53+0000,178.128.223.193,94,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
 2024-07-06T04:56:47+0000,149.88.98.105,37,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
-2024-07-06T04:40:46+0000,192.249.120.233,48,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc","AS22611 InMotion Hosting, Inc."
 2024-07-06T05:36:37+0000,191.101.217.53,18,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-07-06T05:41:40+0000,60.221.228.127,100,China,CN,SX,Shanxi,Fengcheng,,37.2426,111.857,Asia/Shanghai,China Unicom China169 Network,,AS4837 CHINA UNICOM China169 Backbone
 2024-07-06T05:42:53+0000,91.92.249.227,76,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
@@ -3679,3 +3677,22 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-13T05:20:35+0000,3.135.231.231,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
 2024-07-13T05:33:57+0000,3.216.29.131,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-13T04:30:09+0000,87.236.176.38,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
+2024-07-13T06:40:40+0000,13.64.111.22,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-13T06:49:30+0000,113.111.82.238,47,China,CN,GD,Guangdong,Foshan,,23.0261,113.1371,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE
+2024-07-13T06:48:11+0000,217.195.153.100,19,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Shock Hosting LLC,Shock Hosting LLC,AS395092 Shock Hosting LLC
+2024-07-13T07:16:12+0000,91.92.244.243,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-13T07:24:54+0000,3.231.207.51,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T07:29:55+0000,45.227.253.149,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Global Layer B.V.,DirectWebH CORP,AS49453 Global Layer B.V.
+2024-07-13T08:27:08+0000,91.227.114.134,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Alessandro Accorsi trading as Len Service SRL,Xantho UAB,AS215026 Alessandro Accorsi trading as Len Service SRL
+2024-07-13T09:28:21+0000,3.129.195.182,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-13T09:31:31+0000,125.94.144.102,100,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE
+2024-07-13T09:36:10+0000,45.126.209.7,45,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,ReliableSite.Net LLC,ReliableSite.Net LLC,AS23470 ReliableSite.Net LLC
+2024-07-13T09:40:35+0000,192.249.120.233,51,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc","AS22611 InMotion Hosting, Inc."
+2024-07-13T10:15:08+0000,191.101.217.43,22,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-13T10:16:43+0000,185.112.146.167,33,Iceland,IS,1,Capital Region,Reykjavik,101,64.1475,-21.9381,Atlantic/Reykjavik,The 1984 cloud net 2,,AS44925 1984 ehf
+2024-07-13T10:18:14+0000,3.236.55.197,12,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T10:33:22+0000,125.32.208.155,2,China,CN,JL,Jilin,Changchun,,43.88,125.3247,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-13T11:52:47+0000,94.156.79.123,100,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,Silent Connection Ltd.,Silent Connection LTD,AS215240 Silent Connection Ltd.
+2024-07-13T12:18:32+0000,221.8.170.252,2,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-13T12:22:57+0000,44.198.175.183,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T12:29:22+0000,88.7.223.181,2,Spain,ES,AR,Aragon,Zaragoza,50018,41.6662,-0.8968,Europe/Madrid,Telefonica de Espana SAU,RIMA (Red IP Multi Acceso),AS3352 TELEFONICA DE ESPANA S.A.U.
