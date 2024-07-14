@@ -3788,3 +3788,19 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-14T12:51:39+0000,75.101.221.186,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-14T12:52:13+0000,54.165.16.110,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-14T13:00:07+0000,44.200.26.217,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-14T13:09:11+0000,3.94.21.206,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-14T13:46:58+0000,34.0.132.210,27,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC
+2024-07-14T13:52:27+0000,34.136.108.64,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T15:02:22+0000,18.215.181.149,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-14T15:11:38+0000,35.202.100.84,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T15:27:53+0000,207.180.240.208,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
+2024-07-14T15:47:59+0000,120.195.30.140,100,China,CN,JS,Jiangsu,Qinnan,,33.1402,119.789,Asia/Shanghai,China Mobile communications corporation,China Mobile,AS56046 China Mobile communications corporation
+2024-07-14T16:06:17+0000,34.173.75.74,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T16:15:59+0000,135.125.59.77,100,France,FR,PAC,Provence-Alpes-Côte d'Azur,Antibes,06160,43.5813,7.12487,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
+2024-07-14T16:17:17+0000,35.203.253.102,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-14T16:25:01+0000,66.235.175.232,70,United States,US,TX,Texas,Dallas,75247,32.8167,-96.8834,America/Chicago,Tier.Net Technologies LLC,Tier.Net Technologies LLC,AS397423 Tier.Net Technologies LLC
+2024-07-14T17:01:39+0000,34.96.50.163,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-14T17:06:09+0000,52.237.251.117,100,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation
+2024-07-14T17:02:27+0000,80.255.13.23,24,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-14T17:56:19+0000,194.32.122.21,55,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-14T18:15:14+0000,80.255.13.123,25,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
