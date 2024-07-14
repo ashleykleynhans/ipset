@@ -1707,7 +1707,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-01T07:23:38+0000,178.128.105.102,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
 2024-07-01T07:58:19+0000,37.46.113.242,38,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
 2024-07-01T08:13:18+0000,34.77.99.191,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
-2024-07-01T08:32:42+0000,185.208.158.35,69,United States,US,TX,Texas,Houston,77060,29.9359,-95.4014,America/Chicago,Simple Carrier LLC,Simple Carrier LLC,AS42624 Simple Carrier LLC
 2024-07-01T08:40:19+0000,64.62.156.19,100,United States,US,CA,California,Fremont,94539,37.49,-121.931,America/Los_Angeles,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
 2024-07-01T09:48:53+0000,84.239.40.221,14,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
 2024-07-01T10:03:48+0000,188.126.89.109,32,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
@@ -2374,7 +2373,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T04:22:24+0000,46.246.8.168,24,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
 2024-07-05T04:44:29+0000,91.92.242.167,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-07-05T04:04:29+0000,165.227.210.1,88,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-07-05T05:03:50+0000,92.118.39.32,67,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Unmanaged LTD,Pptechnology Limited,AS47890 UNMANAGED LTD
 2024-07-05T05:01:52+0000,50.114.115.79,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,Ipxo LLC,HOSTING-SOLUTIONS,AS23470 ReliableSite.Net LLC
 2024-07-05T05:06:43+0000,84.239.40.233,26,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
 2024-07-05T04:58:05+0000,13.91.164.133,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
@@ -3804,3 +3802,14 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-14T17:02:27+0000,80.255.13.23,24,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
 2024-07-14T17:56:19+0000,194.32.122.21,55,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
 2024-07-14T18:15:14+0000,80.255.13.123,25,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-14T18:45:37+0000,3.21.97.0,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-14T18:45:45+0000,193.32.8.235,2,The Netherlands,NL,NH,North Holland,Haarlem,2031,52.3907,4.66554,Europe/Amsterdam,LeaseWeb Netherlands B.V.,Rapidseedbox,AS60781 LeaseWeb Netherlands B.V.
+2024-07-14T18:47:32+0000,221.10.124.142,100,China,CN,SC,Sichuan,Chengdu,610000,30.5723,104.067,Asia/Shanghai,CNC Group CHINA169 Sichuan Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-14T18:49:25+0000,34.67.0.79,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T19:11:38+0000,34.121.110.194,17,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T19:17:07+0000,34.68.115.177,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T19:54:05+0000,185.208.158.35,100,United States,US,TX,Texas,Houston,77060,29.9359,-95.4014,America/Chicago,Simple Carrier LLC,Simple Carrier LLC,AS42624 Global-Data System IT Corporation
+2024-07-14T19:57:43+0000,92.118.39.32,100,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Unmanaged LTD,Pptechnology Limited,AS47890 UNMANAGED LTD
+2024-07-14T20:27:31+0000,80.255.12.232,30,Germany,DE,BY,Bavaria,Lappersdorf,93138,49.0533,12.0726,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH
+2024-07-14T20:33:08+0000,34.30.133.139,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-14T20:49:49+0000,171.79.51.113,2,India,IN,TN,Tamil Nadu,Chennai,600009,12.8996,80.2209,Asia/Kolkata,Bharti Airtel,Bharti Airtel Ltd.,AS45609 Bharti Airtel Ltd. AS for GPRS Service
