@@ -3140,7 +3140,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-07T11:59:08+0000,176.9.99.241,36,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
 2024-07-07T11:56:33+0000,154.212.141.139,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.
 2024-07-07T11:59:07+0000,88.99.103.122,33,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner,AS24940 Hetzner Online GmbH
-2024-07-07T12:13:20+0000,37.46.115.54,29,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
 2024-07-07T12:13:39+0000,34.76.96.55,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
 2024-07-07T12:14:34+0000,36.182.48.67,35,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
 2024-07-07T11:59:09+0000,168.119.12.240,31,Germany,DE,SN,Saxony,Falkenstein,08223,50.475,12.365,Europe/Berlin,Hetzner Online GmbH,Hetzner Online GmbH,AS24940 Hetzner Online GmbH
@@ -3732,3 +3731,40 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-13T19:39:25+0000,46.38.255.27,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,NETCUP-GMBH,AS197540 netcup GmbH
 2024-07-13T19:39:39+0000,45.138.16.42,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
 2024-07-13T19:40:40+0000,44.203.243.183,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-13T19:39:26+0000,45.141.215.81,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-13T19:39:41+0000,45.83.104.137,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
+2024-07-13T19:49:26+0000,18.170.214.183,43,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc."
+2024-07-13T19:56:56+0000,146.158.105.3,43,Russia,RU,KEM,Kemerovo Oblast,Kemerovo,650061,55.3662,86.0805,Asia/Novokuznetsk,SM Ltd.,SM Ltd,AS210616 SM Ltd.
+2024-07-13T19:56:55+0000,176.96.230.120,33,Russia,RU,ROS,Rostov Oblast,Rostov-on-Don,344050,47.2363,39.7233,Europe/Moscow,Republican Digital Communications Office LAN,Private entrepreneur Sergey Olenich,"AS208890 SUE LPR ""Republican Digital Communication"""
+2024-07-13T20:10:30+0000,185.108.107.129,29,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Hostroyale Finland,,AS51765 Oy Crea Nova Hosting Solution Ltd
+2024-07-13T21:01:27+0000,91.92.255.137,78,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-13T21:08:17+0000,191.101.217.66,11,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-13T21:16:32+0000,37.46.115.54,39,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
+2024-07-13T21:23:30+0000,222.79.104.23,97,China,CN,FJ,Fujian,Gaosha,,26.4837,117.925,Asia/Shanghai,Fuzhou,Chinanet FJ,AS133774 Fuzhou
+2024-07-13T22:18:05+0000,34.34.234.227,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-13T22:24:13+0000,185.196.10.115,100,Switzerland,CH,BE,Bern,Bern,3000,46.948,7.44745,Europe/Zurich,Simple Carrier LLC,Simple Carrier LLC,AS42624 Global-Data System IT Corporation
+2024-07-13T22:48:00+0000,164.52.25.202,100,Japan,JP,13,Tokyo,Tokyo,102-0082,35.6893,139.6899,Asia/Tokyo,"CDS Global Cloud Co., Ltd",Ucul,"AS63199 CDS Global Cloud Co., Ltd"
+2024-07-13T22:49:29+0000,34.170.230.136,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-13T22:44:07+0000,18.212.76.100,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-14T00:23:14+0000,221.8.170.202,20,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-14T00:48:35+0000,3.83.221.165,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-14T00:51:01+0000,185.242.226.70,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,AI Spera,AS202425 IP Volume inc
+2024-07-14T00:56:20+0000,13.83.42.182,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-14T01:15:30+0000,175.22.84.198,2,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-14T01:16:36+0000,34.34.234.53,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-14T01:27:15+0000,172.168.40.176,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-14T02:36:56+0000,191.101.217.62,23,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-14T03:43:57+0000,35.90.61.210,12,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-14T04:18:16+0000,185.242.226.80,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,AI Spera,AS202425 IP Volume inc
+2024-07-14T04:21:55+0000,172.203.161.103,40,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-14T04:23:34+0000,23.248.234.78,84,Hong Kong,HK,HCW,Central and Western District,Hong Kong,999077,22.273,114.1498,Asia/Hong_Kong,MOACK.Co.LTD,MOACK.Co.LTD,AS136800 MOACK.Co.LTD
+2024-07-14T04:26:37+0000,4.194.128.0,45,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation
+2024-07-14T04:38:24+0000,15.235.145.161,100,Singapore,SG,01,Central Singapore,Singapore,069536,1.27989,103.849,Asia/Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS
+2024-07-14T04:42:20+0000,192.42.116.219,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.
+2024-07-14T04:38:09+0000,135.236.156.103,49,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,MICROSOFT,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation
+2024-07-14T04:42:24+0000,45.134.225.36,100,The Netherlands,NL,NH,North Holland,Amsterdam,1043,52.3856,4.84335,Europe/Amsterdam,ColocationX Ltd.,ColocationX Ltd,AS208046 ColocationX Ltd.
+2024-07-14T04:56:51+0000,123.160.221.135,95,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China."
+2024-07-14T05:16:19+0000,37.46.115.43,63,Serbia,RS,00,Belgrade,Belgrade,,44.8046,20.4637,Europe/Belgrade,AltusHost B.V.,Serbian Open Exchange DOO,AS51430 AltusHost B.V.
+2024-07-14T05:29:01+0000,5.62.41.39,18,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.
+2024-07-14T05:12:03+0000,18.204.34.223,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-14T06:47:36+0000,18.119.103.134,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
