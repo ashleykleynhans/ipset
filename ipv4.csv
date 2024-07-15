@@ -3880,3 +3880,19 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-15T09:28:28+0000,89.58.41.156,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
 2024-07-15T09:42:49+0000,34.65.31.96,34,Switzerland,CH,ZH,Zurich,Zurich,,47.3595,8.6356,Europe/Zurich,Google LLC,Google Cloud (europe-west6),AS396982 Google LLC
 2024-07-15T09:45:37+0000,34.237.203.51,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-15T09:51:06+0000,34.173.55.218,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T10:24:27+0000,185.137.234.113,13,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,"OOO ""Network of data-centers ""Selectel""",,"AS49505 OOO ""Network of data-centers ""Selectel"""
+2024-07-15T10:34:51+0000,180.149.125.165,35,Mongolia,MN,1,Ulaanbaatar Hot,Ulan Bator,,47.904,106.823,Asia/Ulaanbaatar,gemnet sub network,Gemnet,AS45204 GEMNET LLC
+2024-07-15T10:37:47+0000,160.176.174.220,2,Morocco,MA,03,Fès-Meknès,Fes,,34.0508,-5.0099,Africa/Casablanca,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+2024-07-15T11:02:44+0000,34.173.10.17,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T11:04:50+0000,54.237.142.42,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-15T11:21:16+0000,35.194.77.167,2,United States,US,DC,"Washington, D.C.",Washington,,38.9071,-77.0368,America/New_York,Google LLC,Google Cloud (us-east4),AS396982 Google LLC
+2024-07-15T11:29:51+0000,34.94.110.218,2,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS396982 Google LLC
+2024-07-15T11:32:28+0000,146.148.87.104,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T11:32:43+0000,192.42.116.177,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.
+2024-07-15T11:32:54+0000,80.67.172.162,100,France,FR,IDF,Île-de-France,Paris,75011,48.8528,2.39213,Europe/Paris,Association Globenet,Gitoyen,"AS20766 Association ""Gitoyen"""
+2024-07-15T11:38:45+0000,185.100.87.250,100,Romania,RO,B,București,Bucharest,050203,44.4291,26.1006,Europe/Bucharest,FlokiNET Ltd,FlokiNET Ltd,AS200651 FlokiNET ehf
+2024-07-15T11:38:49+0000,45.138.16.240,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-15T11:38:51+0000,185.67.82.114,100,Finland,FI,18,Uusimaa,Helsinki,00100,60.1719,24.9347,Europe/Helsinki,Cinia Oy,ElectronicFrontierFinland,AS20904 Cinia Oy
+2024-07-15T11:58:01+0000,82.199.155.155,17,Germany,DE,HE,Hesse,Münster,64839,49.9228,8.86778,Europe/Berlin,Core-Backbone GmbH,Privax Ltd,AS201011 Core-Backbone GmbH
+2024-07-15T12:05:40+0000,34.46.192.164,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
