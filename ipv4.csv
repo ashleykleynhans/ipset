@@ -2098,7 +2098,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T07:23:53+0000,157.245.201.153,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-04T08:08:03+0000,64.31.3.105,49,United States,US,UT,Utah,Salt Lake City,84189,40.759,-111.8876,America/Denver,"Limestone Networks, Inc.",Limestone Networks,"AS46475 Limestone Networks, Inc."
 2024-07-04T08:12:26+0000,45.135.57.32,100,The Netherlands,NL,UT,Utrecht,Leersum,3956,52.0313,5.41479,Europe/Amsterdam,GreenEdge B.V.,Critical Core BV,AS206176 GreenEdge B.V.
-2024-07-04T08:24:25+0000,172.94.95.13,57,United States,US,DC,District of Columbia,Washington,20005,38.8903,-77.032,America/New_York,Secure Internet LLC,Internet Security - US VA,"AS46475 Limestone Networks, Inc."
 2024-07-04T08:29:52+0000,185.51.134.168,24,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
 2024-07-04T08:47:12+0000,178.62.211.237,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
 2024-07-04T08:54:59+0000,149.34.245.199,68,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
@@ -3861,3 +3860,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-15T04:46:11+0000,49.0.231.208,42,Hong Kong,HK,HCW,Central and Western District,Hong Kong,,22.3193,114.1693,Asia/Hong_Kong,Huawei International Pte. LTD,,AS136907 HUAWEI CLOUDS
 2024-07-15T05:01:08+0000,206.168.34.210,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
 2024-07-15T05:06:08+0000,202.165.16.134,100,Malaysia,MY,14,Kuala Lumpur,Kuala Lumpur,59100,3.11613,101.666,Asia/Kuala_Lumpur,TM TECHNOLOGY SERVICES SDN BHD,CloudAlphaEdge,AS18206 TM TECHNOLOGY SERVICES SDN. BHD.
+2024-07-15T05:30:06+0000,107.22.22.214,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-15T05:26:12+0000,104.197.190.100,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T05:46:52+0000,35.203.254.234,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-15T05:59:50+0000,80.255.7.36,27,Germany,DE,HE,Hesse,Frankfurt am Main,60552,50.1155,8.68417,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-15T06:35:20+0000,54.188.137.68,2,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-15T06:56:10+0000,176.57.50.100,100,Jordan,JO,AM,Amman Governorate,Amman,,31.9539,35.9106,Asia/Amman,Ipxo Limited,Ipxo Limited,AS200131 STALLIONDC Limited
+2024-07-15T07:11:08+0000,172.94.95.13,62,United States,US,DC,District of Columbia,Washington,20005,38.8903,-77.032,America/New_York,Secure Internet LLC,Internet Security - US VA,"AS46475 Limestone Networks, Inc."
+2024-07-15T07:46:11+0000,45.141.215.169,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-15T07:46:21+0000,192.42.116.199,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.
+2024-07-15T07:48:14+0000,34.44.79.51,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T07:57:54+0000,35.168.198.102,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-15T08:01:14+0000,36.182.48.103,32,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-15T08:24:36+0000,34.87.219.252,28,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS396982 Google LLC
+2024-07-15T08:30:58+0000,104.219.236.164,87,United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,America/New_York,DataWagon LLC,DataWagon LLC,AS27176 DataWagon LLC
+2024-07-15T08:47:33+0000,34.152.59.183,13,Canada,CA,QC,Quebec,Montreal,,45.5016,-73.5672,America/Toronto,Google LLC,Google Cloud (northamerica-northeast1),AS15169 Google LLC
+2024-07-15T08:43:30+0000,34.86.37.75,32,United States,US,DC,"Washington, D.C.",Washington,,38.9071,-77.0368,America/New_York,Google LLC,Google Cloud (us-east4),AS396982 Google LLC
+2024-07-15T09:11:46+0000,154.212.141.177,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.
+2024-07-15T09:28:28+0000,89.58.41.156,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH
+2024-07-15T09:42:49+0000,34.65.31.96,34,Switzerland,CH,ZH,Zurich,Zurich,,47.3595,8.6356,Europe/Zurich,Google LLC,Google Cloud (europe-west6),AS396982 Google LLC
+2024-07-15T09:45:37+0000,34.237.203.51,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
