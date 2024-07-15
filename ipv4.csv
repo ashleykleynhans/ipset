@@ -1368,7 +1368,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-28T13:08:47+0000,82.180.145.201,100,India,IN,MH,Maharashtra,Mumbai,400710,19.0748,72.8856,Asia/Kolkata,Contabo Asia Private Limited,Packethub S.A,AS141995 Contabo Asia Private Limited
 2024-06-28T13:13:11+0000,167.86.127.110,45,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
 2024-06-28T13:17:53+0000,103.244.96.69,17,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. Indo Web Media,PT. Indo Web Media,AS131756 PT. Indo Web Media
-2024-06-28T13:26:41+0000,185.93.3.111,25,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
 2024-06-28T13:32:04+0000,91.206.200.91,100,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,new Delta-X,"""DELTA-X"" LTD",AS200000 Hosting Ukraine LTD
 2024-06-28T13:37:05+0000,132.148.78.23,80,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
 2024-06-28T14:05:33+0000,51.178.138.74,60,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
@@ -1844,7 +1843,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-02T09:21:45+0000,54.211.207.128,32,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-02T10:30:41+0000,45.33.76.8,12,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
 2024-07-02T10:33:32+0000,188.166.226.213,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
-2024-07-02T11:06:07+0000,45.134.140.230,70,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Cdnext ATL,AS212238 Datacamp Limited
 2024-07-02T11:24:32+0000,45.158.12.116,51,Türkiye,TR,35,İzmir Province,Izmir,35000,38.4123,27.1424,Europe/Istanbul,Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.,ODEAWEB Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi,AS211871 Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.
 2024-07-02T11:26:43+0000,34.172.91.68,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-02T11:57:32+0000,169.150.205.134,58,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
@@ -3933,3 +3931,19 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-15T18:05:09+0000,82.199.155.148,29,Germany,DE,BE,Land Berlin,Berlin,10178,52.5253,13.412,Europe/Berlin,Core-Backbone GmbH,Privax Ltd,AS201011 Core-Backbone GmbH
 2024-07-15T18:06:15+0000,34.122.56.45,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-15T18:09:26+0000,5.62.41.136,11,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.
+2024-07-15T18:14:59+0000,139.64.246.181,99,Canada,CA,ON,Ontario,Kitchener,N2C,43.4229,-80.4732,America/Toronto,DataCity,Cloud at Cost,AS31798 DataCity
+2024-07-15T18:34:02+0000,23.26.220.31,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110002,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
+2024-07-15T18:46:02+0000,36.182.49.83,46,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-15T18:46:45+0000,3.80.159.21,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-15T19:12:44+0000,34.27.53.142,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T19:14:08+0000,45.134.140.230,74,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Cdnext ATL,AS212238 Datacamp Limited
+2024-07-15T19:09:52+0000,80.255.2.87,2,Germany,DE,BY,Bavaria,Nuremberg,90429,49.4592,11.0346,Europe/Berlin,Core-Backbone GmbH,Wavecon GmbH,AS201011 Core-Backbone GmbH
+2024-07-15T19:20:44+0000,42.4.4.36,13,China,CN,LN,Liaoning,Shenyang,110000,41.8048,123.433,Asia/Shanghai,China Unicom Liaoning Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-15T19:30:46+0000,4.151.228.44,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-15T19:36:34+0000,52.183.224.68,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-15T19:23:09+0000,35.238.183.185,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T19:55:30+0000,111.7.96.177,90,China,CN,GD,Guangdong,Guangzhou,510000,23.1317,113.266,Asia/Shanghai,China Mobile communications corporation,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-15T19:59:46+0000,157.10.45.104,100,Vietnam,VN,07,Tuyên Quang Province,Tuyên Quang,,21.8166,105.209,Asia/Bangkok,HAINAMTECH,HAI NAM Real Estate and Technology Joint Stock Company,AS150862 VPSTTT COMPUTER COMPANY LIMITED
+2024-07-15T20:08:29+0000,185.93.3.111,33,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-07-15T20:21:17+0000,185.208.158.226,100,United States,US,TX,Texas,Houston,77060,29.9359,-95.4014,America/Chicago,Simple Carrier LLC,Simple Carrier LLC,AS42624 Global-Data System IT Corporation
+2024-07-15T20:20:37+0000,54.147.79.112,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
