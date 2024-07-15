@@ -604,7 +604,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-22T10:56:00+0000,91.92.241.108,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-22T11:08:05+0000,213.232.87.234,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Tefincom S.A.,NordVPN,AS136787 TEFINCOM S.A.
 2024-06-22T11:09:30+0000,213.232.87.230,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Tefincom S.A.,NordVPN,AS136787 TEFINCOM S.A.
-2024-06-22T11:39:03+0000,84.17.60.53,10,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
 2024-06-22T11:42:01+0000,113.250.189.251,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,Chongqing Telecom,Chinanet CQ,AS134420 Chongqing Telecom
 2024-06-22T11:43:18+0000,139.180.132.51,69,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,SGP VULTR,,"AS20473 The Constant Company, LLC"
 2024-06-22T11:47:11+0000,93.123.39.36,69,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,Silent Connection Ltd.,Silent Connection LTD,AS215240 Silent Connection Ltd.
@@ -2072,7 +2071,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-03T23:04:23+0000,149.88.26.89,16,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-07-03T23:45:45+0000,192.210.150.32,100,United States,US,NY,New York,Buffalo,14205,42.8856,-78.8736,America/New_York,HostPapa,ColoCrossing,AS36352 HostPapa
 2024-07-04T00:02:40+0000,81.181.56.115,10,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
-2024-07-04T00:12:14+0000,169.150.208.144,36,Sweden,SE,AB,Stockholm County,Stockholm,100 05,59.3241,18.0517,Europe/Stockholm,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
 2024-07-04T00:38:21+0000,180.110.243.74,54,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
 2024-07-04T00:41:13+0000,23.26.220.14,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
 2024-07-04T01:01:37+0000,159.223.66.224,34,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
@@ -2096,7 +2094,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T06:30:18+0000,31.220.1.83,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Amarutu Technology Ltd. Network,Amarutu Technology Ltd,AS206264 Amarutu Technology Ltd
 2024-07-04T07:10:49+0000,64.62.197.68,100,United States,US,OR,Oregon,Mosier,97040,45.6514,-121.3833,America/Los_Angeles,Hurricane Electric LLC,Hurricane Electric,AS6939 Hurricane Electric LLC
 2024-07-04T07:23:53+0000,157.245.201.153,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-07-04T08:08:03+0000,64.31.3.105,49,United States,US,UT,Utah,Salt Lake City,84189,40.759,-111.8876,America/Denver,"Limestone Networks, Inc.",Limestone Networks,"AS46475 Limestone Networks, Inc."
 2024-07-04T08:12:26+0000,45.135.57.32,100,The Netherlands,NL,UT,Utrecht,Leersum,3956,52.0313,5.41479,Europe/Amsterdam,GreenEdge B.V.,Critical Core BV,AS206176 GreenEdge B.V.
 2024-07-04T08:29:52+0000,185.51.134.168,24,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
 2024-07-04T08:47:12+0000,178.62.211.237,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
@@ -2387,7 +2384,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T08:18:08+0000,84.17.52.43,25,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-07-05T08:33:42+0000,84.17.58.7,19,Italy,IT,25,Lombardy,Milan,20161,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited
 2024-07-05T09:39:59+0000,81.181.61.102,17,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
-2024-07-05T09:44:33+0000,138.199.35.49,44,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Datacamp Limited,Cdnext LAX,AS212238 Datacamp Limited
 2024-07-05T09:47:51+0000,159.223.81.99,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-05T09:57:02+0000,83.97.73.245,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Red Byte LLC,Red Byte LLC,AS208312 Red Byte LLC
 2024-07-05T10:04:12+0000,38.88.124.173,31,Canada,CA,BC,British Columbia,Vancouver,V5Z,49.2476,-123.1234,America/Vancouver,Tech Futures Interactive Inc.,Tech Futures Interactive Inc,AS394256 Tech Futures Interactive Inc.
@@ -3904,7 +3900,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-15T13:16:49+0000,81.181.63.31,18,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-07-15T13:18:52+0000,179.61.253.116,2,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Collin Schneeweiss,Unesty Company,AS211301 Collin Schneeweiss trading as Unesty Company
 2024-07-15T13:36:36+0000,172.111.150.148,15,United Kingdom,GB,ENG,England,London,E14,51.5115,-0.0028473,Europe/London,Datacamp Limited,INTERNET-SECURITY-GB,AS212238 Datacamp Limited
-2024-07-15T13:57:22+0000,23.26.220.28,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110002,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
 2024-07-15T14:00:40+0000,149.22.85.19,39,Greece,GR,I,Attica,Athens,,37.9842,23.7353,Europe/Athens,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-07-15T14:19:32+0000,109.131.215.168,96,Belgium,BE,BRU,Brussels Capital,Brussels,1050,50.8344,4.368,Europe/Brussels,Proximus SA,BELGACOM-ADSL1,AS5432 Proximus NV
 2024-07-15T14:29:00+0000,64.31.3.105,52,United States,US,UT,Utah,Salt Lake City,84189,40.759,-111.8876,America/Denver,"Limestone Networks, Inc.",Limestone Networks,"AS46475 Limestone Networks, Inc."
@@ -3915,5 +3910,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-15T15:04:07+0000,182.54.149.31,12,India,IN,MH,Maharashtra,Mumbai,400104,19.0748,72.8856,Asia/Kolkata,NET 4 U SERVICES,,AS134014 NET 4 U SERVICES PVT LTD
 2024-07-15T15:10:52+0000,54.212.229.5,50,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
 2024-07-15T15:10:53+0000,34.217.2.143,42,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
-2024-07-15T15:05:32+0000,199.45.154.157,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
 2024-07-15T16:00:40+0000,123.160.221.139,72,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China."
+2024-07-15T16:19:50+0000,195.181.161.7,30,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
+2024-07-15T16:36:39+0000,45.143.207.15,20,Armenia,AM,SH,Shirak,Gyumri,,40.7942,43.8453,Asia/Yerevan,HAYKAZ GHANDILYAN ANDRANIKI Private Entrepreneur,UTC Haykcom,AS206783 HAYKAZ GHANDILYAN ANDRANIKI Private Entrepreneur
+2024-07-15T16:36:41+0000,89.23.111.250,38,Russia,RU,SVE,Sverdlovsk Oblast,Yekaterinburg,620000,56.8431,60.6454,Asia/Yekaterinburg,ISP NetLife,,AS47550 FOP Bratinov Oleg Vyacheslavovich
+2024-07-15T16:36:47+0000,212.109.29.121,38,Russia,RU,KR,Karelia,Petrozavodsk,185014,61.7788,34.3606,Europe/Moscow,Svyazservice LTD,Svyazservice LTD,AS42387 Limited Company Svyazservice
+2024-07-15T16:36:48+0000,185.14.97.220,2,Norway,NO,07,Vestfold,Sandefjord,3241,59.1728,10.2221,Europe/Oslo,TerraHost,TerraHost,AS56655 Gigahost AS
+2024-07-15T16:36:50+0000,138.199.35.118,41,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Datacamp Limited,,AS212238 Datacamp Limited
+2024-07-15T16:36:51+0000,37.19.196.77,47,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Datacamp Limited,Cdnext NYC,AS212238 Datacamp Limited
+2024-07-15T16:36:52+0000,138.199.22.146,37,Japan,JP,13,Tokyo,Tokyo,102-0082,35.6893,139.6899,Asia/Tokyo,Datacamp Limited,Cdn77 TYO,AS60068 Datacamp Limited
+2024-07-15T16:41:06+0000,34.45.198.193,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T16:41:12+0000,59.125.121.48,2,Taiwan,TW,TPE,Taipei City,Taipei,,25.0504,121.5324,Asia/Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group
+2024-07-15T16:41:19+0000,83.142.83.27,13,Germany,DE,BY,Bavaria,Nuremberg,90409,49.454,11.0634,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH
+2024-07-15T16:46:06+0000,199.45.155.70,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-15T16:52:31+0000,167.71.211.222,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-15T17:13:01+0000,181.214.218.228,28,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-15T17:14:31+0000,84.17.60.53,28,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
+2024-07-15T17:29:57+0000,36.182.48.174,49,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-15T17:26:46+0000,34.34.234.234,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-15T17:48:42+0000,91.126.208.159,2,Spain,ES,CT,Catalonia,Monistrol de Montserrat,08691,41.6199,1.8525,Europe/Madrid,Adamo Telecom Iberia S.A Catalonia,Adamo Telecom Iberia S.A.,AS35699 Adamo Telecom Iberia S.A.
+2024-07-15T17:39:55+0000,206.168.34.43,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-15T18:05:09+0000,82.199.155.148,29,Germany,DE,BE,Land Berlin,Berlin,10178,52.5253,13.412,Europe/Berlin,Core-Backbone GmbH,Privax Ltd,AS201011 Core-Backbone GmbH
+2024-07-15T18:06:15+0000,34.122.56.45,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-15T18:09:26+0000,5.62.41.136,11,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.
