@@ -3996,3 +3996,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-16T08:02:05+0000,45.134.142.68,57,United States,US,FL,Florida,Miami,33197,25.7689,-80.1946,America/New_York,Datacamp Limited,Cdnext MIA,AS212238 Datacamp Limited
 2024-07-16T08:19:27+0000,185.93.3.108,33,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
 2024-07-16T08:28:57+0000,20.225.3.109,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-16T09:07:09+0000,185.92.137.8,31,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,K-telekom LLC,,AS203451 K-telekom LLC
+2024-07-16T09:07:15+0000,31.29.193.194,32,Russia,RU,SAR,Saratov Oblast,Balakovo,413840,52.0249,47.7948,Europe/Saratov,CMST-BLKV,JSC Comstar-Region,AS29190 MTS PJSC
+2024-07-16T09:39:34+0000,5.252.22.151,46,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Stark Industries Solutions LTD,Stark Industries Solutions LTD,AS44477 STARK INDUSTRIES SOLUTIONS LTD
+2024-07-16T09:42:35+0000,143.244.57.86,2,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
+2024-07-16T11:04:37+0000,115.220.2.96,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,Chinanet,,AS58461 CT-HangZhou-IDC
+2024-07-16T11:14:55+0000,109.206.237.151,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Ncryptd LLC,SERVERV,AS11938 NCRYPTD LLC
+2024-07-16T11:32:37+0000,87.236.176.216,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-16T11:42:38+0000,104.154.205.43,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-16T11:52:10+0000,91.92.254.252,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-16T11:55:26+0000,94.232.249.176,43,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,PSB HOSTING LTD,Skipin Vladislav Andreevich,AS214927 PSB HOSTING LTD
+2024-07-16T12:05:58+0000,192.42.116.26,100,The Netherlands,NL,NH,North Holland,Amsterdam,1013,52.3817,4.89021,Europe/Amsterdam,Surf B.V.,Hart voor Internetvrijheid,AS1101 SURF B.V.
+2024-07-16T12:05:59+0000,109.70.100.67,100,Austria,AT,9,Vienna,Vienna,1230,48.2085,16.3721,Europe/Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,AS208323 Foundation for Applied Privacy
+2024-07-16T12:11:46+0000,82.199.155.153,13,Germany,DE,BE,Land Berlin,Berlin,10178,52.5253,13.412,Europe/Berlin,Core-Backbone GmbH,Privax Ltd,AS201011 Core-Backbone GmbH
+2024-07-16T12:24:45+0000,80.82.78.39,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,IP Volume inc,AS202425 IP Volume inc
+2024-07-16T12:33:07+0000,185.241.208.202,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-16T12:33:11+0000,193.35.18.105,100,Netherlands,NL,LI,Limburg,Eygelshoven,6471WV,50.8956,6.0692,Europe/Amsterdam,Aggros Operations Ltd.,Pfcloud,AS202685 Aggros Operations Ltd.
+2024-07-16T12:34:12+0000,191.96.168.34,31,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-16T12:46:27+0000,38.91.107.36,23,United States,US,FL,Florida,Miami,,25.7616,-80.1917,America/New_York,GTHost,Globaltelehost Corp,AS63023 GTHost
+2024-07-16T13:08:38+0000,54.158.158.212,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-16T13:42:08+0000,87.236.176.233,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
