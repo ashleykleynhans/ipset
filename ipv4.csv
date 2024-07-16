@@ -1844,7 +1844,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-02T10:33:32+0000,188.166.226.213,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC"
 2024-07-02T11:24:32+0000,45.158.12.116,51,Türkiye,TR,35,İzmir Province,Izmir,35000,38.4123,27.1424,Europe/Istanbul,Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.,ODEAWEB Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi,AS211871 Odeaweb Bilisim Teknolojileri San. ve Tic. Ltd. Sti.
 2024-07-02T11:26:43+0000,34.172.91.68,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
-2024-07-02T11:57:32+0000,169.150.205.134,58,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
 2024-07-02T11:58:42+0000,119.29.249.99,100,Hong Kong,HK,NIS,Islands District,Hong Kong Island,96521,22.2432,114.197,Asia/Hong_Kong,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited
 2024-07-02T12:32:47+0000,146.70.181.237,40,United Kingdom,GB,ENG,England,Stretford,M17,53.4614,-2.32453,Europe/London,M247 Europe SRL,M247 Ltd Manchester,AS9009 M247 Europe SRL
 2024-07-02T12:54:16+0000,5.62.20.35,100,Belgium,BE,VLG,Flanders,Ghent,9000,51.047,3.7206,Europe/Brussels,AVAST Software s.r.o.,Privax LTD,AS198605 AVAST Software s.r.o.
@@ -2909,7 +2908,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T13:11:26+0000,46.246.8.179,20,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB
 2024-07-06T13:27:38+0000,94.156.69.228,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-07-06T13:45:28+0000,157.245.129.89,56,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-07-06T13:46:18+0000,45.134.142.68,51,United States,US,FL,Florida,Miami,33197,25.7689,-80.1946,America/New_York,Datacamp Limited,Cdnext MIA,AS212238 Datacamp Limited
 2024-07-06T13:47:49+0000,20.150.223.200,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
 2024-07-06T13:08:33+0000,162.243.165.132,15,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
 2024-07-06T13:49:09+0000,161.35.114.210,29,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
@@ -3981,3 +3979,20 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-16T05:20:39+0000,172.206.143.39,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
 2024-07-16T05:23:09+0000,4.156.21.177,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
 2024-07-16T05:25:42+0000,175.30.48.179,43,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,Chinanet,Chinanet JL,AS4134 CHINANET-BACKBONE
+2024-07-16T05:31:42+0000,185.244.218.83,35,The Netherlands,NL,NH,North Holland,Oude Meer,1438,52.2862,4.7845,Europe/Amsterdam,Podaon SIA,Podaon SIA,AS211381 Podaon SIA
+2024-07-16T05:39:20+0000,169.150.205.134,92,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-16T05:47:30+0000,149.88.98.102,55,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-16T05:53:36+0000,83.142.83.22,18,Germany,DE,BY,Bavaria,Nuremberg,90409,49.454,11.0634,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH
+2024-07-16T05:56:56+0000,137.189.59.144,20,Hong Kong,HK,NST,Sha Tin,Sha Tin Wai,,22.3847,114.1965,Asia/Hong_Kong,The Chinese University of Hong Kong,Chinese University of Hong Kong (The),AS3661 The Chinese University of Hong Kong
+2024-07-16T06:06:07+0000,184.183.193.212,34,United States,US,RI,Rhode Island,Newport,02840,41.4866,-71.3295,America/New_York,Cox Communications Inc.,Cox Communications Inc.,AS22773 Cox Communications Inc.
+2024-07-16T06:06:54+0000,54.152.139.5,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-16T06:16:31+0000,191.96.168.137,12,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-16T06:17:07+0000,3.82.245.5,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-16T06:50:53+0000,84.239.54.48,18,Italy,IT,25,Lombardy,Milan,20122,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-07-16T07:08:35+0000,52.3.226.187,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-16T07:44:03+0000,44.222.244.52,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-16T07:52:41+0000,149.88.26.87,15,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-16T07:39:51+0000,102.100.71.254,47,Morocco,MA,06,Casablanca-Settat,Casablanca,,33.5792,-7.6133,Africa/Casablanca,Orange Morocco,,AS36925 MEDITELECOM
+2024-07-16T08:02:05+0000,45.134.142.68,57,United States,US,FL,Florida,Miami,33197,25.7689,-80.1946,America/New_York,Datacamp Limited,Cdnext MIA,AS212238 Datacamp Limited
+2024-07-16T08:19:27+0000,185.93.3.108,33,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-07-16T08:28:57+0000,20.225.3.109,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
