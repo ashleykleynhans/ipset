@@ -767,7 +767,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T13:42:52+0000,134.122.123.193,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-24T13:53:12+0000,37.46.113.250,33,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.
 2024-06-24T14:05:42+0000,123.30.234.70,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,VietNam Post and Telecom Corporation,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp
-2024-06-24T14:05:42+0000,128.199.152.116,21,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-24T14:27:42+0000,78.153.140.222,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,AS202306 HOSTGLOBAL.PLUS LTD
 2024-06-24T14:45:06+0000,23.26.220.28,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Datacamp Limited,SECFIREWALLAS,AS212238 Datacamp Limited
 2024-06-24T15:06:01+0000,95.181.236.154,3,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL
@@ -1919,7 +1918,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-03T00:39:27+0000,104.236.80.67,39,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-03T00:50:42+0000,91.92.246.80,30,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-07-03T01:53:05+0000,34.135.142.248,24,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
-2024-07-03T02:23:06+0000,43.157.32.131,70,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
 2024-07-03T02:29:09+0000,157.245.129.229,39,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-03T02:35:47+0000,84.239.40.242,26,Romania,RO,IF,Ilfov,Voluntari,077190,44.5078,26.1377,Europe/Bucharest,INVITE Systems SRL,BinBox Global Services - DataCenter,AS44679 INVITE Systems SRL
 2024-07-03T02:41:23+0000,149.130.181.235,100,Colombia,CO,CUN,Cundinamarca,Cota,250027,4.7109,-74.2067,America/Bogota,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation
@@ -2989,7 +2987,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T17:28:05+0000,206.168.34.51,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
 2024-07-06T17:47:13+0000,43.130.7.211,95,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue"
 2024-07-06T17:47:20+0000,129.226.147.7,94,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue"
-2024-07-06T17:52:34+0000,130.245.32.94,18,United States,US,NY,New York,Stony Brook,11790,40.9076,-73.122,America/New_York,State University of New York at Stony Brook,State University of New York at Stony Brook,AS5719 State University of New York at Stony Brook
 2024-07-06T17:55:24+0000,206.168.34.208,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
 2024-07-06T17:57:55+0000,199.45.155.103,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
 2024-07-06T18:04:40+0000,103.60.233.11,100,Indonesia,ID,JB,West Java,Cimahi,,-6.89529,107.542,Asia/Jakarta,CIGS,,AS150504 PT CIGS Indonesia Digital
@@ -4133,3 +4130,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-17T16:03:46+0000,175.16.57.169,2,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
 2024-07-17T16:20:58+0000,212.102.40.143,80,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL,AS60068 Datacamp Limited
 2024-07-17T16:22:44+0000,185.93.3.106,36,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-07-17T16:37:07+0000,130.245.32.94,21,United States,US,NY,New York,Stony Brook,11790,40.9076,-73.122,America/New_York,State University of New York at Stony Brook,State University of New York at Stony Brook,AS5719 State University of New York at Stony Brook
+2024-07-17T17:05:36+0000,195.98.73.253,20,Russia,RU,VOR,Voronezh Oblast,Voronezh,394000,51.6518,39.2241,Europe/Moscow,"AO IK ""Informsvyaz-Chernozemye""",Vrndistants,"AS6856 AO IK ""Informsvyaz-Chernozemye"""
+2024-07-17T17:09:50+0000,87.249.38.16,42,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,TimeWeb Ltd.,TW Hosting,AS9123 TimeWeb Ltd.
+2024-07-17T17:31:55+0000,156.146.55.169,33,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-07-17T17:43:09+0000,128.199.152.116,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-17T18:02:06+0000,194.26.192.182,26,The Netherlands,NL,NH,North Holland,Oude Meer,1438,52.2862,4.7845,Europe/Amsterdam,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH
+2024-07-17T18:04:46+0000,178.163.36.35,26,Russia,RU,SAM,Samara Oblast,Tolyatti,445000,53.5333,49.3818,Europe/Samara,Infoline networks,,AS8416 Infoline Ltd.
+2024-07-17T18:04:47+0000,171.25.255.241,20,Russia,RU,TYU,Tyumen Oblast,Tyumen,625000,57.1181,65.5472,Asia/Yekaterinburg,Russian company LLC,Russian Company Sever LLC,"AS15493 ""Russian company"" LLC"
+2024-07-17T18:04:48+0000,37.72.176.236,31,Russia,RU,CHE,Chelyabinsk Oblast,Kopeysk,456601,55.1107,61.6179,Asia/Yekaterinburg,Insit-Invest,,AS60098 CJSC Insit-Invest
+2024-07-17T18:04:49+0000,85.143.144.96,28,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,Comfortel Ltd.,Comfortel Ltd,AS56534 Comfortel Ltd.
+2024-07-17T18:04:51+0000,155.133.4.137,26,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Clouvider Limited,Packethub S.A,AS62240 Clouvider
+2024-07-17T18:04:52+0000,89.23.107.206,29,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Global Connectivity Solutions LLP,Global Connectivity Solutions LLP,AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP
+2024-07-17T18:04:56+0000,92.53.182.119,13,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,Clouvider Limited,Ipxo Limited,AS62240 Clouvider
+2024-07-17T18:12:30+0000,3.237.100.209,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-17T18:25:21+0000,94.232.249.111,48,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,PSB HOSTING LTD,Skipin Vladislav Andreevich,AS214927 PSB HOSTING LTD
+2024-07-17T18:30:15+0000,185.250.46.125,38,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,AdminVPS LLC,Adminvps,AS211183 AdminVPS OOO
+2024-07-17T18:37:13+0000,35.238.24.226,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-17T18:44:46+0000,43.157.32.131,100,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue"
+2024-07-17T18:54:30+0000,20.56.230.234,2,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation
+2024-07-17T19:09:42+0000,34.0.129.191,2,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC
+2024-07-17T19:12:14+0000,81.176.228.2,37,Russia,RU,MOW,Moscow,Moscow,144700,55.7497,37.5375,Europe/Moscow,RTCOMM,In-Solve/1Gb.ru hosting services,AS8342 JSC RTComm.RU
+2024-07-17T19:20:36+0000,45.140.42.11,64,Germany,DE,HE,Hesse,Frankfurt am Main,60314,50.1103,8.7147,Europe/Berlin,Clouvider Limited,Clouvider Limited,AS62240 Clouvider
