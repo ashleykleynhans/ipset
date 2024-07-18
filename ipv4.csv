@@ -2257,7 +2257,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T19:00:28+0000,18.184.246.51,25,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
 2024-07-04T19:01:15+0000,95.10.233.244,16,Türkiye,TR,41,Kocaeli,Köseköy,41100,40.704,29.9957,Europe/Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,AS9121 Turk Telekomunikasyon Anonim Sirketi
 2024-07-04T19:01:35+0000,194.195.116.93,73,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
-2024-07-04T19:04:42+0000,38.114.121.38,97,United States,US,IL,Illinois,Chicago,,41.8781,-87.6297,America/Chicago,GTHost,,AS63023 GTHost
 2024-07-04T19:04:47+0000,68.178.223.61,88,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC"
 2024-07-04T19:04:17+0000,192.99.103.111,46,Canada,CA,QC,Quebec,Beauharnois,J6N,45.3151,-73.8779,America/Toronto,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS
 2024-07-04T19:06:18+0000,103.124.95.33,55,Vietnam,VN,HN,Hanoi,Đống Đa District,,21.0144,105.814,Asia/Bangkok,NhanHoa Software company,NHANHOA,AS131353 NhanHoa Software company
@@ -4029,7 +4028,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-16T21:38:47+0000,36.182.49.60,13,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
 2024-07-16T21:43:32+0000,81.181.61.76,2,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-07-16T22:31:59+0000,20.185.150.74,29,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
-2024-07-16T22:39:09+0000,35.203.253.100,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
 2024-07-16T23:05:41+0000,34.45.56.89,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-16T23:17:49+0000,35.232.154.86,2,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-16T23:25:16+0000,84.239.54.50,14,Italy,IT,25,Lombardy,Milan,20122,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
@@ -4272,7 +4270,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-18T19:00:52+0000,74.225.159.59,50,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,AT&T Corp.,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation
 2024-07-18T19:13:49+0000,89.149.24.23,29,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Binbox Global Services,AS3257 GTT Communications Inc.
 2024-07-18T19:15:57+0000,146.190.246.147,37,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-07-18T19:23:36+0000,108.170.9.250,27,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Secured Servers LLC,Silicon House,AS20454 SECURED SERVERS LLC
 2024-07-18T19:25:01+0000,35.203.252.235,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
 2024-07-18T19:25:43+0000,187.189.87.28,2,Mexico,MX,CMX,Mexico City,Gustavo Adolfo Madero,07960,19.4596,-99.097,America/Mexico_City,Total Play Telecomunicaciones SA De CV,Total Play Telecomunicaciones SA De CV,AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV
 2024-07-18T19:25:43+0000,88.241.67.192,12,Türkiye,TR,09,Aydın,Aydin,09600,37.8795,27.7491,Europe/Istanbul,TurkTelecom,Turk Telekomunikasyon A.S,AS47331 TTNet A.S.
@@ -4284,6 +4281,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-18T19:28:15+0000,191.101.31.74,25,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-07-18T19:38:30+0000,178.218.144.99,100,Italy,IT,25,Lombardy,Milan,20121,45.4722,9.1922,Europe/Rome,Lowhosting services of Davide Gennari,LowHosting Services,AS212508 Lowhosting services of Davide Gennari
 2024-07-18T19:38:31+0000,109.70.100.2,100,Austria,AT,9,Vienna,Vienna,1040,48.1946,16.3684,Europe/Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,AS208323 Foundation for Applied Privacy
-2024-07-18T19:42:02+0000,93.113.111.193,85,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,NetConnex Broadband Ltd.,Nimbus Hosting LTD,AS21396 NetConnex Broadband Ltd.
 2024-07-18T19:44:29+0000,88.135.68.15,2,Iran,IR,23,Tehran,Tehran,,35.6892,51.389,Asia/Tehran,Dade Pardazan Fahim Shahin Shahr (Ltd),Dade Pardazan Fahim Shahin Shahr (Ltd),AS212296 Dade Pardazan Fahim Shahin Shahr (Ltd)
 2024-07-18T19:45:41+0000,45.233.143.8,26,Chile,CL,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536,America/Santiago,ALKON,One Networks,AS266768 ALKON SAS
+2024-07-18T19:46:34+0000,38.114.121.38,100,United States,US,IL,Illinois,Chicago,,41.8781,-87.6297,America/Chicago,GTHost,,AS63023 GTHost
+2024-07-18T19:52:59+0000,186.234.80.126,17,Brazil,BR,SP,São Paulo,São Paulo,01000-000,-23.5558,-46.6396,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.
+2024-07-18T19:53:38+0000,103.154.62.252,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+2024-07-18T19:54:55+0000,18.116.34.58,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-18T19:56:44+0000,92.204.214.197,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,GD MASS Network,Go Daddy Netherlands B.V,AS21499 Host Europe GmbH
+2024-07-18T19:57:59+0000,43.201.5.148,2,South Korea,KR,11,Seoul,Seoul,,37.5665,126.978,Asia/Seoul,"Amazon.com, Inc.",AWS EC2 (ap-northeast-2),"AS16509 Amazon.com, Inc."
+2024-07-18T20:02:04+0000,45.152.243.96,89,Türkiye,TR,34,Istanbul,Istanbul,34134,41.0011,28.9675,Europe/Istanbul,Emirhan Kurt,Ipxo Limited,AS215567 EMIRHAN KURT
+2024-07-18T20:13:27+0000,185.247.225.10,89,Romania,RO,B,București,Bucharest,050203,44.4291,26.1006,Europe/Bucharest,FlokiNET ehf,Romania,AS200651 FlokiNET ehf
+2024-07-18T20:13:52+0000,35.184.51.176,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-18T20:17:49+0000,52.39.158.44,2,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-18T20:22:21+0000,93.113.111.193,88,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,NetConnex Broadband Ltd.,Nimbus Hosting LTD,AS21396 NetConnex Broadband Ltd.
+2024-07-18T20:35:14+0000,192.145.125.94,100,Germany,DE,HE,Hesse,Frankfurt am Main,60552,50.1155,8.68417,Europe/Berlin,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL
+2024-07-18T20:58:58+0000,104.219.239.67,100,United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,America/New_York,DataWagon LLC,DataWagon LLC,AS27176 DataWagon LLC
+2024-07-18T20:59:57+0000,34.170.221.79,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-18T21:00:36+0000,87.236.176.206,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-18T21:01:46+0000,35.203.253.100,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-18T21:03:13+0000,36.182.48.144,49,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-18T21:10:41+0000,3.237.21.221,20,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T21:12:53+0000,20.0.136.211,76,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation
+2024-07-18T21:17:43+0000,80.76.49.175,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Networks France,AS399486 12651980 CANADA INC.
+2024-07-18T21:20:51+0000,108.170.9.250,33,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Secured Servers LLC,Silicon House,AS20454 SECURED SERVERS LLC
