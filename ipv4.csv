@@ -2911,7 +2911,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T14:22:57+0000,87.236.176.248,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
 2024-07-06T12:59:02+0000,198.11.181.236,100,United States,US,CA,California,Minkler,,36.7783,-119.418,America/Los_Angeles,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd."
 2024-07-06T13:56:57+0000,87.236.176.215,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
-2024-07-06T14:26:11+0000,149.102.244.41,33,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-07-06T14:34:10+0000,87.236.176.45,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
 2024-07-06T14:35:38+0000,110.154.100.232,35,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
 2024-07-06T14:32:27+0000,87.236.176.65,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
@@ -4199,3 +4198,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-18T05:37:24+0000,3.227.208.59,45,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-18T05:43:28+0000,34.96.50.99,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
 2024-07-18T05:46:07+0000,84.239.42.148,44,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-07-18T06:16:00+0000,54.162.222.160,12,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T06:40:03+0000,149.34.244.229,29,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-18T07:01:32+0000,149.88.106.146,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-18T07:11:29+0000,87.236.176.245,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-18T07:13:41+0000,20.36.132.103,2,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation
+2024-07-18T07:33:24+0000,4.213.63.196,100,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation
+2024-07-18T07:37:59+0000,34.201.27.219,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T08:03:31+0000,35.203.252.239,2,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-18T08:04:03+0000,34.41.202.254,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-18T08:16:23+0000,175.19.74.215,12,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-18T08:24:07+0000,149.102.244.41,44,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-18T08:53:38+0000,81.181.56.87,2,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-18T09:02:07+0000,87.236.176.167,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-18T09:03:09+0000,125.160.224.26,2,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia
+2024-07-18T09:11:34+0000,35.224.25.46,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-18T09:15:43+0000,87.236.176.81,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
+2024-07-18T09:33:10+0000,52.15.207.175,2,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-18T09:43:25+0000,192.175.111.252,39,Canada,CA,QC,Quebec,Montreal,H4G,45.4681,-73.5387,America/Toronto,Leaseweb Canada Inc.,iWeb Technologies Inc.,AS32613 Leaseweb Canada Inc.
+2024-07-18T09:43:25+0000,192.175.111.228,45,Mexico,MX,JAL,Jalisco,Guadalajara,44100,20.6752,-103.347,America/Mexico_City,Leaseweb Canada Inc,David Prado Rodriguez,AS32613 Leaseweb Canada Inc.
+2024-07-18T09:43:25+0000,192.175.111.232,33,Canada,CA,QC,Quebec,Montreal,H1B,45.5019,-73.5674,America/Toronto,Leaseweb Canada Inc,CyberAccesData Inc,AS32613 Leaseweb Canada Inc.
+2024-07-18T09:43:26+0000,192.175.111.233,50,Canada,CA,QC,Quebec,Montreal,H1B,45.5019,-73.5674,America/Toronto,Leaseweb Canada Inc,CyberAccesData Inc,AS32613 Leaseweb Canada Inc.
