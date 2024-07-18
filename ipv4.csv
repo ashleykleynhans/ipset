@@ -4219,3 +4219,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-18T09:43:25+0000,192.175.111.228,45,Mexico,MX,JAL,Jalisco,Guadalajara,44100,20.6752,-103.347,America/Mexico_City,Leaseweb Canada Inc,David Prado Rodriguez,AS32613 Leaseweb Canada Inc.
 2024-07-18T09:43:25+0000,192.175.111.232,33,Canada,CA,QC,Quebec,Montreal,H1B,45.5019,-73.5674,America/Toronto,Leaseweb Canada Inc,CyberAccesData Inc,AS32613 Leaseweb Canada Inc.
 2024-07-18T09:43:26+0000,192.175.111.233,50,Canada,CA,QC,Quebec,Montreal,H1B,45.5019,-73.5674,America/Toronto,Leaseweb Canada Inc,CyberAccesData Inc,AS32613 Leaseweb Canada Inc.
+2024-07-18T10:05:01+0000,20.125.40.43,2,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation
+2024-07-18T10:06:10+0000,48.217.211.95,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-18T10:39:20+0000,20.251.144.86,100,Norway,NO,30,Viken,Lorenskog,1475,59.91662,10.982052,Europe/Oslo,Microsoft Corporation,Microsoft Azure Cloud (norwaye),AS8075 Microsoft Corporation
+2024-07-18T11:02:03+0000,3.233.236.136,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T11:09:22+0000,34.133.217.113,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-18T11:23:30+0000,87.236.176.25,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
+2024-07-18T11:37:26+0000,128.199.227.94,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-18T11:42:42+0000,181.214.206.34,2,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Ipxo,AS3257 GTT Communications Inc.
+2024-07-18T11:48:52+0000,34.123.77.163,18,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-18T12:05:00+0000,84.17.48.67,2,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-18T12:08:04+0000,89.188.177.66,2,Russia,RU,MOS,Moscow Oblast,Balashikha,143905,55.8015,37.9465,Europe/Moscow,Fryazino.net,,"AS28917 Fiord Networks, UAB"
+2024-07-18T12:08:05+0000,5.180.208.183,2,United States,US,GA,Georgia,Atlanta,30303,33.7485,-84.3871,America/New_York,Clouvider Limited,Packethub S.A,AS62240 Clouvider
+2024-07-18T12:08:06+0000,94.245.151.39,20,Russia,RU,SA,Sakha,Yakutsk,677000,62.0313,129.7325,Asia/Yakutsk,Sakhatelecom,,AS12389 PJSC Rostelecom
+2024-07-18T12:08:06+0000,216.131.79.196,19,United States,US,TX,Texas,Dallas,75207,32.7766,-96.7969,America/Chicago,Strong Technology,Netprotect,"AS62651 Strong Technology, LLC."
+2024-07-18T12:13:44+0000,44.220.185.235,50,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T12:34:02+0000,34.237.138.208,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T12:41:41+0000,54.191.71.156,13,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-18T12:56:11+0000,37.19.217.97,58,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdnext PAR,AS212238 Datacamp Limited
+2024-07-18T12:58:31+0000,18.215.64.184,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T13:27:31+0000,84.239.54.67,23,Italy,IT,25,Lombardy,Milan,20122,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
