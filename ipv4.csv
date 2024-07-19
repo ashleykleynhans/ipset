@@ -4281,8 +4281,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-18T19:28:15+0000,191.101.31.74,25,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
 2024-07-18T19:38:30+0000,178.218.144.99,100,Italy,IT,25,Lombardy,Milan,20121,45.4722,9.1922,Europe/Rome,Lowhosting services of Davide Gennari,LowHosting Services,AS212508 Lowhosting services of Davide Gennari
 2024-07-18T19:38:31+0000,109.70.100.2,100,Austria,AT,9,Vienna,Vienna,1040,48.1946,16.3684,Europe/Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,AS208323 Foundation for Applied Privacy
-2024-07-18T19:44:29+0000,88.135.68.15,2,Iran,IR,23,Tehran,Tehran,,35.6892,51.389,Asia/Tehran,Dade Pardazan Fahim Shahin Shahr (Ltd),Dade Pardazan Fahim Shahin Shahr (Ltd),AS212296 Dade Pardazan Fahim Shahin Shahr (Ltd)
-2024-07-18T19:45:41+0000,45.233.143.8,26,Chile,CL,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536,America/Santiago,ALKON,One Networks,AS266768 ALKON SAS
 2024-07-18T19:46:34+0000,38.114.121.38,100,United States,US,IL,Illinois,Chicago,,41.8781,-87.6297,America/Chicago,GTHost,,AS63023 GTHost
 2024-07-18T19:52:59+0000,186.234.80.126,17,Brazil,BR,SP,São Paulo,São Paulo,01000-000,-23.5558,-46.6396,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.
 2024-07-18T19:53:38+0000,103.154.62.252,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,SUNCLOUD,Suncloud Technology Infrastructure Joint Stock Company,AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
@@ -4304,3 +4302,42 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-18T21:12:53+0000,20.0.136.211,76,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation
 2024-07-18T21:17:43+0000,80.76.49.175,100,United States,US,NJ,New Jersey,Edison,08899,40.5237,-74.4151,America/New_York,12651980 Canada Inc.,Virtuo Networks France,AS399486 12651980 CANADA INC.
 2024-07-18T21:20:51+0000,108.170.9.250,33,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Secured Servers LLC,Silicon House,AS20454 SECURED SERVERS LLC
+2024-07-18T21:25:02+0000,20.234.200.43,27,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation
+2024-07-18T21:28:51+0000,50.115.41.242,100,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,"WebNX, Inc.","WebNX, Inc.","AS18450 WebNX, Inc."
+2024-07-18T21:55:39+0000,179.48.84.239,2,Brazil,BR,RJ,Rio de Janeiro,Nova Iguaçu,26000,-22.6828,-43.5038,America/Sao_Paulo,Brasil Fibra comunicação multimidia LTD,Brasil Fibra comunicação multimidia LTD,AS271074 Brasil Fibra comunicação multimidia LTD
+2024-07-18T21:55:40+0000,212.102.40.67,57,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Datacamp Limited,Cdn77 DAL,AS60068 Datacamp Limited
+2024-07-18T21:55:41+0000,45.146.55.222,13,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Clouvider Limited,"VPN Consumer Atlanta, United States of America",AS62240 Clouvider
+2024-07-18T21:55:42+0000,78.184.65.22,2,Türkiye,TR,06,Ankara,Çankaya,06430,39.9205,32.8372,Europe/Istanbul,TurkTelecom,Turk Telekomunikasyon A.S,AS47331 TTNet A.S.
+2024-07-18T21:55:46+0000,46.148.179.249,14,Ukraine,UA,43,Crimea,Simferopol,95014,44.9607,34.1051,Europe/Simferopol,Alexey Geiner,Alexey Geiner,AS204161 Alexey Geiner
+2024-07-18T21:55:47+0000,50.7.29.98,37,Germany,DE,HE,Hesse,Frankfurt am Main,60528,50.0812,8.6411,Europe/Berlin,FDCservers.net,FDCservers.net,AS174 Cogent Communications
+2024-07-18T21:55:48+0000,87.236.176.17,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT
+2024-07-18T21:55:50+0000,120.29.91.32,2,Philippines,PH,15,Cordillera,Baguio City,2600,16.4124,120.5933,Asia/Manila,Converge-ict Solution Inc,Converge ICT Solution Inc,AS17639 Converge ICT Solutions Inc.
+2024-07-18T21:55:52+0000,185.140.163.217,40,Russia,RU,TAM,Tambov Oblast,Tambov,392000,52.7324,41.4313,Europe/Moscow,LANTA Ltd,Lanta Networks,AS41268 LANTA Ltd
+2024-07-18T22:03:14+0000,45.233.143.8,42,Chile,CL,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536,America/Santiago,ALKON,One Networks,AS266768 ALKON SAS
+2024-07-18T22:06:13+0000,68.178.149.56,100,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
+2024-07-18T22:07:02+0000,187.23.160.246,100,Brazil,BR,SP,São Paulo,Indaiatuba,13330,-23.0889,-47.2127,America/Sao_Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,AS28573 Claro NXT Telecomunicacoes Ltda
+2024-07-18T22:34:25+0000,185.190.24.177,30,Aland Islands,AX,,Mariehamns stad,Mariehamn,22110,60.0971,19.9348,Europe/Mariehamn,Internet Solutions & Innovations LTD.,Tribeka Web Advisors S.A,AS211632 Internet Solutions & Innovations LTD.
+2024-07-18T22:59:22+0000,147.182.246.93,100,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-18T23:01:27+0000,88.135.68.15,57,Iran,IR,23,Tehran,Tehran,,35.6892,51.389,Asia/Tehran,Dade Pardazan Fahim Shahin Shahr (Ltd),Dade Pardazan Fahim Shahin Shahr (Ltd),AS212296 Dade Pardazan Fahim Shahin Shahr (Ltd)
+2024-07-18T23:08:22+0000,54.198.219.93,2,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-18T23:12:18+0000,113.141.91.58,99,China,CN,SN,Shaanxi,Xincheng,,34.2649,108.954,Asia/Shanghai,CHINANET SHAANXI province Cloud Base network,Chinanet SN,AS134768 CHINANET SHAANXI province Cloud Base network
+2024-07-18T23:29:24+0000,125.82.243.136,34,China,CN,CQ,Chongqing,Chongqing,,29.5689,106.5577,Asia/Shanghai,China Telecom,,AS4134 CHINANET-BACKBONE
+2024-07-18T23:33:53+0000,37.19.223.103,23,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
+2024-07-18T23:51:04+0000,4.156.20.220,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-19T00:00:04+0000,80.93.17.153,100,Ireland,IE,L,Leinster,Dublin,D02,53.3379,-6.2591,Europe/Dublin,Digiweb Ltd,Digiweb Ltd.,AS31122 Digiweb ltd
+2024-07-19T00:11:02+0000,84.239.42.151,38,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited
+2024-07-19T00:21:39+0000,78.157.38.115,100,Iran,IR,23,Tehran,Tehran,,35.7333,51.4325,Asia/Tehran,Dade Samane Fanava Company,Dade Samane Fanava Company,AS62442 Dade Samane Fanava Company (PJS)
+2024-07-19T00:59:53+0000,34.143.205.105,32,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC
+2024-07-19T02:03:23+0000,44.192.127.32,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-19T02:04:10+0000,172.96.191.14,12,Singapore,SG,02,North East,Singapore,554502,1.37603,103.871,Asia/Singapore,Leaseweb Asia Pacific pte. ltd.,Hawk Host Inc,AS59253 Leaseweb Asia Pacific pte. ltd.
+2024-07-19T02:14:21+0000,164.92.132.200,89,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
+2024-07-19T02:31:58+0000,185.93.3.114,34,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited
+2024-07-19T02:41:45+0000,147.185.132.159,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC
+2024-07-19T03:14:41+0000,119.49.102.125,13,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-19T04:05:58+0000,3.93.66.203,62,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-19T04:09:01+0000,103.13.230.190,33,Thailand,TH,10,Bangkok,Bangkok,10200,13.8054,100.6751,Asia/Bangkok,CH-CH,,AS23884 Proen Corp Public Company Limited.
+2024-07-19T04:09:02+0000,64.7.198.232,90,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,BL Networks,BL Networks,AS399629 BL Networks
+2024-07-19T04:35:45+0000,87.236.176.145,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT
+2024-07-19T04:52:19+0000,18.236.98.114,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-19T04:54:28+0000,172.203.161.66,44,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-19T05:00:41+0000,45.9.74.31,100,Russia,RU,SE,North Ossetia–Alania,Digora,363410,43.1592,44.1588,Europe/Moscow,Komkov Vadim Aleksandrovich,Dzardanov Artur Kazbekovich,AS216234 Komskov Vadim Aleksandrovich
