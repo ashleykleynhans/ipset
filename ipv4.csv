@@ -308,7 +308,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T00:00:00+0000,91.92.240.88,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-21T00:00:00+0000,65.49.20.68,100,United States,US,CA,California,Milpitas,95035,37.4352,-121.899,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC
 2024-06-21T00:00:00+0000,154.47.29.197,46,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
-2024-06-21T00:00:00+0000,162.216.17.47,92,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
 2024-06-21T00:00:00+0000,195.4.20.22,23,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.223,6.78245,Europe/Berlin,freenet Datenkommunikations GmbH,JusProg e.V.,AS5430 freenet Datenkommunikations GmbH
 2024-06-21T00:00:00+0000,34.78.85.104,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
 2024-06-21T00:00:00+0000,34.172.237.230,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
@@ -1427,7 +1426,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-28T23:39:03+0000,51.132.229.198,63,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation
 2024-06-28T23:45:34+0000,91.92.240.149,86,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-28T23:48:37+0000,146.190.100.223,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-06-28T23:52:35+0000,156.146.55.168,30,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
 2024-06-29T00:02:00+0000,118.27.95.153,60,Japan,JP,13,Tokyo,Chiyoda,100-8111,35.6916,139.768,Asia/Tokyo,"GMO Internet, Inc.",interQ,"AS7506 GMO Internet,Inc"
 2024-06-29T00:11:50+0000,45.81.232.20,100,Germany,DE,BW,Baden-Wurttemberg,Markdorf,88677,47.7272,9.39433,Europe/Berlin,Gericke KG,,"AS44486 Oliver Horscht is trading as ""SYNLINQ"""
 2024-06-29T00:42:28+0000,195.35.39.31,10,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,HOSTINGER US,Hostinger International Limited,AS47583 Hostinger International Limited
@@ -4466,3 +4464,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-20T06:43:20+0000,13.213.9.131,3,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc."
 2024-07-20T07:31:01+0000,172.232.55.115,100,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud
 2024-07-20T07:33:13+0000,94.158.54.141,37,Uzbekistan,UZ,TK,Tashkent,Tashkent,,41.2615,69.2177,Asia/Tashkent,Iplus LLC,Iplus LLC,AS43060 IPLUS LLC
+2024-07-20T07:54:52+0000,34.45.249.103,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-20T08:02:08+0000,84.17.48.82,3,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-20T08:05:35+0000,3.133.157.131,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-20T08:11:41+0000,103.27.237.120,65,Vietnam,VN,SG,Ho Chi Minh,Thủ Đức,,10.8486,106.772,Asia/Ho_Chi_Minh,Long Van System Solution,,AS131386 Long Van System Solution JSC
+2024-07-20T08:12:15+0000,45.11.97.43,56,Turkey,TR,16,Bursa Province,Osmangazi,34887,40.2587,29.0616,Europe/Istanbul,PENTECH,,AS48678 PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi
+2024-07-20T08:13:24+0000,81.181.56.7,12,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-20T08:21:40+0000,117.33.163.216,100,China,CN,SX,Shanxi,Fengcheng,,37.2426,111.857,Asia/Shanghai,CHINANET SHAANXI province Cloud Base network,Chinanet SN,AS134768 CHINANET SHAANXI province Cloud Base network
+2024-07-20T08:23:41+0000,113.219.218.197,92,China,CN,SH,Shanghai,Shanghai,,31.2222,121.4581,Asia/Shanghai,"No.293, Wanbao Avenue",Chinanet HN,AS63835 CT-HuNan-Changsha-IDC
+2024-07-20T08:29:18+0000,35.84.31.7,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-20T08:52:10+0000,84.17.60.68,22,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
+2024-07-20T09:11:42+0000,46.22.135.163,42,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,BLACKNIGHT,,AS39122 Blacknight Internet Solutions Limited
+2024-07-20T09:33:46+0000,172.104.11.34,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-07-20T09:36:30+0000,3.143.113.205,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-20T09:37:08+0000,45.79.181.251,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-20T09:49:00+0000,87.249.135.105,50,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-20T09:50:36+0000,162.216.17.47,94,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-20T09:59:06+0000,44.203.216.21,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-20T10:06:58+0000,18.199.162.198,3,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
+2024-07-20T10:29:42+0000,156.146.55.168,43,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-07-20T10:33:17+0000,222.175.106.135,89,China,CN,SD,Shandong,Jinan,250000,36.6533,117.146,Asia/Shanghai,Chinanet,,AS4134 CHINANET-BACKBONE
+2024-07-20T10:38:11+0000,180.110.242.76,48,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-07-20T10:38:56+0000,149.88.26.58,19,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
