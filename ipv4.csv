@@ -1803,7 +1803,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-02T04:46:39+0000,154.47.27.106,47,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-07-02T04:47:21+0000,91.219.239.193,38,Hungary,HU,BU,Budapest,Budapest,1011,47.5636,19.0947,Europe/Budapest,ServerAstra Kft.,ServerAstra Kft,AS56322 ServerAstra Kft.
 2024-07-02T05:07:34+0000,87.251.88.222,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited."
-2024-07-02T05:09:17+0000,156.146.55.179,12,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
 2024-07-02T05:12:33+0000,64.227.172.165,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-07-02T05:15:47+0000,51.15.243.253,28,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,SCALEWAY,ONLINE,AS12876 SCALEWAY S.A.S.
 2024-07-02T06:19:56+0000,146.70.218.72,14,United States,US,CA,California,Los Angeles,90014,34.0435,-118.252,America/Los_Angeles,M247 Europe SRL,M247 Ltd Los Angeles,AS9009 M247 Europe SRL
@@ -4486,3 +4485,36 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-20T10:33:17+0000,222.175.106.135,89,China,CN,SD,Shandong,Jinan,250000,36.6533,117.146,Asia/Shanghai,Chinanet,,AS4134 CHINANET-BACKBONE
 2024-07-20T10:38:11+0000,180.110.242.76,48,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
 2024-07-20T10:38:56+0000,149.88.26.58,19,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-20T11:21:20+0000,138.199.59.153,10,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited
+2024-07-20T11:40:59+0000,36.182.48.75,63,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-20T11:43:15+0000,222.186.13.132,100,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE
+2024-07-20T12:01:02+0000,46.28.4.94,20,Italy,IT,62,Lazio,Rome,00155,41.8904,12.5126,Europe/Rome,Serverplan s.r.l.,,AS52030 Server Plan S.r.l.
+2024-07-20T12:05:53+0000,18.198.189.23,18,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc."
+2024-07-20T12:11:00+0000,149.34.244.236,21,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-20T12:11:13+0000,3.215.176.164,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-20T12:33:09+0000,35.225.181.54,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-20T12:39:46+0000,44.197.243.241,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-20T12:52:12+0000,156.146.46.89,77,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,DataCamp Limited,AS212238 Datacamp Limited
+2024-07-20T13:02:28+0000,156.146.55.179,36,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
+2024-07-20T13:08:42+0000,59.52.226.190,91,China,CN,JX,Jiangxi,Nanchang,,28.6796,115.8655,Asia/Shanghai,Chinanet,Chinanet JX,AS4134 CHINANET-BACKBONE
+2024-07-20T13:20:31+0000,149.22.85.8,69,Greece,GR,I,Attica,Athens,,37.9842,23.7353,Europe/Athens,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-20T13:24:14+0000,98.80.118.26,13,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-20T14:03:07+0000,119.49.96.86,32,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-20T14:05:11+0000,199.45.154.126,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc."
+2024-07-20T14:07:56+0000,52.88.85.50,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-20T14:14:37+0000,149.88.26.98,21,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-20T14:21:36+0000,185.98.40.125,3,Poland,PL,10,Łódź Voivodeship,Lodz,91-071,51.7773,19.4347,Europe/Warsaw,Clouvider Limited,Proline IT Ltd,AS62240 Clouvider
+2024-07-20T14:50:00+0000,172.169.206.159,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-20T15:19:26+0000,100.27.44.48,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-20T15:36:47+0000,57.151.70.168,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-20T15:36:51+0000,176.126.103.84,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6172,Europe/Moscow,Miglovets Egor Andreevich,Dmitry Viktorovich Petrov,AS210546 Miglovets Egor Andreevich
+2024-07-20T15:38:23+0000,20.29.57.199,36,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-20T15:58:03+0000,44.193.39.225,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-20T16:00:09+0000,84.17.60.59,3,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
+2024-07-20T16:05:07+0000,106.220.136.208,3,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Bharti Airtel Limited,Bharti Airtel LTD,AS45609 Bharti Airtel Ltd. AS for GPRS Service
+2024-07-20T16:05:10+0000,106.194.97.105,3,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Bharti Airtel Limited,Bharti Airtel Limited,AS45609 Bharti Airtel Ltd. AS for GPRS Service
+2024-07-20T16:05:12+0000,223.189.226.39,3,India,IN,UP,Uttar Pradesh,Lucknow,226002,26.8756,80.9115,Asia/Kolkata,Bharti Airtel,Bharti Airtel Ltd.,AS45609 Bharti Airtel Ltd. AS for GPRS Service
+2024-07-20T16:05:13+0000,49.36.221.148,3,India,IN,UP,Uttar Pradesh,Agra,282001,27.1826,78.0256,Asia/Kolkata,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited
+2024-07-20T16:05:18+0000,152.58.198.179,10,India,IN,TS,Telangana,Hyderabad,500009,17.3724,78.4378,Asia/Kolkata,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited
+2024-07-20T16:05:21+0000,45.238.188.134,3,Mexico,MX,JAL,Jalisco,Tepatitlán de Morelos,47600,20.8714,-102.6282,America/Mexico_City,Television POR Cable Tepa S.A De C.V,Television POR Cable Tepa S.A De C.V,AS265551 TELEVISION POR CABLE TEPA S.A DE C.V
+2024-07-20T16:07:59+0000,18.217.163.69,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
