@@ -4636,3 +4636,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-21T14:31:57+0000,34.66.77.86,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-21T15:03:45+0000,81.181.63.49,28,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-07-21T15:06:12+0000,50.28.102.178,18,United States,US,AZ,Arizona,Phoenix,85034,33.416,-112.009,America/Phoenix,"Liquid Web, L.L.C","Liquid Web, Inc","AS53824 Liquid Web, L.L.C"
+2024-07-21T15:37:47+0000,18.117.87.71,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-21T15:47:17+0000,94.156.65.181,66,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-21T15:50:27+0000,36.182.48.148,21,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-21T15:51:39+0000,138.199.59.175,18,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited
+2024-07-21T15:53:56+0000,35.168.62.251,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-21T16:13:24+0000,80.255.2.77,18,Germany,DE,MV,Mecklenburg-Vorpommern,Glowe,18551,54.5691,13.4655,Europe/Berlin,Core-Backbone GmbH,Wavecon GmbH,AS201011 Core-Backbone GmbH
+2024-07-21T16:24:38+0000,18.223.159.122,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-21T16:33:28+0000,44.222.163.155,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-21T16:39:41+0000,1.24.16.67,36,China,CN,FJ,Fujian,Zhangzhou,,24.6391,117.199,Asia/Shanghai,China Unicom Neimeng Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-21T16:51:56+0000,44.205.1.3,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-21T17:17:32+0000,175.22.145.142,13,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-21T18:09:49+0000,149.88.26.68,3,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-21T18:13:46+0000,57.151.49.60,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
+2024-07-21T18:24:59+0000,18.119.104.9,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-21T18:45:23+0000,18.118.106.57,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-21T18:49:05+0000,172.105.28.201,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-07-21T18:56:33+0000,34.66.72.169,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-21T18:58:46+0000,81.181.56.86,3,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
+2024-07-21T19:08:24+0000,34.47.151.170,12,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS396982 Google LLC
+2024-07-21T19:12:31+0000,35.170.78.135,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-21T19:24:29+0000,80.255.13.20,26,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
