@@ -4708,3 +4708,27 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-22T08:48:45+0000,35.234.76.234,44,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Google LLC,Google Cloud (europe-west3),AS396982 Google LLC
 2024-07-22T09:09:40+0000,111.7.96.173,98,China,CN,GD,Guangdong,Guangzhou,510000,23.1317,113.266,Asia/Shanghai,China Mobile communications corporation,China Mobile,"AS9808 China Mobile Communications Group Co., Ltd."
 2024-07-22T09:09:48+0000,23.20.145.239,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-22T09:49:10+0000,34.209.24.2,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-22T09:53:52+0000,103.70.13.151,100,Vietnam,VN,SG,Ho Chi Minh,Quận Mười Một,,10.7479,106.608,Asia/Ho_Chi_Minh,HYPERCORE,Hypercore Technology Joint Stock Company,AS135932 Viet Storage Technology Joint Stock Company
+2024-07-22T10:03:51+0000,107.178.232.255,18,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-22T10:03:51+0000,107.178.232.242,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-22T10:03:55+0000,107.178.231.249,23,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC
+2024-07-22T10:15:54+0000,149.50.215.66,57,Italy,IT,25,Lombardy,Milan,20124,45.4722,9.1922,Europe/Rome,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-22T10:21:13+0000,172.105.16.131,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-07-22T10:36:49+0000,172.104.11.46,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud
+2024-07-22T11:22:51+0000,195.181.161.17,31,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
+2024-07-22T11:29:48+0000,157.10.45.134,100,Vietnam,VN,07,Tuyên Quang Province,Tuyên Quang,,21.8166,105.209,Asia/Bangkok,HAINAMTECH,HAI NAM Real Estate and Technology Joint Stock Company,AS150862 VPSTTT COMPUTER COMPANY LIMITED
+2024-07-22T11:32:23+0000,35.219.233.144,3,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC
+2024-07-22T12:17:24+0000,34.170.128.222,26,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T12:24:07+0000,3.149.240.145,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-22T12:31:34+0000,84.17.48.65,3,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited
+2024-07-22T12:36:40+0000,192.42.116.175,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.
+2024-07-22T13:12:56+0000,18.216.225.52,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-22T13:29:12+0000,84.17.60.49,37,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited
+2024-07-22T13:36:17+0000,191.101.31.91,19,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-22T13:41:24+0000,194.169.175.20,100,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.8985,23.9036,Europe/Vilnius,UAB Host Baltic,EmanuelHosting LTD,AS209605 UAB Host Baltic
+2024-07-22T13:47:05+0000,206.168.34.53,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-22T13:48:18+0000,195.181.161.16,26,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited
+2024-07-22T13:51:09+0000,80.255.13.26,22,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-22T13:51:52+0000,52.228.152.86,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation
+2024-07-22T13:55:50+0000,4.156.21.95,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
