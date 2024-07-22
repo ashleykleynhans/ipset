@@ -1658,7 +1658,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-30T17:33:27+0000,81.181.56.9,16,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited
 2024-06-30T18:03:36+0000,162.240.104.62,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer
 2024-06-30T18:33:56+0000,148.72.245.234,97,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
-2024-06-30T18:36:28+0000,84.239.54.69,16,Italy,IT,25,Lombardy,Milan,20162,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
 2024-06-30T18:53:19+0000,97.74.93.146,72,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC"
 2024-06-30T19:19:05+0000,5.164.29.116,100,Russia,RU,TUL,Tula Oblast,Barsuki,,54.2655,37.4875,Europe/Moscow,"CJSC ""ER-Telecom Holding"" Tula branch","JSC ""ER-Telecom Holding"" Tula Branch","AS52207 JSC ""ER-Telecom Holding"""
 2024-06-30T19:25:12+0000,45.133.173.120,22,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
@@ -4657,3 +4656,35 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-21T19:08:24+0000,34.47.151.170,12,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS396982 Google LLC
 2024-07-21T19:12:31+0000,35.170.78.135,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
 2024-07-21T19:24:29+0000,80.255.13.20,26,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-21T20:05:17+0000,2.57.169.174,46,Canada,CA,ON,Ontario,Toronto,M5J,43.6227,-79.3892,America/Toronto,Netminders Server Hosting,,AS7040 Netminders Server Hosting
+2024-07-21T20:05:20+0000,2.57.169.186,37,Canada,CA,ON,Ontario,Toronto,M5J,43.6227,-79.3892,America/Toronto,Netminders Server Hosting,,AS7040 Netminders Server Hosting
+2024-07-21T20:05:20+0000,2.57.169.182,40,Canada,CA,ON,Ontario,Toronto,M5J,43.6227,-79.3892,America/Toronto,Netminders Server Hosting,,AS7040 Netminders Server Hosting
+2024-07-21T20:25:09+0000,193.168.143.161,93,Romania,RO,B,București,Bucharest,042195,44.4011,26.1197,Europe/Bucharest,Zergrush SRL,Zergrush SRL,AS39622 ZERGRUSH SRL
+2024-07-21T20:34:20+0000,34.136.28.243,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-21T20:50:06+0000,94.156.65.88,13,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
+2024-07-21T21:05:04+0000,117.62.235.53,100,China,CN,JS,Jiangsu,Nanjing,,32.0589,118.7738,Asia/Shanghai,China Telecom,Chinanet JS,AS134756 CHINANET Nanjing Jishan IDC network
+2024-07-21T21:24:04+0000,54.164.67.96,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-21T21:46:34+0000,49.113.92.117,24,China,CN,XJ,Xinjiang,Ewirgol,,42.5246,87.5396,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE
+2024-07-21T22:03:29+0000,35.192.211.69,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC
+2024-07-21T22:10:50+0000,181.214.218.232,45,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-21T22:31:58+0000,206.168.34.204,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc."
+2024-07-21T22:36:12+0000,192.155.90.220,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-21T22:59:56+0000,139.215.114.202,3,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-21T23:20:07+0000,84.239.54.69,34,Italy,IT,25,Lombardy,Milan,20122,45.4722,9.1922,Europe/Rome,Datacamp Limited,Binbox Global Services,AS212238 Datacamp Limited
+2024-07-21T23:24:49+0000,185.142.236.43,100,The Netherlands,NL,NH,North Holland,Amsterdam,1042,52.4019,4.8302,Europe/Amsterdam,Cogent Communications,BlackHOST Ltd.,AS174 Cogent Communications
+2024-07-21T23:26:23+0000,54.211.150.138,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-21T23:54:47+0000,34.28.238.218,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T00:13:36+0000,80.255.13.124,25,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-22T00:20:49+0000,103.178.235.51,72,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.8231,106.63,Asia/Ho_Chi_Minh,VPSTTT,VPSTTT Technology Company Limited,AS140810 Megacore Technology Company Limited
+2024-07-22T00:31:14+0000,54.211.136.1,68,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-22T01:09:11+0000,191.101.31.85,17,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-22T01:36:19+0000,54.173.244.199,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-22T01:44:06+0000,34.122.185.244,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T01:45:29+0000,219.153.113.101,68,China,CN,CQ,Chongqing,Yuzhongzhan,,29.5407,106.514,Asia/Shanghai,Chongqing Telecom,Chinanet CQ,AS134420 Chongqing Telecom
+2024-07-22T01:48:16+0000,191.96.168.122,12,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-22T03:35:03+0000,36.182.48.149,44,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-22T03:39:34+0000,18.220.134.99,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-22T03:41:46+0000,13.56.210.167,13,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc."
+2024-07-22T03:44:17+0000,92.118.112.167,59,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Global Internet Solutions LLC,Global Internet Solutions LLC,AS207713 GLOBAL INTERNET SOLUTIONS LLC
+2024-07-22T03:53:27+0000,71.6.232.23,100,United States,US,NV,Nevada,Henderson,89012,36.022,-115.083,America/Los_Angeles,"CariNet, Inc.","CariNet, Inc.","AS10439 CariNet, Inc."
+2024-07-22T04:34:18+0000,4.255.101.48,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation
