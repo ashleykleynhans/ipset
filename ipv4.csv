@@ -1072,7 +1072,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-26T17:53:44+0000,91.136.11.82,39,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Internet Names Business,Internet Names Business Inc,AS9115 Internet Names for Business Inc
 2024-06-26T17:53:42+0000,185.182.56.90,100,The Netherlands,NL,OV,Overijssel,Zwolle,8022,52.5224,6.11754,Europe/Amsterdam,Cldin B.V.,Versio B.V,AS48635 CLDIN B.V.
 2024-06-26T17:57:39+0000,141.95.172.69,100,France,FR,HDF,Hauts-de-France,Wattrelos,59150,50.7012,3.21501,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS
-2024-06-26T18:01:27+0000,194.32.122.29,33,Lithuania,LT,VL,Vilnius,Vilnius,02021,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
 2024-06-26T17:53:56+0000,45.63.85.11,11,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-26T18:03:06+0000,185.243.3.154,11,Monaco,MC,,Municipality of Monaco,Monaco,98000,43.7283,7.41426,Europe/Monaco,Monaco Telecom S.A.,Monaco Cloud S.A.M,AS6758 Monaco Telecom S.A.
 2024-06-26T18:15:03+0000,159.203.4.87,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC"
@@ -1813,7 +1812,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-02T08:06:28+0000,34.78.228.189,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC
 2024-07-02T08:46:53+0000,45.156.129.57,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"NSEC - Sistemas Informaticos, S.A.",Inap CHI,"AS211680 NSEC - Sistemas Informaticos, S.A."
 2024-07-02T09:21:07+0000,20.57.138.211,19,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation
-2024-07-02T09:22:31+0000,149.34.245.209,53,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
 2024-07-02T09:48:06+0000,176.125.230.138,25,Malta,MT,57,Is-Swieqi,Swieqi,SWQ,35.9231,14.4738,Europe/Malta,M247 Europe SRL,M247 Ltd Malta,AS9009 M247 Europe SRL
 2024-07-02T09:48:29+0000,13.38.92.103,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc."
 2024-07-02T09:55:17+0000,128.90.170.25,82,Poland,PL,14,Mazovia,Warsaw,02-673,52.1828,20.9846,Europe/Warsaw,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc."
@@ -4751,3 +4749,40 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-22T18:49:52+0000,34.123.101.140,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
 2024-07-22T18:52:40+0000,35.207.248.104,27,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC
 2024-07-22T19:04:20+0000,35.225.54.249,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T20:15:17+0000,172.111.150.130,12,United Kingdom,GB,ENG,England,London,E14,51.5115,-0.0028473,Europe/London,Datacamp Limited,INTERNET-SECURITY-GB,AS212238 Datacamp Limited
+2024-07-22T20:40:26+0000,3.16.48.251,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-22T20:44:22+0000,80.255.5.216,16,Germany,DE,BY,Bavaria,Lappersdorf,93138,49.0533,12.0726,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH
+2024-07-22T20:54:31+0000,61.140.94.220,13,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE
+2024-07-22T21:18:50+0000,34.27.100.175,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T21:24:59+0000,35.188.129.52,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T21:49:38+0000,40.83.131.116,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation
+2024-07-22T22:03:10+0000,4.151.230.193,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation
+2024-07-22T22:06:03+0000,221.8.171.179,3,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,CNC Group CHINA169 Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-22T22:07:32+0000,194.32.122.18,39,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-22T22:07:50+0000,80.255.5.212,33,Germany,DE,BY,Bavaria,Lappersdorf,93138,49.0533,12.0726,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH
+2024-07-22T22:13:08+0000,217.114.43.63,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6172,Europe/Moscow,Miglovets Egor Andreevich,Natalia Aleksandrovna Petrova,AS210546 Miglovets Egor Andreevich
+2024-07-22T22:15:20+0000,172.206.33.141,69,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation
+2024-07-22T22:23:53+0000,34.27.224.205,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-22T22:44:44+0000,44.201.119.209,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-22T23:03:36+0000,191.101.157.125,11,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications
+2024-07-22T23:18:01+0000,194.32.122.11,33,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
+2024-07-22T23:40:08+0000,191.101.217.93,19,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-23T00:51:03+0000,34.220.250.19,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc."
+2024-07-23T00:56:52+0000,185.81.96.5,76,Iran,IR,23,Tehran,Shahrīār,,35.6707,51.0228,Asia/Tehran,Mizban Dade Pasargad,Mizban Dade Pasargad LLC,AS201227 Mizban Dade Pasargad LLC
+2024-07-23T01:11:55+0000,167.88.165.58,25,United States,US,TX,Texas,Dallas,75217,32.7212,-96.6765,America/Chicago,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC
+2024-07-23T02:00:35+0000,104.222.46.6,3,United States,US,NY,New York,Buffalo,14202,42.8867,-78.8927,America/New_York,ColoUp,ColoUp,AS19084 ColoUp
+2024-07-23T02:06:06+0000,79.110.62.224,100,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.
+2024-07-23T02:22:30+0000,198.54.114.95,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc."
+2024-07-23T02:39:39+0000,71.6.232.26,100,United States,US,NV,Nevada,Henderson,89012,36.022,-115.083,America/Los_Angeles,"CariNet, Inc.","CariNet, Inc.","AS10439 CariNet, Inc."
+2024-07-23T02:50:33+0000,34.30.246.213,24,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-23T02:51:22+0000,181.214.218.127,18,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications
+2024-07-23T02:58:14+0000,186.234.80.97,10,Brazil,BR,SP,São Paulo,São Paulo,01000-000,-23.5558,-46.6396,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.
+2024-07-23T02:58:35+0000,52.207.245.227,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-23T03:18:28+0000,36.182.48.110,11,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd."
+2024-07-23T03:44:06+0000,20.150.211.244,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation
+2024-07-23T03:48:46+0000,37.19.223.210,10,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
+2024-07-23T04:03:27+0000,149.34.245.209,54,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-23T04:21:40+0000,44.195.41.48,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-23T04:31:57+0000,80.255.7.42,23,Germany,DE,HE,Hesse,Frankfurt am Main,60552,50.1155,8.68417,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH
+2024-07-23T04:32:42+0000,162.222.181.122,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC
+2024-07-23T05:15:58+0000,194.32.122.29,46,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB"
