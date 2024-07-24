@@ -773,7 +773,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T17:25:38+0000,156.146.55.185,43,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited
 2024-06-24T17:59:01+0000,91.92.250.119,65,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
 2024-06-24T18:11:48+0000,167.71.88.49,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
-2024-06-24T18:18:41+0000,161.35.169.232,94,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC
+2024-06-24T18:18:41+0000,161.35.169.232,94,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC"
 2024-06-24T18:34:29+0000,185.51.134.91,20,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY
 2024-06-24T19:15:02+0000,78.153.140.224,100,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,HOSTGLOBAL.PLUS LTD,HOSTGLOBAL.PLUS LTD,AS202306 HOSTGLOBAL.PLUS LTD
 2024-06-24T19:18:33+0000,161.97.97.74,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH
@@ -1164,7 +1164,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T09:14:43+0000,149.28.213.45,30,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-27T09:36:11+0000,45.32.65.94,29,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-27T09:38:48+0000,45.63.14.235,35,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
-2024-06-27T09:46:04+0000,45.77.1.108,35,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC
+2024-06-27T09:46:04+0000,45.77.1.108,35,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-27T09:57:44+0000,149.28.253.101,49,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-27T10:03:16+0000,104.238.144.111,53,United States,US,TX,Texas,Dallas,75201,32.7889,-96.8021,America/Chicago,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC"
 2024-06-27T10:11:18+0000,94.156.65.66,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet
@@ -4929,3 +4929,21 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-24T09:17:49+0000,3.144.117.180,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
 2024-07-24T09:45:27+0000,138.199.59.133,25,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited
 2024-07-24T09:46:12+0000,104.154.89.38,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-24T10:27:42+0000,84.17.58.214,49,Italy,IT,25,Lombardy,Milan,20124,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited
+2024-07-24T10:28:56+0000,34.28.110.87,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC
+2024-07-24T10:39:25+0000,107.22.150.105,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-24T10:56:38+0000,193.174.89.19,100,Germany,DE,BE,Land Berlin,Berlin,10967,52.4955,13.4105,Europe/Berlin,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,Fachhochschule Muenster,AS680 Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+2024-07-24T11:00:14+0000,3.23.95.61,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc."
+2024-07-24T11:16:30+0000,54.81.178.251,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
+2024-07-24T11:52:48+0000,82.147.84.180,100,Russia,RU,NVS,Novosibirsk Oblast,Novosibirsk,630000,54.9022,83.0335,Asia/Novosibirsk,BAXET,,AS57494 Adman LLC
+2024-07-24T11:59:05+0000,37.19.223.36,3,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited
+2024-07-24T12:20:04+0000,60.16.202.195,14,China,CN,LN,Liaoning,Shenyang,,41.7806,123.4314,Asia/Shanghai,CNC Group CHINA169 Liaoning Province Network,,AS4837 CHINA UNICOM China169 Backbone
+2024-07-24T12:22:05+0000,220.167.232.145,31,China,CN,QH,Qinghai,Xining,,36.6171,101.778,Asia/Shanghai,China Telecom,Chinanet QH,AS140061 Qinghai Telecom
+2024-07-24T12:38:03+0000,45.79.181.223,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-24T12:39:54+0000,45.79.181.104,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud
+2024-07-24T12:41:41+0000,3.10.217.43,14,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc."
+2024-07-24T12:50:24+0000,84.17.52.5,31,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-24T12:50:36+0000,84.17.52.5,31,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited
+2024-07-24T12:52:36+0000,3.10.217.43,14,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc."
+2024-07-24T13:07:14+0000,34.75.235.48,11,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC
+2024-07-24T13:15:38+0000,18.209.19.36,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc."
