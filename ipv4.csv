@@ -5218,3 +5218,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-27T09:32:03+0000,198.7.127.39,56,Germany,DE,BW,Baden-Wurttemberg,Karlsruhe,76229,48.9751,8.4456,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2027802.contaboserver.net
 2024-07-27T09:44:02+0000,107.22.151.117,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-107-22-151-117.compute-1.amazonaws.com
 2024-07-27T09:54:17+0000,172.111.150.232,3,United Kingdom,GB,ENG,England,London,E14,51.5115,-0.0028473,Europe/London,Datacamp Limited,INTERNET-SECURITY-GB,AS212238 Datacamp Limited,
+2024-07-27T09:56:56+0000,84.17.58.3,38,Italy,IT,25,Lombardy,Milan,20124,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-3.cdn77.com
+2024-07-27T10:06:16+0000,5.254.112.115,20,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Voxility LLP,GZ Systems Limited,AS3223 Voxility LLP,
+2024-07-27T10:20:54+0000,18.221.50.2,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-221-50-2.us-east-2.compute.amazonaws.com
+2024-07-27T10:59:23+0000,185.117.225.85,26,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.","NSEC - Sistemas Informaticos, S.A","AS14618 Amazon.com, Inc.",
+2024-07-27T11:09:59+0000,44.201.107.40,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-201-107-40.compute-1.amazonaws.com
+2024-07-27T11:58:37+0000,38.121.43.51,20,United States,US,GA,Georgia,Atlanta,,33.7489,-84.3879,America/New_York,GTHost,Globaltelehost Corp,AS63023 GTHost,51-43-121-38.clients.gthost.com
+2024-07-27T12:19:48+0000,138.199.31.26,31,United Kingdom,GB,ENG,England,Canary Wharf,E14,51.5064,-0.02,Europe/London,Datacamp Limited,Cdnext LON,AS212238 Datacamp Limited,unn-138-199-31-26.datapacket.com
+2024-07-27T12:29:01+0000,34.123.227.195,22,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,195.227.123.34.bc.googleusercontent.com
+2024-07-27T12:51:55+0000,103.213.129.189,13,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. MNC Kabel Mediacom,Mnckabelmediacom,AS17670 PT. MNC Kabel Mediacom,
+2024-07-27T12:51:58+0000,202.148.61.121,3,India,IN,MH,Maharashtra,Nagpur,440024,21.1161,79.0706,Asia/Kolkata,Oneott Intertainment Limited,Sadguruinternet,AS17665 ONEOTT INTERTAINMENT LIMITED,
+2024-07-27T12:51:59+0000,152.59.84.19,13,India,IN,PB,Punjab,Ludhiana,141206,31.0048,75.9463,Asia/Kolkata,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,
+2024-07-27T12:51:59+0000,152.59.3.33,13,India,IN,GJ,Gujarat,Vadodara,390001,22.3008,73.2043,Asia/Kolkata,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,
+2024-07-27T12:52:04+0000,117.199.12.98,3,India,IN,KL,Kerala,Palakkad,678001,10.7739,76.6487,Asia/Kolkata,BSNL Internet,,AS9829 National Internet Backbone,
+2024-07-27T12:52:05+0000,106.221.98.90,3,India,IN,CH,Chandigarh,Chandigarh,140603,30.7339,76.7889,Asia/Kolkata,Bharti Airtel Limited,Bharti Airtel Limited,AS45609 Bharti Airtel Ltd. AS for GPRS Service,
+2024-07-27T12:52:06+0000,217.28.0.162,13,Isle of Man,IM,,Lezayre,Lezayre,,54.3167,-4.41667,Europe/Isle_of_Man,Manx Telecom,Manx Telecom Ltd,AS13122 Manx Telecom Trading Ltd,adsl217.28.0.162.manx.net
+2024-07-27T12:52:09+0000,178.211.139.98,13,Poland,PL,14,Mazovia,Warsaw,02-634,52.1957,20.9921,Europe/Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,AS201814 MEVSPACE sp. z o.o.,
+2024-07-27T12:54:16+0000,34.136.130.24,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,24.130.136.34.bc.googleusercontent.com
+2024-07-27T13:21:11+0000,172.168.41.220,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,azpdcs30.stretchoid.com
+2024-07-27T13:27:11+0000,206.168.34.198,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc.",unused-space.coop.net
+2024-07-27T13:29:01+0000,34.68.23.108,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,108.23.68.34.bc.googleusercontent.com
+2024-07-27T13:29:54+0000,34.239.132.89,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-239-132-89.compute-1.amazonaws.com
