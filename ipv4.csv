@@ -4508,7 +4508,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-21T00:03:22+0000,107.178.235.204,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,204.235.178.107.gae.googleusercontent.com
 2024-07-21T00:05:27+0000,3.144.85.255,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-144-85-255.us-east-2.compute.amazonaws.com
 2024-07-21T00:10:36+0000,3.12.196.96,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-12-196-96.us-east-2.compute.amazonaws.com
-2024-07-21T00:17:38+0000,206.189.82.51,89,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-07-21T00:19:30+0000,195.176.3.24,100,Switzerland,CH,ZH,Zurich,Winterthur,8400,47.4907,8.7388,Europe/Zurich,SWITCH,Digitale Gesellschaft,AS559 SWITCH,tor5e3.digitale-gesellschaft.ch
 2024-07-21T00:19:32+0000,192.42.116.185,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.,33.tor-exit.nothingtohide.nl
 2024-07-21T00:19:34+0000,185.129.62.62,100,Denmark,DK,84,Capital Region,Græsted,3230,56.0954,12.2008,Europe/Copenhagen,SERVICE,,AS57860 Zencurity ApS,tor01.zencurity.com
@@ -5585,3 +5584,57 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-30T09:54:00+0000,149.88.26.70,22,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-88-26-70.datapacket.com
 2024-07-30T10:05:39+0000,34.72.88.81,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,81.88.72.34.bc.googleusercontent.com
 2024-07-30T10:26:12+0000,5.182.38.125,81,Hungary,HU,BU,Budapest,Budapest,1011,47.5636,19.0947,Europe/Budapest,Stark Industries Solutions LTD,Stark Industries Solutions LTD,AS44477 STARK INDUSTRIES SOLUTIONS LTD,aaxiongla.aaxiongya
+2024-07-30T11:04:22+0000,84.17.52.9,3,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-84-17-52-9.cdn77.com
+2024-07-30T11:05:16+0000,44.200.75.8,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-200-75-8.compute-1.amazonaws.com
+2024-07-30T11:09:42+0000,206.189.82.51,94,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-07-30T11:17:06+0000,18.236.8.168,19,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-18-236-8-168.us-west-2.compute.amazonaws.com
+2024-07-30T11:25:34+0000,209.127.245.250,73,United Kingdom,GB,ENG,England,London,E14 2EH,51.5072,-0.0037,Europe/London,24 SHELLS,B2 Net Solutions Inc,AS55081 24 SHELLS,
+2024-07-30T11:25:37+0000,185.244.192.184,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,NurembergTor55.quetzalcoatl-relays.org
+2024-07-30T11:25:38+0000,185.181.60.135,54,Norway,NO,07,Vestfold,Sandefjord,3241,59.1728,10.2221,Europe/Oslo,TerraHost AS,,AS56655 Gigahost AS,
+2024-07-30T11:25:40+0000,44.220.188.6,57,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-220-188-6.compute-1.amazonaws.com
+2024-07-30T11:26:28+0000,77.90.41.191,27,Germany,DE,HE,Hesse,Bad Soden am Taunus,65812,50.1592,8.48173,Europe/Berlin,ISP-Solution UG,,AS12586 GHOSTnet GmbH,
+2024-07-30T11:30:30+0000,18.199.143.217,3,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-199-143-217.eu-central-1.compute.amazonaws.com
+2024-07-30T11:54:27+0000,89.234.157.254,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Tetaneutral.net Association declaree,NOS-OIGNONS,AS197422 Tetaneutral.net Association declaree,marylou.nos-oignons.net
+2024-07-30T11:54:38+0000,192.42.116.218,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.,44.tor-exit.nothingtohide.nl
+2024-07-30T11:54:40+0000,185.241.208.232,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
+2024-07-30T11:54:45+0000,178.17.171.102,71,Moldova,MD,CU,Chișinău Municipality,Chisinau,MD-2000,47.0042,28.8574,Europe/Chisinau,Trabia SRL,Trabia SRL,AS43289 Trabia SRL,angband.teaparty.net
+2024-07-30T12:04:51+0000,34.173.190.179,19,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,179.190.173.34.bc.googleusercontent.com
+2024-07-30T12:13:54+0000,18.219.43.247,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-219-43-247.us-east-2.compute.amazonaws.com
+2024-07-30T12:28:39+0000,91.219.239.166,100,Hungary,HU,PE,Pest County,Bugyi,2347,47.2279,19.1466,Europe/Budapest,ServerAstra Kft.,ServerAstra Kft,AS56322 ServerAstra Kft.,qeohmonlocbe-dedicated.serverastra.com
+2024-07-30T12:28:40+0000,80.67.167.81,100,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,MilkyWan Association,MilkyWan,AS2027 MilkyWan Association,nosoignons.cust.milkywan.net
+2024-07-30T12:28:43+0000,185.241.208.206,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
+2024-07-30T12:37:32+0000,45.79.181.179,100,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,andorra.scan.bufferover.run
+2024-07-30T12:40:28+0000,43.157.5.116,100,Germany,DE,HE,Hesse,Frankfurt,,50.1109,8.6821,Europe/Berlin,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",
+2024-07-30T12:48:06+0000,45.134.140.242,13,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Cdnext ATL,AS212238 Datacamp Limited,unn-45-134-140-242.datapacket.com
+2024-07-30T12:54:14+0000,167.88.169.123,20,United States,US,TX,Texas,Dallas,75217,32.7212,-96.6765,America/Chicago,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,123.169.88.167.static.cloudzy.com
+2024-07-30T13:31:11+0000,18.213.193.29,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-213-193-29.compute-1.amazonaws.com
+2024-07-30T13:31:32+0000,191.101.217.85,29,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications,
+2024-07-30T13:34:04+0000,20.171.113.237,59,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
+2024-07-30T13:34:34+0000,172.98.33.9,19,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:35+0000,45.132.115.252,25,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:35+0000,172.98.33.13,28,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:36+0000,172.98.33.8,20,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:37+0000,45.132.115.244,33,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:37+0000,172.98.33.4,25,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:39+0000,45.132.115.245,29,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:40+0000,45.132.115.253,21,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:40+0000,172.98.33.17,29,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:41+0000,172.98.33.20,24,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:42+0000,45.132.115.250,31,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:45+0000,172.98.33.10,23,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:46+0000,45.132.115.246,33,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:47+0000,172.98.33.12,20,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:48+0000,45.132.115.247,25,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:50+0000,172.98.33.16,28,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:51+0000,45.132.115.249,23,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:52+0000,45.132.115.251,30,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:54+0000,45.132.115.248,29,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:54+0000,45.132.115.254,25,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,Latitude.sh,VPN-Consumer-US,AS396356 Latitude.sh,
+2024-07-30T13:34:58+0000,172.98.33.5,20,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:34:59+0000,172.98.33.14,19,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:35:00+0000,172.98.33.11,29,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:35:04+0000,172.98.33.7,29,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:35:07+0000,172.98.33.6,20,United States,US,TX,Texas,Dallas,75207,32.7908,-96.8336,America/Chicago,Latitude.sh,"LayerSwitch, Inc",AS396356 Latitude.sh,
+2024-07-30T13:50:03+0000,101.126.93.132,100,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Bitone United Networks Technology Service Co., Ltd","AS137718 Beijing Volcano Engine Technology Co., Ltd.",
+2024-07-30T14:20:58+0000,74.225.191.113,100,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,AT&T Corp.,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,
+2024-07-30T14:26:25+0000,95.142.121.45,69,United States,US,NY,New York,New York,10004,40.7123,-74.0068,America/New_York,AVAST Software s.r.o.,Prcdn Consumer US NY NYC,AS198605 AVAST Software s.r.o.,r-45-121-142-95.consumer-pool.prcdn.net
