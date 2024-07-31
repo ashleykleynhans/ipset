@@ -673,7 +673,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-23T13:25:12+0000,85.192.41.110,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,jaded-knowledge.aeza.network
 2024-06-23T14:18:06+0000,163.5.210.79,100,France,FR,IDF,Île-de-France,Le Kremlin-Bicetre,94270,48.8157,2.36285,Europe/Paris,12651980 Canada Inc.,Ionis Group - Ionis Schools of Technology and Management,AS399486 12651980 CANADA INC.,
 2024-06-23T14:36:47+0000,181.214.173.66,15,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
-2024-06-23T14:44:36+0000,37.19.223.237,22,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited,unn-37-19-223-237.datapacket.com
 2024-06-23T14:55:41+0000,178.176.229.171,99,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,MegaFon,,AS24866 Cloud Megafon,
 2024-06-23T23:54:17+0000,145.239.86.113,100,Poland,PL,02,Lower Silesia,Wroclaw,50-019,51.1043,17.0335,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,vps-a8e512fe.vps.ovh.net
 2024-06-24T00:07:41+0000,46.229.230.105,44,Slovakia,SK,BL,Bratislava Region,Bratislava,851 04,48.1225,17.1393,Europe/Bratislava,VNET,VNET-org,AS29405 VNET a.s.,useron20.hostmaster.sk
@@ -5310,7 +5309,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-28T04:09:26+0000,45.58.184.185,100,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,Sharktech,Sharktech Inc,AS46844 Sharktech,customer.sharktech.net
 2024-07-28T04:15:55+0000,95.128.43.164,77,France,FR,IDF,Île-de-France,Ivry-sur-Seine,94200,48.8202,2.39361,Europe/Paris,Aquaray Provider - FR,,AS41653 Aqua Ray SAS,exit-1.fr.tor.aquaray.com
 2024-07-28T04:16:06+0000,185.129.62.63,100,Denmark,DK,84,Capital Region,Græsted,3230,56.0954,12.2008,Europe/Copenhagen,SERVICE,,AS57860 Zencurity ApS,tor02.zencurity.com
-2024-07-28T04:21:41+0000,43.153.53.152,31,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",
 2024-07-28T04:29:46+0000,104.199.37.210,91,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,210.37.199.104.bc.googleusercontent.com
 2024-07-28T05:27:20+0000,3.235.0.25,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-235-0-25.compute-1.amazonaws.com
 2024-07-28T05:39:15+0000,154.47.29.214,35,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-154-47-29-214.datapacket.com
@@ -5669,7 +5667,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-30T22:46:01+0000,109.70.100.68,100,Austria,AT,9,Vienna,Vienna,1040,48.1946,16.3696,Europe/Vienna,Foundation for Applied Privacy,Foundation Applied Privacy,AS208323 Foundation for Applied Privacy,tor-exit-anonymizer.appliedprivacy.net
 2024-07-30T22:57:02+0000,35.90.47.114,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-90-47-114.us-west-2.compute.amazonaws.com
 2024-07-30T23:18:42+0000,5.58.174.212,21,Ukraine,UA,61,Ternopil Oblast,Ternopil,46001,49.5535,25.5947,Europe/Kiev,Columbus,Lanet Network Ltd,"AS16223 MAXNET TELECOM, LTD",host-5-58-174-212.bitternet.ua
-2024-07-30T23:24:41+0000,172.93.163.57,20,United States,US,TX,Texas,Tomball,77375,30.0736,-95.6203,America/Chicago,Nexeon Technologies,365 Group,"AS20278 Nexeon Technologies, Inc.",
 2024-07-30T23:24:44+0000,154.47.29.199,20,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-154-47-29-199.datapacket.com
 2024-07-30T23:30:57+0000,54.190.42.199,12,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-54-190-42-199.us-west-2.compute.amazonaws.com
 2024-07-30T23:33:12+0000,43.229.112.230,82,South Korea,KR,11,Seoul,Yongsan-dong,06245,37.4901,127.035,Asia/Seoul,Yancy Limited,MOACK.Co.LTD,AS138415 Yancy Limited,
@@ -5682,3 +5679,43 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-31T00:36:30+0000,23.137.253.110,100,United States,US,PA,Pennsylvania,Allentown,18109,40.6367,-75.4397,America/New_York,IncogNET LLC,IncogNET LLC,AS210630 IncogNET LLC,
 2024-07-31T00:36:54+0000,185.220.100.240,100,Germany,DE,BY,Bavaria,Haßfurt,97437,50.0263,10.5157,Europe/Berlin,F3 Netze e.V.,F3 Netze e.V,AS205100 F3 Netze e.V.,tor-exit-13.zbau.f3netze.de
 2024-07-31T00:36:55+0000,94.230.208.147,95,Switzerland,CH,ZH,Zurich,Zurich,8004,47.3857,8.5348,Europe/Zurich,Nine Internet Solutions AG,Digitale Gesellschaft,AS29691 Nine Internet Solutions AG,tor3e1.digitale-gesellschaft.ch
+2024-07-31T00:41:46+0000,34.30.8.84,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,84.8.30.34.bc.googleusercontent.com
+2024-07-31T00:44:32+0000,106.75.190.150,81,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,
+2024-07-31T01:02:39+0000,34.135.254.59,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,59.254.135.34.bc.googleusercontent.com
+2024-07-31T01:18:41+0000,43.153.53.152,84,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",
+2024-07-31T01:20:11+0000,38.75.136.33,100,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,GTHost,Globaltelehost Corp,AS63023 GTHost,33-136-75-38.clients.gthost.com
+2024-07-31T01:26:24+0000,152.58.21.206,13,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,
+2024-07-31T01:26:27+0000,116.206.202.35,3,India,IN,WB,West Bengal,Kolkata,700034,22.518,88.3832,Asia/Kolkata,Alliance Broadband,Premier Broadband Services,AS23860 Alliance Broadband Services Pvt. Ltd.,
+2024-07-31T01:26:29+0000,106.196.30.89,3,India,IN,KA,Karnataka,Bengaluru,562130,12.9634,77.5855,Asia/Kolkata,Bharti Airtel Limited,BCL NORTH,AS45609 Bharti Airtel Ltd. AS for GPRS Service,
+2024-07-31T01:26:30+0000,82.197.119.67,20,France,FR,IDF,Île-de-France,Saint-Denis,93211 CEDEX,48.9122,2.36141,Europe/Paris,Outremer Telecom SAS,Outremer Telecom,AS20776 Outremer Telecom SAS,ftthcc.82-197-119-67.sfrcaraibe.fr
+2024-07-31T01:26:31+0000,27.59.69.202,13,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Bharti Airtel,Bharti Tele Ventures Ltd,AS45609 Bharti Airtel Ltd. AS for GPRS Service,
+2024-07-31T01:31:28+0000,172.93.163.57,26,United States,US,TX,Texas,Tomball,77375,30.0736,-95.6203,America/Chicago,Nexeon Technologies,365 Group,"AS20278 Nexeon Technologies, Inc.",
+2024-07-31T01:45:23+0000,34.201.160.234,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-201-160-234.compute-1.amazonaws.com
+2024-07-31T01:50:54+0000,114.242.99.122,100,China,CN,BJ,Beijing,Jinrongjie,,39.9175,116.362,Asia/Shanghai,China Unicom Beijing Province Network,,AS4808 China Unicom Beijing Province Network,
+2024-07-31T01:55:05+0000,106.75.169.149,98,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,
+2024-07-31T02:07:00+0000,34.140.65.158,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,158.65.140.34.bc.googleusercontent.com
+2024-07-31T02:22:29+0000,175.16.64.174,14,China,CN,JL,Jilin,Jilin City,132000,43.8378,126.549,Asia/Shanghai,China Unicom Jilin Province Network,,AS4837 CHINA UNICOM China169 Backbone,174.64.16.175.adsl-pool.jlccptt.net.cn
+2024-07-31T02:38:51+0000,37.19.223.237,30,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited,unn-37-19-223-237.datapacket.com
+2024-07-31T02:40:14+0000,195.181.161.5,24,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdn77 PRG,AS60068 Datacamp Limited,unn-195-181-161-5.datapacket.com
+2024-07-31T02:46:16+0000,84.17.58.16,13,Italy,IT,25,Lombardy,Milan,20124,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-16.cdn77.com
+2024-07-31T02:47:06+0000,35.192.119.234,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC,234.119.192.35.bc.googleusercontent.com
+2024-07-31T02:54:55+0000,84.239.42.158,23,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited,
+2024-07-31T03:12:33+0000,106.75.186.101,79,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,mail.ymmmeui.cn
+2024-07-31T03:49:08+0000,35.88.27.129,12,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-88-27-129.us-west-2.compute.amazonaws.com
+2024-07-31T04:23:49+0000,35.192.198.55,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC,55.198.192.35.bc.googleusercontent.com
+2024-07-31T05:09:41+0000,154.212.141.171,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.,
+2024-07-31T05:53:15+0000,69.50.95.86,44,United States,US,CO,Colorado,Denver,,39.7392,-104.9902,America/Denver,GTHost,GTHost,AS63023 GTHost,86-95-50-69.clients.gthost.com
+2024-07-31T05:54:40+0000,35.156.212.227,12,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-35-156-212-227.eu-central-1.compute.amazonaws.com
+2024-07-31T05:59:09+0000,23.162.200.154,52,Canada,CA,ON,Ontario,Toronto,,43.6532,-79.3831,America/Toronto,GLOBALTELEHOST Corp.,Palmira Hosting LLC,AS62563 GLOBALTELEHOST Corp.,154-200-162-23.clients.gthost.com
+2024-07-31T06:07:40+0000,38.95.115.176,13,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Zhejiang Aiyun Network Technology Co Ltd,Aiyun Communications LLC,AS142111 Zhejiang Aiyun Network Technology Co Ltd,
+2024-07-31T06:08:22+0000,78.190.157.250,13,Türkiye,TR,34,Istanbul,Istanbul,34093,41.0247,28.9252,Europe/Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,AS9121 Turk Telekomunikasyon Anonim Sirketi,78.190.157.250.static.ttnet.com.tr
+2024-07-31T06:08:24+0000,36.83.97.74,3,Indonesia,ID,SN,South Sulawesi,Makassar,,-5.152,119.437,Asia/Makassar,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-07-31T06:08:26+0000,152.58.107.147,13,India,IN,PB,Punjab,Ludhiana,141014,31.0048,75.9463,Asia/Kolkata,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,
+2024-07-31T06:08:28+0000,213.208.175.0,13,Russia,RU,MOW,Moscow,Moscow,144700,55.7522,37.6156,Europe/Moscow,"LLC ""Nauka-Svyaz""",Nauka-Svyaz,"AS8641 LLC ""Nauka-Svyaz""",
+2024-07-31T06:08:33+0000,106.219.62.222,3,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Bharti Airtel,Bharti Airtel Ltd,AS45609 Bharti Airtel Ltd. AS for GPRS Service,
+2024-07-31T06:08:43+0000,37.154.97.13,21,Türkiye,TR,01,Adana,Adana,01170,37.0695,35.0907,Europe/Istanbul,Avea Iletisim Hizmetleri,Avea Iletisim Hizmetleri A.S,AS20978 TT Mobil Iletisim Hizmetleri A.S,
+2024-07-31T06:08:47+0000,152.59.168.66,13,India,IN,BR,Bihar,Patna,800002,25.5908,85.1348,Asia/Kolkata,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,
+2024-07-31T06:08:51+0000,152.58.203.48,3,India,IN,KL,Kerala,Kochi,682016,9.9185,76.2558,Asia/Kolkata,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,
+2024-07-31T06:08:52+0000,106.77.78.48,3,India,IN,GJ,Gujarat,Vadodara,390001,22.3008,73.2043,Asia/Kolkata,Idea Cellular Ltd,Idea Cellular Ltd,AS45271 Idea Cellular Limited,
+2024-07-31T06:08:57+0000,107.175.102.228,10,United States,US,NY,New York,Buffalo,14205,42.8856,-78.8736,America/New_York,"Nexeon Technologies, Inc., PacketHub S.A.",ColoCrossing,"AS131199 Nexeon Technologies, Inc.",D
+2024-07-31T06:39:31+0000,35.217.45.241,3,Finland,FI,02,South Karelia,Lappeenranta,,61.0549,28.1896,Europe/Helsinki,Google LLC,Google Cloud (europe-north1),AS15169 Google LLC,241.45.217.35.bc.googleusercontent.com
