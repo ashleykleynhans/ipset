@@ -5988,3 +5988,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-02T11:19:20+0000,73.135.226.136,23,United States,US,MD,Maryland,Rockville,20850,39.0828,-77.1674,America/New_York,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.","AS33657 Comcast Cable Communications, LLC",c-73-135-226-136.hsd1.md.comcast.net
 2024-08-02T11:19:41+0000,66.170.191.250,3,United States,US,WA,Washington,Seattle,98101,47.6109,-122.3303,America/Los_Angeles,Atlas Networks Corporation,Atlas Networks Corporation,AS21743 Atlas Networks Corporation,
 2024-08-02T11:25:18+0000,149.88.26.67,3,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-88-26-67.datapacket.com
+2024-08-02T11:31:28+0000,178.79.148.126,37,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Linode,"Linode, LLC",AS63949 Akamai Connected Cloud,178-79-148-126.ip.linodeusercontent.com
+2024-08-02T11:37:44+0000,34.140.227.53,3,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,53.227.140.34.bc.googleusercontent.com
+2024-08-02T11:50:08+0000,34.96.50.231,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,231.50.96.34.bc.googleusercontent.com
+2024-08-02T11:50:08+0000,34.96.50.194,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,194.50.96.34.bc.googleusercontent.com
+2024-08-02T11:50:08+0000,34.34.234.243,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,
+2024-08-02T11:50:09+0000,34.34.234.35,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,
+2024-08-02T11:50:09+0000,34.34.234.2,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,
+2024-08-02T11:50:11+0000,107.178.235.207,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,207.235.178.107.gae.googleusercontent.com
+2024-08-02T11:51:02+0000,178.79.132.91,32,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,178-79-132-91.ip.linodeusercontent.com
+2024-08-02T12:38:17+0000,52.14.82.193,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-52-14-82-193.us-east-2.compute.amazonaws.com
+2024-08-02T12:41:55+0000,34.78.232.236,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,236.232.78.34.bc.googleusercontent.com
+2024-08-02T12:49:07+0000,92.223.85.61,78,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,vpn-gw-prod-009.sin0-gcl.ff.avast.com
+2024-08-02T12:52:56+0000,205.210.31.38,0,United States,US,CA,California,Santa Clara,95054,37.3835,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC,
+2024-08-02T13:01:44+0000,84.17.52.36,3,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-84-17-52-36.cdn77.com
+2024-08-02T13:38:10+0000,69.50.95.53,37,United States,US,CO,Colorado,Denver,,39.7392,-104.9902,America/Denver,GTHost,GTHost,AS63023 GTHost,53-95-50-69.clients.gthost.com
+2024-08-02T13:39:20+0000,41.203.4.34,13,South Africa,ZA,WC,Western Cape,Cape Town,7945,-33.9221,18.4231,Africa/Johannesburg,Xneelo (Pty) Ltd,Xneelo Tscolo,AS37153 Xneelo (Pty) Ltd,34.4.203.41.reverse.xneelo.net
+2024-08-02T14:32:06+0000,45.148.10.206,28,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED,
+2024-08-02T14:49:06+0000,113.111.81.71,48,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
+2024-08-02T14:58:57+0000,35.224.182.204,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,204.182.224.35.bc.googleusercontent.com
+2024-08-02T14:59:25+0000,34.209.136.201,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-209-136-201.us-west-2.compute.amazonaws.com
+2024-08-02T15:00:51+0000,149.88.26.86,17,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-88-26-86.datapacket.com
