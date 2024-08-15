@@ -4994,7 +4994,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-26T22:02:08+0000,34.34.234.202,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,
 2024-07-26T22:02:15+0000,147.185.132.55,100,United States,US,CA,California,Santa Clara,95054,37.3833,-121.983,America/Los_Angeles,Google LLC,"Palo Alto Networks, Inc",AS396982 Google LLC,
 2024-07-26T22:10:59+0000,128.90.170.12,77,Poland,PL,14,Mazovia,Warsaw,02-673,52.1828,20.9846,Europe/Warsaw,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc.",undefined.hostname.localhost
-2024-07-26T22:43:35+0000,84.17.52.6,12,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-84-17-52-6.cdn77.com
 2024-07-26T22:53:46+0000,194.32.122.22,35,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,"Informacines sistemos ir technologijos, UAB",Cyberghost SRL,"AS61272 Informacines sistemos ir technologijos, UAB",
 2024-07-26T23:22:59+0000,94.156.69.124,83,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-07-26T23:29:07+0000,94.156.71.180,63,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
@@ -7382,3 +7381,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-15T10:52:12+0000,165.154.235.24,37,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Scloud Pte Ltd,Scloud Pte Ltd,AS142002 Scloud Pte Ltd,
 2024-08-15T11:01:56+0000,18.219.74.181,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-219-74-181.us-east-2.compute.amazonaws.com
 2024-08-15T11:04:48+0000,13.74.98.172,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-08-15T11:28:41+0000,3.142.218.11,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-142-218-11.us-east-2.compute.amazonaws.com
+2024-08-15T11:45:02+0000,13.79.224.36,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-08-15T12:02:53+0000,84.17.52.6,13,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-84-17-52-6.cdn77.com
+2024-08-15T12:36:46+0000,23.236.52.247,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC,247.52.236.23.bc.googleusercontent.com
+2024-08-15T12:39:00+0000,34.171.90.134,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,134.90.171.34.bc.googleusercontent.com
+2024-08-15T13:03:51+0000,98.70.103.213,91,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,
+2024-08-15T13:04:19+0000,172.105.17.15,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-ca-ca-central-20.li.binaryedge.ninja
+2024-08-15T13:09:09+0000,172.105.17.254,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-ca-ca-central-26.li.binaryedge.ninja
+2024-08-15T13:09:09+0000,172.105.103.14,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-manganese-ca-central-1.li.binaryedge.ninja
+2024-08-15T13:09:10+0000,172.105.104.121,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-ca-ca-central-37.li.binaryedge.ninja
+2024-08-15T13:10:58+0000,172.105.104.218,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-ca-ca-central-48.li.binaryedge.ninja
+2024-08-15T13:11:24+0000,172.105.98.239,3,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-ca-ca-central-4.li.binaryedge.ninja
+2024-08-15T13:11:59+0000,100.27.6.171,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-100-27-6-171.compute-1.amazonaws.com
+2024-08-15T13:40:39+0000,52.47.201.113,36,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-52-47-201-113.eu-west-3.compute.amazonaws.com
+2024-08-15T14:34:02+0000,74.120.221.122,100,Canada,CA,QC,Quebec,Repentigny,J5Y,45.7701,-73.44,America/Toronto,GloboTech Communications,Taxi Hits Inc,AS36666 GloboTech Communications,mtl422.twshosting.ca
+2024-08-15T14:40:47+0000,185.107.90.213,100,Denmark,DK,84,Capital Region,Copenhagen,1510,55.6802,12.5892,Europe/Copenhagen,One.com A/S,Hostnet NL VPS,AS51468 One.com A/S,conveta.nl
+2024-08-15T14:53:18+0000,131.153.51.172,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,PhoenixNAP,Secured Servers LLC,AS59210 PhoenixNAP,sc2.elyspace.com
+2024-08-15T14:53:25+0000,112.175.185.152,58,South Korea,KR,41,Gyeonggi-do,Suwon,164,37.2872,127.0116,Asia/Seoul,Korea Telecom,Kornet,AS4766 Korea Telecom,dot-k2-152.dothome.co.kr
+2024-08-15T14:56:07+0000,104.244.122.229,100,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc","AS22611 InMotion Hosting, Inc.",vps94865.inmotionhosting.com
+2024-08-15T14:56:22+0000,149.50.128.151,70,Argentina,AR,B,Buenos Aires,El Talar,1617,-34.4721,-58.654,America/Argentina/Buenos_Aires,Cogent Communications,DATTATEC.COM S.R.L,AS27823 Dattatec.com,vps-4181477-x.dattaweb.com
+2024-08-15T14:56:55+0000,103.131.196.40,91,India,IN,UK,Uttarakhand,Dehradun,248007,30.3321,77.9702,Asia/Kolkata,No. 5,CHALKBOX,AS141004 QTIME BUSINESSES PRIVATE LIMITED,dedi.dwmErp.com
+2024-08-15T15:01:44+0000,45.11.96.247,100,Turkey,TR,16,Bursa Province,Bursa,16090,40.1885,29.061,Europe/Istanbul,PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi,Pentech,AS48678 PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi,45.11.96.247.pendns.net
+2024-08-15T15:04:40+0000,133.18.67.106,95,Japan,JP,26,Kyoto,Kyoto,602-8051,35.0203,135.7602,Asia/Tokyo,KAGOYA JAPAN Inc.,,AS24282 KAGOYA JAPAN Inc.,o5044s-103.kagoya.net
