@@ -5368,7 +5368,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-30T01:34:42+0000,20.163.55.249,32,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
 2024-07-30T01:57:49+0000,84.17.48.81,15,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited,unn-84-17-48-81.cdn77.com
 2024-07-30T02:03:10+0000,34.31.73.40,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,40.73.31.34.bc.googleusercontent.com
-2024-07-30T02:03:24+0000,216.24.216.85,91,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications,
 2024-07-30T02:06:12+0000,209.126.81.118,92,United States,US,MO,Missouri,St Louis,63101,38.6364,-90.1985,America/Chicago,"Nubes, LLC",Contabo Inc,"AS40021 Nubes, LLC",vmi2017801.contaboserver.net
 2024-07-30T02:10:47+0000,142.202.48.43,31,United States,US,NY,New York,New York,,40.7127,-74.0059,America/New_York,GTHost,GTHost,AS63023 GTHost,43-48-202-142.clients.gthost.com
 2024-07-30T02:15:06+0000,106.75.184.142,42,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,
@@ -6788,7 +6787,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-10T05:43:08+0000,37.19.223.121,54,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited,unn-37-19-223-121.datapacket.com
 2024-08-10T05:55:03+0000,20.246.193.190,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,
 2024-08-10T06:04:29+0000,160.30.21.30,100,Vietnam,VN,34,Khánh Hòa Province,Nha Trang,,12.2888,109.201,Asia/Ho_Chi_Minh,DEVTTT,DEVTTT Website Design Company Limited,,
-2024-08-10T06:04:53+0000,158.255.80.210,82,Russia,RU,MOW,Moscow,Moscow,144700,55.7734,37.5491,Europe/Moscow,ATSTEL,ATS Telecom LTD,AS60904 ATC Telecom LTD.,
 2024-08-10T06:04:56+0000,54.196.150.101,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-196-150-101.compute-1.amazonaws.com
 2024-08-10T06:09:46+0000,105.155.76.0,13,Morocco,MA,09,Souss-Massa,Agadir,,30.4201,-9.5912,Africa/Casablanca,ADSL Maroc telecom,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,
 2024-08-10T06:19:42+0000,92.205.185.112,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Host Europe GmbH,AS21499 Host Europe GmbH,112.185.205.92.host.secureserver.net
@@ -7404,3 +7402,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-15T14:56:55+0000,103.131.196.40,91,India,IN,UK,Uttarakhand,Dehradun,248007,30.3321,77.9702,Asia/Kolkata,No. 5,CHALKBOX,AS141004 QTIME BUSINESSES PRIVATE LIMITED,dedi.dwmErp.com
 2024-08-15T15:01:44+0000,45.11.96.247,100,Turkey,TR,16,Bursa Province,Bursa,16090,40.1885,29.061,Europe/Istanbul,PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi,Pentech,AS48678 PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi,45.11.96.247.pendns.net
 2024-08-15T15:04:40+0000,133.18.67.106,95,Japan,JP,26,Kyoto,Kyoto,602-8051,35.0203,135.7602,Asia/Tokyo,KAGOYA JAPAN Inc.,,AS24282 KAGOYA JAPAN Inc.,o5044s-103.kagoya.net
+2024-08-15T15:22:38+0000,195.158.1.169,100,Uzbekistan,UZ,TK,Tashkent,Tashkent,,41.2615,69.2177,Asia/Tashkent,Uzbektelecom JSC,,"AS8193 ""Uzbektelekom"" Joint Stock Company",
+2024-08-15T15:27:57+0000,185.213.10.182,21,Iran,IR,25,Qom Province,Qom,,34.6235,50.8519,Asia/Tehran,Asre Pardazeshe Ettelaate Amin Institute,Asre Pardazeshe Ettelaate Amin Institute,AS48147 Asre Pardazeshe Ettelaate Amin Institute,
+2024-08-15T15:29:35+0000,102.211.186.235,100,South Africa,ZA,GP,Gauteng,Johannesburg,2041,-26.2041,28.0473,Africa/Johannesburg,Sive Setfu ICT Solutions (Pty) Ltd,Sive,AS329298 Sive Setfu ICT Solutions (Pty) Ltd,emabaleni.sive.host
+2024-08-15T15:36:33+0000,142.171.245.253,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Multacom Corporation,TELUS Communications Inc,AS35916 MULTACOM CORPORATION,srv2.ttmhostjaya.my.id
+2024-08-15T15:43:33+0000,45.149.79.189,100,Iran,IR,23,Tehran,Tehran,,35.7219,51.3347,Asia/Tehran,Pars Parva System LLC,ParsPack,AS60631 Pars Parva System LLC,
+2024-08-15T15:53:38+0000,66.249.72.138,24,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,crawl-66-249-72-138.googlebot.com
+2024-08-15T16:08:24+0000,172.104.156.169,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,cloud.mews.me
+2024-08-15T16:09:47+0000,59.125.102.142,86,Taiwan,TW,NWT,New Taipei City,New Taipei City,,24.9466,121.586,Asia/Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,
+2024-08-15T16:22:17+0000,103.153.214.173,96,Vietnam,VN,SG,Ho Chi Minh,Phường Mười Ba,,10.8337,106.627,Asia/Ho_Chi_Minh,"Vintek Viet NAM Technology Telecom Co., ltd",VINTEK,"AS140745 VINTEK VIET NAM TECHNOLOGY TELECOM CO.,LTD",
+2024-08-15T16:25:15+0000,78.108.80.33,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Hosting Ltd,Hosting Ltd,AS43362 Hosting Ltd,web15.majordomo.ru
+2024-08-15T16:31:08+0000,3.108.41.89,70,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,Amazon Technologies Inc.,AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-3-108-41-89.ap-south-1.compute.amazonaws.com
+2024-08-15T16:46:44+0000,158.255.80.210,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7734,37.5491,Europe/Moscow,ATSTEL,ATS Telecom LTD,AS60904 ATC Telecom LTD.,
+2024-08-15T16:51:22+0000,216.24.216.85,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications,
+2024-08-15T16:55:00+0000,109.243.64.119,20,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,P4 Sp. z o.o.,PLAY-Internet,AS39603 P4 Sp. z o.o.,user-109-243-64-119.play-internet.pl
+2024-08-15T17:05:34+0000,34.1.34.249,3,Qatar,QA,DA,Baladīyat ad Dawḩah,Doha,,25.2854,51.531,Asia/Qatar,Google LLC,Google Cloud,AS15169 Google LLC,249.34.1.34.bc.googleusercontent.com
+2024-08-15T17:07:28+0000,3.147.57.163,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-147-57-163.us-east-2.compute.amazonaws.com
+2024-08-15T17:16:11+0000,34.76.49.100,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,100.49.76.34.bc.googleusercontent.com
+2024-08-15T17:18:51+0000,52.71.192.219,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-71-192-219.compute-1.amazonaws.com
+2024-08-15T17:28:47+0000,54.248.66.215,13,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-54-248-66-215.ap-northeast-1.compute.amazonaws.com
+2024-08-15T17:30:44+0000,103.2.197.167,100,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Servers Australia Pty. Ltd,Servers Australia Pty Ltd,AS45671 Wholesale Services Provider,sau-b09b7-or.customer.servercontrol.com.au
+2024-08-15T17:30:50+0000,34.133.147.217,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,217.147.133.34.bc.googleusercontent.com
+2024-08-15T17:32:33+0000,43.204.194.23,28,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-43-204-194-23.ap-south-1.compute.amazonaws.com
+2024-08-15T17:35:31+0000,66.175.44.63,26,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web203c40.carrierzone.com
+2024-08-15T17:36:56+0000,81.208.4.94,54,Italy,IT,42,Liguria,Genoa,16126,44.3915,8.945,Europe/Rome,Fastweb Networks,,AS12874 Fastweb SpA,host094.004.208.081
+2024-08-15T17:40:57+0000,45.138.16.231,68,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,aoi.nezu.cc
