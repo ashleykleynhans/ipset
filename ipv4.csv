@@ -1273,7 +1273,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-28T08:40:44+0000,192.71.144.12,100,Sweden,SE,AB,Stockholm County,Stockholm,126 30,59.3098,17.9796,Europe/Stockholm,LIECHTENSTEIN-NETWORK,Pronect Technology Ltd,AS42708 GleSYS AB,
 2024-06-28T09:10:18+0000,20.171.149.0,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
 2024-06-28T09:10:32+0000,198.251.81.188,8,United States,US,NY,New York,Staten Island,10311,40.6063,-74.1774,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,s12.my-control-panel.com
-2024-06-28T09:11:57+0000,191.101.31.97,10,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-06-28T09:14:16+0000,84.239.49.13,29,Romania,RO,IF,Ilfov,Bucharest,077086,44.4589,26.1656,Europe/Bucharest,INVITE Systems SRL,INVITE Systems SRL,AS44679 INVITE Systems SRL,
 2024-06-28T09:23:57+0000,147.124.215.112,10,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,"Majestic Hosting Solutions, LLC","Majestic Hosting Solutions, LLC","AS396073 Majestic Hosting Solutions, LLC",wulven.famontail.com
 2024-06-28T10:01:55+0000,175.6.96.154,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,"No.293, Wanbao Avenue",Chinanet HN,AS63835 CT-HuNan-Changsha-IDC,
@@ -7070,7 +7069,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-13T20:16:51+0000,84.17.58.23,21,Italy,IT,25,Lombardy,Milan,20124,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-23.cdn77.com
 2024-08-13T20:27:23+0000,3.144.11.232,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-144-11-232.us-east-2.compute.amazonaws.com
 2024-08-13T20:28:27+0000,5.101.157.208,79,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,Beget LLC,System servers virtual hosting BEGET.RU,AS198610 Beget LLC,m1.callisto.beget.com
-2024-08-13T20:30:13+0000,94.182.172.194,72,Iran,IR,23,Tehran,Tehran,,35.7838,51.4361,Asia/Tehran,SHATEL Network,SHTL-NET-DED,AS31549 Aria Shatel PJSC,sht.194.172.182.94.euhosted.com
 2024-08-13T20:37:55+0000,34.70.236.111,24,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,111.236.70.34.bc.googleusercontent.com
 2024-08-13T20:51:39+0000,52.3.231.208,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-3-231-208.compute-1.amazonaws.com
 2024-08-13T20:55:03+0000,85.203.21.11,84,Singapore,SG,03,North West,Singapore,,1.43819,103.789,Asia/Singapore,EXPRESS,VPN-Consumer-Network,AS206092 Internet Utilities Europe and Asia Limited,
@@ -7102,7 +7100,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-14T00:54:53+0000,84.17.58.4,18,Italy,IT,25,Lombardy,Milan,20124,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-4.cdn77.com
 2024-08-14T01:06:17+0000,18.118.19.90,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-118-19-90.us-east-2.compute.amazonaws.com
 2024-08-14T01:12:40+0000,84.17.52.9,21,Switzerland,CH,ZH,Zurich,Zurich,8088,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-84-17-52-9.cdn77.com
-2024-08-14T01:43:20+0000,104.197.24.12,32,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,12.24.197.104.bc.googleusercontent.com
 2024-08-14T01:51:03+0000,64.31.3.105,50,United States,US,UT,Utah,Salt Lake City,84189,40.7592,-111.8875,America/Denver,"Limestone Networks, Inc.",Limestone Networks,"AS46475 Limestone Networks, Inc.",105-3-31-64.static.reverse.lstn.net
 2024-08-14T01:56:01+0000,154.47.27.76,64,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-154-47-27-76.datapacket.com
 2024-08-14T01:57:23+0000,45.95.147.204,55,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Alsycon B.V.,Alsycon B.V,AS49870 Alsycon B.V.,twne.wesubmityours.com
@@ -7352,7 +7349,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-15T20:52:55+0000,45.79.210.128,3,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-us6-us-southeast-20.li.binaryedge.ninja
 2024-08-15T20:53:39+0000,192.81.132.207,3,United States,US,CA,California,Fremont,94536,37.5625,-122.0004,America/Los_Angeles,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,prod-meitnerium-us8-us-west-22.li.binaryedge.ninja
 2024-08-15T20:55:08+0000,52.47.201.113,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-52-47-201-113.eu-west-3.compute.amazonaws.com
-2024-08-15T21:15:43+0000,54.248.102.183,50,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-54-248-102-183.ap-northeast-1.compute.amazonaws.com
 2024-08-15T21:46:51+0000,154.47.29.202,20,Croatia,HR,21,City of Zagreb,Zagreb,10000,45.8293,15.9793,Europe/Zagreb,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-154-47-29-202.datapacket.com
 2024-08-15T21:53:32+0000,156.146.55.162,32,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited,unn-156-146-55-162.cdn77.com
 2024-08-15T21:56:53+0000,89.40.192.145,3,Kazakhstan,KZ,35,Karaganda,Karaganda,100000,49.8019,73.1021,Asia/Almaty,Kar-Tel LLC,Kartel Gprs,AS206026 Kar-Tel LLC,
@@ -7830,7 +7826,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-19T10:32:49+0000,18.159.188.155,3,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-159-188-155.eu-central-1.compute.amazonaws.com
 2024-08-19T11:13:58+0000,35.232.154.86,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,86.154.232.35.bc.googleusercontent.com
 2024-08-19T11:18:20+0000,13.38.24.184,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-24-184.eu-west-3.compute.amazonaws.com
-2024-08-19T11:18:29+0000,46.249.98.146,37,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BitCommand LLC,Deployish Limited,AS212552 BitCommand LLC,
 2024-08-19T11:27:09+0000,84.17.58.22,13,Italy,IT,25,Lombardy,Milan,20154,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-22.cdn77.com
 2024-08-19T11:59:46+0000,146.112.163.34,24,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Cisco OpenDNS, LLC",Cisco OpenDNS LLC,"AS36692 Cisco OpenDNS, LLC",
 2024-08-19T11:59:55+0000,146.112.163.43,23,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Cisco OpenDNS, LLC",Cisco OpenDNS LLC,"AS36692 Cisco OpenDNS, LLC",
@@ -7859,7 +7854,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-19T19:08:00+0000,185.244.153.127,3,Iraq,IQ,AR,Erbil,Erbil,,36.1828,44.0105,Asia/Baghdad,kurdistan,,AS206206 Kurdistan Net Company for Computer and Internet Ltd.,
 2024-08-19T19:17:09+0000,34.105.34.116,3,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,116.34.105.34.bc.googleusercontent.com
 2024-08-19T19:52:42+0000,163.44.176.11,21,Japan,JP,13,Tokyo,Chiyoda,100-8111,35.6916,139.768,Asia/Tokyo,"GMO Internet, Inc","GMO Internet Group, Inc.","AS7506 GMO Internet,Inc",v2001.coreserver.jp
-2024-08-19T19:53:11+0000,31.222.235.4,3,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,Neth LLC,Neth LLC,AS202302 NETH LLC,fdc.nal.usda.gov
 2024-08-19T20:01:27+0000,18.222.209.82,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-222-209-82.us-east-2.compute.amazonaws.com
 2024-08-19T20:14:35+0000,210.5.105.82,100,Philippines,PH,00,Metro Manila,Pasay,1232,14.5375,121.001,Asia/Manila,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,AS9299 Philippine Long Distance Telephone Company,host.3.guanzongroup.com.ph
 2024-08-19T20:35:49+0000,3.142.185.15,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-142-185-15.us-east-2.compute.amazonaws.com
@@ -7879,7 +7873,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-20T00:41:11+0000,18.117.147.65,14,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-117-147-65.us-east-2.compute.amazonaws.com
 2024-08-20T00:59:49+0000,45.138.16.222,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
 2024-08-20T00:59:50+0000,94.16.121.226,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,04.nur.exit.tor.loki.tel
-2024-08-20T01:34:50+0000,20.117.200.45,95,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation,
 2024-08-20T01:56:45+0000,177.221.140.101,71,Chile,CL,RM,Santiago Metropolitan,Santiago,34033,-33.4521,-70.6536,America/Santiago,Grupo CG Limitada,,AS270014 GRUPO CG LIMITADA,cloud101.americahost.cl
 2024-08-20T02:15:26+0000,3.17.142.197,14,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-17-142-197.us-east-2.compute.amazonaws.com
 2024-08-20T02:25:59+0000,84.17.48.65,19,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited,unn-84-17-48-65.cdn77.com
@@ -7898,7 +7891,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-20T05:07:21+0000,185.16.38.68,92,Poland,PL,14,Mazovia,Warsaw,02-634,52.1957,20.9921,Europe/Warsaw,MEVSPACE sp. z o.o.,MEVSPACE sp. z o.o,AS201814 MEVSPACE sp. z o.o.,
 2024-08-20T05:34:03+0000,156.146.55.165,19,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited,unn-156-146-55-165.cdn77.com
 2024-08-20T06:19:56+0000,185.191.76.27,58,Iran,IR,23,Tehran,Tehran,,35.7655,51.4426,Asia/Tehran,Rasaneh Avabarid Private Joint Stock Company,Rasaneh Avabarid Private Joint Stock Company,AS51431 Rasaneh Avabarid Private Joint Stock Company,
-2024-08-20T06:33:26+0000,107.191.118.41,29,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"InMotion Hosting, Inc.",RAMNODE,"AS3842 InMotion Hosting, Inc.",
 2024-08-20T06:35:14+0000,13.79.90.255,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
 2024-08-20T06:40:38+0000,34.1.27.240,3,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,240.27.1.34.bc.googleusercontent.com
 2024-08-20T06:44:40+0000,5.62.41.41,18,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.,r-41-41-62-5.consumer-pool.prcdn.net
+2024-08-20T06:54:50+0000,94.182.172.194,66,Iran,IR,23,Tehran,Tehran,,35.7838,51.4361,Asia/Tehran,SHATEL Network,SHTL-NET-DED,AS31549 Aria Shatel PJSC,sht.194.172.182.94.euhosted.com
+2024-08-20T07:27:13+0000,191.101.31.97,27,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Cogent Communications,Ipxo,AS174 Cogent Communications,
+2024-08-20T07:36:02+0000,107.191.118.41,34,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"InMotion Hosting, Inc.",RAMNODE,"AS3842 InMotion Hosting, Inc.",
+2024-08-20T07:40:05+0000,15.237.253.196,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-253-196.eu-west-3.compute.amazonaws.com
+2024-08-20T07:55:42+0000,31.222.235.4,37,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,Neth LLC,Neth LLC,AS202302 NETH LLC,fdc.nal.usda.gov
+2024-08-20T08:05:51+0000,37.19.223.113,41,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited,unn-37-19-223-113.datapacket.com
+2024-08-20T08:17:29+0000,13.79.229.207,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-08-20T08:21:02+0000,108.170.45.130,100,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Secured Servers LLC,LotsMoreHostingSS,AS20454 SECURED SERVERS LLC,server.lfmte1.com
+2024-08-20T08:24:56+0000,45.207.194.49,3,Hong Kong,HK,NSK,Sai Kung District,Tseung Kwan O,,22.3119,114.257,Asia/Hong_Kong,"High Family Technology Co., Limited",Vapeline Technology,"AS142032 High Family Technology Co., Limited",
+2024-08-20T08:43:08+0000,54.248.102.183,52,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-54-248-102-183.ap-northeast-1.compute.amazonaws.com
+2024-08-20T09:17:14+0000,34.29.25.15,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,15.25.29.34.bc.googleusercontent.com
+2024-08-20T09:22:29+0000,185.4.65.197,13,Russia,RU,MOW,Moscow,Moscow,102210,55.7483,37.6171,Europe/Moscow,Inferno Solutions,IROKO Networks Corporation,AS12722 RECONN LLC,
+2024-08-20T09:28:51+0000,104.197.24.12,60,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,12.24.197.104.bc.googleusercontent.com
+2024-08-20T09:30:55+0000,163.178.170.5,3,Costa Rica,CR,SJ,Provincia de San José,San Pedro,11501,9.9375,-84.0451,America/Costa_Rica,Universidad de Costa Rica,Universidad de Costa Rica,AS263683 Universidad de Costa Rica,
+2024-08-20T09:44:18+0000,147.45.47.245,21,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Karina Rashkovska,Karina Rashkovska,AS215789 Karina Rashkovska,
+2024-08-20T10:01:58+0000,20.117.200.45,100,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation,
+2024-08-20T10:18:08+0000,183.225.123.78,13,China,CN,YN,Yunnan,Kunming,,25.0088,102.6513,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd.",
+2024-08-20T10:20:49+0000,46.249.98.146,44,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BitCommand LLC,Deployish Limited,AS212552 BitCommand LLC,
+2024-08-20T10:32:29+0000,91.223.227.17,100,Ukraine,UA,56,Rivne,Rivne,33000,50.6223,26.2396,Europe/Kyiv,LLC Universal Telecom,Universal-Telecom LLC,AS56543 Universal-Telecom LLC,
+2024-08-20T10:59:48+0000,44.202.44.45,36,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-202-44-45.compute-1.amazonaws.com
