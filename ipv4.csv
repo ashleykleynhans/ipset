@@ -2267,7 +2267,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T11:15:10+0000,62.210.9.75,8,France,FR,IDF,Île-de-France,Paris,75008,48.8714,2.32141,Europe/Paris,Online S.A.S.,ONLINE,AS12876 SCALEWAY S.A.S.,62-210-9-75.rev.poneytelecom.eu
 2024-07-05T11:40:15+0000,220.151.9.22,42,Japan,JP,11,Saitama,Midorichō,332-0021,35.8095,139.6989,Asia/Tokyo,UCOM Corp.,MSK Software Inc.,AS17506 ARTERIA Networks Corporation,220x151x9x22.ap220.ftth.ucom.ne.jp
 2024-07-05T11:59:19+0000,107.151.182.54,100,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Zenlayer Inc,ZENLA,AS21859 Zenlayer Inc,zl-lax-us-gp6-wk113.internet-census.org
-2024-07-05T12:08:30+0000,35.211.10.21,77,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS15169 Google LLC,21.10.211.35.bc.googleusercontent.com
 2024-07-05T12:11:32+0000,79.110.62.189,77,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Emanuel Hosting Ltd.,Emanuel Hosting Ltd,AS215766 Emanuel Hosting Ltd.,
 2024-07-05T12:20:35+0000,146.70.121.174,11,United Kingdom,GB,ENG,England,Barnsley,S70,53.55,-1.48333,Europe/London,M247 Europe Infra,M247 Ltd,AS9009 M247 Europe SRL,
 2024-07-05T12:24:16+0000,34.1.23.61,35,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,61.23.1.34.bc.googleusercontent.com
@@ -7893,7 +7892,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-20T09:17:14+0000,34.29.25.15,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,15.25.29.34.bc.googleusercontent.com
 2024-08-20T09:22:29+0000,185.4.65.197,13,Russia,RU,MOW,Moscow,Moscow,102210,55.7483,37.6171,Europe/Moscow,Inferno Solutions,IROKO Networks Corporation,AS12722 RECONN LLC,
 2024-08-20T09:28:51+0000,104.197.24.12,60,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,12.24.197.104.bc.googleusercontent.com
-2024-08-20T09:30:55+0000,163.178.170.5,3,Costa Rica,CR,SJ,Provincia de San José,San Pedro,11501,9.9375,-84.0451,America/Costa_Rica,Universidad de Costa Rica,Universidad de Costa Rica,AS263683 Universidad de Costa Rica,
 2024-08-20T10:01:58+0000,20.117.200.45,100,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation,
 2024-08-20T10:18:08+0000,183.225.123.78,13,China,CN,YN,Yunnan,Kunming,,25.0088,102.6513,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd.",
 2024-08-20T10:20:49+0000,46.249.98.146,44,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BitCommand LLC,Deployish Limited,AS212552 BitCommand LLC,
@@ -7906,7 +7904,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-20T13:49:33+0000,154.30.210.38,68,United Kingdom,GB,ENG,England,London,E14 2EH,51.5072,-0.0037,Europe/London,24 SHELLS,ServerMania Inc,AS55081 24 SHELLS,
 2024-08-20T14:26:05+0000,45.125.66.35,100,Lithuania,LT,KU,Kaunas,Kaunas,53030,54.9038,23.8924,Europe/Vilnius,HostBaltic,UAB Host Baltic,AS133398 Tele Asia Limited,srv-45-125-66-35.serveroffer.net
 2024-08-20T14:28:26+0000,23.129.64.173,92,United States,US,WA,Washington,Seattle,98104,47.6035,-122.336,America/Los_Angeles,Emerald Onion,Emerald Onion,AS396507 Emerald Onion,
-2024-08-20T14:45:42+0000,62.204.40.67,50,Sweden,SE,O,Västra Götaland County,Gothenburg,415 02,57.7065,11.967,Europe/Stockholm,Obehosting AB,NB SE GOT,AS42675 Obehosting AB,
 2024-08-20T14:53:30+0000,34.228.244.169,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-228-244-169.compute-1.amazonaws.com
 2024-08-20T15:06:20+0000,62.217.159.3,13,Azerbaijan,AZ,BA,Baku City,Baku,,40.3771,49.8875,Asia/Baku,AZERONLINE-CLASS,Azeronline Information Services,"AS15723 ""AZERONLINE LTD"" JOINT ENTERPRISE",vlan159-3.azeronline.com
 2024-08-20T15:08:41+0000,5.62.41.161,36,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.,r-161-41-62-5.consumer-pool.prcdn.net
@@ -7960,3 +7957,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-21T03:55:24+0000,34.67.108.250,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,250.108.67.34.bc.googleusercontent.com
 2024-08-21T04:14:32+0000,185.213.10.182,91,Iran,IR,25,Qom Province,Qom,,34.6235,50.8519,Asia/Tehran,Asre Pardazeshe Ettelaate Amin Institute,Asre Pardazeshe Ettelaate Amin Institute,AS48147 Asre Pardazeshe Ettelaate Amin Institute,
 2024-08-21T04:16:08+0000,147.45.47.245,69,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Karina Rashkovska,Karina Rashkovska,AS215789 Karina Rashkovska,
+2024-08-21T05:01:52+0000,3.88.50.250,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-88-50-250.compute-1.amazonaws.com
+2024-08-21T05:23:04+0000,62.204.40.67,53,Sweden,SE,O,Västra Götaland County,Gothenburg,415 02,57.7065,11.967,Europe/Stockholm,Obehosting AB,NB SE GOT,AS42675 Obehosting AB,
+2024-08-21T06:07:16+0000,2.58.56.43,100,France,FR,BFC,Bourgogne-Franche-Comté,Bavilliers,90800,47.6209,6.8337,Europe/Paris,Sapinet,Mifsud Florian,AS39421 Sapinet SAS,2.58.56.43.powered.by.rdp.sh
+2024-08-21T06:31:42+0000,20.171.206.217,66,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
+2024-08-21T06:40:34+0000,5.62.41.40,47,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.,r-40-41-62-5.consumer-pool.prcdn.net
+2024-08-21T06:45:40+0000,34.27.145.11,19,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,11.145.27.34.bc.googleusercontent.com
+2024-08-21T07:09:23+0000,34.143.236.190,3,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,190.236.143.34.bc.googleusercontent.com
+2024-08-21T07:16:39+0000,163.178.170.5,14,Costa Rica,CR,SJ,Provincia de San José,San Pedro,11501,9.9375,-84.0451,America/Costa_Rica,Universidad de Costa Rica,Universidad de Costa Rica,AS263683 Universidad de Costa Rica,
+2024-08-21T07:19:56+0000,35.219.230.4,3,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC,4.230.219.35.bc.googleusercontent.com
+2024-08-21T07:20:23+0000,35.211.10.21,50,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS15169 Google LLC,21.10.211.35.bc.googleusercontent.com
+2024-08-21T07:28:12+0000,181.49.184.133,3,Colombia,CO,DC,Bogota D.C.,Bogotá,111411,4.6115,-74.0833,America/Bogota,Telmex Colombia S.A.,Telmex Colombia S.A.,AS14080 Telmex Colombia S.A.,
+2024-08-21T07:38:28+0000,159.242.234.195,42,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST Software s.r.o.,Prcdn,AS198605 AVAST Software s.r.o.,
+2024-08-21T07:56:49+0000,80.255.5.233,10,Germany,DE,SN,Saxony,Schkeuditz,04435,51.3968,12.2214,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH,
+2024-08-21T09:24:49+0000,34.135.90.173,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,173.90.135.34.bc.googleusercontent.com
+2024-08-21T09:30:23+0000,91.247.100.214,3,Ukraine,UA,43,Crimea,Simferopol,95014,44.9607,34.1051,Europe/Simferopol,Crelcom LLC,,AS6789 CRELCOM LLC,
+2024-08-21T09:30:24+0000,185.92.138.16,19,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,K-telekom LLC,KTK rIP5,AS203451 K-telekom LLC,
+2024-08-21T09:30:26+0000,140.213.142.93,10,Indonesia,ID,BT,Banten,South Tangerang,,-6.2876,106.722,Asia/Jakarta,Indonesia Network Information Center,,AS24203 PT XL Axiata,
+2024-08-21T09:30:26+0000,37.99.41.91,3,Kazakhstan,KZ,75,Almaty,Almaty,,43.2433,76.8646,Asia/Almaty,2DAY Telecom LLP,,AS21299 Kar-Tel LLC,client.fttb.2day.kz
+2024-08-21T09:30:37+0000,95.82.92.131,3,Kazakhstan,KZ,79,Shymkent,Shymkent,,42.2994,69.606,Asia/Almaty,Kar-Tel LLC,Kar-Tel LLC,AS206026 Kar-Tel LLC,
+2024-08-21T09:46:43+0000,34.233.49.229,14,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-233-49-229.compute-1.amazonaws.com
+2024-08-21T09:51:57+0000,5.62.41.38,54,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.,r-38-41-62-5.consumer-pool.prcdn.net
