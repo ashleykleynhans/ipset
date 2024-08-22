@@ -4716,7 +4716,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-24T06:24:39+0000,36.182.48.134,12,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Mobile,China Mobile Communications Corporation,"AS9808 China Mobile Communications Group Co., Ltd.",
 2024-07-24T06:30:56+0000,34.28.150.40,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,40.150.28.34.bc.googleusercontent.com
 2024-07-24T06:47:17+0000,128.14.188.106,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Zenlayer Inc,ZENLA,AS21859 Zenlayer Inc,zl-lax-us-gp1-wk126a.internet-census.org
-2024-07-24T07:09:58+0000,35.225.45.132,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,132.45.225.35.bc.googleusercontent.com
 2024-07-24T07:12:16+0000,84.239.42.143,37,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited,
 2024-07-24T07:14:27+0000,34.207.92.202,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-207-92-202.compute-1.amazonaws.com
 2024-07-24T07:14:47+0000,172.169.206.211,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,azpdcsb91.stretchoid.com
@@ -6961,7 +6960,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-12T23:32:15+0000,35.187.174.226,32,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,226.174.187.35.bc.googleusercontent.com
 2024-08-12T23:38:19+0000,35.217.49.228,13,Finland,FI,02,South Karelia,Lappeenranta,,61.0549,28.1896,Europe/Helsinki,Google LLC,Google Cloud (europe-north1),AS15169 Google LLC,228.49.217.35.bc.googleusercontent.com
 2024-08-13T00:01:34+0000,46.183.177.206,46,Russia,RU,MOW,Moscow,Moscow,144700,55.7868,37.6333,Europe/Moscow,Biz Telecom LLC,Biz Telecom LLC,AS197453 Biz Telecom LLC,mailman.cbddmo.ru
-2024-08-13T00:13:40+0000,45.134.140.243,50,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Cdnext ATL,AS212238 Datacamp Limited,unn-45-134-140-243.datapacket.com
 2024-08-13T00:33:15+0000,52.14.198.164,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-52-14-198-164.us-east-2.compute.amazonaws.com
 2024-08-13T00:33:57+0000,35.212.229.34,44,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS15169 Google LLC,34.229.212.35.bc.googleusercontent.com
 2024-08-13T00:36:14+0000,34.88.47.144,28,Finland,FI,02,South Karelia,Lappeenranta,,61.0549,28.1896,Europe/Helsinki,Google LLC,Google Cloud (europe-north1),AS396982 Google LLC,144.47.88.34.bc.googleusercontent.com
@@ -8017,7 +8015,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-21T18:53:30+0000,13.49.78.2,98,Sweden,SE,AB,Stockholm,Stockholm,100 05,59.3293,18.0686,Europe/Stockholm,Amazon Technologies Inc.,AWS EC2 (eu-north-1),"AS16509 Amazon.com, Inc.",ec2-13-49-78-2.eu-north-1.compute.amazonaws.com
 2024-08-21T19:00:31+0000,35.225.7.53,21,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,53.7.225.35.bc.googleusercontent.com
 2024-08-21T19:12:12+0000,34.1.27.216,3,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,216.27.1.34.bc.googleusercontent.com
-2024-08-21T19:33:04+0000,4.236.52.39,53,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
 2024-08-21T19:56:09+0000,52.192.220.11,60,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-52-192-220-11.ap-northeast-1.compute.amazonaws.com
 2024-08-21T21:20:03+0000,116.21.29.47,47,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2024-08-21T21:23:10+0000,204.8.96.146,41,United States,US,TX,Texas,San Angelo,76901,31.5447,-100.518,America/Chicago,Quintex Alliance Consulting,Quintex Alliance Consulting,AS62744 Quintex Alliance Consulting,tor57.quintex.com
@@ -8172,5 +8169,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-22T07:18:02+0000,204.8.96.101,48,United States,US,TX,Texas,San Angelo,76901,31.5447,-100.518,America/Chicago,Quintex Alliance Consulting,Quintex Alliance Consulting,AS62744 Quintex Alliance Consulting,tor11.quintex.com
 2024-08-22T07:18:07+0000,37.46.211.21,80,Czechia,CZ,64,South Moravian,Brno,621 00,49.2394,16.5812,Europe/Prague,ZONER,"ZONER software, a.s.",AS34222 ZONER a.s.,
 2024-08-22T08:21:22+0000,82.145.215.206,47,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
-2024-08-22T08:26:46+0000,77.77.222.3,38,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Sarajevo,,43.8453,18.3592,Europe/Sarajevo,TELEMACH BH,,AS42560 Telemach BH d.o.o. Sarajevo,
 2024-08-22T09:04:28+0000,34.0.209.171,3,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,171.209.0.34.bc.googleusercontent.com
+2024-08-22T09:17:14+0000,34.27.209.211,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,211.209.27.34.bc.googleusercontent.com
+2024-08-22T09:42:37+0000,45.134.140.243,55,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,Datacamp Limited,Cdnext ATL,AS212238 Datacamp Limited,unn-45-134-140-243.datapacket.com
+2024-08-22T09:56:06+0000,34.239.228.104,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-239-228-104.compute-1.amazonaws.com
+2024-08-22T11:51:30+0000,159.242.234.16,22,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST Software s.r.o.,Prcdn,AS198605 AVAST Software s.r.o.,
+2024-08-22T12:44:53+0000,35.180.120.182,33,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-120-182.eu-west-3.compute.amazonaws.com
+2024-08-22T13:03:24+0000,34.27.43.192,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,192.43.27.34.bc.googleusercontent.com
+2024-08-22T13:17:04+0000,159.242.234.27,30,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST Software s.r.o.,Prcdn,AS198605 AVAST Software s.r.o.,
+2024-08-22T13:32:55+0000,77.77.222.3,42,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Sarajevo,,43.8453,18.3592,Europe/Sarajevo,TELEMACH BH,,AS42560 Telemach BH d.o.o. Sarajevo,
+2024-08-22T13:37:21+0000,83.217.210.112,3,Estonia,EE,37,Harjumaa,Tallin,,59.4369,24.7535,Europe/Tallinn,FS LLC,FS LLC,AS41745 Baykov Ilya Sergeevich,
+2024-08-22T13:43:29+0000,3.239.21.190,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-239-21-190.compute-1.amazonaws.com
+2024-08-22T13:46:58+0000,35.225.45.132,19,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,132.45.225.35.bc.googleusercontent.com
+2024-08-22T14:21:16+0000,80.255.12.251,12,Germany,DE,BY,Bavaria,Lappersdorf,93138,49.0533,12.0726,Europe/Berlin,Core-Backbone GmbH,Core-Backbone GmbH,AS201011 Core-Backbone GmbH,
+2024-08-22T14:30:31+0000,34.46.189.87,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,87.189.46.34.bc.googleusercontent.com
+2024-08-22T14:56:30+0000,20.37.109.6,32,Japan,JP,13,Tokyo,Tokyo,152-8503,35.68,139.77,Asia/Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),AS8075 Microsoft Corporation,
+2024-08-22T15:01:32+0000,172.58.54.53,3,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-08-22T15:04:18+0000,96.79.173.41,3,United States,US,TX,Texas,Houston,77024,29.7805,-95.5129,America/Chicago,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS33662 Comcast Cable Communications, LLC",96-79-173-41-static.hfc.comcastbusiness.net
+2024-08-22T15:41:02+0000,35.180.87.14,52,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-87-14.eu-west-3.compute.amazonaws.com
+2024-08-22T15:45:33+0000,20.163.179.242,3,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,
+2024-08-22T16:00:54+0000,4.236.52.39,73,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
+2024-08-22T16:06:01+0000,174.197.67.104,3,United States,US,TX,Texas,Euless,76040,32.8371,-97.082,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,104.sub-174-197-67.myvzw.com
