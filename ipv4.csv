@@ -5033,7 +5033,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-27T15:26:16+0000,74.207.237.237,3,United States,US,GA,Georgia,Atlanta,30301,33.7485,-84.3871,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,prod-mendelevium-us-southeast-60.li.binaryedge.ninja
 2024-07-27T15:28:09+0000,172.105.190.176,3,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,prod-mercury-ap-southeast-0.li.binaryedge.ninja
 2024-07-27T15:53:28+0000,193.32.248.196,11,Germany,DE,BE,Land Berlin,Berlin,10785,52.5061,13.3684,Europe/Berlin,31173 Services AB,31173 Services Germany,AS39351 31173 Services AB,
-2024-07-27T15:56:20+0000,172.234.51.237,3,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172-234-51-237.ip.linodeusercontent.com
 2024-07-27T16:34:28+0000,185.209.162.157,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Hosting Solution Ltd.,King Servers,AS14576 Hosting Solution Ltd.,.
 2024-07-27T16:36:00+0000,80.92.204.106,52,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Stark Industries Solutions LTD,Stark Industries Solutions LTD,AS44477 STARK INDUSTRIES SOLUTIONS LTD,vm1220362.stark-industries.solutions
 2024-07-27T16:36:43+0000,185.100.85.25,83,Romania,RO,B,București,Bucharest,020335,44.4152,26.166,Europe/Bucharest,FlokiNET ehf,,AS200651 FlokiNET ehf,bucarest01.tor-exit.artikel10.org
@@ -7877,7 +7876,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-21T01:12:52+0000,185.191.76.27,61,Iran,IR,23,Tehran,Tehran,,35.7655,51.4426,Asia/Tehran,Rasaneh Avabarid Private Joint Stock Company,Rasaneh Avabarid Private Joint Stock Company,AS51431 Rasaneh Avabarid Private Joint Stock Company,
 2024-08-21T01:38:31+0000,34.29.163.109,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,109.163.29.34.bc.googleusercontent.com
 2024-08-21T01:39:14+0000,34.140.117.114,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,114.117.140.34.bc.googleusercontent.com
-2024-08-21T02:05:18+0000,182.16.89.90,57,Hong Kong,HK,KSS,Sham Shui Po,Lai Chi Kok,,22.3372,114.151,Asia/Hong_Kong,SIMCENTRIC,,AS45753 Netsec Limited,
 2024-08-21T02:30:49+0000,37.114.63.35,46,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Dominic Scholz trading as ITP-Solutions GmbH & Co. KG,BullRDP,AS213250 Dominic Scholz trading as ITP-Solutions GmbH & Co. KG,35.63.114.37.in-addr.arpa
 2024-08-21T03:29:11+0000,194.26.192.35,100,The Netherlands,NL,NH,North Holland,Oude Meer,1438,52.2862,4.7845,Europe/Amsterdam,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,194.26.192.35.powered.by.rdp.sh
 2024-08-21T03:30:50+0000,159.242.234.121,23,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST Software s.r.o.,Prcdn,AS198605 AVAST Software s.r.o.,
@@ -8324,7 +8322,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-25T11:21:48+0000,34.136.17.205,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,205.17.136.34.bc.googleusercontent.com
 2024-08-25T11:39:55+0000,35.244.74.58,3,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS396982 Google LLC,58.74.244.35.bc.googleusercontent.com
 2024-08-25T12:31:15+0000,172.208.9.27,38,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,MICROSOFT,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,
-2024-08-25T12:35:38+0000,185.13.39.141,37,France,FR,HDF,Hauts-de-France,Sainghin-en-Mélantois,59262,50.5841,3.13653,Europe/Paris,Techcrea Solutions SAS,Firstheberg,AS197922 Techcrea Solutions SAS,vps-84229.fhnet.fr
 2024-08-25T12:36:08+0000,172.211.185.1,13,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,MICROSOFT,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation,
 2024-08-25T12:54:57+0000,34.133.126.176,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,176.126.133.34.bc.googleusercontent.com
 2024-08-25T13:25:24+0000,5.62.41.23,19,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.,r-23-41-62-5.consumer-pool.prcdn.net
@@ -8430,3 +8427,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-27T01:35:47+0000,44.211.142.154,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-211-142-154.compute-1.amazonaws.com
 2024-08-27T03:02:19+0000,143.244.57.86,100,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited,unn-143-244-57-86.datapacket.com
 2024-08-27T03:03:42+0000,40.77.23.241,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
+2024-08-27T05:22:56+0000,34.150.219.188,3,United States,US,DC,"Washington, D.C.",Washington,,38.9071,-77.0368,America/New_York,Google LLC,Google Cloud (us-east4),AS396982 Google LLC,188.219.150.34.bc.googleusercontent.com
+2024-08-27T05:25:17+0000,42.117.198.210,3,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,FPT Telecom Company,Vietnam Internet Network Information Center,AS18403 FPT Telecom Company,
+2024-08-27T05:40:41+0000,85.198.47.4,3,Brazil,BR,SP,São Paulo,São Paulo,68515,-23.5335,-46.6359,America/Sao_Paulo,Maxihost LTDA,Customer of IPXO,AS262287 Latitude.sh LTDA,
+2024-08-27T06:04:33+0000,34.140.54.29,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,29.54.140.34.bc.googleusercontent.com
+2024-08-27T06:51:03+0000,192.142.226.145,50,Thailand,TH,10,Bangkok,Bangkok,,13.7563,100.5017,Asia/Bangkok,Datacamp Limited,LogicWeb Inc,AS212238 Datacamp Limited,
+2024-08-27T07:38:47+0000,23.22.35.162,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",23-22-35-162.crawl.amazonbot.amazon
+2024-08-27T08:18:14+0000,180.110.243.68,49,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE,
+2024-08-27T08:35:47+0000,13.74.123.152,88,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-08-27T10:46:00+0000,35.180.242.121,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-242-121.eu-west-3.compute.amazonaws.com
+2024-08-27T11:11:46+0000,95.82.80.15,13,Kazakhstan,KZ,79,Shymkent,Shymkent,,42.2994,69.606,Asia/Almaty,Kar-Tel LLC,Kar-Tel LLC,AS206026 Kar-Tel LLC,
+2024-08-27T11:11:48+0000,191.222.226.98,3,Brazil,BR,GO,Goiás,Aparecida de Goiânia,74900,-16.8428,-49.2468,America/Sao_Paulo,V tal,V tal,AS8167 V tal,191-222-226-98.user3p.v-tal.net.br
+2024-08-27T11:11:50+0000,213.183.45.24,13,Russia,RU,MOW,Moscow,Moscow,102210,55.7483,37.6171,Europe/Moscow,Melbikomas UAB,Melbikomas UAB,AS56630 Melbikomas UAB,abp.tk
+2024-08-27T11:11:52+0000,185.130.54.15,3,Ukraine,UA,30,Kyiv City,Kyiv,04211,50.458,30.5303,Europe/Kyiv,Stargroup LLC,Stargroup LLC,AS41985 Stargroup LLC,simnet-nat-pool-185-130-54-15.stargrpns.pp.ua
+2024-08-27T11:11:56+0000,138.199.53.250,34,Romania,RO,B,București,Bucharest,052828,44.4291,26.1006,Europe/Bucharest,Datacamp Limited,,AS60068 Datacamp Limited,unn-138-199-53-250.datapacket.com
+2024-08-27T11:24:06+0000,80.255.2.71,11,Germany,DE,BY,Bavaria,Nuremberg,90429,49.4592,11.0346,Europe/Berlin,Core-Backbone GmbH,Wavecon GmbH,AS201011 Core-Backbone GmbH,
+2024-08-27T11:25:42+0000,35.212.189.1,3,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS15169 Google LLC,1.189.212.35.bc.googleusercontent.com
+2024-08-27T11:43:28+0000,34.0.147.176,13,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC,176.147.0.34.bc.googleusercontent.com
+2024-08-27T12:04:44+0000,138.199.48.155,52,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Datacamp Limited,Cdnext TOR,AS212238 Datacamp Limited,unn-138-199-48-155.datapacket.com
+2024-08-27T12:10:34+0000,182.16.89.90,56,Hong Kong,HK,KSS,Sham Shui Po,Lai Chi Kok,,22.3372,114.151,Asia/Hong_Kong,SIMCENTRIC,,AS45753 Netsec Limited,
+2024-08-27T12:28:36+0000,3.218.151.100,21,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-218-151-100.compute-1.amazonaws.com
+2024-08-27T12:30:37+0000,172.234.51.237,12,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172-234-51-237.ip.linodeusercontent.com
+2024-08-27T12:38:58+0000,185.13.39.141,46,France,FR,HDF,Hauts-de-France,Sainghin-en-Mélantois,59262,50.5841,3.13653,Europe/Paris,Techcrea Solutions SAS,Firstheberg,AS197922 Techcrea Solutions SAS,vps-84229.fhnet.fr
