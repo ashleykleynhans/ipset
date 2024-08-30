@@ -5432,7 +5432,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-31T00:11:16+0000,38.99.82.128,3,United States,US,NY,New York,New York,,40.7127,-74.0059,America/New_York,GTHost,Edgevana,AS63023 GTHost,
 2024-07-31T00:24:11+0000,38.110.1.3,21,United States,US,FL,Florida,Miami,,25.7616,-80.1917,America/New_York,GTHost,"Online Banking Solutions, Inc.",AS63023 GTHost,3-1-110-38.clients.gthost.com
 2024-07-31T00:28:43+0000,34.140.76.160,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,160.76.140.34.bc.googleusercontent.com
-2024-07-31T00:36:30+0000,23.137.253.110,100,United States,US,PA,Pennsylvania,Allentown,18109,40.6367,-75.4397,America/New_York,IncogNET LLC,IncogNET LLC,AS210630 IncogNET LLC,
 2024-07-31T00:36:54+0000,185.220.100.240,100,Germany,DE,BY,Bavaria,Haßfurt,97437,50.0263,10.5157,Europe/Berlin,F3 Netze e.V.,F3 Netze e.V,AS205100 F3 Netze e.V.,tor-exit-13.zbau.f3netze.de
 2024-07-31T00:41:46+0000,34.30.8.84,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,84.8.30.34.bc.googleusercontent.com
 2024-07-31T00:44:32+0000,106.75.190.150,81,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,
@@ -8248,7 +8247,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-24T11:05:57+0000,13.37.211.37,47,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-37-211-37.eu-west-3.compute.amazonaws.com
 2024-08-24T12:37:24+0000,59.42.121.210,41,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,210.121.42.59.broad.gz.gd.dynamic.163data.com.cn
 2024-08-24T13:03:23+0000,12.181.26.60,3,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"AT&T Services, Inc.","AT&T Services, Inc.","AS7018 AT&T Services, Inc.",
-2024-08-24T13:09:46+0000,138.199.31.202,39,United Kingdom,GB,ENG,England,Canary Wharf,E14,51.5064,-0.02,Europe/London,Datacamp Limited,Cdnext LON,AS212238 Datacamp Limited,unn-138-199-31-202.datapacket.com
 2024-08-24T13:12:54+0000,80.255.13.22,19,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,Core-Backbone GmbH,Privax LTD,AS201011 Core-Backbone GmbH,
 2024-08-24T13:33:30+0000,185.216.146.81,3,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,
 2024-08-24T13:45:32+0000,147.45.114.227,100,The Netherlands,NL,FL,Flevoland,Dronten,8253,52.5378,5.6966,Europe/Amsterdam,Individual Entrepreneur Anton Levin,Individual Entrepreneur Anton Levin,AS50053 Individual Entrepreneur Anton Levin,
@@ -8344,7 +8342,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-26T05:38:00+0000,99.136.80.26,3,United States,US,TX,Texas,Dallas,75218,32.8477,-96.7025,America/Chicago,"AT&T Services, Inc.",AT&T Corp.,"AS7018 AT&T Services, Inc.",99-136-80-26.lightspeed.rcsntx.sbcglobal.net
 2024-08-26T05:53:38+0000,3.145.20.172,3,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-145-20-172.us-east-2.compute.amazonaws.com
 2024-08-26T05:58:31+0000,13.38.238.172,54,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-238-172.eu-west-3.compute.amazonaws.com
-2024-08-26T06:09:53+0000,82.145.215.206,45,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
 2024-08-26T06:19:59+0000,34.0.204.109,3,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,109.204.0.34.bc.googleusercontent.com
 2024-08-26T06:21:29+0000,35.207.201.121,3,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,121.201.207.35.bc.googleusercontent.com
 2024-08-26T07:27:53+0000,180.110.242.29,62,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE,
@@ -8529,7 +8526,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-29T13:02:35+0000,4.247.166.147,86,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,
 2024-08-29T14:29:56+0000,180.110.243.104,49,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE,
 2024-08-29T14:51:55+0000,34.31.125.130,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,130.125.31.34.bc.googleusercontent.com
-2024-08-29T15:41:38+0000,147.45.47.158,31,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Karina Rashkovska,Karina Rashkovska,AS215789 Karina Rashkovska,
 2024-08-29T16:30:19+0000,35.232.160.33,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,33.160.232.35.bc.googleusercontent.com
 2024-08-29T16:43:30+0000,185.246.188.74,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,FlokiNET ehf,FlokiNET Netherlands,AS200651 FlokiNET ehf,
 2024-08-29T16:43:48+0000,96.126.98.146,71,United States,US,CA,California,Fremont,94536,37.5625,-122.0004,America/Los_Angeles,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,96-126-98-146.ip.linodeusercontent.com
@@ -8566,3 +8562,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-30T03:28:28+0000,86.143.131.194,94,United Kingdom,GB,ENG,England,Manchester,M16,53.4606,-2.2572,Europe/London,BT Public Internet Service,,AS2856 British Telecommunications PLC,host86-143-131-194.range86-143.btcentralplus.com
 2024-08-30T04:31:30+0000,3.92.25.217,85,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-92-25-217.compute-1.amazonaws.com
 2024-08-30T04:45:54+0000,3.83.105.203,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-83-105-203.compute-1.amazonaws.com
+2024-08-30T05:04:28+0000,20.191.206.25,100,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation,
+2024-08-30T05:36:37+0000,181.49.183.198,3,Colombia,CO,DC,Bogota D.C.,Bogotá,111211,4.6803,-74.0693,America/Bogota,Telmex Colombia S.A.,Telmex Colombia S.A.,AS14080 Telmex Colombia S.A.,
+2024-08-30T05:45:40+0000,147.45.47.158,36,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Karina Rashkovska,Karina Rashkovska,AS215789 Karina Rashkovska,
+2024-08-30T07:50:37+0000,54.175.2.174,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-175-2-174.compute-1.amazonaws.com
+2024-08-30T08:08:20+0000,82.145.215.206,44,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
+2024-08-30T09:49:44+0000,138.199.31.202,40,United Kingdom,GB,ENG,England,Canary Wharf,E14,51.5064,-0.02,Europe/London,Datacamp Limited,Cdnext LON,AS212238 Datacamp Limited,unn-138-199-31-202.datapacket.com
+2024-08-30T09:57:15+0000,46.251.213.135,3,Kyrgyzstan,KG,GB,Gorod Bishkek,Bishkek,,42.8696,74.5932,Asia/Bishkek,Alfa Telecom CJSC,,AS50223 Alfa Telecom CJSC,46-251-213-135.megacom.kg
+2024-08-30T09:57:15+0000,190.83.19.0,3,Brazil,BR,CE,Ceará,Icapuí,62810,-4.7234,-37.4134,America/Fortaleza,TERA NETWORK TELECOMUNICA??ES LTDA ME,TERA NETWORK TELECOMUNICAÇÕES LTDA ME,AS270323 TERA NETWORK TELECOMUNICAÇÕES LTDA ME,
+2024-08-30T09:57:15+0000,197.225.118.17,3,Mauritius,MU,PW,Plaines Wilhems District,Beau Bassin-Rose Hill,,-20.2275,57.4787,Indian/Mauritius,telecomplus,,AS23889 Mauritius Telecom Ltd,
+2024-08-30T09:57:16+0000,189.30.189.254,13,Brazil,BR,PR,Paraná,Curitiba,80000,-25.5026,-49.2908,America/Sao_Paulo,V tal,V tal,AS8167 V tal,189-30-189-254.user3p.v-tal.net.br
+2024-08-30T09:57:17+0000,45.190.155.218,13,Brazil,BR,PR,Paraná,Curitiba,,-25.4202,-49.2762,America/Sao_Paulo,WORKSAT SERVIÇOS DE TELECOMUNICAÇÕES,WORKSAT SERVIÇOS DE TELECOMUNICAÇÕES,AS269639 WORKSAT SERVIÇOS DE TELECOMUNICAÇÕES,cgnat-155-218.worksattelecom.net.br
+2024-08-30T09:57:17+0000,185.44.86.124,3,Kazakhstan,KZ,10,Abai Region,Semey,,50.4273,80.2721,Asia/Almaty,Mobile Telecom-Service LLP,Tele2 Kazakhstan,AS48503 Mobile Telecom-Service LLP,
+2024-08-30T09:57:18+0000,58.11.27.155,3,Thailand,TH,20,Chon Buri,Chon Buri,20000,13.1604,101.1083,Asia/Bangkok,True Internet Corporation CO. Ltd.,True Internet Co.,AS17552 True Online,ppp-58-11-27-155.revip2.asianet.co.th
+2024-08-30T09:57:19+0000,89.43.164.197,3,Kazakhstan,KZ,55,Pavlodar Region,Ekibastuz,,51.7237,75.3229,Asia/Almaty,Kar-Tel LLC,Kartel Gprs,AS206026 Kar-Tel LLC,
+2024-08-30T09:57:20+0000,131.100.62.209,13,Brazil,BR,PR,Paraná,Maringá,87000,-23.3787,-51.9489,America/Sao_Paulo,Giga Mais Fibra Telecomunicacoes S.A.,Giga Mais Fibra Telecomunicacoes S.A.,AS262354 GIGA MAIS FIBRA TELECOMUNICACOES S.A. (LIGUE),131-100-62-209.fiber.cpm.ligue.net
+2024-08-30T09:57:21+0000,78.158.200.54,13,Ukraine,UA,43,Crimea,Simferopol,95014,44.9607,34.1051,Europe/Simferopol,GIGANET,,AS48330 Sinev Maksim Viktorovich,pool.mirgiga.net
+2024-08-30T10:03:22+0000,172.104.184.11,37,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172-104-184-11.ip.linodeusercontent.com
+2024-08-30T11:36:15+0000,44.200.252.127,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-200-252-127.compute-1.amazonaws.com
+2024-08-30T11:37:14+0000,105.66.130.138,21,Morocco,MA,06,Casablanca-Settat,Casablanca,29003,33.588,-7.63778,Africa/Casablanca,Provider 36884 Wana Corporate,,AS36884 Wana Corporate,
+2024-08-30T11:48:04+0000,23.137.253.110,100,United States,US,PA,Pennsylvania,Allentown,18109,40.6367,-75.4397,America/New_York,IncogNET LLC,IncogNET LLC,AS210630 IncogNET LLC,
+2024-08-30T11:55:31+0000,98.80.142.7,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-80-142-7.compute-1.amazonaws.com
