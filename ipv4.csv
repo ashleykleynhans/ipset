@@ -7955,7 +7955,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-21T21:20:03+0000,116.21.29.47,47,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2024-08-21T21:23:10+0000,204.8.96.146,41,United States,US,TX,Texas,San Angelo,76901,31.5447,-100.518,America/Chicago,Quintex Alliance Consulting,Quintex Alliance Consulting,AS62744 Quintex Alliance Consulting,tor57.quintex.com
 2024-08-21T21:23:23+0000,45.66.35.21,100,The Netherlands,NL,NH,North Holland,Amsterdam,1069,52.3591,4.793,Europe/Amsterdam,Sabotage LLC,Sabotage LLC,AS61125 SABOTAGE LLC,ams01.torexit.nl
-2024-08-21T21:23:29+0000,37.252.254.33,64,Russia,RU,MOW,Moscow,Moscow,102210,55.7483,37.6171,Europe/Moscow,ANEXIA Internetdienstleistungs GmbH,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,bond1-734.cr-01.anx41.mow.ru.anexia-it.net
 2024-08-21T21:33:49+0000,34.70.24.124,19,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,124.24.70.34.bc.googleusercontent.com
 2024-08-21T22:05:47+0000,172.105.80.154,26,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,frault1.hostarmada.net
 2024-08-21T22:13:43+0000,5.62.41.26,30,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST cloud,,AS198605 AVAST Software s.r.o.,r-26-41-62-5.consumer-pool.prcdn.net
@@ -8636,7 +8635,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-31T16:36:49+0000,101.199.254.199,37,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
 2024-08-31T16:38:39+0000,101.199.254.202,37,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
 2024-08-31T16:39:14+0000,185.172.53.212,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
-2024-08-31T16:39:50+0000,82.145.215.206,49,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
 2024-08-31T16:47:34+0000,130.245.32.197,14,United States,US,NY,New York,Stony Brook,11790,40.9076,-73.122,America/New_York,State University of New York at Stony Brook,State University of New York at Stony Brook,AS5719 State University of New York at Stony Brook,
 2024-08-31T17:04:33+0000,67.8.8.57,4,United States,US,FL,Florida,Palm Coast,32164,29.4843,-81.2042,America/New_York,Charter Communications,Spectrum,"AS33363 Charter Communications, Inc",syn-067-008-008-057.res.spectrum.com
 2024-08-31T17:12:31+0000,14.191.33.146,15,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,VNPT,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp,static.vnpt.vn
@@ -8727,7 +8725,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-01T10:41:05+0000,45.84.139.98,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
 2024-09-01T10:54:25+0000,216.131.87.65,15,United States,US,FL,Florida,Miami,33132,25.7616,-80.1917,America/New_York,Strong Technology,Netprotect,"AS62651 Strong Technology, LLC.",216-131-87-65.mia.as62651.net
 2024-09-01T10:59:00+0000,192.166.246.164,4,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
-2024-09-01T11:01:58+0000,3.132.213.11,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-132-213-11.us-east-2.compute.amazonaws.com
 2024-09-01T11:15:00+0000,13.60.213.103,4,Sweden,SE,AB,Stockholm,Stockholm,100 05,59.3293,18.0686,Europe/Stockholm,"Amazon.com, Inc.",AWS EC2 (eu-north-1),"AS16509 Amazon.com, Inc.",ec2-13-60-213-103.eu-north-1.compute.amazonaws.com
 2024-09-01T11:28:48+0000,44.223.4.239,14,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-223-4-239.compute-1.amazonaws.com
 2024-09-01T11:42:51+0000,174.216.179.156,4,United States,US,VA,Virginia,Alexandria,22312,38.8138,-77.1487,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,156.sub-174-216-179.myvzw.com
@@ -8738,9 +8735,7 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-01T12:09:18+0000,3.139.69.110,15,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-139-69-110.us-east-2.compute.amazonaws.com
 2024-09-01T12:10:31+0000,185.103.102.43,100,Finland,FI,18,Uusimaa,Helsinki,00100,60.1719,24.9347,Europe/Helsinki,DpkgSoft International Limited,DpkgSoft International Limited,AS215590 DpkgSoft International Limited,se2.com
 2024-09-01T12:14:28+0000,54.176.247.19,30,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",ec2-54-176-247-19.us-west-1.compute.amazonaws.com
-2024-09-01T12:14:51+0000,34.222.62.64,47,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-222-62-64.us-west-2.compute.amazonaws.com
 2024-09-01T12:24:33+0000,3.87.81.174,35,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-87-81-174.compute-1.amazonaws.com
-2024-09-01T12:27:44+0000,54.173.198.106,14,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-173-198-106.compute-1.amazonaws.com
 2024-09-01T12:31:22+0000,5.45.104.176,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,NETCUP-GMBH,AS197540 netcup GmbH,NurembergTor54.quetzalcoatl-relays.org
 2024-09-01T12:31:43+0000,23.154.177.11,90,United States,US,WY,Wyoming,Sheridan,82801,44.7862,-106.9608,America/Denver,Unredacted dba Universal Layer LLC,Universal Layer LLC,AS399532 Universal Layer LLC,
 2024-09-01T12:39:05+0000,18.191.198.128,37,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-191-198-128.us-east-2.compute.amazonaws.com
@@ -8756,7 +8751,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-01T13:56:05+0000,18.218.179.70,58,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-218-179-70.us-east-2.compute.amazonaws.com
 2024-09-01T14:08:13+0000,45.129.35.36,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
 2024-09-01T14:17:23+0000,34.29.119.112,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,112.119.29.34.bc.googleusercontent.com
-2024-09-01T14:22:18+0000,3.142.47.44,41,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-142-47-44.us-east-2.compute.amazonaws.com
 2024-09-01T14:22:18+0000,54.215.249.38,27,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",ec2-54-215-249-38.us-west-1.compute.amazonaws.com
 2024-09-01T14:44:20+0000,45.141.215.169,96,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
 2024-09-01T15:00:38+0000,3.139.68.105,77,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-139-68-105.us-east-2.compute.amazonaws.com
@@ -8771,3 +8765,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-01T16:32:04+0000,192.166.246.243,4,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
 2024-09-01T16:36:11+0000,3.92.56.214,71,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-92-56-214.compute-1.amazonaws.com
 2024-09-01T16:43:12+0000,35.172.178.245,51,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-172-178-245.compute-1.amazonaws.com
+2024-09-01T16:51:18+0000,54.173.198.106,49,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-173-198-106.compute-1.amazonaws.com
+2024-09-01T16:53:36+0000,34.30.27.151,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,151.27.30.34.bc.googleusercontent.com
+2024-09-01T16:59:39+0000,3.142.47.44,52,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-142-47-44.us-east-2.compute.amazonaws.com
+2024-09-01T17:05:59+0000,18.215.175.62,35,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-215-175-62.compute-1.amazonaws.com
+2024-09-01T17:07:51+0000,86.48.11.191,21,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,GSL Networks Pty LTD,Packethub S.A,AS137409 GSL Networks Pty LTD,
+2024-09-01T17:24:20+0000,3.132.213.11,52,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-132-213-11.us-east-2.compute.amazonaws.com
+2024-09-01T17:30:59+0000,34.222.62.64,66,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-222-62-64.us-west-2.compute.amazonaws.com
+2024-09-01T17:39:13+0000,192.166.246.226,22,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-01T17:50:28+0000,34.135.246.29,20,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,29.246.135.34.bc.googleusercontent.com
+2024-09-01T17:53:10+0000,185.193.158.134,85,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Clouvider Limited,Inception Hosting,AS62240 Clouvider,
+2024-09-01T17:53:15+0000,23.129.64.219,100,United States,US,WA,Washington,Seattle,98104,47.6035,-122.336,America/Los_Angeles,Emerald Onion,Emerald Onion,AS396507 Emerald Onion,
+2024-09-01T17:53:30+0000,185.141.147.129,80,Denmark,DK,84,Capital Region,Taastrup,2630,55.646,12.2979,Europe/Copenhagen,MH HOLDING AF 1. JUNI 2009 ApS,TOR Exit Node CPH,AS48374 MH HOLDING AF 1. JUNI 2009 ApS,tor-exit-zone38.duckdns.org
+2024-09-01T17:54:33+0000,37.120.190.85,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,v2202309189715237897.quicksrv.de
+2024-09-01T18:02:48+0000,82.145.215.206,54,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
+2024-09-01T18:15:25+0000,185.172.53.145,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-01T18:17:07+0000,45.157.121.44,26,Portugal,PT,11,Lisbon,Lisbon,1000-001,38.731,-9.1373,Europe/Lisbon,RAPIDSEEDBOX,,AS60781 LeaseWeb Netherlands B.V.,
+2024-09-01T18:36:12+0000,34.70.137.100,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,100.137.70.34.bc.googleusercontent.com
+2024-09-01T18:56:11+0000,92.118.60.33,15,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-01T19:09:41+0000,37.252.254.33,74,Russia,RU,MOW,Moscow,Moscow,102210,55.7483,37.6171,Europe/Moscow,ANEXIA Internetdienstleistungs GmbH,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,bond1-734.cr-01.anx41.mow.ru.anexia-it.net
+2024-09-01T19:09:55+0000,23.154.177.25,95,United States,US,WY,Wyoming,Sheridan,82801,44.7862,-106.9608,America/Denver,Unredacted dba Universal Layer LLC,Universal Layer LLC,AS399532 Universal Layer LLC,
