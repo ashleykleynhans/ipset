@@ -8831,3 +8831,27 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-02T10:12:50+0000,13.36.174.215,34,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-36-174-215.eu-west-3.compute.amazonaws.com
 2024-09-02T11:05:33+0000,92.118.60.23,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
 2024-09-02T11:26:46+0000,15.237.118.182,45,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-118-182.eu-west-3.compute.amazonaws.com
+2024-09-02T11:38:27+0000,185.172.53.210,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-02T11:39:37+0000,52.112.87.118,4,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation,
+2024-09-02T11:52:23+0000,45.129.35.48,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-02T12:06:47+0000,185.172.53.79,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-02T12:20:57+0000,192.166.246.197,12,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-02T12:23:08+0000,45.130.105.101,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-02T12:23:28+0000,192.166.246.123,15,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-02T12:23:35+0000,185.172.53.118,20,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-02T12:27:18+0000,193.42.96.131,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-02T12:29:05+0000,185.172.53.28,11,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-02T12:38:35+0000,185.172.52.139,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-02T12:55:29+0000,45.84.139.105,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-02T13:18:19+0000,27.43.122.91,30,China,CN,GD,Guangdong,Shenzhen,518000,22.5429,114.06,Asia/Shanghai,China Unicom Guangdong Province Network,,AS17816 China Unicom IP network China169 Guangdong province,
+2024-09-02T13:28:39+0000,84.239.17.4,100,United States,US,IA,Iowa,Des Moines,50307,41.6021,-93.6124,America/Chicago,Datacamp Limited,,AS212238 Datacamp Limited,
+2024-09-02T14:19:17+0000,45.84.139.124,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-02T14:22:10+0000,3.237.87.228,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-237-87-228.compute-1.amazonaws.com
+2024-09-02T14:26:32+0000,34.106.8.35,4,United States,US,UT,Utah,Salt Lake City,,40.7607,-111.891,America/Denver,Google LLC,Google Cloud (us-west3),AS396982 Google LLC,35.8.106.34.bc.googleusercontent.com
+2024-09-02T15:03:25+0000,34.27.100.157,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,157.100.27.34.bc.googleusercontent.com
+2024-09-02T15:07:13+0000,34.121.102.58,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,58.102.121.34.bc.googleusercontent.com
+2024-09-02T15:07:43+0000,89.248.48.228,4,United Kingdom,GB,ENG,England,Sheffield,S9,53.3861,-1.4065,Europe/London,Node4 DC2 Network,ADM SYSTEMS Ltd,AS31727 Node4 Limited,
+2024-09-02T15:10:26+0000,142.118.139.177,4,Canada,CA,QC,Quebec,Montreal,H1Z,45.5725,-73.6195,America/Toronto,Bell Canada,Virgin Home Quebec,AS577 Bell Canada,lnsm1-montreal01-142-118-139-177.internet.virginmobile.ca
+2024-09-02T15:16:32+0000,185.104.29.64,23,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Stichting DIGI NL,Vimexx Shared,AS206281 Stichting DIGI NL,web0109.zxcs.nl
+2024-09-02T15:17:47+0000,192.166.246.137,13,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-02T15:52:56+0000,59.42.120.163,51,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,163.120.42.59.broad.gz.gd.dynamic.163data.com.cn
