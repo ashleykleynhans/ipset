@@ -8778,10 +8778,38 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-01T17:53:15+0000,23.129.64.219,100,United States,US,WA,Washington,Seattle,98104,47.6035,-122.336,America/Los_Angeles,Emerald Onion,Emerald Onion,AS396507 Emerald Onion,
 2024-09-01T17:53:30+0000,185.141.147.129,80,Denmark,DK,84,Capital Region,Taastrup,2630,55.646,12.2979,Europe/Copenhagen,MH HOLDING AF 1. JUNI 2009 ApS,TOR Exit Node CPH,AS48374 MH HOLDING AF 1. JUNI 2009 ApS,tor-exit-zone38.duckdns.org
 2024-09-01T17:54:33+0000,37.120.190.85,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,v2202309189715237897.quicksrv.de
-2024-09-01T18:02:48+0000,82.145.215.206,54,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
 2024-09-01T18:15:25+0000,185.172.53.145,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
 2024-09-01T18:17:07+0000,45.157.121.44,26,Portugal,PT,11,Lisbon,Lisbon,1000-001,38.731,-9.1373,Europe/Lisbon,RAPIDSEEDBOX,,AS60781 LeaseWeb Netherlands B.V.,
 2024-09-01T18:36:12+0000,34.70.137.100,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,100.137.70.34.bc.googleusercontent.com
 2024-09-01T18:56:11+0000,92.118.60.33,15,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
 2024-09-01T19:09:41+0000,37.252.254.33,74,Russia,RU,MOW,Moscow,Moscow,102210,55.7483,37.6171,Europe/Moscow,ANEXIA Internetdienstleistungs GmbH,ANX,AS42473 ANEXIA Internetdienstleistungs GmbH,bond1-734.cr-01.anx41.mow.ru.anexia-it.net
 2024-09-01T19:09:55+0000,23.154.177.25,95,United States,US,WY,Wyoming,Sheridan,82801,44.7862,-106.9608,America/Denver,Unredacted dba Universal Layer LLC,Universal Layer LLC,AS399532 Universal Layer LLC,
+2024-09-01T19:31:41+0000,193.42.96.139,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-01T19:41:16+0000,91.196.221.8,11,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-01T19:45:17+0000,172.59.109.38,4,United States,US,LA,Louisiana,New Orleans,70119,29.9734,-90.0885,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-09-01T19:56:15+0000,193.138.195.64,60,United Kingdom,GB,ENG,England,London,EC2A,51.5238,-0.089,Europe/London,Hostgnome LTD,Hostgnome LTD,AS201579 HOSTGNOME LTD,
+2024-09-01T21:00:27+0000,185.172.53.70,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-01T21:05:14+0000,203.27.106.140,4,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,GSL Networks Pty LTD,GSL Networks Pty LTD,AS137409 GSL Networks Pty LTD,
+2024-09-01T21:29:15+0000,34.134.97.37,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,37.97.134.34.bc.googleusercontent.com
+2024-09-01T21:45:23+0000,45.129.35.29,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-01T21:57:20+0000,45.130.105.53,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-01T22:01:41+0000,194.35.122.235,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-01T22:23:15+0000,38.97.116.244,100,United States,US,MA,Massachusetts,Cambridge,02238,42.3913,-70.9094,America/New_York,Massachusetts Institute of Technology,MIT,AS396527 Massachusetts Institute of Technology,
+2024-09-01T22:29:20+0000,54.247.210.190,100,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,"Amazon.com, Inc.",AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-54-247-210-190.eu-west-1.compute.amazonaws.com
+2024-09-01T22:46:05+0000,45.84.139.130,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-01T22:54:16+0000,44.220.81.21,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-220-81-21.compute-1.amazonaws.com
+2024-09-02T00:14:37+0000,89.37.175.18,4,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,18.175.37.89.baremetal.zare.com
+2024-09-02T00:42:15+0000,34.44.138.241,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,241.138.44.34.bc.googleusercontent.com
+2024-09-02T01:21:53+0000,103.115.243.7,30,Bangladesh,BD,C,Dhaka Division,Dohār,1330,23.6407,90.1102,Asia/Dhaka,Digi Jadoo Broadband Limited,,AS131464 Digi Jadoo Broadband Ltd,
+2024-09-02T01:27:07+0000,194.35.122.241,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-02T01:43:05+0000,174.192.6.84,4,United States,US,CT,Connecticut,Hartford,06199,41.7637,-72.6851,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,84.sub-174-192-6.myvzw.com
+2024-09-02T02:08:59+0000,192.166.246.129,15,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-02T02:09:30+0000,91.196.223.10,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-02T02:09:39+0000,185.216.146.82,13,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,
+2024-09-02T02:29:28+0000,111.241.114.229,4,Taiwan,TW,TPE,Taipei City,Taipei,,25.0504,121.5324,Asia/Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,111-241-114-229.dynamic-ip.hinet.net
+2024-09-02T02:31:14+0000,193.142.147.233,68,The Netherlands,NL,NH,North Holland,Amsterdam,1043,52.3856,4.84335,Europe/Amsterdam,ColocationX Ltd.,ColocationX Ltd,AS208046 ColocationX Ltd.,
+2024-09-02T02:38:25+0000,116.23.160.215,36,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
+2024-09-02T02:45:19+0000,12.74.222.9,4,United States,US,IL,Illinois,Chicago,60632,41.804,-87.707,America/Chicago,"AT&T Services, Inc.",AT&T Worldnet Services,"AS7018 AT&T Services, Inc.",9.dallas-22rh16rt-23rh15rt.tx.dial-access.att.net
+2024-09-02T03:30:50+0000,34.1.31.196,15,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,196.31.1.34.bc.googleusercontent.com
+2024-09-02T04:42:36+0000,82.145.215.206,53,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.3562,4.95125,Europe/Amsterdam,Opera Software AS,Opera Software,AS39832 Opera Norway AS,
+2024-09-02T04:46:14+0000,35.207.238.105,4,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,105.238.207.35.bc.googleusercontent.com
