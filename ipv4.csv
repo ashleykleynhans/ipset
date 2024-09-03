@@ -8859,7 +8859,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-02T18:44:47+0000,52.187.30.140,100,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,
 2024-09-02T19:04:23+0000,45.130.105.47,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
 2024-09-02T19:15:25+0000,45.130.83.169,29,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Ipxo Limited,"VPN Consumer New York City, United States of America",AS206092 Internet Utilities Europe and Asia Limited,
-2024-09-02T19:32:22+0000,51.120.2.235,37,Norway,NO,30,Viken,Lorenskog,1475,59.91662,10.982052,Europe/Oslo,Microsoft,Microsoft Azure Cloud (norwaye),AS8075 Microsoft Corporation,
 2024-09-02T19:46:55+0000,38.180.50.219,34,Poland,PL,22,Pomerania,Gdansk,80-886,54.353,18.659,Europe/Warsaw,Artnet Sp. z o.o.,3NT SOLUTIONS LLP,AS200088 Artnet Sp. z o.o.,
 2024-09-02T20:31:24+0000,34.72.74.98,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,98.74.72.34.bc.googleusercontent.com
 2024-09-02T21:11:57+0000,172.58.209.154,4,United States,US,CA,California,Los Angeles,90002,33.9484,-118.2493,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
@@ -8897,3 +8896,53 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-03T05:34:36+0000,23.155.24.4,100,United States,US,WA,Washington,Seattle,98122,47.6147,-122.295,America/Los_Angeles,"Microtronix ESolutions, LLC",Monoxide Network LLC,"AS400175 Microtronix ESolutions, LLC",
 2024-09-03T05:34:39+0000,86.205.5.107,74,France,FR,NAQ,Nouvelle-Aquitaine,Limoges,87000,45.8265,1.2484,Europe/Paris,France Telecom,,AS3215 Orange S.A.,anice-651-1-333-107.w86-205.abo.wanadoo.fr
 2024-09-03T06:29:04+0000,165.22.253.62,100,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-03T07:32:28+0000,89.37.175.14,4,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,14.175.37.89.baremetal.zare.com
+2024-09-03T07:38:00+0000,147.182.150.177,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-03T07:47:19+0000,92.118.61.71,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-03T08:10:41+0000,45.129.35.34,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-03T08:11:49+0000,165.22.110.5,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-03T08:49:38+0000,3.236.152.116,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-236-152-116.compute-1.amazonaws.com
+2024-09-03T08:50:46+0000,34.42.133.173,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,173.133.42.34.bc.googleusercontent.com
+2024-09-03T09:04:49+0000,185.172.53.123,20,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-03T09:15:59+0000,51.120.2.235,64,Norway,NO,30,Viken,Lorenskog,1475,59.91662,10.982052,Europe/Oslo,Microsoft,Microsoft Azure Cloud (norwaye),AS8075 Microsoft Corporation,
+2024-09-03T09:17:32+0000,143.198.90.103,41,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-03T09:49:18+0000,74.208.156.122,82,United States,US,PA,Pennsylvania,Philadelphia,19103,39.9557,-75.1698,America/New_York,IONOS SE,IONOS Inc,AS8560 IONOS SE,
+2024-09-03T10:01:12+0000,70.32.90.128,4,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",omgbooth.com
+2024-09-03T10:28:33+0000,94.156.66.186,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-03T10:29:35+0000,34.221.197.196,23,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-221-197-196.us-west-2.compute.amazonaws.com
+2024-09-03T11:01:24+0000,192.166.246.240,4,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-03T11:12:03+0000,52.62.86.98,4,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",ec2-52-62-86-98.ap-southeast-2.compute.amazonaws.com
+2024-09-03T11:26:56+0000,138.68.82.23,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",e154df25ea.scan.leakix.org
+2024-09-03T11:27:35+0000,209.97.180.8,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a0d8574844.scan.leakix.org
+2024-09-03T11:27:35+0000,64.227.32.66,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d103188940.scan.leakix.org
+2024-09-03T11:27:57+0000,147.182.149.75,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",dec04dc34a.scan.leakix.org
+2024-09-03T11:27:57+0000,143.110.213.72,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",cec2b92574.scan.leakix.org
+2024-09-03T11:28:01+0000,206.81.24.227,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",b59bc1c6ef.scan.leakix.org
+2024-09-03T11:28:05+0000,143.244.168.161,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",b4ed9564d2.scan.leakix.org
+2024-09-03T11:28:05+0000,139.59.231.238,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",e1b4837f7f.scan.leakix.org
+2024-09-03T11:28:34+0000,46.101.111.185,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",ffaffaab3a.scan.leakix.org
+2024-09-03T11:28:39+0000,165.227.173.41,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d559d155e9.scan.leakix.org
+2024-09-03T11:28:53+0000,167.172.158.128,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d5904e1cdf.scan.leakix.org
+2024-09-03T11:28:53+0000,165.227.84.14,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d3b29af448.scan.leakix.org
+2024-09-03T11:29:02+0000,167.172.232.142,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",cd1a65400e.scan.leakix.org
+2024-09-03T11:29:04+0000,165.22.34.189,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a36d657dc7.scan.leakix.org
+2024-09-03T11:29:06+0000,157.245.36.108,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a93200c42e.scan.leakix.org
+2024-09-03T11:29:35+0000,68.183.180.73,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",e86207ecae.scan.leakix.org
+2024-09-03T11:30:37+0000,207.154.197.113,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",bf57ea116e.scan.leakix.org
+2024-09-03T11:31:08+0000,159.203.96.42,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",c06ac4526f.scan.leakix.org
+2024-09-03T11:31:15+0000,209.38.208.202,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",ac09637315.scan.leakix.org
+2024-09-03T11:31:31+0000,206.81.12.187,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",bf99e5305e.scan.leakix.org
+2024-09-03T11:31:37+0000,157.245.113.227,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",dc16f0d67a.scan.leakix.org
+2024-09-03T11:31:42+0000,164.90.208.56,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a6b22d76dd.scan.leakix.org
+2024-09-03T11:32:39+0000,44.197.237.45,11,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-197-237-45.compute-1.amazonaws.com
+2024-09-03T11:33:37+0000,206.189.2.13,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",fb65c10da2.scan.leakix.org
+2024-09-03T11:33:50+0000,64.225.75.246,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",b32f2b056d.scan.leakix.org
+2024-09-03T11:34:03+0000,209.38.248.17,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",c1fe727412.scan.leakix.org
+2024-09-03T11:34:41+0000,146.190.103.103,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d3ecc9518c.scan.leakix.org
+2024-09-03T11:42:02+0000,92.118.61.63,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-03T11:43:06+0000,45.129.35.33,14,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-03T11:44:20+0000,51.222.253.15,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca014-ext2.a.ahrefs.com
+2024-09-03T11:49:13+0000,91.92.242.88,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-03T11:49:47+0000,91.214.65.80,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Packethub S.A,AS212238 Datacamp Limited,
+2024-09-03T11:52:21+0000,185.172.53.139,11,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-03T11:54:47+0000,45.129.35.51,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
