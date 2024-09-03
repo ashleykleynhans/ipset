@@ -8877,3 +8877,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-03T00:04:29+0000,174.192.11.231,4,United States,US,VA,Virginia,Reston,20190,38.9586,-77.357,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,231.sub-174-192-11.myvzw.com
 2024-09-03T00:08:56+0000,50.116.48.202,12,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,50-116-48-202.ip.linodeusercontent.com
 2024-09-03T00:16:49+0000,45.84.139.100,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-03T00:29:37+0000,102.67.249.13,21,Ivory Coast,CI,AB,Abidjan,Abidjan,,5.3536,-4.0012,Africa/Abidjan,GVA Cote d'Ivoire SAS,GVA CIV Ftth03,AS36924 GVA Cote d'Ivoire SAS,
+2024-09-03T00:48:43+0000,158.220.106.179,65,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2022330.contaboserver.net
+2024-09-03T02:18:28+0000,176.97.114.202,69,Ukraine,UA,30,Kyiv City,Kyiv,01010,50.4236,30.5128,Europe/Kiev,Virtual Systems LLC,,AS30860 Virtual Systems LLC,sortie-tor.a-n-o-n-y-m-e.net
+2024-09-03T02:18:58+0000,188.68.52.231,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,NETCUP-GMBH,AS197540 netcup GmbH,NurembergTor62.quetzalcoatl-relays.org
+2024-09-03T02:24:12+0000,157.245.152.34,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-03T02:26:11+0000,34.172.14.183,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,183.14.172.34.bc.googleusercontent.com
+2024-09-03T02:56:24+0000,45.84.139.94,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-03T03:08:42+0000,44.192.56.232,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-192-56-232.compute-1.amazonaws.com
+2024-09-03T03:11:31+0000,185.172.53.208,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-03T03:28:49+0000,37.19.218.165,4,Ukraine,UA,30,Kyiv City,Kyiv,04211,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Cdn77 KYI,AS60068 Datacamp Limited,unn-37-19-218-165.datapacket.com
+2024-09-03T03:50:15+0000,181.49.183.136,4,Colombia,CO,DC,Bogota D.C.,Bogotá,111211,4.6803,-74.0693,America/Bogota,Telmex Colombia S.A.,Telmex Colombia S.A.,AS14080 Telmex Colombia S.A.,
+2024-09-03T04:25:55+0000,91.92.255.127,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-03T04:30:14+0000,46.21.198.186,26,France,FR,IDF,Île-de-France,Montreuil,93100,48.8553,2.43913,Europe/Paris,global euro-web,Magic OnLine,AS35393 CTS Computers and Telecommunications Systems SAS,ip-46-21-198-186.euro-web.com
+2024-09-03T04:32:40+0000,91.196.223.11,11,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-03T04:33:35+0000,45.82.33.71,4,Lithuania,LT,VL,Vilnius,Vilnius,02017,54.6912,25.2816,Europe/Vilnius,Tefincom S.A.,Packethub,AS141039 Packethub s.a.,
+2024-09-03T04:34:08+0000,194.35.122.240,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-03T05:05:05+0000,185.172.53.74,14,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-03T05:34:36+0000,23.155.24.4,100,United States,US,WA,Washington,Seattle,98122,47.6147,-122.295,America/Los_Angeles,"Microtronix ESolutions, LLC",Monoxide Network LLC,"AS400175 Microtronix ESolutions, LLC",
+2024-09-03T05:34:39+0000,86.205.5.107,74,France,FR,NAQ,Nouvelle-Aquitaine,Limoges,87000,45.8265,1.2484,Europe/Paris,France Telecom,,AS3215 Orange S.A.,anice-651-1-333-107.w86-205.abo.wanadoo.fr
+2024-09-03T06:29:04+0000,165.22.253.62,100,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
