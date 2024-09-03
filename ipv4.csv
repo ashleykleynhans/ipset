@@ -8588,7 +8588,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-31T01:39:27+0000,34.27.130.153,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,153.130.27.34.bc.googleusercontent.com
 2024-08-31T01:39:32+0000,34.171.10.43,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,43.10.171.34.bc.googleusercontent.com
 2024-08-31T02:04:27+0000,34.42.238.232,18,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,232.238.42.34.bc.googleusercontent.com
-2024-08-31T02:22:51+0000,20.172.38.178,79,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
 2024-08-31T02:49:36+0000,69.156.45.15,4,Canada,CA,ON,Ontario,Brampton,L6P,43.7941,-79.7011,America/Toronto,Bell Canada,Bell DSL Internet Ontario,AS577 Bell Canada,bras-base-bmtnon3749w-grc-65-69-156-45-15.dsl.bell.ca
 2024-08-31T02:56:45+0000,20.234.203.78,27,Netherlands,NL,NH,North Holland,Amsterdam,1047,52.3667,4.9,Europe/Amsterdam,Microsoft Corporation,Microsoft Azure Cloud (westeurope),AS8075 Microsoft Corporation,
 2024-08-31T03:09:13+0000,89.46.105.142,67,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host142-105-46-89.serverdedicati.aruba.it
@@ -8822,7 +8821,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-02T06:49:39+0000,46.182.21.248,84,Germany,DE,TH,Thuringia,Bethenhausen,07554,50.9289,12.1962,Europe/Berlin,NBISERV,,"AS43847 Martin Prager trading as ""NbIServ""",tor-exit-relay.anonymizing-proxy.digitalcourage.de
 2024-09-02T06:49:40+0000,185.40.4.95,53,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Berdiev Ruslan Mukhabatovich,"Verasel, Inc",AS214576 Berdiev Ruslan Mukhabatovich,
 2024-09-02T06:50:12+0000,45.80.158.27,92,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
-2024-09-02T07:01:21+0000,51.120.2.235,23,Norway,NO,30,Viken,Lorenskog,1475,59.91662,10.982052,Europe/Oslo,Microsoft,Microsoft Azure Cloud (norwaye),AS8075 Microsoft Corporation,
 2024-09-02T08:33:18+0000,185.172.53.168,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
 2024-09-02T08:49:30+0000,185.172.53.142,14,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
 2024-09-02T09:13:41+0000,34.42.184.247,15,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,247.184.42.34.bc.googleusercontent.com
@@ -8855,3 +8853,27 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-02T15:16:32+0000,185.104.29.64,23,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Stichting DIGI NL,Vimexx Shared,AS206281 Stichting DIGI NL,web0109.zxcs.nl
 2024-09-02T15:17:47+0000,192.166.246.137,13,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
 2024-09-02T15:52:56+0000,59.42.120.163,51,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,163.120.42.59.broad.gz.gd.dynamic.163data.com.cn
+2024-09-02T16:53:47+0000,82.146.55.191,15,Russia,RU,MOW,Moscow,Moscow,144700,55.754,37.5773,Europe/Moscow,JSC IOT,JSC IOT,AS29182 JSC IOT,kelmeshop.ru
+2024-09-02T17:24:09+0000,45.129.35.28,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-02T18:07:25+0000,104.3.169.206,4,United States,US,IL,Illinois,Godfrey,62035,38.9458,-90.2049,America/Chicago,"AT&T Services, Inc.",AT&T Corp,"AS7018 AT&T Services, Inc.",104-3-169-206.lightspeed.stlsmo.sbcglobal.net
+2024-09-02T18:44:47+0000,52.187.30.140,100,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,
+2024-09-02T19:04:23+0000,45.130.105.47,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
+2024-09-02T19:15:25+0000,45.130.83.169,29,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Ipxo Limited,"VPN Consumer New York City, United States of America",AS206092 Internet Utilities Europe and Asia Limited,
+2024-09-02T19:32:22+0000,51.120.2.235,37,Norway,NO,30,Viken,Lorenskog,1475,59.91662,10.982052,Europe/Oslo,Microsoft,Microsoft Azure Cloud (norwaye),AS8075 Microsoft Corporation,
+2024-09-02T19:46:55+0000,38.180.50.219,34,Poland,PL,22,Pomerania,Gdansk,80-886,54.353,18.659,Europe/Warsaw,Artnet Sp. z o.o.,3NT SOLUTIONS LLP,AS200088 Artnet Sp. z o.o.,
+2024-09-02T20:31:24+0000,34.72.74.98,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,98.74.72.34.bc.googleusercontent.com
+2024-09-02T21:11:57+0000,172.58.209.154,4,United States,US,CA,California,Los Angeles,90002,33.9484,-118.2493,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-09-02T21:18:20+0000,108.24.76.198,4,United States,US,NJ,New Jersey,Marlton,08053,39.8918,-74.8925,America/New_York,Verizon Communications,"MCI Communications Services, Inc. d/b/a Verizon Business",AS701 Verizon Business,pool-108-24-76-198.cmdnnj.fios.verizon.net
+2024-09-02T21:24:00+0000,88.167.89.221,4,France,FR,NAQ,Nouvelle-Aquitaine,Libourne,33500,44.9141,-0.2346,Europe/Paris,ProXad network / Free SAS,Proxad / Free SAS,AS12322 Free SAS,88-167-89-221.subs.proxad.net
+2024-09-02T21:27:19+0000,5.255.99.5,59,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,The Infrastructure Group B.V.,TIG,AS60404 The Infrastructure Group B.V.,
+2024-09-02T21:49:10+0000,20.172.38.178,94,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
+2024-09-02T22:08:56+0000,37.19.211.55,62,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,Datacamp Limited,Cdnext TOR,AS212238 Datacamp Limited,unn-37-19-211-55.datapacket.com
+2024-09-02T22:12:18+0000,66.186.106.76,4,United States,US,IL,Illinois,Mt. Vernon,62864,38.3171,-88.9137,America/Chicago,Clearwave Communications,Clearwave Communications,AS40702 Clearwave Communications,
+2024-09-02T22:29:47+0000,71.94.140.47,4,United States,US,CA,California,Long Beach,90806,33.8041,-118.1874,America/Los_Angeles,Charter Communications,Spectrum,AS20115 Charter Communications,syn-071-094-140-047.res.spectrum.com
+2024-09-02T23:10:47+0000,99.46.140.5,4,United States,US,CA,California,Sunnyvale,94087,37.3479,-122.0351,America/Los_Angeles,"AT&T Services, Inc.",AT&T Internet Services,"AS7018 AT&T Services, Inc.",99-46-140-5.lightspeed.sntcca.sbcglobal.net
+2024-09-02T23:39:11+0000,157.245.149.177,68,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-02T23:54:27+0000,34.46.52.1,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,1.52.46.34.bc.googleusercontent.com
+2024-09-03T00:04:21+0000,84.239.17.3,66,United States,US,IA,Iowa,Des Moines,50307,41.6021,-93.6124,America/Chicago,Datacamp Limited,,AS212238 Datacamp Limited,
+2024-09-03T00:04:29+0000,174.192.11.231,4,United States,US,VA,Virginia,Reston,20190,38.9586,-77.357,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,231.sub-174-192-11.myvzw.com
+2024-09-03T00:08:56+0000,50.116.48.202,12,United States,US,NJ,New Jersey,Cedar Knolls,07927,40.8229,-74.4592,America/New_York,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,50-116-48-202.ip.linodeusercontent.com
+2024-09-03T00:16:49+0000,45.84.139.100,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
