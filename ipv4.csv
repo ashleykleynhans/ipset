@@ -6602,7 +6602,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-09T21:15:06+0000,171.22.250.205,13,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,AS39486 HostRoyale Technologies Pvt Ltd,
 2024-08-09T21:15:07+0000,166.88.195.225,19,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,EGIHosting,"Ace Data Centers II, L.L.C.",AS18779 EGIHosting,
 2024-08-09T21:15:16+0000,157.52.187.19,13,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,LayerHost,hlnode,AS46573 LayerHost,outside.ospreyrate.com
-2024-08-09T21:15:22+0000,172.98.168.211,13,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BraveWay LLC,BraveWay LLC,AS28753 Leaseweb Deutschland GmbH,
 2024-08-09T21:15:23+0000,107.181.143.97,26,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
 2024-08-09T21:15:38+0000,84.33.236.109,26,Italy,IT,32,Trentino-Alto Adige,Urtijëi,39046,46.5783,11.6676,Europe/Rome,Server24 Network by INCUBATEC GmbH - Srl Premium Hosting Service Provider,INCUBATEC GmbH - Srl,AS34081 INCUBATEC GmbH - Srl,
 2024-08-09T21:15:43+0000,109.196.160.171,20,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,HostRoyale Technologies Pvt Ltd,Keminet SHPK,AS203020 HostRoyale Technologies Pvt Ltd,
@@ -7524,7 +7523,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-18T05:29:22+0000,35.180.122.76,79,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-122-76.eu-west-3.compute.amazonaws.com
 2024-08-18T05:57:10+0000,92.119.36.95,51,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Clouvider Limited,Phoenix,AS62240 Clouvider,
 2024-08-18T06:09:34+0000,35.186.184.55,3,United States,US,DC,"Washington, D.C.",Washington,,38.9071,-77.0368,America/New_York,Google LLC,Google Cloud (us-east4),AS15169 Google LLC,55.184.186.35.bc.googleusercontent.com
-2024-08-18T06:15:19+0000,185.93.3.110,26,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited,unn-185-93-3-110.datapacket.com
 2024-08-18T06:21:05+0000,192.42.116.186,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Surf B.V.,Nothing to hide,AS1101 SURF B.V.,34.tor-exit.nothingtohide.nl
 2024-08-18T06:21:10+0000,185.107.57.66,100,The Netherlands,NL,NB,North Brabant,Roosendaal,4701,51.5359,4.46532,Europe/Amsterdam,NFOrce Entertainment BV,NForce Entertainment B.V,AS43350 NForce Entertainment B.V.,
 2024-08-18T06:37:54+0000,35.187.103.186,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,186.103.187.35.bc.googleusercontent.com
@@ -7566,7 +7564,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-18T06:42:15+0000,45.127.250.170,25,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Colocation America Corporation,Colocation America Corporation,AS21769 Colocation America Corporation,170.250.127.45-ns1.colocationamerica.com
 2024-08-18T06:42:15+0000,84.33.241.249,21,Italy,IT,62,Lazio,Rome,00187,41.9028,12.4964,Europe/Rome,INCUBATEC GmbH - Srl,Server24 Cloud CDN,AS34081 INCUBATEC GmbH - Srl,
 2024-08-18T06:42:16+0000,45.43.178.152,25,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"trafficforce, UAB",Code Spain,"AS202496 trafficforce, UAB",
-2024-08-18T06:42:17+0000,45.131.103.148,32,Latvia,LV,RIX,Rīga,Riga,LV-1063,56.9496,24.0978,Europe/Riga,Sia Nano IT,HostRoyale Technologies,AS43513 Sia Nano IT,
 2024-08-18T06:42:19+0000,147.136.64.87,21,Switzerland,CH,BE,Bern,Bern,3001,46.9786,7.4483,Europe/Zurich,Hydra Communications Ltd,IPXO,AS25369 Hydra Communications Ltd,
 2024-08-18T06:42:20+0000,166.88.224.18,31,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,EGIHosting,"Ace Data Centers II, L.L.C.",AS18779 EGIHosting,
 2024-08-18T06:42:20+0000,137.59.7.59,35,Greece,GR,I,Attica,Athens,,37.9842,23.7353,Europe/Athens,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies,AS203020 HostRoyale Technologies Pvt Ltd,
@@ -8945,7 +8942,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-03T14:25:43+0000,35.225.14.14,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,14.14.225.35.bc.googleusercontent.com
 2024-09-03T14:58:27+0000,35.184.224.193,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,193.224.184.35.bc.googleusercontent.com
 2024-09-03T15:03:25+0000,35.222.214.55,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,55.214.222.35.bc.googleusercontent.com
-2024-09-03T15:24:19+0000,82.145.215.206,52,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,NO-OPERA-ICE,Opera Software,AS39832 Opera Norway AS,
 2024-09-03T15:49:46+0000,193.42.96.189,15,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
 2024-09-03T16:10:13+0000,45.8.149.80,22,Germany,DE,BW,Baden-Wurttemberg,Karlsruhe,76229,48.9751,8.4456,Europe/Berlin,Contabo GmbH,Packethub S.A,AS51167 Contabo GmbH,vmi2110512.contaboserver.net
 2024-09-03T17:08:06+0000,146.148.92.220,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,220.92.148.146.bc.googleusercontent.com
@@ -9056,3 +9052,35 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-04T11:10:06+0000,213.109.200.227,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Packethub S.A,AS62240 Clouvider,
 2024-09-04T11:15:44+0000,192.166.246.115,11,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
 2024-09-04T11:18:15+0000,45.129.35.73,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-04T12:20:01+0000,106.219.160.157,4,India,IN,DL,National Capital Territory of Delhi,New Delhi,110003,28.652,77.1663,Asia/Kolkata,Bharti Airtel,Bharti Airtel Ltd,"AS24560 Bharti Airtel Ltd., Telemedia Services",
+2024-09-04T12:37:30+0000,84.17.58.8,14,Italy,IT,25,Lombardy,Milan,20154,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-8.cdn77.com
+2024-09-04T12:37:45+0000,188.166.179.158,48,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2024-09-04T12:39:28+0000,75.119.150.186,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo,AS51167 Contabo GmbH,vmi2106786.contaboserver.net
+2024-09-04T12:53:21+0000,209.38.22.203,96,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-04T13:08:43+0000,192.166.246.101,4,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
+2024-09-04T13:17:09+0000,213.32.110.215,28,France,FR,IDF,Île-de-France,Choisy-le-Roi,94600,48.7688,2.41363,Europe/Paris,OVH SAS,VeryGames,AS16276 OVH SAS,ip215.ip-213-32-110.eu
+2024-09-04T13:20:02+0000,176.125.230.145,43,Malta,MT,57,Is-Swieqi,Swieqi,SWQ,35.9231,14.4738,Europe/Malta,M247 Europe SRL,M247 Ltd Malta,AS9009 M247 Europe SRL,
+2024-09-04T13:46:34+0000,51.222.253.14,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca013-ext2.a.ahrefs.com
+2024-09-04T14:08:43+0000,185.172.53.111,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-04T14:09:01+0000,45.129.35.78,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-04T14:11:11+0000,188.241.144.218,4,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,
+2024-09-04T14:11:13+0000,86.48.11.160,4,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,GSL Networks Pty LTD,Packethub S.A,AS137409 GSL Networks Pty LTD,
+2024-09-04T14:16:46+0000,82.145.215.206,51,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,NO-OPERA-ICE,Opera Software,AS39832 Opera Norway AS,
+2024-09-04T14:30:08+0000,185.172.53.107,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-04T14:30:11+0000,45.129.35.104,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-04T14:35:14+0000,34.133.0.96,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,96.0.133.34.bc.googleusercontent.com
+2024-09-04T14:37:20+0000,189.16.17.132,4,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,Claro S.A.,Claro S.A,AS4230 CLARO S.A.,smtp-gw.casaflora.com.br
+2024-09-04T14:45:11+0000,51.222.253.18,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca017-ext2.a.ahrefs.com
+2024-09-04T14:50:48+0000,3.239.206.121,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-239-206-121.compute-1.amazonaws.com
+2024-09-04T14:57:44+0000,91.196.221.24,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-04T15:03:09+0000,157.245.203.216,97,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-04T15:16:23+0000,35.188.182.241,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,241.182.188.35.bc.googleusercontent.com
+2024-09-04T15:26:08+0000,18.209.21.15,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-209-21-15.compute-1.amazonaws.com
+2024-09-04T15:30:07+0000,185.172.52.250,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
+2024-09-04T16:17:44+0000,185.93.3.110,22,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Datacamp Limited,Cdn77 Madrid,AS60068 Datacamp Limited,unn-185-93-3-110.datapacket.com
+2024-09-04T16:34:33+0000,45.129.35.76,11,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
+2024-09-04T16:38:23+0000,104.233.12.92,23,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,UAB code200,,AS205659 UAB code200,
+2024-09-04T16:38:25+0000,161.123.214.36,21,Australia,AU,QLD,Queensland,Brisbane,4000,-27.4679,153.0325,Australia/Brisbane,Wirels Connect,Verizon,AS203020 HostRoyale Technologies Pvt Ltd,
+2024-09-04T16:38:27+0000,45.131.103.148,24,Latvia,LV,RIX,Rīga,Riga,LV-1063,56.9496,24.0978,Europe/Riga,Sia Nano IT,HostRoyale Technologies,AS43513 Sia Nano IT,
+2024-09-04T16:38:38+0000,172.98.168.211,14,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BraveWay LLC,BraveWay LLC,AS28753 Leaseweb Deutschland GmbH,
+2024-09-04T16:38:39+0000,103.101.88.138,40,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Kartik Network Pvt Ltd,Kartik Network Pvt Ltd,AS51765 Oy Crea Nova Hosting Solution Ltd,
