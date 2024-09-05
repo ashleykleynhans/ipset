@@ -1419,7 +1419,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-29T08:13:17+0000,148.72.207.110,76,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",110.207.72.148.host.secureserver.net
 2024-06-29T08:17:25+0000,97.74.90.248,59,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",248.90.74.97.host.secureserver.net
 2024-06-29T08:51:22+0000,162.240.66.3,100,United States,US,UT,Utah,Provo,84606,40.2069,-111.642,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer,server.thefirst.agency
-2024-06-29T09:40:33+0000,184.168.126.97,95,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",97.126.168.184.host.secureserver.net
 2024-06-29T09:40:47+0000,181.214.218.242,16,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-06-29T10:04:33+0000,45.133.173.40,10,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications,
 2024-06-29T10:17:04+0000,69.164.204.8,10,United States,US,TX,Texas,Richardson,75081,32.9473,-96.7028,America/Chicago,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,69-164-204-8.ip.linodeusercontent.com
@@ -2127,7 +2126,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T19:00:28+0000,18.184.246.51,25,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-184-246-51.eu-central-1.compute.amazonaws.com
 2024-07-04T19:01:15+0000,95.10.233.244,16,Türkiye,TR,41,Kocaeli,Köseköy,41100,40.704,29.9957,Europe/Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,AS9121 Turk Telekomunikasyon Anonim Sirketi,95.10.233.244.dynamic.ttnet.com.tr
 2024-07-04T19:04:47+0000,68.178.223.61,88,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",61.223.178.68.host.secureserver.net
-2024-07-04T19:04:17+0000,192.99.103.111,46,Canada,CA,QC,Quebec,Beauharnois,J6N,45.3151,-73.8779,America/Toronto,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,ip111.ip-192-99-103.net
 2024-07-04T19:06:18+0000,103.124.95.33,55,Vietnam,VN,HN,Hanoi,Đống Đa District,,21.0144,105.814,Asia/Bangkok,NhanHoa Software company,NHANHOA,AS131353 NhanHoa Software company,gir02.nhanhoa.com
 2024-07-04T19:07:25+0000,46.22.135.149,100,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,BLACKNIGHT,,AS39122 Blacknight Internet Solutions Limited,135-149.colo.sta.blacknight.ie
 2024-07-04T19:16:37+0000,68.178.145.156,73,India,IN,MH,Maharashtra,Mumbai,400070,19.0748,72.8856,Asia/Kolkata,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",156.145.178.68.host.secureserver.net
@@ -7111,7 +7109,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-14T19:25:33+0000,103.85.95.3,3,Indonesia,ID,NB,West Nusa Tenggara,Mataram,,-8.58242,116.095,Asia/Makassar,Universitas Islam Negeri Mataram,Universitas Islam Negeri Mataram,AS136077 Universitas Islam Negeri Mataram,
 2024-08-14T19:26:45+0000,87.120.7.85,3,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6485,23.3796,Europe/Sofia,Neterra Ltd.,,AS34224 Neterra Ltd.,psa.novsite.com
 2024-08-14T19:28:11+0000,13.127.174.247,58,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,Amazon Technologies Inc.,AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-13-127-174-247.ap-south-1.compute.amazonaws.com
-2024-08-14T19:43:43+0000,84.17.48.76,81,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited,unn-84-17-48-76.cdn77.com
 2024-08-14T19:58:49+0000,138.199.59.145,30,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited,
 2024-08-14T20:02:31+0000,35.188.4.204,18,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,204.4.188.35.bc.googleusercontent.com
 2024-08-14T20:03:30+0000,34.96.46.76,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS396982 Google LLC,76.46.96.34.bc.googleusercontent.com
@@ -9076,7 +9073,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-04T22:56:51+0000,35.224.250.9,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,9.250.224.35.bc.googleusercontent.com
 2024-09-04T23:03:58+0000,51.222.253.13,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca012-ext2.a.ahrefs.com
 2024-09-04T23:29:59+0000,181.214.218.251,28,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications,
-2024-09-04T23:42:28+0000,45.61.188.132,53,United States,US,FL,Florida,Miami,33132,25.7838,-80.1823,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,mta4.pillarshealth.com
 2024-09-04T23:45:17+0000,95.181.236.155,35,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL,
 2024-09-05T00:06:44+0000,91.196.221.41,4,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
 2024-09-05T00:31:01+0000,84.17.58.7,24,Italy,IT,25,Lombardy,Milan,20154,45.4722,9.1922,Europe/Rome,DataCamp Limited,CDN77 Milan,AS60068 Datacamp Limited,unn-84-17-58-7.cdn77.com
@@ -9206,3 +9202,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-05T16:53:48+0000,46.246.8.150,24,Sweden,SE,AB,Stockholm County,Stockholm,100 04,59.3293,18.0686,Europe/Stockholm,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB,46-246-8-150.static.glesys.net
 2024-09-05T16:54:57+0000,92.222.181.205,100,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,OVH SAS,OVH SAS,AS16276 OVH SAS,vps-e2cce65c.vps.ovh.net
 2024-09-05T16:55:13+0000,72.167.35.128,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",128.35.167.72.host.secureserver.net
+2024-09-05T16:56:24+0000,198.12.254.32,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",32.254.12.198.host.secureserver.net
+2024-09-05T16:58:14+0000,37.98.196.165,100,Greece,GR,B,Central Macedonia,Thessaloniki,,40.6439,22.9358,Europe/Athens,HCN-Cable-Networks Provider-IP,JM-DATA GmbH,AS57794 ELLINIKA DIKTIA KALODION MEPE,dionysos.pcnoesis.com
+2024-09-05T17:14:50+0000,68.178.149.205,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",205.149.178.68.host.secureserver.net
+2024-09-05T17:18:28+0000,177.36.10.103,15,Brazil,BR,PE,Pernambuco,Madalena,,-8.05648,-34.9083,America/Recife,1telecom Servicos De Tecnologia EM Internet Ltda,3cnet servicos e tecnologia ltda,AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA,
+2024-09-05T17:18:29+0000,187.19.227.158,14,Brazil,BR,RN,Rio Grande do Norte,Natal,59000,-5.8111,-35.2235,America/Fortaleza,Brisanet Servicos De Telecomunicacoes Ltda,Brisanet Servicos De Telecomunicacoes S.A,AS28126 BRISANET SERVICOS DE TELECOMUNICACOES S.A,187-19-227-158-tmp.static.brisanet.net.br
+2024-09-05T17:18:29+0000,41.136.52.47,4,Mauritius,MU,PL,Port Louis District,Port Louis,,-20.1608,57.4994,Indian/Mauritius,telecomplus,,AS23889 Mauritius Telecom Ltd,
+2024-09-05T17:18:29+0000,176.98.226.27,14,Kazakhstan,KZ,71,Astana,Astana,010000,51.1309,71.4237,Asia/Almaty,JSC Transtelecom,JSC Transtelecom,AS41798 JSC Transtelecom,
+2024-09-05T17:18:30+0000,189.113.50.4,14,Brazil,BR,PR,Paraná,Marechal Cândido Rondon,85960,-24.6089,-54.1445,America/Sao_Paulo,Opcao Telecom,Opcao Telecom,AS53065 Opcao Telecom,4.50.113.189.dynamic.opcaonet.com.br
+2024-09-05T17:18:30+0000,46.8.62.122,15,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Nikita Sergienko,PE Shevchenko Sergey Alexeevich,AS44341 Nikita Sergienko,
+2024-09-05T17:18:32+0000,95.5.116.137,14,Türkiye,TR,34,Istanbul,Istanbul,34122,41.003,28.9834,Europe/Istanbul,Turk Telekomunikasyon Anonim Sirketi,Turk Telekomunikasyon A.S,AS9121 Turk Telekomunikasyon Anonim Sirketi,95.5.116.137.static.ttnet.com.tr
+2024-09-05T17:18:32+0000,62.122.109.237,4,Kazakhstan,KZ,55,Pavlodar Region,Pavlodar,,52.2865,76.9304,Asia/Almaty,Mobile Telecom-Service LLP,Tele2 Kazakhstan,AS48503 Mobile Telecom-Service LLP,
+2024-09-05T17:18:39+0000,194.33.46.57,4,United States,US,NY,New York,New York,10013,40.7157,-74,America/New_York,Clouvider Limited,Clouvider HB,AS62240 Clouvider,
+2024-09-05T17:18:44+0000,95.46.137.241,12,Kazakhstan,KZ,33,Jetisu Region,Taldykorgan,,45.0142,78.3717,Asia/Almaty,TOO Kainar-Media,Kainar-Media Ltd,AS212999 TOO Kainar-Media,
+2024-09-05T17:18:44+0000,180.195.118.64,4,Philippines,PH,40,Calabarzon,Lipa City,4217,13.9394,121.1669,Asia/Manila,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,AS9299 Philippine Long Distance Telephone Company,
+2024-09-05T17:22:44+0000,31.22.4.46,15,United Kingdom,GB,ENG,England,Newcastle upon Tyne,NE4,54.9749,-1.6451,Europe/London,Wildcard Networks,I Fastnet Ltd,AS34119 Wildcard UK Limited,sv10.byethost10.org
+2024-09-05T17:24:41+0000,45.61.188.132,81,United States,US,FL,Florida,Miami,33132,25.7838,-80.1823,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,mta4.pillarshealth.com
+2024-09-05T17:34:57+0000,184.168.126.97,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",97.126.168.184.host.secureserver.net
+2024-09-05T17:40:29+0000,208.109.232.62,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",62.232.109.208.host.secureserver.net
+2024-09-05T17:48:09+0000,192.99.103.111,100,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,ip111.ip-192-99-103.net
+2024-09-05T18:00:00+0000,84.17.48.76,63,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited,unn-84-17-48-76.cdn77.com
