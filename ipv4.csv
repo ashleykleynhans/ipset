@@ -5561,7 +5561,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-01T05:20:41+0000,35.87.26.239,13,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-87-26-239.us-west-2.compute.amazonaws.com
 2024-08-01T05:43:19+0000,52.230.152.239,100,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
 2024-08-01T05:43:41+0000,40.66.47.228,38,France,FR,IDF,Île-de-France,Paris,75000,48.856567,2.347322,Europe/Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),AS8075 Microsoft Corporation,
-2024-08-01T05:45:44+0000,197.221.14.3,36,South Africa,ZA,WC,Western Cape,Villiersdorp,6848,-33.9969,19.2873,Africa/Johannesburg,xneelo-CPT,,AS37153 Xneelo (Pty) Ltd,www3.cpt3.host-h.net
 2024-08-01T05:55:04+0000,13.57.37.169,27,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",ec2-13-57-37-169.us-west-1.compute.amazonaws.com
 2024-08-01T05:57:35+0000,34.42.174.206,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,206.174.42.34.bc.googleusercontent.com
 2024-08-01T06:01:47+0000,54.179.172.140,70,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-54-179-172-140.ap-southeast-1.compute.amazonaws.com
@@ -6150,7 +6149,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-07T12:05:22+0000,34.65.23.172,41,Switzerland,CH,ZH,Zurich,Zurich,,47.3595,8.6356,Europe/Zurich,Google LLC,Google Cloud (europe-west6),AS396982 Google LLC,172.23.65.34.bc.googleusercontent.com
 2024-08-07T12:05:59+0000,45.7.230.118,28,Chile,CL,ML,Maule Region,Curicó,,-34.978,-71.2529,America/Santiago,OPENCLOUD SpA,OPENCLOUD SpA,AS52512 OPENCLOUD SpA,server.museromar.cl
 2024-08-07T12:08:08+0000,87.236.176.7,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT,beautiful.monitoring.internet-measurement.com
-2024-08-07T12:19:59+0000,95.142.121.20,66,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST Software s.r.o.,Prcdn Consumer US NY NYC,AS198605 AVAST Software s.r.o.,r-20-121-142-95.consumer-pool.prcdn.net
 2024-08-07T12:40:49+0000,5.8.67.118,3,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,Fast Content Delivery LTD EU,,AS59729 GREEN FLOID LLC,
 2024-08-07T12:41:08+0000,130.211.222.255,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,255.222.211.130.bc.googleusercontent.com
 2024-08-07T12:50:03+0000,87.236.176.10,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement C,AS211298 INTERNET MEASUREMENT,genius.monitoring.internet-measurement.com
@@ -7500,7 +7498,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-18T06:41:59+0000,216.173.72.11,27,France,FR,IDF,Île-de-France,Paris,93200,48.9275,2.3623,Europe/Paris,"Getechbrothers, MB",Codefr2,"AS202044 Getechbrothers, MB",
 2024-08-18T06:41:59+0000,109.196.161.161,21,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,HostRoyale Technologies Pvt Ltd,Keminet SHPK,AS203020 HostRoyale Technologies Pvt Ltd,
 2024-08-18T06:42:00+0000,45.138.119.16,27,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,web2objects GmbH,FRAConnect,AS50495 web2objects GmbH,
-2024-08-18T06:42:00+0000,91.123.8.210,35,Brazil,BR,SP,São Paulo,São Paulo,68515,-23.5335,-46.6359,America/Sao_Paulo,Maxihost LTDA,IPXO,AS262287 Latitude.sh LTDA,
 2024-08-18T06:42:00+0000,104.143.252.206,30,Norway,NO,03,Oslo County,Oslo,0001,59.9139,10.7522,Europe/Oslo,Blix Solutions,Code No22,AS50304 Blix Solutions AS,
 2024-08-18T06:42:00+0000,45.131.102.190,27,Latvia,LV,RIX,Rīga,Riga,LV-1063,56.9496,24.0978,Europe/Riga,Sia Nano IT,HostRoyale Technologies,AS43513 Sia Nano IT,
 2024-08-18T06:42:00+0000,45.41.177.94,13,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,HostRoyale LLC,HostRoyale Technologies,AS46516 HostRoyale LLC,
@@ -9158,7 +9155,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-05T14:34:49+0000,192.166.246.101,21,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
 2024-09-05T14:57:53+0000,85.190.242.220,100,Germany,DE,BW,Baden-Wurttemberg,Karlsruhe,76229,48.9751,8.4456,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1898376.contaboserver.net
 2024-09-05T15:05:12+0000,45.129.35.2,20,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
-2024-09-05T15:16:45+0000,159.89.200.23,66,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-09-05T15:26:04+0000,34.42.58.221,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,221.58.42.34.bc.googleusercontent.com
 2024-09-05T15:31:00+0000,208.109.34.85,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",85.34.109.208.host.secureserver.net
 2024-09-05T15:34:48+0000,18.159.188.155,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-159-188-155.eu-central-1.compute.amazonaws.com
@@ -9243,7 +9239,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-06T03:26:08+0000,3.71.111.132,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-71-111-132.eu-central-1.compute.amazonaws.com
 2024-09-06T04:15:29+0000,54.66.180.154,4,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",ec2-54-66-180-154.ap-southeast-2.compute.amazonaws.com
 2024-09-06T04:34:24+0000,185.172.53.19,4,United States,US,MO,Missouri,St Louis,63150,38.6287,-90.1988,America/Chicago,PacketHub S.A.,Packethub S.A,AS147049 PacketHub S.A.,
-2024-09-06T04:39:43+0000,176.223.141.225,75,Lithuania,LT,VL,Vilnius,Vilnius,08234,54.7065,25.3074,Europe/Vilnius,"UAB ""Interneto vizija""",InternetoVizija,AS212531 Interneto vizija,mail.ekipi365.com
 2024-09-06T04:41:39+0000,161.35.169.232,87,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-09-06T05:09:19+0000,45.129.35.143,18,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
 2024-09-06T05:11:41+0000,154.16.105.24,100,United States,US,NV,Nevada,Las Vegas,89101,36.1685,-115.1164,America/Los_Angeles,AS174,,AS174 Cogent Communications,
@@ -9304,3 +9299,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-06T13:23:40+0000,176.235.222.157,4,Türkiye,TR,34,Istanbul,Istanbul,34093,41.0247,28.9252,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,
 2024-09-06T13:23:41+0000,176.235.222.159,4,Türkiye,TR,34,Istanbul,Istanbul,34093,41.0247,28.9252,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,
 2024-09-06T13:35:10+0000,34.0.223.36,30,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,36.223.0.34.bc.googleusercontent.com
+2024-09-06T14:01:15+0000,34.207.53.11,61,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-207-53-11.compute-1.amazonaws.com
+2024-09-06T15:18:48+0000,35.213.238.230,23,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS15169 Google LLC,230.238.213.35.bc.googleusercontent.com
+2024-09-06T15:31:34+0000,174.138.16.186,71,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-06T15:42:57+0000,84.247.173.177,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40237,51.2357,6.8091,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2124622.contaboserver.net
+2024-09-06T15:43:38+0000,84.247.173.159,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40237,51.2357,6.8091,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2124621.contaboserver.net
+2024-09-06T15:49:36+0000,84.247.175.45,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40237,51.2357,6.8091,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2124623.contaboserver.net
+2024-09-06T15:58:42+0000,98.80.62.47,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-80-62-47.compute-1.amazonaws.com
+2024-09-06T16:03:11+0000,104.238.9.127,32,The Netherlands,NL,NH,North Holland,Amsterdam,1101,52.3109,4.9453,Europe/Amsterdam,"Getechbrothers, MB",Codenl3,"AS202044 Getechbrothers, MB",
+2024-09-06T16:03:13+0000,91.123.8.210,30,Brazil,BR,SP,São Paulo,São Paulo,68515,-23.5335,-46.6359,America/Sao_Paulo,Maxihost LTDA,IPXO,AS262287 Latitude.sh LTDA,
+2024-09-06T16:03:16+0000,102.212.91.241,25,South Africa,ZA,GP,Gauteng,Johannesburg,7460,-26.2309,28.0583,Africa/Johannesburg,Lexistar Alliance Ltd.,,AS329225 Lexistar Alliance Ltd.,
+2024-09-06T16:22:06+0000,69.58.9.137,4,United States,US,CA,California,Los Angeles,90045,33.9516,-118.3875,America/Los_Angeles,B2 Net Solutions Inc.,Server Mania Inc,AS55081 24 SHELLS,
+2024-09-06T16:24:36+0000,189.98.250.246,4,Brazil,BR,SP,São Paulo,São Paulo,01000,-23.6283,-46.6409,America/Sao_Paulo,Vivo,TELEF�NICA BRASIL S.A,AS26599 TELEFÔNICA BRASIL S.A,ip-189-98-250-246.user.vivozap.com.br
+2024-09-06T16:45:15+0000,35.192.108.24,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC,24.108.192.35.bc.googleusercontent.com
+2024-09-06T17:06:35+0000,159.89.200.23,69,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-06T17:22:34+0000,186.234.80.32,85,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000-000,-22.9068,-43.1729,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.,
+2024-09-06T17:43:37+0000,34.124.189.203,15,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,203.189.124.34.bc.googleusercontent.com
+2024-09-06T17:43:40+0000,197.221.14.3,50,South Africa,ZA,WC,Western Cape,Villiersdorp,6848,-33.9969,19.2873,Africa/Johannesburg,xneelo-CPT,,AS37153 Xneelo (Pty) Ltd,www3.cpt3.host-h.net
+2024-09-06T17:46:31+0000,95.142.121.20,33,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,AVAST Software s.r.o.,Prcdn Consumer US NY NYC,AS198605 AVAST Software s.r.o.,r-20-121-142-95.consumer-pool.prcdn.net
+2024-09-06T18:05:57+0000,176.223.141.225,100,Lithuania,LT,VL,Vilnius,Vilnius,08234,54.7065,25.3074,Europe/Vilnius,"UAB ""Interneto vizija""",InternetoVizija,AS212531 Interneto vizija,mail.ekipi365.com
+2024-09-06T18:09:25+0000,159.223.92.43,88,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-06T18:15:13+0000,186.234.80.24,11,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000-000,-22.9068,-43.1729,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.,
+2024-09-06T18:16:06+0000,143.198.144.229,100,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-06T18:29:34+0000,36.229.85.160,100,Taiwan,TW,NWT,New Taipei City,Banqiao,,25.0104,121.4684,Asia/Taipei,"Chunghwa Telecom Co., Ltd.",Chunghwa Telecom Co. Ltd.,AS3462 Data Communication Business Group,36-229-85-160.dynamic-ip.hinet.net
