@@ -446,7 +446,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T21:57:06+0000,159.65.239.230,39,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-06-21T22:51:43+0000,8.218.121.145,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",
 2024-06-21T22:57:22+0000,84.17.48.78,16,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited,unn-84-17-48-78.cdn77.com
-2024-06-21T23:18:02+0000,181.214.218.166,11,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-06-22T01:10:16+0000,91.92.251.141,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-06-22T01:18:58+0000,94.156.64.81,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-06-22T01:30:44+0000,45.133.172.132,9,United Kingdom,GB,ENG,England,Manchester,M61,53.481,-2.2367,Europe/London,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications,
@@ -2836,7 +2835,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-06T22:49:44+0000,199.45.154.117,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc.",
 2024-07-06T22:50:53+0000,103.153.3.242,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2008,106.799,Asia/Jakarta,PT Dewa Bisnis Digital,PT Centra Telesindo Multimedia,AS140389 PT Dewa Bisnis Digital,242.3.153.103.in-addr.arpa
 2024-07-06T23:07:56+0000,207.90.244.2,100,United States,US,TX,Texas,Pflugerville,78660,30.4515,-97.5774,America/Chicago,Cogent Communications,"SHODAN, LLC",AS174 Cogent Communications,
-2024-07-07T00:03:09+0000,188.126.89.113,27,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB,
 2024-07-07T00:13:08+0000,91.226.178.160,100,Russia,RU,TYU,Tyumen Oblast,Tyumen,625000,57.1479,65.5505,Asia/Yekaterinburg,Agentstvo ofisnyih tehnologiy INFOLINE Ltd.,Agentstvo ofisnyih tehnologiy INFOLINE Ltd,AS203805 Agentstvo ofisnyih tehnologiy INFOLINE Ltd.,
 2024-07-07T00:13:36+0000,181.214.173.90,31,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-07-07T00:15:03+0000,72.167.253.29,51,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",29.253.167.72.host.secureserver.net
@@ -9354,3 +9352,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-07T06:07:17+0000,3.67.170.38,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-67-170-38.eu-central-1.compute.amazonaws.com
 2024-09-07T06:07:17+0000,3.145.54.225,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-145-54-225.us-east-2.compute.amazonaws.com
 2024-09-07T06:10:58+0000,35.240.46.118,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,118.46.240.35.bc.googleusercontent.com
+2024-09-07T06:30:58+0000,211.30.54.163,4,Australia,AU,QLD,Queensland,Brisbane,4151,-27.4946,153.0621,Australia/Brisbane,SingTel Optus Pty Ltd,Optus Internet Pty Ltd,AS4804 Microplex PTY LTD,
+2024-09-07T06:32:05+0000,91.92.242.85,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-07T06:32:32+0000,15.237.28.87,92,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-28-87.eu-west-3.compute.amazonaws.com
+2024-09-07T07:16:52+0000,54.36.174.181,82,Poland,PL,02,Lower Silesia,Wroclaw,50-088,51.0984,17.031,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,ns3105797.ip-54-36-174.eu
+2024-09-07T07:25:12+0000,34.123.253.225,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,225.253.123.34.bc.googleusercontent.com
+2024-09-07T07:33:34+0000,181.48.255.68,4,Colombia,CO,DC,Bogota D.C.,Bogotá,110111,4.6913,-74.032,America/Bogota,Telmex Colombia S.A.,Telmex Colombia S.A.,AS14080 Telmex Colombia S.A.,cache.google.com
+2024-09-07T07:36:30+0000,5.188.181.201,50,Spain,ES,MD,Madrid,Madrid,28082,40.4163,-3.6934,Europe/Madrid,Melbikomas UAB,Melbikomas UAB,AS56630 Melbikomas UAB,vm647593.melbi.space
+2024-09-07T07:37:18+0000,181.214.218.166,18,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications,
+2024-09-07T07:43:26+0000,188.126.89.113,34,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB,
+2024-09-07T07:51:07+0000,51.222.253.11,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca010-ext2.a.ahrefs.com
+2024-09-07T08:33:57+0000,167.71.81.114,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",cb1190adfb.scan.leakix.org
+2024-09-07T08:34:54+0000,159.89.127.165,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",b4bcd7c472.scan.leakix.org
+2024-09-07T09:11:29+0000,44.200.202.32,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-200-202-32.compute-1.amazonaws.com
+2024-09-07T09:47:00+0000,36.70.109.161,75,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-09-07T09:49:50+0000,15.204.87.225,60,United States,US,OR,Oregon,Hillsboro,97124,45.5397,-122.9638,America/Los_Angeles,OVH SAS,OVH US LLC,AS16276 OVH SAS,vps-f1438f90.vps.ovh.us
+2024-09-07T09:59:00+0000,198.199.83.144,60,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-07T10:40:52+0000,1.145.253.161,4,Australia,AU,VIC,Victoria,Melbourne,3121,-37.8269,144.9881,Australia/Melbourne,Telstra Limited,Telstra Corporation,AS1221 Telstra Limited,
+2024-09-07T10:43:34+0000,98.81.73.215,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-81-73-215.compute-1.amazonaws.com
+2024-09-07T11:02:07+0000,154.44.18.31,4,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Cogent Communications,,AS174 Cogent Communications,
+2024-09-07T11:35:56+0000,35.180.134.98,30,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-134-98.eu-west-3.compute.amazonaws.com
+2024-09-07T11:49:02+0000,174.216.148.1,4,United States,US,DC,District of Columbia,Washington,20011,38.9522,-77.0253,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,1.sub-174-216-148.myvzw.com
+2024-09-07T11:52:00+0000,27.54.150.225,62,Bangladesh,BD,G,Sylhet Division,Sunāmganj,3000,24.9241,91.4445,Asia/Dhaka,X-press Technologies Limited,X-press Technologies Limited,AS133854 X-press Technologies Limited.,27.54.150.225.xpress.ltd
+2024-09-07T11:52:27+0000,109.69.67.17,61,Germany,DE,HB,Bremen,Bremen,28215,53.0793,8.80169,Europe/Berlin,PLUTEX GmbH,Plutex,AS49855 PLUTEX GmbH,tor.plutex.de
