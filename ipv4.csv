@@ -43,7 +43,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-20T00:00:00+0000,106.75.134.172,100,China,CN,SH,Shanghai,Yangpu,,31.2999,121.508,Asia/Shanghai,UCLOUD,Shanghai UCloud Information Technology Company Limited,AS58466 CHINANET Guangdong province network,
 2024-06-20T00:00:00+0000,103.14.214.13,34,Singapore,SG,05,South West,Singapore,,1.37741,103.772,Asia/Singapore,Exabytes Network (Singapore) Pte. Ltd.,APC Hosting PTE LTD,AS38532 Exabytes Network (Singapore) Pte. Ltd.,rafflesian.com
 2024-06-20T00:00:00+0000,185.118.166.155,75,Russia,RU,CHE,Chelyabinsk Oblast,Chelyabinsk,454082,55.1644,61.4368,Asia/Yekaterinburg,Chelyabinsk-Signal,Chelyabinsk-Signal LLC,AS44493 Chelyabinsk-Signal LLC,01.host-chel.pssrv.ru
-2024-06-20T00:00:00+0000,167.99.8.183,54,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",ac31019.vader
 2024-06-20T00:00:00+0000,91.206.14.186,67,Russia,RU,MOW,Moscow,Moscow,102090,55.7483,37.6171,Europe/Moscow,"OOO ""Network of data-centers ""Selectel""",,"AS49505 OOO ""Network of data-centers ""Selectel""",
 2024-06-20T00:00:00+0000,176.57.214.128,29,Russia,RU,SPE,St.-Petersburg,St Petersburg,195213,59.9417,30.3096,Europe/Moscow,TimeWeb Ltd.,TW VDS,AS9123 TimeWeb Ltd.,promosouvenir.ru
 2024-06-20T00:00:00+0000,79.137.248.15,100,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,red-berry.aeza.network
@@ -3819,7 +3818,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-17T08:25:57+0000,138.199.59.143,2,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited,
 2024-07-17T08:31:46+0000,20.197.249.57,2,Brazil,BR,SP,Sao Paulo,São Paulo,01000-000,-23.55,-46.633,America/Sao_Paulo,Microsoft Corporation,Microsoft Azure Cloud (brazilsouth),AS8075 Microsoft Corporation,
 2024-07-17T08:36:17+0000,34.87.68.254,56,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,254.68.87.34.bc.googleusercontent.com
-2024-07-17T08:55:45+0000,149.102.244.37,69,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-102-244-37.datapacket.com
 2024-07-17T08:59:45+0000,149.88.106.163,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-88-106-163.datapacket.com
 2024-07-17T09:55:50+0000,34.1.26.220,27,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,220.26.1.34.bc.googleusercontent.com
 2024-07-17T09:57:16+0000,35.207.204.100,25,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,100.204.207.35.bc.googleusercontent.com
@@ -9439,3 +9437,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-08T09:43:56+0000,35.91.210.67,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-91-210-67.us-west-2.compute.amazonaws.com
 2024-09-08T10:00:49+0000,37.19.223.7,28,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Datacamp Limited,Cdnext VIE,AS212238 Datacamp Limited,unn-37-19-223-7.datapacket.com
 2024-09-08T10:15:37+0000,44.200.76.246,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-200-76-246.compute-1.amazonaws.com
+2024-09-08T11:01:52+0000,149.102.244.37,43,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-102-244-37.datapacket.com
+2024-09-08T12:19:25+0000,45.8.22.27,75,United States,US,CA,California,Los Angeles,90060,34.06,-118.24,America/Los_Angeles,Advin Services LLC,Advin Services LLC,AS206216 Advin Services LLC,
+2024-09-08T12:30:59+0000,93.185.165.86,17,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,S.C. INFOTECH-GRUP S.R.L.,S.C. INFOTECH-GRUP S.R.L,AS201670 S.C. INFOTECH-GRUP S.R.L.,av3.apesec.com
+2024-09-08T12:48:30+0000,195.178.110.135,15,Iceland,IS,1,Capital Region,Reykjavik,105,64.147,-21.9408,Atlantic/Reykjavik,Pptechnology Limited,API VERSA OU,AS48090 PPTECHNOLOGY LIMITED,
+2024-09-08T13:06:50+0000,51.89.153.112,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,OVH Ltd,AS16276 OVH SAS,ns3145504.ip-51-89-153.eu
+2024-09-08T13:06:52+0000,104.244.79.50,100,Luxembourg,LU,ME,Mersch,Roost,L-7759,49.7866,6.0753,Europe/Luxembourg,FranTech Solutions,BuyVM,AS53667 FranTech Solutions,LuxembourgTorNew3.Quetzalcoatl-relays.org
+2024-09-08T13:23:14+0000,34.87.68.245,4,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,245.68.87.34.bc.googleusercontent.com
+2024-09-08T13:33:41+0000,13.115.110.50,41,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-13-115-110-50.ap-northeast-1.compute.amazonaws.com
+2024-09-08T14:07:08+0000,35.153.60.119,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-153-60-119.compute-1.amazonaws.com
+2024-09-08T14:07:58+0000,202.61.232.13,45,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,ae80d.netcup.net
+2024-09-08T14:11:11+0000,35.181.160.234,30,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,"Amazon.com, Inc.",AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-181-160-234.eu-west-3.compute.amazonaws.com
+2024-09-08T14:21:58+0000,167.99.8.183,41,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",ac31019.vader
+2024-09-08T14:27:11+0000,217.182.78.86,37,Poland,PL,02,Lower Silesia,Wroclaw,50-088,51.0984,17.031,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,vps-62674341.vps.ovh.net
+2024-09-08T14:31:07+0000,141.95.108.23,53,Germany,DE,HE,Hesse,Limburg an der Lahn,65556,50.3846,8.0472,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS,
+2024-09-08T14:31:44+0000,99.79.40.146,4,Canada,CA,ON,Ontario,Toronto,,43.6532,-79.3832,America/Toronto,"Amazon.com, Inc.",AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",ec2-99-79-40-146.ca-central-1.compute.amazonaws.com
+2024-09-08T14:33:33+0000,208.59.75.10,4,United States,US,IL,Illinois,Chicago,60613,41.9555,-87.6613,America/Chicago,RCN Corporation,THE DRAKE HOTEL,AS6079 RCN,drake211.d.subnet.rcn.com
+2024-09-08T14:57:13+0000,138.68.95.223,24,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",75620-58736.cloudwaysapps.com
+2024-09-08T15:02:58+0000,34.69.137.173,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,173.137.69.34.bc.googleusercontent.com
+2024-09-08T15:18:06+0000,116.254.97.1,14,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2087,106.8455,Asia/Jakarta,SpaceX Starlink,,AS45700 PT. NAP Info Lintas Nusa,customer.jtnaidn2.pop.starlinkisp.net
+2024-09-08T15:34:12+0000,104.243.45.38,72,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,ReliableSite.Net LLC,ReliableSite.Net LLC,AS23470 ReliableSite.Net LLC,
