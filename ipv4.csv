@@ -300,7 +300,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T00:00:00+0000,195.4.20.22,23,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.223,6.78245,Europe/Berlin,freenet Datenkommunikations GmbH,JusProg e.V.,AS5430 freenet Datenkommunikations GmbH,jpdnsfn2.customer.freenet-business.de
 2024-06-21T00:00:00+0000,34.78.85.104,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,104.85.78.34.bc.googleusercontent.com
 2024-06-21T00:00:00+0000,34.172.237.230,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,230.237.172.34.bc.googleusercontent.com
-2024-06-21T00:00:00+0000,181.214.173.71,20,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-06-21T00:00:00+0000,5.77.63.90,19,United Kingdom,GB,ENG,England,Leeds,LS12 6LX,53.7792,-1.5792,Europe/London,Node4 Limited,eUKhost LTD,AS31727 Node4 Limited,belfast.eukhosting.net
 2024-06-21T00:00:00+0000,81.181.54.25,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited,
 2024-06-21T00:00:00+0000,188.126.89.118,39,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB,
@@ -9345,7 +9344,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-07T10:40:52+0000,1.145.253.161,4,Australia,AU,VIC,Victoria,Melbourne,3121,-37.8269,144.9881,Australia/Melbourne,Telstra Limited,Telstra Corporation,AS1221 Telstra Limited,
 2024-09-07T10:43:34+0000,98.81.73.215,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-81-73-215.compute-1.amazonaws.com
 2024-09-07T11:02:07+0000,154.44.18.31,4,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Cogent Communications,,AS174 Cogent Communications,
-2024-09-07T11:35:56+0000,35.180.134.98,30,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-134-98.eu-west-3.compute.amazonaws.com
 2024-09-07T11:49:02+0000,174.216.148.1,4,United States,US,DC,District of Columbia,Washington,20011,38.9522,-77.0253,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,1.sub-174-216-148.myvzw.com
 2024-09-07T11:52:00+0000,27.54.150.225,62,Bangladesh,BD,G,Sylhet Division,Sunāmganj,3000,24.9241,91.4445,Asia/Dhaka,X-press Technologies Limited,X-press Technologies Limited,AS133854 X-press Technologies Limited.,27.54.150.225.xpress.ltd
 2024-09-07T11:52:27+0000,109.69.67.17,61,Germany,DE,HB,Bremen,Bremen,28215,53.0793,8.80169,Europe/Berlin,PLUTEX GmbH,Plutex,AS49855 PLUTEX GmbH,tor.plutex.de
@@ -9496,3 +9494,48 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-09T05:11:19+0000,45.148.10.111,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED,
 2024-09-09T05:11:23+0000,46.232.251.191,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,this-is-a-tor-node---8.artikel5ev.de
 2024-09-09T05:11:28+0000,185.91.116.202,83,Czechia,CZ,52,Královéhradecký kraj,Úpice,542 32,50.5122,16.0204,Europe/Prague,Pavel Zizka,Pavel Zizka,AS200918 Pavel Zizka,fidane.crusecycle.com
+2024-09-09T07:25:41+0000,91.92.243.17,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-09T07:40:07+0000,3.16.50.169,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-16-50-169.us-east-2.compute.amazonaws.com
+2024-09-09T08:27:36+0000,52.169.120.105,87,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-09-09T08:48:28+0000,46.211.247.91,4,Ukraine,UA,30,Kyiv City,Kyiv,01000,50.4501,30.5234,Europe/Kiev,Kyivstar UA,Kyivstar LLC,"AS15895 ""Kyivstar"" PJSC",46-211-247-91.mobile.kyivstar.net
+2024-09-09T08:48:30+0000,62.122.7.49,14,Kazakhstan,KZ,55,Pavlodar Region,Pavlodar,,52.2865,76.9304,Asia/Almaty,Mobile Telecom-Service LLP,Tele2 Kazakhstan,AS48503 Mobile Telecom-Service LLP,
+2024-09-09T08:48:30+0000,177.200.51.238,4,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000,-22.9485,-43.3436,America/Sao_Paulo,Pertec Servicos de Telecomunicacoes ltda,Pertec Servicos de Telecomunicacoes ltda,AS52781 Pertec Servicos de Telecomunicacoes ltda,
+2024-09-09T08:48:30+0000,2.72.201.41,4,Kazakhstan,KZ,75,Almaty,Almaty,,43.2433,76.8646,Asia/Almaty,Kcell JSC,"""KCell"" JSC",AS29355 Kcell JSC,2-72-201-41.kcell.kz
+2024-09-09T08:49:12+0000,172.235.52.7,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172-235-52-7.ip.linodeusercontent.com
+2024-09-09T08:51:36+0000,5.59.230.129,4,Kyrgyzstan,KG,GB,Gorod Bishkek,Bishkek,,42.8696,74.5932,Asia/Bishkek,"Skynet Telecom, LLC","Skynet Telecom, LLC","AS207369 Skynet Telecom, LLC",dhcp-129-230-59-5.metro86.ru
+2024-09-09T08:51:45+0000,189.113.74.235,15,Brazil,BR,RJ,Rio de Janeiro,Guapimirim,25940,-22.5888,-42.9784,America/Sao_Paulo,Giga Mais Fibra Telecomunicacoes S.A.,,AS28210 GIGA MAIS FIBRA TELECOMUNICACOES S.A.,189-113-74-235.static.sumicity.net.br
+2024-09-09T08:52:06+0000,194.177.25.148,14,Ukraine,UA,32,Kyiv Oblast,Slavutych,07101,51.5156,30.7329,Europe/Kyiv,PE Service center Maket,PE Service center Maket,AS20934 PE Service center Maket,
+2024-09-09T08:52:09+0000,92.55.176.243,4,Kazakhstan,KZ,10,Abai Region,Semey,,50.4273,80.2721,Asia/Almaty,2Day Telecom LLP,,AS35566 Kar-Tel LLC,
+2024-09-09T08:52:13+0000,5.228.114.209,4,Russia,RU,MOW,Moscow,Moscow,109125,55.7483,37.6171,Europe/Moscow,NCNET,,AS42610 PJSC Rostelecom,broadband-5-228-114-209.ip.moscow.rt.ru
+2024-09-09T08:52:14+0000,31.202.44.22,26,Ukraine,UA,63,Kharkivs’ka Oblast’,Kharkiv,61122,49.982,36.2566,Europe/Kyiv,Maxnet Ltd,Maxnet LLC,"AS34700 MAXNET TELECOM, LTD",31-202-44-22-kh.maxnet.ua
+2024-09-09T09:15:13+0000,181.214.173.71,23,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
+2024-09-09T09:20:07+0000,35.180.134.98,64,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-134-98.eu-west-3.compute.amazonaws.com
+2024-09-09T09:24:02+0000,212.15.138.177,15,Ukraine,UA,51,Odessa,Odesa,65104,46.4752,30.7338,Europe/Kyiv,"PRIVATE JOINT-STOCK COMPANY ""FARLEP-INVEST""",,"AS6703 PRIVATE JOINT-STOCK COMPANY ""FARLEP-INVEST""",227961.user.farlep.net
+2024-09-09T09:24:02+0000,31.128.162.52,4,Ukraine,UA,59,Sumy,Shostka,41100,51.8641,33.4707,Europe/Kyiv,UACITY Ltd.,UACITY Ltd,AS48919 UACITY Ltd.,31-128-162-52.uacity.xyz
+2024-09-09T09:24:03+0000,109.122.36.13,4,Ukraine,UA,51,Odessa,Odesa,65123,46.4888,30.7474,Europe/Kyiv,BRIZ,,AS34661 BREEZE NETWORK,
+2024-09-09T09:24:05+0000,197.134.62.241,15,Egypt,EG,C,Cairo Governorate,Cairo,,30.0588,31.2268,Africa/Cairo,Vodafone Data,,AS24835 Vodafone Data,
+2024-09-09T09:24:05+0000,177.51.77.29,4,Brazil,BR,SC,Santa Catarina,Joinville,89200,-26.2659,-48.9987,America/Sao_Paulo,TIM S/A,TIM S/A,AS26615 TIM S/A,29.77.51.177.isp.timbrasil.com.br
+2024-09-09T09:24:06+0000,168.227.16.124,4,Brazil,BR,PI,Piauí,Teresina,64000,-5.0854,-42.803,America/Fortaleza,G3 Telecom EIRELI,G3 Telecom EIRELI,AS263980 G3 Telecom EIRELI,g3telecompi.com.br
+2024-09-09T09:24:07+0000,195.64.229.204,11,Ukraine,UA,51,Odessa,Odesa,65123,46.4888,30.7474,Europe/Kyiv,Telecom Trade LLC,Telecomtrade,AS211250 TELECOM TRADE LLC,static-229-204.visti.net
+2024-09-09T09:24:10+0000,39.48.34.81,15,Pakistan,PK,PB,Punjab,Multan,60700,30.2216,71.4702,Asia/Karachi,Pakistan Telecommuication company limited,Pakistan Telecommuication company limited,AS17557 Pakistan Telecommunication Company Limited,
+2024-09-09T09:24:10+0000,217.28.129.196,15,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Hostkey B.V.,MB Eisina,AS57043 HOSTKEY B.V.,
+2024-09-09T09:24:11+0000,185.217.189.167,43,Kazakhstan,KZ,35,Karaganda,Karaganda,,49.7989,73.0994,Asia/Almaty,Optinet LLP,Sirius-2014 LLP,AS60757 Optinet LLP,
+2024-09-09T09:24:11+0000,91.193.131.73,28,Ukraine,UA,12,Dnipropetrovsk Oblast,Dnipro,49000,48.4653,35.033,Europe/Kyiv,Ukrchermetavtomatika LLC,dts7,AS44894 Ukrchermetavtomatika LLC,73.131.dts.net.ua
+2024-09-09T09:27:13+0000,78.165.187.222,4,Türkiye,TR,06,Ankara,Ankara,06010,39.9786,32.8262,Europe/Istanbul,Turk Telekom,Turk Telekomunikasyon A.S,AS47331 TTNet A.S.,78.165.187.222.dynamic.ttnet.com.tr
+2024-09-09T09:27:14+0000,85.193.67.122,4,Ukraine,UA,40,Sebastopol City,Sevastopol,90022,44.6089,33.53,Europe/Simferopol,KTK TELECOM LLC,KTK Xzblk2,AS203561 KTK TELECOM LLC,internet.volnamobile.ru
+2024-09-09T09:27:15+0000,188.244.137.141,4,Russia,RU,SA,Sakha,Yakutsk,677008,62.0313,129.7325,Asia/Yakutsk,TTK-Retail,,"AS15774 Limited Liability Company ""TTK-Svyaz""",
+2024-09-09T09:27:15+0000,78.30.202.189,15,Ukraine,UA,40,Sebastopol City,Sevastopol,90022,44.6089,33.53,Europe/Simferopol,Lancom Ltd.,Lancom Ltd,AS35816 Lancom Ltd.,host-189-202-30-78.sevstar.net
+2024-09-09T09:27:15+0000,147.30.57.131,14,Kazakhstan,KZ,71,Astana,Astana,,51.1876,71.4491,Asia/Almaty,JSC Kazakhtelecom,Kazakhtelecom Data Network Administration,AS9198 JSC Kazakhtelecom,
+2024-09-09T09:27:16+0000,113.52.111.209,15,Macao,MO,,,Macao,,22.2006,113.546,Asia/Macau,Companhia de Telecomunicacoes de Macau,CTM Internet Service,AS4609 Companhia de Telecomunicacoes de Macau SARL,nz111l209.bb11352.ctm.net
+2024-09-09T09:27:17+0000,46.42.245.126,13,Kazakhstan,KZ,55,Pavlodar Region,Pavlodar,,52.2865,76.9304,Asia/Almaty,2DAY Telecom LLP,,AS21299 Kar-Tel LLC,
+2024-09-09T09:27:18+0000,186.207.239.9,14,Brazil,BR,RS,Rio Grande do Sul,Passo Fundo,99000,-28.2669,-52.403,America/Sao_Paulo,Claro NXT Telecomunicacoes Ltda,NET Serviços de Comunicação S.A.,AS28573 Claro NXT Telecomunicacoes Ltda,bacfef09.virtua.com.br
+2024-09-09T09:27:18+0000,154.185.133.124,4,Egypt,EG,C,Cairo Governorate,Cairo,,30.0588,31.2268,Africa/Cairo,TE Data,,AS8452 TE-AS,host-154.185.124.133-static.tedata.net
+2024-09-09T09:27:25+0000,179.218.22.38,15,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,,-22.9072,-43.1883,America/Sao_Paulo,Claro NXT Telecomunicacoes Ltda,Claro NXT Telecomunicacoes Ltda,AS28573 Claro NXT Telecomunicacoes Ltda,b3da1626.virtua.com.br
+2024-09-09T09:27:46+0000,184.22.112.177,23,Thailand,TH,13,Pathum Thani,Khlong Luang,12120,14.0712,100.6549,Asia/Bangkok,AIS-Fibre,,AS133481 AIS Fibre,184-22-112-0.24.nat.tls1b-cgn03.myaisfibre.com
+2024-09-09T09:27:48+0000,14.191.229.100,14,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.822,106.6257,Asia/Ho_Chi_Minh,VNPT,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp,static.vnpt.vn
+2024-09-09T09:27:48+0000,185.229.120.146,4,Kazakhstan,KZ,47,Mangistauskaya Oblast',Aktau,,43.6422,51.1668,Asia/Aqtau,Mobile Telecom-Service LLP,Tele2 Kazakhstan,AS48503 Mobile Telecom-Service LLP,
+2024-09-09T09:27:50+0000,95.12.123.200,14,Türkiye,TR,07,Antalya,Antalya,07070,36.8709,30.5229,Europe/Istanbul,TurkTelekom,Turk Telekomunikasyon Anonim Sirketi,AS47331 TTNet A.S.,95.12.123.200.dynamic.ttnet.com.tr
+2024-09-09T09:27:51+0000,45.232.23.242,4,Brazil,BR,SP,São Paulo,Embu das Artes,06800,-23.651,-46.8455,America/Sao_Paulo,Aipeer Tecnologia Ltda,Aipeer Tecnologia Ltda,AS267248 AIPEER TECNOLOGIA LTDA,45.232.23-242.aipeer.com.br
+2024-09-09T09:27:55+0000,182.190.166.11,14,Pakistan,PK,PB,Punjab,Lahore,54000,31.5826,74.3276,Asia/Karachi,Triple Play Project SOUTH,,AS17557 Pakistan Telecommunication Company Limited,
+2024-09-09T09:28:00+0000,154.80.49.4,4,Pakistan,PK,PB,Punjab,Lahore,54000,31.5826,74.3276,Asia/Karachi,Pakistan Mobile Communications Limited,Pakistan Mobile Communications Limited,AS45669 PMCL /LDI IP TRANSIT,
+2024-09-09T09:28:01+0000,154.183.35.208,14,Egypt,EG,BH,Beheira,Damanhur,,31.0321,30.4716,Africa/Cairo,TE Data,,AS8452 TE-AS,host-154.183.208.35-static.tedata.net
