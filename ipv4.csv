@@ -773,7 +773,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T08:44:48+0000,91.92.249.164,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-06-25T08:49:44+0000,65.49.20.66,100,United States,US,CA,California,Milpitas,95035,37.4352,-121.899,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,scan-17.shadowserver.org
 2024-06-25T09:22:21+0000,162.0.209.186,27,United States,US,CA,California,Los Angeles,90064,34.0356,-118.442,America/Los_Angeles,"Namecheap, Inc.","Namecheap, Inc.","AS22612 Namecheap, Inc.",business94.web-hosting.com
-2024-06-25T09:27:32+0000,51.79.229.197,100,Singapore,SG,01,Central Singapore,Singapore,069536,1.27989,103.849,Asia/Singapore,OVH Hosting,OVH Singapore PTE. LTD,AS16276 OVH SAS,ns5006551.ip-51-79-229.net
 2024-06-25T09:41:53+0000,68.183.85.160,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-06-25T09:50:33+0000,129.80.209.136,100,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
 2024-06-25T10:20:16+0000,104.234.204.144,100,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,Ipxo LLC,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.,
@@ -886,7 +885,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T21:48:50+0000,154.16.105.143,99,United States,US,NV,Nevada,Las Vegas,89101,36.1685,-115.1164,America/Los_Angeles,AS174,,AS174 Cogent Communications,
 2024-06-25T21:52:20+0000,213.199.53.161,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.2184,6.7734,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1736046.contaboserver.net
 2024-06-25T21:54:27+0000,62.45.80.47,100,The Netherlands,NL,GE,Gelderland,Uddel,3888,52.2491,5.7836,Europe/Amsterdam,DELTA Fiber Nederland,CAIW Diensten BV,AS15435 DELTA Fiber Nederland B.V.,047-080-045-062.dynamic.caiway.nl
-2024-06-25T21:58:35+0000,149.88.26.78,22,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-88-26-78.datapacket.com
 2024-06-25T22:03:33+0000,101.255.126.70,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT Remala Abadi,,AS38511 PT Remala Abadi,
 2024-06-25T22:21:57+0000,110.42.217.219,100,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,China Internet Network Information Center,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,
 2024-06-25T23:17:53+0000,185.189.114.122,10,Hungary,HU,BU,Budapest,Budapest,1132,47.4979,19.0402,Europe/Budapest,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL,
@@ -8205,7 +8203,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-26T06:19:59+0000,34.0.204.109,3,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,109.204.0.34.bc.googleusercontent.com
 2024-08-26T06:21:29+0000,35.207.201.121,3,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,121.201.207.35.bc.googleusercontent.com
 2024-08-26T07:27:53+0000,180.110.242.29,62,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE,
-2024-08-26T08:01:45+0000,89.46.104.100,83,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host100-104-46-89.serverdedicati.aruba.it
 2024-08-26T08:08:57+0000,91.229.76.186,44,Ukraine,UA,30,Kyiv City,Kyiv,04211,50.458,30.5303,Europe/Kyiv,Zemlyaniy Dmitro Leonidovich,Zemlyaniy Dmitro Leonidovich,AS47987 Zemlyaniy Dmitro Leonidovich,91.229.76.186.deltahost-ptr
 2024-08-26T08:11:07+0000,3.238.78.200,3,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-78-200.compute-1.amazonaws.com
 2024-08-26T08:23:14+0000,34.16.65.70,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,70.65.16.34.bc.googleusercontent.com
@@ -9715,3 +9712,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-12T05:09:35+0000,2.58.56.35,97,France,FR,BFC,Bourgogne-Franche-Comté,Bavilliers,90800,47.6209,6.8337,Europe/Paris,Sapinet,Mifsud Florian,AS39421 Sapinet SAS,Amsterdam5.quetzalcoatl-relays.org
 2024-09-12T05:27:11+0000,103.57.178.86,100,India,IN,UP,Uttar Pradesh,Meerut,250001,28.9834,77.706,Asia/Kolkata,Meerut Internet Services Pvt. Ltd,Meerut  Pvt. Ltd.,AS59162 U.P. COMMUNICATION SERVICES PVT LTD,
 2024-09-12T05:39:36+0000,89.37.175.86,12,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,86.175.37.89.baremetal.zare.com
+2024-09-12T06:44:33+0000,3.83.87.104,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-83-87-104.compute-1.amazonaws.com
+2024-09-12T07:40:24+0000,52.23.199.85,13,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-23-199-85.compute-1.amazonaws.com
+2024-09-12T07:40:24+0000,34.207.214.216,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-207-214-216.compute-1.amazonaws.com
+2024-09-12T07:40:24+0000,3.14.244.217,11,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-14-244-217.us-east-2.compute.amazonaws.com
+2024-09-12T08:22:04+0000,13.74.113.25,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-09-12T08:25:58+0000,34.0.193.230,14,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,230.193.0.34.bc.googleusercontent.com
+2024-09-12T08:42:38+0000,13.79.35.124,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-09-12T08:42:55+0000,103.150.11.3,14,China,CN,JS,Jiangsu,Nanjing,210000,32.254,118.77,Asia/Shanghai,China Telecom,"Jiangsu Leaf Cloud Computing Co., Ltd.","AS137702 Nanjing, Jiangsu Province, P.R.China.",
+2024-09-12T09:10:22+0000,114.79.17.207,4,Indonesia,ID,JT,Central Java,Tarub,,-6.93333,109.167,Asia/Jakarta,SMART-TELECOM,,AS18004 PT WIRELESS INDONESIA ( WIN ),
+2024-09-12T09:10:23+0000,103.201.151.177,4,India,IN,MH,Maharashtra,Thāne,400606,19.1963,72.9675,Asia/Kolkata,SKNETWORK,,AS133001 Airnet Cable And Datacom Pvt Ltd,
+2024-09-12T09:16:38+0000,52.169.220.221,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-09-12T09:27:41+0000,13.74.117.218,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2024-09-12T09:35:28+0000,3.219.167.216,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-219-167-216.compute-1.amazonaws.com
+2024-09-12T10:55:45+0000,117.102.0.23,4,Pakistan,PK,PB,Punjab,Lahore,54000,31.5826,74.3276,Asia/Karachi,Worldcall Multimedia Limited,,AS38710 Worldcall Broadband Limited,
+2024-09-12T10:55:45+0000,197.43.110.110,15,Egypt,EG,GH,Gharbia,Tanta,,30.7866,31.0004,Africa/Cairo,TE Data,,AS8452 TE-AS,host-197.43.110.110.tedata.net
+2024-09-12T11:33:51+0000,199.195.251.78,94,United States,US,NY,New York,New York,10004,40.7038,-74.0138,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,NewYorkNewTor8.Quetzalcoatl-relays.org
+2024-09-12T12:07:07+0000,179.43.133.242,100,Switzerland,CH,ZH,Zurich,Rümlang,8153,47.4505,8.5255,Europe/Zurich,Private Layer INC,Private Layer Inc,AS51852 Private Layer INC,hostedby.privatelayer.com
+2024-09-12T13:01:34+0000,143.198.222.241,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-12T13:02:33+0000,51.79.229.197,76,Singapore,SG,01,Central Singapore,Singapore,069536,1.27989,103.849,Asia/Singapore,OVH Hosting,OVH Singapore PTE. LTD,AS16276 OVH SAS,ns5006551.ip-51-79-229.net
+2024-09-12T13:03:14+0000,34.38.22.237,53,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,237.22.38.34.bc.googleusercontent.com
+2024-09-12T13:21:47+0000,149.88.26.78,21,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0853,34.7818,Asia/Jerusalem,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-88-26-78.datapacket.com
+2024-09-12T13:28:30+0000,89.46.104.100,66,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host100-104-46-89.serverdedicati.aruba.it
