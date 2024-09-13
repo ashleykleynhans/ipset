@@ -800,7 +800,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-25T13:03:57+0000,34.41.189.255,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,255.189.41.34.bc.googleusercontent.com
 2024-06-25T14:06:31+0000,51.89.6.222,21,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,OVH GmbH,AS16276 OVH SAS,server1.appsapk.com
 2024-06-25T14:30:17+0000,172.233.17.150,35,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172-233-17-150.ip.linodeusercontent.com
-2024-06-25T14:50:18+0000,84.247.48.59,27,Ireland,IE,L,Leinster,Dublin,D02,53.3331,-6.24889,Europe/Dublin,M247 Europe SRL,M247 Ltd Dublin,AS9009 M247 Europe SRL,
 2024-06-25T15:12:12+0000,4.151.218.131,100,United States,US,TX,Texas,San Antonio,78288,29.4167,-98.5,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation,azpdse0.stretchoid.com
 2024-06-25T15:14:47+0000,84.239.42.136,46,Ukraine,UA,30,Kyiv City,Kyiv,03141,50.458,30.5303,Europe/Kyiv,Datacamp Limited,Castlegem,AS212238 Datacamp Limited,
 2024-06-25T15:15:08+0000,39.101.185.186,100,China,CN,BJ,Beijing,Beijing,,39.911,116.395,Asia/Shanghai,Hangzhou Alibaba Advertising Co,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",
@@ -1079,7 +1078,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T08:34:15+0000,140.82.25.125,30,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",140.82.25.125.vultrusercontent.com
 2024-06-27T08:03:12+0000,45.77.219.237,34,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.219.237.vultrusercontent.com
 2024-06-27T08:31:33+0000,45.63.104.22,10,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.63.104.22.vultrusercontent.com
-2024-06-27T08:43:41+0000,95.181.236.149,33,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL,
 2024-06-27T08:49:07+0000,45.63.94.152,10,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.63.94.152.vultrusercontent.com
 2024-06-27T08:53:55+0000,140.82.24.20,17,United States,US,FL,Florida,Miami,33142,25.8119,-80.2318,America/New_York,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",140.82.24.20.vultrusercontent.com
 2024-06-27T08:45:48+0000,45.77.186.188,18,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.186.188.vultrusercontent.com
@@ -1097,7 +1095,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T10:27:43+0000,111.231.80.195,73,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,
 2024-06-27T10:31:46+0000,95.181.173.153,100,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,woebegone-underwear.aeza.network
 2024-06-27T10:38:41+0000,146.70.59.132,20,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL,
-2024-06-27T10:46:49+0000,176.125.229.140,24,Montenegro,ME,16,Podgorica,Podgorica,,42.4411,19.2636,Europe/Podgorica,M247 Europe SRL,M247 Ltd Montenegro,AS9009 M247 Europe SRL,
 2024-06-27T10:49:38+0000,45.32.65.45,32,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,Choopa,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.65.45.vultrusercontent.com
 2024-06-27T10:55:29+0000,93.123.39.124,100,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,Silent Connection Ltd.,Silent Connection LTD,AS215240 Silent Connection Ltd.,
 2024-06-27T11:38:19+0000,146.70.59.178,20,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL,
@@ -1238,7 +1235,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-28T08:27:50+0000,91.92.242.171,98,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-06-28T08:40:44+0000,192.71.144.12,100,Sweden,SE,AB,Stockholm County,Stockholm,126 30,59.3098,17.9796,Europe/Stockholm,LIECHTENSTEIN-NETWORK,Pronect Technology Ltd,AS42708 GleSYS AB,
 2024-06-28T09:10:18+0000,20.171.149.0,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
-2024-06-28T09:10:32+0000,198.251.81.188,8,United States,US,NY,New York,Staten Island,10311,40.6063,-74.1774,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,s12.my-control-panel.com
 2024-06-28T09:14:16+0000,84.239.49.13,29,Romania,RO,IF,Ilfov,Bucharest,077086,44.4589,26.1656,Europe/Bucharest,INVITE Systems SRL,INVITE Systems SRL,AS44679 INVITE Systems SRL,
 2024-06-28T09:23:57+0000,147.124.215.112,10,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,"Majestic Hosting Solutions, LLC","Majestic Hosting Solutions, LLC","AS396073 Majestic Hosting Solutions, LLC",wulven.famontail.com
 2024-06-28T10:01:55+0000,175.6.96.154,100,China,CN,ZJ,Zhejiang,Hangzhou,,30.2994,120.1612,Asia/Shanghai,"No.293, Wanbao Avenue",Chinanet HN,AS63835 CT-HuNan-Changsha-IDC,
@@ -9694,7 +9690,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-12T00:41:37+0000,52.72.50.30,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-72-50-30.compute-1.amazonaws.com
 2024-09-12T01:07:19+0000,94.16.115.121,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,tor-exit.okade.pro
 2024-09-12T01:07:49+0000,149.56.22.133,81,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,chimera.brandonkuschel.com
-2024-09-12T01:16:25+0000,116.21.30.1,47,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2024-09-12T02:24:55+0000,34.44.195.106,26,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,106.195.44.34.bc.googleusercontent.com
 2024-09-12T02:55:31+0000,157.245.35.29,4,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-09-12T03:06:37+0000,5.255.124.150,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,The Infrastructure Group B.V.,TIG,AS60404 The Infrastructure Group B.V.,
@@ -9702,7 +9697,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-12T03:58:40+0000,34.1.15.178,4,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC,178.15.1.34.bc.googleusercontent.com
 2024-09-12T04:30:10+0000,3.228.23.159,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-228-23-159.compute-1.amazonaws.com
 2024-09-12T04:44:01+0000,72.167.210.101,87,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",101.210.167.72.host.secureserver.net
-2024-09-12T05:07:24+0000,68.178.150.93,34,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",93.150.178.68.host.secureserver.net
 2024-09-12T05:09:35+0000,2.58.56.35,97,France,FR,BFC,Bourgogne-Franche-Comté,Bavilliers,90800,47.6209,6.8337,Europe/Paris,Sapinet,Mifsud Florian,AS39421 Sapinet SAS,Amsterdam5.quetzalcoatl-relays.org
 2024-09-12T05:27:11+0000,103.57.178.86,100,India,IN,UP,Uttar Pradesh,Meerut,250001,28.9834,77.706,Asia/Kolkata,Meerut Internet Services Pvt. Ltd,Meerut  Pvt. Ltd.,AS59162 U.P. COMMUNICATION SERVICES PVT LTD,
 2024-09-12T05:39:36+0000,89.37.175.86,12,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,86.175.37.89.baremetal.zare.com
@@ -9754,8 +9748,38 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-12T18:00:29+0000,39.49.212.253,4,Pakistan,PK,PB,Punjab,Rawalpindi,46000,33.6054,73.0354,Asia/Karachi,Pakistan Telecommuication company limited,PTCL Triple Play Project,AS17557 Pakistan Telecommunication Company Limited,
 2024-09-12T18:00:33+0000,167.71.128.32,4,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-09-12T18:37:53+0000,34.41.188.139,63,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,139.188.41.34.bc.googleusercontent.com
-2024-09-12T18:40:44+0000,84.47.232.162,68,Iran,IR,10,Isfahan,Isfahan,,32.6554,51.6737,Asia/Tehran,Iran Telecommunication Company PJS,Telecommunication Company of Esfahan,AS58224 Iran Telecommunication Company PJS,srv.martia-ns.me
 2024-09-12T18:51:21+0000,186.234.80.67,28,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000-000,-22.9068,-43.1729,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.,
 2024-09-12T19:06:10+0000,37.156.144.83,100,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,Asiatech Data Transmission company,Asiatech Data Transmission company,AS43754 Asiatech Data Transmission company,
 2024-09-12T19:17:12+0000,34.136.50.91,39,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,91.50.136.34.bc.googleusercontent.com
 2024-09-12T19:29:38+0000,182.16.21.98,100,Hong Kong,HK,KSS,Sham Shui Po,Lai Chi Kok,,22.3372,114.151,Asia/Hong_Kong,SIMCENTRIC,,AS45753 Netsec Limited,
+2024-09-12T19:52:53+0000,68.178.150.93,39,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",93.150.178.68.host.secureserver.net
+2024-09-12T20:50:56+0000,15.237.178.200,58,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-178-200.eu-west-3.compute.amazonaws.com
+2024-09-12T21:25:47+0000,157.230.247.204,55,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-12T21:34:55+0000,176.125.229.140,30,Montenegro,ME,16,Podgorica,Podgorica,,42.4411,19.2636,Europe/Podgorica,M247 Europe SRL,M247 Ltd Montenegro,AS9009 M247 Europe SRL,
+2024-09-12T21:40:20+0000,95.181.236.149,37,Georgia,GE,KK,Kvemo Kartli,Tsqnet'i,,41.7378,44.7557,Asia/Tbilisi,M247 Europe SRL,M247 Ltd Georgia,AS9009 M247 Europe SRL,
+2024-09-12T21:41:04+0000,34.0.133.43,4,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC,43.133.0.34.bc.googleusercontent.com
+2024-09-12T21:47:33+0000,213.187.69.189,36,Germany,DE,SN,Saxony,Särichen,02923,51.2705,14.9036,Europe/Berlin,HL komm Telekommunikations GmbH,Kunert Business Software GmbH,AS16097 HL komm Telekommunikations GmbH,
+2024-09-12T21:49:37+0000,20.90.176.154,100,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation,
+2024-09-12T22:43:00+0000,91.202.233.201,18,Turkmenistan,TM,S,Ashgabat,Ashgabat,,37.9519,58.3958,Asia/Ashgabat,Prospero OOO,Prospero OOO,AS200593 PROSPERO OOO,
+2024-09-12T22:56:22+0000,209.38.132.158,100,United States,US,CA,California,San Francisco,94142,37.7809,-122.4245,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",economicstroke.com
+2024-09-12T23:00:46+0000,84.47.232.162,73,Iran,IR,10,Isfahan,Isfahan,,32.6554,51.6737,Asia/Tehran,Iran Telecommunication Company PJS,Telecommunication Company of Esfahan,AS58224 Iran Telecommunication Company PJS,srv.martia-ns.me
+2024-09-12T23:15:56+0000,82.102.41.130,74,Cyprus,CY,02,Limassol District,Limassol,,34.6874,33.0366,Asia/Nicosia,Epic LTD,Epic LTD,AS15805 EPIC LTD,
+2024-09-12T23:20:31+0000,185.241.208.115,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
+2024-09-12T23:38:34+0000,116.254.97.159,4,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2087,106.8455,Asia/Jakarta,SpaceX Starlink,,AS45700 PT. NAP Info Lintas Nusa,customer.jtnaidn2.pop.starlinkisp.net
+2024-09-12T23:45:36+0000,34.1.42.146,13,Qatar,QA,DA,Baladīyat ad Dawḩah,Doha,,25.2854,51.531,Asia/Qatar,Google LLC,Google Cloud,AS15169 Google LLC,146.42.1.34.bc.googleusercontent.com
+2024-09-13T00:24:54+0000,139.59.166.15,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-13T00:33:37+0000,85.128.143.13,4,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,Nazwa.pl Sp.z.o.o.,Netartcom Webhosting,AS15967 Nazwa.pl Sp.z.o.o.,static-akl13.rev.netart.com
+2024-09-13T00:47:15+0000,128.199.160.243,84,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-13T01:21:13+0000,104.243.34.218,64,United States,US,NJ,New Jersey,Piscataway,08854,40.5511,-74.4606,America/New_York,ReliableSite.Net LLC,ReliableSite.Net LLC,AS23470 ReliableSite.Net LLC,
+2024-09-13T01:49:20+0000,139.99.54.176,46,Singapore,SG,01,Central Singapore,Singapore,069536,1.27989,103.849,Asia/Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,ip176.ip-139-99-54.net
+2024-09-13T01:53:07+0000,100.15.243.243,4,United States,US,DC,District of Columbia,Washington,20020,38.8606,-76.9776,America/New_York,Verizon Communications,"MCI Communications Services, Inc. d/b/a Verizon Business",AS701 Verizon Business,pool-100-15-243-243.washdc.fios.verizon.net
+2024-09-13T02:06:59+0000,192.210.207.152,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,HostPapa,RackNerd LLC,AS36352 HostPapa,
+2024-09-13T02:59:46+0000,198.251.81.188,17,United States,US,NY,New York,Staten Island,10311,40.6063,-74.1774,America/New_York,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,s12.my-control-panel.com
+2024-09-13T03:09:39+0000,35.193.94.214,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC,214.94.193.35.bc.googleusercontent.com
+2024-09-13T03:11:40+0000,116.21.30.1,53,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
+2024-09-13T03:35:12+0000,158.51.123.196,82,Canada,CA,BC,British Columbia,Vancouver,,49.2827,-123.1207,America/Vancouver,GLOBALTELEHOST Corp.,GTHost,AS62563 GLOBALTELEHOST Corp.,196-123-51-158.clients.gthost.com
+2024-09-13T03:37:49+0000,85.128.143.30,4,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,Nazwa.pl Sp.z.o.o.,Netartcom Webhosting,AS15967 Nazwa.pl Sp.z.o.o.,static-akl30.rev.netart.com
+2024-09-13T03:38:57+0000,107.174.145.78,100,United States,US,NY,New York,Buffalo,14205,42.8856,-78.8736,America/New_York,HostPapa,ColoCrossing,AS36352 HostPapa,teesta.exonhost.com
+2024-09-13T04:36:17+0000,84.247.48.59,34,Ireland,IE,L,Leinster,Dublin,D02,53.3331,-6.24889,Europe/Dublin,M247 Europe SRL,M247 Ltd Dublin,AS9009 M247 Europe SRL,
+2024-09-13T04:37:41+0000,85.128.143.34,4,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,Nazwa.pl Sp.z.o.o.,Netartcom Webhosting,AS15967 Nazwa.pl Sp.z.o.o.,static-akl34.rev.netart.com
+2024-09-13T05:18:46+0000,108.145.161.65,4,United States,US,PA,Pennsylvania,Philadelphia,19149,40.0378,-75.0693,America/New_York,"AT&T Services, Inc.",AT&T Mobility LLC,"AS7018 AT&T Services, Inc.",
