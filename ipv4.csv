@@ -586,7 +586,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-22T20:25:03+0000,91.92.254.72,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-06-22T20:28:08+0000,101.47.6.209,100,Singapore,SG,03,North West,Singapore,858877,1.352,103.8198,Asia/Singapore,Byteplus Pte. Ltd.,Byteplus Pte. Ltd.,AS150436 Byteplus Pte. Ltd.,
 2024-06-22T20:40:32+0000,146.70.59.172,29,Portugal,PT,11,Lisbon,Prior Velho,2685-310,38.7863,-9.12377,Europe/Lisbon,M247 Europe,M247 Ltd Lisbon,AS9009 M247 Europe SRL,
-2024-06-22T20:48:36+0000,156.146.55.181,27,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited,unn-156-146-55-181.cdn77.com
 2024-06-22T20:48:56+0000,152.42.236.133,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-06-22T21:01:40+0000,107.172.99.226,100,United States,US,CA,California,Santa Clara,95052,37.353,-121.9543,America/Los_Angeles,HostPapa,Solid Systems LLC,AS36352 HostPapa,107-172-99-226-host.colocrossing.com
 2024-06-22T21:02:47+0000,109.202.99.46,100,The Netherlands,NL,NH,North Holland,Duivendrecht,1115,52.3294,4.93964,Europe/Amsterdam,Global Layer network,,AS49453 Global Layer B.V.,connected-by.global-layer.com
@@ -10047,7 +10046,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-18T07:40:22+0000,154.213.185.230,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Pfcloud UG,Pfcloud UG,AS51396 Pfcloud UG,
 2024-09-18T08:39:47+0000,45.141.215.62,78,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
 2024-09-18T09:09:48+0000,89.35.25.123,14,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,123.25.35.89.baremetal.zare.com
-2024-09-18T09:15:19+0000,181.214.173.66,21,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-09-18T09:55:46+0000,89.35.25.5,13,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,5.25.35.89.baremetal.zare.com
 2024-09-18T10:04:09+0000,45.66.231.45,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-09-18T10:17:17+0000,100.24.206.224,36,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-100-24-206-224.compute-1.amazonaws.com
@@ -10133,6 +10131,30 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-19T09:50:14+0000,90.126.49.76,52,France,FR,GES,Grand Est,Strasbourg,67100,48.5855,7.7418,Europe/Paris,Orange,,AS3215 Orange S.A.,lfbn-str-1-585-76.w90-126.abo.wanadoo.fr
 2024-09-19T10:34:19+0000,52.3.229.121,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-3-229-121.compute-1.amazonaws.com
 2024-09-19T10:43:55+0000,23.27.48.74,87,Hong Kong,HK,NKT,Kwai Tsing,Tai Wo Hau,,22.3625,114.119,Asia/Hong_Kong,Ace Data Centers II,Evoxt,AS9312 xTom,
-2024-09-19T10:46:33+0000,3.235.141.3,23,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-235-141-3.compute-1.amazonaws.com
 2024-09-19T10:56:56+0000,58.49.146.74,69,China,CN,HB,Hubei,Shizishan,,30.5454,114.342,Asia/Shanghai,CHINANET Hubei province network,Chinanet HB,AS58563 CHINANET Hubei province network,
 2024-09-19T11:09:44+0000,103.28.89.154,58,Hong Kong,HK,HEA,Eastern,Quarry Bay,96521,22.2861,114.213,Asia/Hong_Kong,Amarutu Technology Ltd,Amarutu Technology Ltd,AS206264 Amarutu Technology Ltd,
+2024-09-19T11:54:28+0000,34.1.40.160,4,Qatar,QA,DA,Baladīyat ad Dawḩah,Doha,,25.2854,51.531,Asia/Qatar,Google LLC,Google Cloud,AS15169 Google LLC,160.40.1.34.bc.googleusercontent.com
+2024-09-19T12:15:33+0000,36.70.110.10,48,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-09-19T12:33:29+0000,156.146.55.181,26,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6951,23.325,Europe/Sofia,Datacamp Limited,Cdnext SOF,AS212238 Datacamp Limited,unn-156-146-55-181.cdn77.com
+2024-09-19T13:13:54+0000,66.115.149.83,59,United States,US,WA,Washington,Seattle,98168,47.4902,-122.3004,America/Los_Angeles,Performive LLC,Total server solutions LLC,AS46562 Performive LLC,
+2024-09-19T13:25:04+0000,3.85.114.206,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-85-114-206.compute-1.amazonaws.com
+2024-09-19T13:25:26+0000,3.84.58.132,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-84-58-132.compute-1.amazonaws.com
+2024-09-19T15:09:44+0000,45.156.248.60,4,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Novi Travnik,,44.1678,17.6563,Europe/Sarajevo,Globalhost d.o.o. - Web Hosting Solutions,,AS200698 Globalhost d.o.o.,
+2024-09-19T15:19:56+0000,102.222.234.228,28,Uganda,UG,C,Central Region,Kampala,,0.340929,32.5829,Africa/Kampala,kampala siti cable ltd block3,,AS328727 KAMPALA SITI CABLE LIMITED,102-222-234-228.simbafiber.ug
+2024-09-19T16:31:10+0000,34.67.74.227,16,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,227.74.67.34.bc.googleusercontent.com
+2024-09-19T16:35:34+0000,34.70.219.112,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,112.219.70.34.bc.googleusercontent.com
+2024-09-19T16:35:42+0000,34.0.223.229,4,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,229.223.0.34.bc.googleusercontent.com
+2024-09-19T16:35:50+0000,34.1.14.151,4,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC,151.14.1.34.bc.googleusercontent.com
+2024-09-19T16:38:16+0000,34.171.182.217,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,217.182.171.34.bc.googleusercontent.com
+2024-09-19T16:41:17+0000,35.219.249.15,4,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC,15.249.219.35.bc.googleusercontent.com
+2024-09-19T16:49:59+0000,3.235.141.3,48,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-235-141-3.compute-1.amazonaws.com
+2024-09-19T17:15:51+0000,44.198.51.1,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-198-51-1.compute-1.amazonaws.com
+2024-09-19T17:28:05+0000,139.59.107.40,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-19T17:57:07+0000,34.135.38.128,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,128.38.135.34.bc.googleusercontent.com
+2024-09-19T18:56:39+0000,107.77.196.24,4,United States,US,AR,Arkansas,Cave Springs,72718,36.2634,-94.2319,America/Chicago,AT&T Mobility LLC,AT&T Mobility LLC,AS20057 AT&T Mobility LLC,mobile-107-77-196-24.mobile.att.net
+2024-09-19T19:02:03+0000,94.156.66.232,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-19T19:09:59+0000,91.92.255.120,82,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
+2024-09-19T19:21:42+0000,152.42.208.0,74,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-19T19:48:06+0000,181.214.173.66,22,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
+2024-09-19T19:55:34+0000,51.68.46.249,58,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,249.ip-51-68-46.eu
+2024-09-19T19:56:13+0000,51.91.9.168,57,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-8b458d56.vps.ovh.net
