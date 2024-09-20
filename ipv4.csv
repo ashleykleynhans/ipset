@@ -9196,7 +9196,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-07T03:16:53+0000,40.88.21.235,49,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,
 2024-09-07T03:22:05+0000,13.38.73.45,73,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-73-45.eu-west-3.compute.amazonaws.com
 2024-09-07T03:22:24+0000,134.209.19.236,4,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2024-09-07T04:10:13+0000,77.222.61.125,72,Russia,RU,SPE,St.-Petersburg,St Petersburg,190005,59.8836,30.3303,Europe/Moscow,SpaceWeb Spb,SpaceWeb CJSC,AS44112 SpaceWeb Ltd,vip69.sweb.ru
 2024-09-07T04:36:18+0000,15.237.193.194,15,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-193-194.eu-west-3.compute.amazonaws.com
 2024-09-07T04:37:48+0000,186.234.80.195,13,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000-000,-22.9068,-43.1729,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.,
 2024-09-07T04:46:13+0000,174.218.98.33,4,United States,US,CA,California,Los Angeles,90044,33.9555,-118.2863,America/Los_Angeles,Verizon Business,Verizon Business,AS6167 Verizon Business,33.sub-174-218-98.myvzw.com
@@ -9971,7 +9970,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-17T14:40:59+0000,35.215.126.63,15,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS15169 Google LLC,63.126.215.35.bc.googleusercontent.com
 2024-09-17T14:45:27+0000,185.205.246.163,81,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1441348.contaboserver.net
 2024-09-17T14:46:28+0000,161.97.148.54,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2106783.contaboserver.net
-2024-09-17T15:12:14+0000,207.96.149.53,44,Canada,CA,QC,Quebec,Montreal,H4X,45.4954,-73.5583,America/Toronto,Videotron Telecom Ltee,Canada Inc.,AS5769 Videotron Ltee,web2.kpio2.com
 2024-09-17T15:19:00+0000,35.212.175.246,4,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS15169 Google LLC,246.175.212.35.bc.googleusercontent.com
 2024-09-17T15:29:13+0000,51.81.33.188,100,United States,US,VA,Virginia,Reston,20190,38.958,-77.3592,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS,vps-da6991d5.vps.ovh.us
 2024-09-17T15:38:21+0000,31.11.36.97,69,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A.,Aruba S.p.A.,AS31034 Aruba S.p.A.,host97-36-11-31.serverdedicati.aruba.it
@@ -9981,7 +9979,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-17T16:11:07+0000,44.212.220.232,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-212-220-232.compute-1.amazonaws.com
 2024-09-17T16:14:32+0000,172.56.252.36,4,United States,US,IN,Indiana,Indianapolis,46254,39.8499,-86.2649,America/Indiana/Indianapolis,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-09-17T16:20:24+0000,45.139.104.151,30,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,49.3 Networking LLC,,AS399979 49.3 Networking LLC,
-2024-09-17T17:07:01+0000,186.64.119.150,53,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,mail.blue171.dnsmisitio.net
 2024-09-17T17:16:42+0000,34.121.17.39,61,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,39.17.121.34.bc.googleusercontent.com
 2024-09-17T17:27:54+0000,160.176.250.199,28,Morocco,MA,01,Tanger-Tetouan-Al Hoceima,Tétouan,,35.5762,-5.3662,Africa/Casablanca,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,
 2024-09-17T17:38:10+0000,78.142.63.55,37,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,NS1.bg,NS1,AS57344 Telehouse EAD,cloud.hostingnovapyme22.com
@@ -10192,3 +10189,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-20T13:39:24+0000,52.90.252.250,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-90-252-250.compute-1.amazonaws.com
 2024-09-20T13:48:33+0000,89.46.105.142,62,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host142-105-46-89.serverdedicati.aruba.it
 2024-09-20T13:49:27+0000,185.213.10.181,76,Iran,IR,25,Qom Province,Qom,,34.6235,50.8519,Asia/Tehran,Asre Pardazeshe Ettelaate Amin Institute,Asre Pardazeshe Ettelaate Amin Institute,AS48147 Asre Pardazeshe Ettelaate Amin Institute,
+2024-09-20T14:01:18+0000,77.222.61.125,81,Russia,RU,SPE,St.-Petersburg,St Petersburg,190005,59.8836,30.3303,Europe/Moscow,SpaceWeb Spb,SpaceWeb CJSC,AS44112 SpaceWeb Ltd,vip69.sweb.ru
+2024-09-20T14:15:58+0000,67.205.156.118,37,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2024-09-20T14:41:48+0000,35.192.131.215,100,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS15169 Google LLC,215.131.192.35.bc.googleusercontent.com
+2024-09-20T14:44:18+0000,207.96.149.53,49,Canada,CA,QC,Quebec,Montreal,H4X,45.4954,-73.5583,America/Toronto,Videotron Telecom Ltee,Canada Inc.,AS5769 Videotron Ltee,web2.kpio2.com
+2024-09-20T14:47:04+0000,186.64.119.150,100,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,blue171.dnsmisitio.net
+2024-09-20T14:49:48+0000,103.134.152.6,100,Singapore,SG,01,Central Singapore,Singapore,079903,1.2757,103.846,Asia/Singapore,Cloud Host Pte Ltd,Cloud Host Pte Ltd,AS138608 Cloud Host Pte Ltd,sgz17.cloudhost.id
+2024-09-20T14:51:47+0000,190.201.198.196,4,Venezuela,VE,A,Distrito Federal,Caracas,,10.4873,-66.8738,America/Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela","AS8048 CANTV Servicios, Venezuela",190-201-198-196.dyn.dsl.cantv.net
+2024-09-20T14:51:47+0000,103.189.171.229,4,Indonesia,ID,RI,Riau,Batam,,1.15337,104.025,Asia/Pontianak,PT. Gonet Teknologi Indonesia,PT Lab Beru,AS139446 PT. Gonet Teknologi Indonesia,
+2024-09-20T14:51:47+0000,187.227.128.200,4,Mexico,MX,GRO,Guerrero,Acapulco de Juárez,39700,16.8136,-99.6793,America/Mexico_City,Uninet S.A. de C.V.,UNINET,AS8151 UNINET,dsl-187-227-128-200-dyn.prod-infinitum.com.mx
+2024-09-20T14:51:49+0000,197.43.70.48,4,Egypt,EG,GH,Gharbia,Tanta,,30.7866,31.0004,Africa/Cairo,TE Data,,AS8452 TE-AS,host-197.43.70.48.tedata.net
+2024-09-20T14:51:50+0000,78.179.203.61,15,Turkey,TR,66,Yozgat,Yozgat,66100,39.821,34.8086,Europe/Istanbul,TurkTelecom,Turk Telekomunikasyon A.S,AS47331 TTNet A.S.,78.179.203.61.dynamic.ttnet.com.tr
+2024-09-20T14:51:50+0000,38.222.212.223,15,Venezuela,VE,V,Zulia,Maracaibo,,10.6658,-71.621,America/Caracas,Airtek Solutions C.A.,"Corporacion Matrix TV, C.A.",AS61461 Airtek Solutions C.A.,
+2024-09-20T14:51:53+0000,36.85.4.166,15,Indonesia,ID,KI,East Kalimantan,Balikpapan,,-1.261,116.8105,Asia/Makassar,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-09-20T14:51:53+0000,1.53.235.85,4,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.822,106.6257,Asia/Ho_Chi_Minh,FPT Telecom Company,Vietnam Internet Network Information Center,AS18403 FPT Telecom Company,
+2024-09-20T14:51:54+0000,38.52.143.140,4,Venezuela,VE,O,Nueva Esparta,Pampatar,,11.0008,-63.793,America/Caracas,"CORPORACION VISUAL NUEVA ESPARTA, C.A",CORPORACION VISUAL NUEVA ESPARTA (UNICABLE) C.A,"AS264837 CORPORACION VISUAL NUEVA ESPARTA, C.A",
+2024-09-20T14:51:54+0000,43.251.173.106,4,India,IN,WB,West Bengal,Kolkata,700001,22.518,88.3832,Asia/Kolkata,Meghbela Cable & Broadband Services (P) Ltd,M.B. Corporation,AS45804 MEGHBELA BROADBAND,
+2024-09-20T14:51:57+0000,186.113.175.58,15,Colombia,CO,VAC,Valle del Cauca Department,Santiago de Cali,760001,3.4129,-76.5191,America/Bogota,Colombia Telecomunicaciones S.a. ESP,Colombia Telecomunicaciones S.a. ESP,AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP,
+2024-09-20T14:51:57+0000,180.244.132.213,23,Indonesia,ID,JB,West Java,Bandung,,-6.9217,107.6071,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-09-20T14:52:01+0000,78.190.219.154,4,Türkiye,TR,34,Istanbul,Istanbul,34440,41.0301,28.9651,Europe/Istanbul,TTNet A.S.,Turk Telekomunikasyon A.S,AS47331 TTNet A.S.,78.190.219.154.static.ttnet.com.tr
+2024-09-20T14:52:01+0000,154.183.58.205,4,Egypt,EG,BH,Beheira,Damanhur,,31.0321,30.4716,Africa/Cairo,TE Data,,AS8452 TE-AS,host-154.183.205.58-static.tedata.net
+2024-09-20T14:53:19+0000,66.175.44.21,88,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web161c40.carrierzone.com
+2024-09-20T14:56:30+0000,186.64.114.130,100,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,mail.blue173.dnsmisitio.net
