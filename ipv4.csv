@@ -2799,7 +2799,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-07T02:41:23+0000,65.49.1.36,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,scan-53m.shadowserver.org
 2024-07-07T02:32:59+0000,65.49.1.25,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,scan-53b.shadowserver.org
 2024-07-07T02:42:49+0000,65.49.1.32,100,United States,US,CA,California,San Francisco,94134,37.7232,-122.399,America/Los_Angeles,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,scan-53i.shadowserver.org
-2024-07-07T02:53:40+0000,192.104.34.34,60,United States,US,MN,Minnesota,Minnetonka Mills,55345,44.9354,-93.4675,America/Chicago,US Internet Corp,"ProcessBolt, Inc.",AS10242 US Internet Corp,
 2024-07-07T03:19:04+0000,110.154.97.10,25,China,CN,XJ,Xinjiang,Xingfulu,,43.7934,87.6271,Asia/Urumqi,Chinanet,Chinanet XJ,AS4134 CHINANET-BACKBONE,
 2024-07-07T03:27:20+0000,206.168.34.216,100,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc.",unused-space.coop.net
 2024-07-07T03:29:24+0000,35.205.205.158,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,158.205.205.35.bc.googleusercontent.com
@@ -10002,7 +10001,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-18T05:50:02+0000,34.22.221.19,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,19.221.22.34.bc.googleusercontent.com
 2024-09-18T05:55:35+0000,45.8.22.27,100,United States,US,CA,California,Los Angeles,90060,34.06,-118.24,America/Los_Angeles,Advin Services LLC,Advin Services LLC,AS206216 Advin Services LLC,
 2024-09-18T06:17:34+0000,64.23.232.77,30,United States,US,CA,California,Santa Clara,95054,37.3986,-121.964,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2024-09-18T06:51:10+0000,157.173.114.2,75,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Contabo GmbH,Contabo GmbH,,vmi2148048.contaboserver.net
 2024-09-18T06:57:42+0000,35.215.119.83,15,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS15169 Google LLC,83.119.215.35.bc.googleusercontent.com
 2024-09-18T07:19:34+0000,3.230.151.237,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-230-151-237.compute-1.amazonaws.com
 2024-09-18T07:40:22+0000,154.213.185.230,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Pfcloud UG,Pfcloud UG,AS51396 Pfcloud UG,
@@ -10312,7 +10310,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-22T13:54:41+0000,13.38.84.107,93,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-84-107.eu-west-3.compute.amazonaws.com
 2024-09-22T13:56:09+0000,179.43.191.19,100,Switzerland,CH,ZH,Zurich,Rümlang,8153,47.4505,8.5255,Europe/Zurich,Private Layer INC,Private Layer Inc,AS51852 Private Layer INC,hostedby.privatelayer.com
 2024-09-22T14:09:26+0000,109.248.149.38,27,Latvia,LV,RIX,Rīga,Riga,LV-1063,56.9496,24.0978,Europe/Riga,DataClub S.A.,DataClub S.A,AS52048 DataClub S.A.,
-2024-09-22T14:21:22+0000,35.171.69.89,40,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-171-69-89.compute-1.amazonaws.com
 2024-09-22T14:27:56+0000,35.180.192.138,59,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-192-138.eu-west-3.compute.amazonaws.com
 2024-09-22T15:07:06+0000,13.38.97.109,73,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-97-109.eu-west-3.compute.amazonaws.com
 2024-09-22T15:23:52+0000,46.163.116.243,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5855,7.7418,Europe/Paris,Host Europe GmbH,Host Europe GmbH,AS8972 Host Europe GmbH,lvps46-163-116-243.dedicated.hosteurope.de
@@ -10354,3 +10351,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-23T04:09:15+0000,161.97.180.144,67,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi881353.contaboserver.net
 2024-09-23T04:24:09+0000,91.92.255.120,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-09-23T04:59:38+0000,34.1.28.2,4,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,2.28.1.34.bc.googleusercontent.com
+2024-09-23T11:04:18+0000,35.171.69.89,39,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-171-69-89.compute-1.amazonaws.com
+2024-09-23T11:11:49+0000,34.16.40.22,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,22.40.16.34.bc.googleusercontent.com
+2024-09-23T11:13:44+0000,64.67.88.3,4,United States,US,PA,Pennsylvania,Emmaus,18049,40.5266,-75.4994,America/New_York,PenTeleData Inc.,PenTeleData Inc.,AS3737 PenTeleData Inc.,64.67.88.3.res-cmts.sm3.ptd.net
+2024-09-23T11:36:45+0000,34.0.154.75,4,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC,75.154.0.34.bc.googleusercontent.com
+2024-09-23T12:06:13+0000,103.185.24.60,42,Bangladesh,BD,B,Chittagong,Chittagong,4100,22.2231,91.8441,Asia/Dhaka,CONNECT 3,Farhan Fuad,AS138548 CONNECT 3,
+2024-09-23T12:42:49+0000,34.121.185.77,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,77.185.121.34.bc.googleusercontent.com
+2024-09-23T13:12:50+0000,99.79.73.71,4,Canada,CA,ON,Ontario,Toronto,,43.6532,-79.3832,America/Toronto,"Amazon.com, Inc.",AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",ec2-99-79-73-71.ca-central-1.compute.amazonaws.com
+2024-09-23T13:15:09+0000,34.170.29.29,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,29.29.170.34.bc.googleusercontent.com
+2024-09-23T13:20:13+0000,3.9.170.90,100,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc.",ec2-3-9-170-90.eu-west-2.compute.amazonaws.com
+2024-09-23T14:32:15+0000,54.172.67.14,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-172-67-14.compute-1.amazonaws.com
+2024-09-23T14:38:52+0000,18.207.213.168,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-207-213-168.compute-1.amazonaws.com
+2024-09-23T14:39:20+0000,34.31.60.136,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,136.60.31.34.bc.googleusercontent.com
+2024-09-23T15:03:53+0000,172.83.15.21,100,United States,US,NY,New York,New York,10123,40.7128,-74.006,America/New_York,,47,AS394996 47-2339071,
+2024-09-23T15:10:17+0000,192.104.34.34,53,United States,US,MN,Minnesota,Minnetonka Mills,55345,44.9354,-93.4675,America/Chicago,US Internet Corp,"ProcessBolt, Inc.",AS10242 US Internet Corp,
+2024-09-23T17:02:41+0000,3.216.126.141,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-216-126-141.compute-1.amazonaws.com
+2024-09-23T17:41:03+0000,34.140.189.137,15,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,137.189.140.34.bc.googleusercontent.com
+2024-09-23T17:50:36+0000,44.199.244.44,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-199-244-44.compute-1.amazonaws.com
+2024-09-23T17:51:26+0000,157.173.114.2,100,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Contabo GmbH,Contabo GmbH,,vmi2148048.contaboserver.net
+2024-09-23T17:54:43+0000,4.213.60.8,100,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,
+2024-09-23T19:09:23+0000,180.110.243.101,36,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE,
