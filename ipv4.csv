@@ -10441,7 +10441,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-25T17:59:01+0000,34.222.183.23,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-222-183-23.us-west-2.compute.amazonaws.com
 2024-09-25T18:00:31+0000,186.64.114.85,95,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,pyme132.pymedns.net
 2024-09-25T18:16:48+0000,185.118.196.22,96,Germany,DE,NW,North Rhine-Westphalia,Hückeswagen,42499,51.1448,7.35196,Europe/Berlin,Dolphin IT-Systeme e.K.,Dolphin IT-Systeme e.K.,AS204028 Dolphin IT-Systeme e.K.,web02.agentur-b-2.de
-2024-09-25T18:21:09+0000,104.168.146.130,71,United States,US,WA,Washington,Seattle,98168,47.4941,-122.294,America/Los_Angeles,Hostwinds LLC.,Hostwinds LLC,AS54290 Hostwinds LLC.,hwsrv-1211061.hostwindsdns.com
 2024-09-25T18:26:07+0000,13.58.97.162,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-13-58-97-162.us-east-2.compute.amazonaws.com
 2024-09-25T18:27:25+0000,103.213.38.132,99,Bangladesh,BD,C,Dhaka Division,Dhaka,1215,23.7607,90.3947,Asia/Dhaka,Wolast Technologies,GOTMYHOST,AS150142 Wolast Technologies,
 2024-09-25T18:34:33+0000,185.165.29.200,100,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),,AS59441 Hostiran Network,
@@ -10471,7 +10470,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-25T22:35:08+0000,34.45.102.125,29,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,125.102.45.34.bc.googleusercontent.com
 2024-09-25T23:05:35+0000,37.230.96.223,100,The Netherlands,NL,ZH,South Holland,Rotterdam,3063,51.9179,4.51508,Europe/Amsterdam,XL Network,XL  B.V.,AS35470 Signet B.V.,vps32056.public.cloudvps.com
 2024-09-25T23:10:39+0000,172.104.32.82,85,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172-104-32-82.ip.linodeusercontent.com
-2024-09-25T23:10:55+0000,139.59.5.165,74,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-09-25T23:17:46+0000,44.202.197.167,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-202-197-167.compute-1.amazonaws.com
 2024-09-25T23:18:33+0000,185.202.113.117,85,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,BitCommand LLC,,AS212552 BitCommand LLC,mail.iranlicorice.com
 2024-09-25T23:27:54+0000,91.196.212.198,23,Poland,PL,12,Lesser Poland,Krakow,31-108,50.0548,19.9301,Europe/Warsaw,TELNET Sp. z o.o.,TELNET Sp. z o.o,AS43244 TELNET Sp. z o.o.,sl198.slsystems.pl
@@ -10599,3 +10597,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-27T15:01:37+0000,77.237.241.38,98,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1842349.contaboserver.net
 2024-09-27T15:03:46+0000,66.175.44.25,43,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web165c40.carrierzone.com
 2024-09-27T15:04:25+0000,151.106.41.95,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6974,3.178,Europe/Paris,Host Europe GmbH,Go Daddy Netherlands B.V,AS34088 Host Europe GmbH,ns3188779.ip-151-106-41.eu
+2024-09-27T15:08:19+0000,217.182.60.64,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,chen zexin,AS16276 OVH SAS,vps-c620b342.vps.ovh.net
+2024-09-27T15:08:26+0000,103.159.50.233,100,Vietnam,VN,70,Vĩnh Phúc Province,Làng Hà,,21.0129,105.813,Asia/Bangkok,NHANHOASOLUTIONS,Nhan HOA Business Solutions Joint Stock Company,AS131353 NhanHoa Software company,
+2024-09-27T15:10:12+0000,104.168.146.130,100,United States,US,WA,Washington,Seattle,98168,47.4941,-122.294,America/Los_Angeles,Hostwinds LLC.,Hostwinds LLC,AS54290 Hostwinds LLC.,hwsrv-1211061.hostwindsdns.com
+2024-09-27T15:14:02+0000,52.38.109.83,100,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-52-38-109-83.us-west-2.compute.amazonaws.com
+2024-09-27T15:14:43+0000,52.23.255.112,30,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-23-255-112.compute-1.amazonaws.com
+2024-09-27T15:17:00+0000,141.94.104.205,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9959,2.11757,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,po1b.airmob-digital.com
+2024-09-27T15:19:57+0000,94.250.203.88,90,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,euro3.mozserver.com
+2024-09-27T15:31:32+0000,95.47.127.35,100,Uzbekistan,UZ,TK,Tashkent,Tashkent,,41.2615,69.2177,Asia/Tashkent,PRO DATA-TECH Ltd.,PRO DATA-TECH Ltd,AS213029 PRO DATA-TECH Ltd.,owntalents.uz
+2024-09-27T15:34:24+0000,203.26.151.73,100,Bangladesh,BD,C,Dhaka Division,Dhaka,1207,23.7604,90.3701,Asia/Dhaka,Khaled Istiak Sayem,ColoCloud,AS150142 Wolast Technologies,bdix99.cbnex.com
+2024-09-27T15:34:52+0000,3.145.125.238,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-145-125-238.us-east-2.compute.amazonaws.com
+2024-09-27T15:34:52+0000,3.70.161.113,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-70-161-113.eu-central-1.compute.amazonaws.com
+2024-09-27T15:34:52+0000,35.164.66.255,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-164-66-255.us-west-2.compute.amazonaws.com
+2024-09-27T15:37:01+0000,95.170.74.20,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,TransIP B.V. Amsterdam network,Transip B.V,AS20857 Signet B.V.,95-170-74-20.colo.transip.net
+2024-09-27T15:48:30+0000,77.68.100.201,100,United Kingdom,GB,ENG,England,Gloucester,GL1 2EX,51.8613,-2.25056,Europe/London,IONOS SE,Fasthosts Internet Limited,AS8560 IONOS SE,
+2024-09-27T15:49:55+0000,172.56.95.252,4,United States,US,TX,Texas,San Antonio,78216,29.5359,-98.4943,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-09-27T15:51:55+0000,68.178.227.190,88,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",190.227.178.68.host.secureserver.net
+2024-09-27T16:05:30+0000,103.163.214.6,100,Vietnam,VN,HN,Hanoi,Phú Lâm,,20.9388,105.756,Asia/Bangkok,Lanit Technology and Communication Joint Stock Company,Dong Hung PHU Company Limited,AS131366 Lanit Technology and Communication Joint Stock Company,
+2024-09-27T16:05:42+0000,185.146.87.240,100,Romania,RO,B,București,Bucharest,052828,44.4291,26.1006,Europe/Bucharest,CLAUS WEB srl,GTS Telecom,AS203053 CLAUS WEB srl,cw185-adf-hg240.romania-webhosting.com
+2024-09-27T16:07:34+0000,51.83.43.3,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-ec227b11.vps.ovh.net
+2024-09-27T16:12:05+0000,139.59.5.165,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-09-27T16:15:22+0000,178.210.166.138,75,Turkey,TR,34,Istanbul,Istanbul,34122,41.0082,28.9784,Europe/Istanbul,MARKUM-CLOUD,,AS56582 NETFACTOR TELEKOMINIKASYON VE TEKNOLOJI HIZMETLERI SANAYI VE JSC,webware.com.tr
