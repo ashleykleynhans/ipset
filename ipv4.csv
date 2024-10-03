@@ -10524,7 +10524,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-27T09:34:12+0000,34.0.198.29,19,Spain,ES,MD,Madrid,Madrid,,40.4167,-3.7037,Europe/Madrid,Google LLC,Google Cloud (europe-southwest1),AS15169 Google LLC,29.198.0.34.bc.googleusercontent.com
 2024-09-27T09:39:16+0000,34.1.1.233,23,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC,233.1.1.34.bc.googleusercontent.com
 2024-09-27T09:40:26+0000,35.219.237.72,15,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC,72.237.219.35.bc.googleusercontent.com
-2024-09-27T09:52:10+0000,158.220.117.44,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
 2024-09-27T09:58:18+0000,35.240.127.158,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,158.127.240.35.bc.googleusercontent.com
 2024-09-27T10:36:29+0000,34.118.161.132,4,Canada,CA,QC,Quebec,Montreal,,45.5016,-73.5672,America/Toronto,Google LLC,Google Cloud (northamerica-northeast1),AS396982 Google LLC,132.161.118.34.bc.googleusercontent.com
 2024-09-27T10:51:20+0000,3.237.174.173,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-237-174-173.compute-1.amazonaws.com
@@ -10617,7 +10616,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-27T18:58:32+0000,107.180.118.59,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",59.118.180.107.host.secureserver.net
 2024-09-27T19:02:46+0000,158.220.114.64,22,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161466.contaboserver.net
 2024-09-27T19:14:16+0000,194.143.194.245,100,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,Redestel Networks S.L.,Redestel ZGZ Hosting,AS8311 Redestel Networks S.L.,plesk.zcenter.es
-2024-09-27T19:23:29+0000,195.110.124.130,41,Italy,IT,25,Lombardy,Milan,20121,45.4642,9.18998,Europe/Rome,Register S.P.A.,VIP Vlan,AS39729 REGISTER S.P.A.,alteon.register.it
 2024-09-27T19:37:12+0000,186.64.116.195,100,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,mail.blue185.dnsmisitio.net
 2024-09-27T20:06:52+0000,103.146.203.40,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.21462,106.845,Asia/Jakarta,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,AS136052 PT Cloud Hosting Indonesia,
 2024-09-27T20:07:20+0000,14.248.82.120,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,VNPT,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp,
@@ -10821,7 +10819,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-02T08:32:21+0000,182.40.38.5,68,China,CN,SD,Shandong,Jinan,250000,36.6683,117.021,Asia/Shanghai,China Telecom,Chinanet SD,"AS136195 Qingdao, Shandong Province, P.R.China.",
 2024-10-02T08:45:42+0000,156.38.250.198,43,South Africa,ZA,GP,Gauteng,Pretoria,0173,-25.7599,28.2604,Africa/Johannesburg,Xneelo (Pty) Ltd,Xneelo Jnb Managed,AS37153 Xneelo (Pty) Ltd,www516.jnb3.host-h.net
 2024-10-02T09:52:12+0000,173.255.211.184,37,United States,US,CA,California,Fremont,94536,37.5625,-122.0004,America/Los_Angeles,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,173-255-211-184.ip.linodeusercontent.com
-2024-10-02T10:09:11+0000,103.189.173.149,4,India,IN,HR,Haryana,Gurugram,110037,28.4857,77.0921,Asia/Kolkata,Acefone Software Private Limited,Acefone Software Private Limited,AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED,
 2024-10-02T10:19:28+0000,57.129.13.144,100,Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS,vps-58cc5713.vps.ovh.net
 2024-10-02T11:32:08+0000,146.190.111.44,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-02T12:23:05+0000,158.220.111.143,58,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161464.contaboserver.net
@@ -10831,3 +10828,33 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-02T14:11:01+0000,34.1.5.17,15,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC,17.5.1.34.bc.googleusercontent.com
 2024-10-02T14:14:40+0000,112.78.125.227,43,Japan,JP,27,Osaka,Osaka,540-0002,34.704,135.495,Asia/Tokyo,SAKURA Internet Inc.,SAKURA,AS9371 SAKURA Internet Inc.,www2387.sakura.ne.jp
 2024-10-02T15:30:10+0000,154.216.17.83,100,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.8985,23.9036,Europe/Vilnius,Silent Connections LTD,Silent Connections LTD,AS215240 Silent Connection Ltd.,
+2024-10-02T15:48:04+0000,174.196.42.168,4,United States,US,KS,Kansas,Kansas City,66102,39.1134,-94.674,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,168.sub-174-196-42.myvzw.com
+2024-10-02T16:33:14+0000,103.189.173.149,42,India,IN,HR,Haryana,Gurugram,110037,28.4857,77.0921,Asia/Kolkata,Acefone Software Private Limited,Acefone Software Private Limited,AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED,
+2024-10-02T17:05:05+0000,34.151.123.240,4,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS396982 Google LLC,240.123.151.34.bc.googleusercontent.com
+2024-10-02T18:58:46+0000,35.219.237.121,24,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC,121.237.219.35.bc.googleusercontent.com
+2024-10-02T19:11:17+0000,146.190.83.60,94,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-02T19:42:23+0000,20.169.44.107,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
+2024-10-02T20:07:24+0000,158.220.117.44,41,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
+2024-10-02T20:08:12+0000,154.216.17.87,100,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.8985,23.9036,Europe/Vilnius,Silent Connections LTD,Silent Connections LTD,AS215240 Silent Connection Ltd.,
+2024-10-02T22:00:04+0000,79.124.58.138,100,Bulgaria,BG,16,Plovdiv,Sopot,4330,42.6539,24.7548,Europe/Sofia,Tamatiya EOOD,Tamatiya EOOD,AS50360 Tamatiya EOOD,ip-58-138.4vendeta.com
+2024-10-02T22:23:05+0000,202.62.48.104,100,Cambodia,KH,12,Phnom Penh,Phnom Penh,,11.5583,104.9121,Asia/Phnom_Penh,"COGETEL Co., Ltd",COGETEL,"AS23673 Cogetel Online, Cambodia, ISP",headquarter.online.com.kh
+2024-10-02T23:11:22+0000,54.242.154.86,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-242-154-86.compute-1.amazonaws.com
+2024-10-02T23:31:54+0000,195.110.124.130,37,Italy,IT,25,Lombardy,Milan,20121,45.4642,9.18998,Europe/Rome,Register S.P.A.,VIP Vlan,AS39729 REGISTER S.P.A.,alteon.register.it
+2024-10-02T23:34:45+0000,34.135.167.136,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,136.167.135.34.bc.googleusercontent.com
+2024-10-03T00:04:02+0000,34.133.255.57,39,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,57.255.133.34.bc.googleusercontent.com
+2024-10-03T00:08:48+0000,35.222.139.124,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,124.139.222.35.bc.googleusercontent.com
+2024-10-03T00:13:07+0000,35.239.61.253,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,253.61.239.35.bc.googleusercontent.com
+2024-10-03T00:32:53+0000,78.190.195.189,4,Türkiye,TR,54,Sakarya,Adapazarı,54100,40.7782,30.4017,Europe/Istanbul,TTNet A.S.,Turk Telekomunikasyon A.S,AS47331 TTNet A.S.,78.190.195.189.static.ttnet.com.tr
+2024-10-03T00:32:54+0000,181.133.75.252,11,Colombia,CO,VAC,Valle del Cauca Department,Santiago de Cali,760022,3.4129,-76.5191,America/Bogota,EPM Telecomunicaciones S.A. E.S.P.,EPM Telecomunicaciones S.A. E.S.P,AS13489 EPM Telecomunicaciones S.A. E.S.P.,cable-181-133-75-252.une.net.co
+2024-10-03T00:32:57+0000,45.242.182.133,4,Egypt,EG,GH,Gharbia,Zefta,,30.7144,31.2504,Africa/Cairo,LINKdotNET AS number,Link Egypt (Link.NET),AS24863 Link Egypt (Link.NET),
+2024-10-03T00:32:57+0000,154.251.142.147,4,Algeria,DZ,25,Constantine,Constantine,25025,36.4188,6.5577,Africa/Algiers,Telecom Algeria,new,AS36947 Telecom Algeria,
+2024-10-03T00:33:00+0000,124.217.116.151,4,Philippines,PH,11,Davao Region,Davao City,8000,7.0712,125.6089,Asia/Manila,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Co,AS9299 Philippine Long Distance Telephone Company,
+2024-10-03T00:34:43+0000,34.219.26.31,15,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-219-26-31.us-west-2.compute.amazonaws.com
+2024-10-03T01:38:15+0000,89.116.28.37,36,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Lrtc Network Rent,"SC ""Lithuanian Radio and TV Center""",AS51167 Contabo GmbH,vmi2141300.contaboserver.net
+2024-10-03T02:12:27+0000,201.179.24.42,30,Argentina,AR,B,Buenos Aires,Mar del Plata,7600,-37.9954,-57.5351,America/Argentina/Buenos_Aires,Telefonica de Argentina,Telefonica de Argentina,AS22927 Telefonica de Argentina,201-179-24-42.speedy.com.ar
+2024-10-03T02:13:16+0000,64.226.98.115,28,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",doaprdurlanalyser04eseu13.production.topsec.com
+2024-10-03T02:22:52+0000,34.78.1.92,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,92.1.78.34.bc.googleusercontent.com
+2024-10-03T02:44:52+0000,4.240.37.142,100,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,
+2024-10-03T03:55:20+0000,54.39.234.89,24,Canada,CA,QC,Quebec,Beauharnois,J6N,45.3161,-73.8736,America/Toronto,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,ssd8.hnc.cl
+2024-10-03T04:59:45+0000,159.65.137.24,4,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-03T05:14:22+0000,34.68.38.138,15,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,138.38.68.34.bc.googleusercontent.com
