@@ -1895,7 +1895,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-04T08:29:52+0000,185.51.134.168,24,Greece,GR,I,Attica,Athens,,37.9838,23.7275,Europe/Athens,EstNOC OY,Estnoc Global,AS206804 EstNOC OY,
 2024-07-04T08:47:12+0000,178.62.211.237,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
 2024-07-04T08:54:59+0000,149.34.245.199,68,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-34-245-199.datapacket.com
-2024-07-04T09:03:58+0000,181.214.173.87,32,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-07-04T09:26:47+0000,81.181.63.30,16,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Binbox Global Services SRL,AS212238 Datacamp Limited,
 2024-07-04T09:34:32+0000,217.148.140.138,57,United States,US,AZ,Arizona,Phoenix,85034,33.4383,-112.018,America/Phoenix,M247 Europe SRL,M24Seven PHOENIX,AS9009 M247 Europe SRL,
 2024-07-04T09:38:43+0000,77.243.80.67,100,Kazakhstan,KZ,75,Almaty,Almaty,,43.2433,76.8646,Asia/Almaty,PS Internet Company LLP,PS Internet Company LLP,AS48716 PS Internet Company LLP,
@@ -10842,7 +10841,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-03T00:32:57+0000,45.242.182.133,4,Egypt,EG,GH,Gharbia,Zefta,,30.7144,31.2504,Africa/Cairo,LINKdotNET AS number,Link Egypt (Link.NET),AS24863 Link Egypt (Link.NET),
 2024-10-03T00:32:57+0000,154.251.142.147,4,Algeria,DZ,25,Constantine,Constantine,25025,36.4188,6.5577,Africa/Algiers,Telecom Algeria,new,AS36947 Telecom Algeria,
 2024-10-03T00:33:00+0000,124.217.116.151,4,Philippines,PH,11,Davao Region,Davao City,8000,7.0712,125.6089,Asia/Manila,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Co,AS9299 Philippine Long Distance Telephone Company,
-2024-10-03T01:38:15+0000,89.116.28.37,36,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Lrtc Network Rent,"SC ""Lithuanian Radio and TV Center""",AS51167 Contabo GmbH,vmi2141300.contaboserver.net
 2024-10-03T02:12:27+0000,201.179.24.42,30,Argentina,AR,B,Buenos Aires,Mar del Plata,7600,-37.9954,-57.5351,America/Argentina/Buenos_Aires,Telefonica de Argentina,Telefonica de Argentina,AS22927 Telefonica de Argentina,201-179-24-42.speedy.com.ar
 2024-10-03T02:13:16+0000,64.226.98.115,28,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",doaprdurlanalyser04eseu13.production.topsec.com
 2024-10-03T02:22:52+0000,34.78.1.92,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,92.1.78.34.bc.googleusercontent.com
@@ -10908,3 +10906,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-04T03:19:30+0000,172.56.149.194,4,United States,US,ID,Idaho,Boise,83709,43.578,-116.2954,America/Boise,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-04T04:40:47+0000,34.69.214.147,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,147.214.69.34.bc.googleusercontent.com
 2024-10-04T05:11:42+0000,164.132.171.176,58,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
+2024-10-04T05:59:35+0000,68.203.178.187,4,United States,US,TX,Texas,Lancaster,75146,32.5898,-96.775,America/Chicago,Charter Communications,Spectrum,AS11427 Charter Communications Inc,syn-068-203-178-187.res.spectrum.com
+2024-10-04T06:26:15+0000,77.90.185.46,100,Germany,DE,BY,Bavaria,Augsburg,86161,48.3459,10.9161,Europe/Berlin,Inside Network LTD,Inside Network LTD,AS215476 Inside Network LTD,
+2024-10-04T08:40:57+0000,52.15.65.38,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-52-15-65-38.us-east-2.compute.amazonaws.com
+2024-10-04T09:02:55+0000,128.199.108.50,4,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-04T09:12:06+0000,45.137.198.155,43,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,RoyaleHosting BV,RoyaleHosting BV,AS212477 RoyaleHosting BV,hosted-by.royalehosting.net
+2024-10-04T09:44:08+0000,35.226.68.110,15,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,110.68.226.35.bc.googleusercontent.com
+2024-10-04T10:10:42+0000,139.162.31.174,43,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,LINODE,"Linode, LLC",AS63949 Akamai Connected Cloud,139-162-31-174.ip.linodeusercontent.com
+2024-10-04T10:34:43+0000,34.69.57.85,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,85.57.69.34.bc.googleusercontent.com
+2024-10-04T11:15:33+0000,44.220.170.43,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-220-170-43.compute-1.amazonaws.com
+2024-10-04T12:26:53+0000,54.147.207.152,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-147-207-152.compute-1.amazonaws.com
+2024-10-04T12:42:41+0000,89.116.28.37,51,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Lrtc Network Rent,"SC ""Lithuanian Radio and TV Center""",AS51167 Contabo GmbH,vmi2141300.contaboserver.net
+2024-10-04T12:58:37+0000,172.56.148.106,4,United States,US,ID,Idaho,Boise,83709,43.578,-116.2954,America/Boise,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-04T13:16:29+0000,31.13.224.102,100,Bulgaria,BG,13,Pazardzhik,Sarnitsa,4623,41.7295,24.0323,Europe/Sofia,Nybula LLC,Nybula LLC,AS401116 Nybula LLC,
+2024-10-04T13:37:02+0000,167.100.110.5,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,M247 Europe SRL,Ultra Internet Communications LLC,AS9009 M247 Europe SRL,
+2024-10-04T13:37:08+0000,193.70.103.255,17,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ip255.ip-193-70-103.eu
+2024-10-04T13:48:11+0000,35.224.187.181,22,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,181.187.224.35.bc.googleusercontent.com
+2024-10-04T14:15:10+0000,24.96.157.80,4,United States,US,AL,Alabama,Madison,35758,34.7095,-86.7361,America/Chicago,WideOpenWest Finance LLC,Wide Open West,AS12083 WideOpenWest Finance LLC,static-24-96-157-80.knology.net
+2024-10-04T14:46:06+0000,3.238.16.102,94,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-16-102.compute-1.amazonaws.com
+2024-10-04T15:08:11+0000,181.214.173.87,21,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
+2024-10-04T15:09:35+0000,174.196.56.88,4,United States,US,MO,Missouri,Fenton,63026,38.4998,-90.465,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,88.sub-174-196-56.myvzw.com
+2024-10-04T15:19:23+0000,174.243.52.195,4,United States,US,MO,Missouri,St Louis,63127,38.5388,-90.4053,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,195.sub-174-243-52.myvzw.com
