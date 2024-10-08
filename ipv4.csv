@@ -7751,7 +7751,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-22T06:43:33+0000,193.189.100.196,90,Sweden,SE,AB,Stockholm County,Stockholm,100 05,59.3293,18.0686,Europe/Stockholm,KeFF Networks Ltd,KeFF Networks Ltd,AS41281 KeFF Networks Ltd,tor-exit-3
 2024-08-22T06:52:34+0000,45.41.179.237,32,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,HostRoyale LLC,HostRoyale Technologies,AS46516 HostRoyale LLC,
 2024-08-22T06:52:34+0000,64.137.88.139,32,Austria,AT,9,Vienna,Vienna,1010,48.2082,16.3738,Europe/Vienna,"Tesonet, UAB",Code At4,"AS133944 trafficforce, UAB",
-2024-08-22T06:52:34+0000,45.43.83.94,39,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
 2024-08-22T06:52:34+0000,173.211.30.147,37,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Colocation America Corporation,Code200,AS21769 Colocation America Corporation,
 2024-08-22T06:52:34+0000,147.185.217.36,26,Switzerland,CH,ZH,Zurich,Zurich,8000,47.3769,8.54169,Europe/Zurich,Grupo Panaglobal 15 S.A,,AS264617 GRUPO PANAGLOBAL 15 S.A,
 2024-08-22T06:52:34+0000,104.239.104.137,26,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,UAB code200,Fastplanet LTD,AS205659 UAB code200,
@@ -10337,7 +10336,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-24T10:54:57+0000,18.184.43.20,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-184-43-20.eu-central-1.compute.amazonaws.com
 2024-09-24T12:01:15+0000,116.18.129.61,15,China,CN,GD,Guangdong,Dongguan,,23.0177,113.7506,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2024-09-24T12:14:50+0000,4.213.56.41,100,India,IN,MH,Maharashtra,Pune,411001,18.5144,73.864235,Asia/Kolkata,Microsoft Corporation,Microsoft Azure Cloud (centralindia),AS8075 Microsoft Corporation,
-2024-09-24T13:20:01+0000,54.90.219.82,24,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-90-219-82.compute-1.amazonaws.com
 2024-09-24T13:26:14+0000,34.44.52.135,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,135.52.44.34.bc.googleusercontent.com
 2024-09-24T14:01:34+0000,83.69.230.5,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Citytelecom LLC,Hostline,AS12616 Citytelecom LLC,vh12.hostline.ru
 2024-09-24T14:56:28+0000,181.214.218.133,33,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications,
@@ -10789,7 +10787,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-02T05:46:14+0000,104.164.161.235,4,United States,US,MD,Maryland,Thurmont,21788,39.6103,-77.4064,America/New_York,EGIHosting,KNB Proxy World,AS11404 Wave Broadband,
 2024-10-02T06:39:03+0000,109.37.150.62,4,The Netherlands,NL,UT,Utrecht,Utrecht,3571,52.1068,5.134,Europe/Amsterdam,VODAFONE,,AS15480 Vodafone Libertel B.V.,
 2024-10-02T06:54:02+0000,94.156.167.199,56,Bulgaria,BG,03,Varna,Varna,9000,43.2161,27.8871,Europe/Sofia,Sarnica,,AS48584 Sarnica-Net LTD,
-2024-10-02T07:25:08+0000,54.38.166.232,49,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6927,3.17785,Europe/Paris,OVH SAS,Kouassi Patrick,AS16276 OVH SAS,gw2.ovh.smile.ci
 2024-10-02T07:25:21+0000,197.221.14.94,29,South Africa,ZA,WC,Western Cape,Villiersdorp,6848,-33.9969,19.2873,Africa/Johannesburg,xneelo-CPT,,AS37153 Xneelo (Pty) Ltd,www11.cpt4.host-h.net
 2024-10-02T07:38:04+0000,81.88.53.92,78,Italy,IT,25,Lombardy,Bergamo,24126,45.6711,9.67577,Europe/Rome,Register.IT S.p.A,Register.IT S.p.A.,AS39729 REGISTER S.P.A.,lhcp3342.webapps.net
 2024-10-02T08:23:27+0000,138.68.155.28,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -10979,7 +10976,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-05T18:08:40+0000,43.229.113.179,91,South Korea,KR,11,Seoul,Yongsan-dong,06245,37.4901,127.035,Asia/Seoul,Yancy Limited,MOACK.Co.LTD,AS138415 Yancy Limited,
 2024-10-05T18:10:40+0000,34.0.76.31,15,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0852,34.7817,Asia/Jerusalem,Google LLC,Google Cloud (me-west1),AS19527 Google LLC,31.76.0.34.bc.googleusercontent.com
 2024-10-05T20:15:39+0000,52.47.84.120,65,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-52-47-84-120.eu-west-3.compute.amazonaws.com
-2024-10-05T20:17:40+0000,181.44.116.13,15,Argentina,AR,B,Buenos Aires,Buenos Aires,1772,-36,-59.9964,America/Argentina/Buenos_Aires,Telecentro S.A.,Telecentro S.A,AS27747 Telecentro S.A.,cpe-181-44-116-13.telecentro-reversos.com.ar
 2024-10-05T20:49:25+0000,34.42.120.34,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,34.120.42.34.bc.googleusercontent.com
 2024-10-05T21:05:25+0000,35.188.70.78,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,78.70.188.35.bc.googleusercontent.com
 2024-10-05T21:14:07+0000,174.242.135.124,4,United States,US,CT,Connecticut,Hartford,06103,41.7649,-72.6777,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,124.sub-174-242-135.myvzw.com
@@ -11112,3 +11108,35 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-07T13:55:26+0000,54.81.109.240,13,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-81-109-240.compute-1.amazonaws.com
 2024-10-07T14:06:28+0000,194.38.20.13,100,Ukraine,UA,12,Dnipropetrovsk Oblast,Dnipro,49010,48.4735,35.046,Europe/Kyiv,NTS,,AS48693 Rices Privately owned enterprise,nbl32.ntup.net
 2024-10-07T14:06:44+0000,36.70.107.72,87,Indonesia,ID,JB,West Java,Bekasi,,-6.2352,106.9922,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-07T14:15:22+0000,77.68.114.40,15,United Kingdom,GB,ENG,England,Gloucester,GL1,51.8642,-2.23816,Europe/London,Fasthosts Internet Ltd,Fasthosts Internet Limited,AS8560 IONOS SE,server.anydigitalmarketing.co.uk
+2024-10-07T14:27:07+0000,54.38.166.232,100,Ivory Coast,CI,AB,Abidjan Autonomous District,Abidjan,,5.35995,-4.00826,Africa/Abidjan,OVH SAS,Kouassi Patrick,AS16276 OVH SAS,gw2.ovh.smile.ci
+2024-10-07T16:38:13+0000,195.178.110.154,100,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Pptechnology Limited,API VERSA OU,AS48090 PPTECHNOLOGY LIMITED,
+2024-10-07T16:39:19+0000,67.53.59.70,4,United States,US,HI,Hawaii,Hilo,96720,19.706,-155.0928,Pacific/Honolulu,Spectrum,Grand Wailea,AS20001 Charter Communications Inc,syn-067-053-059-070.biz.spectrum.com
+2024-10-07T17:04:48+0000,128.199.166.218,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-07T17:39:52+0000,172.56.161.58,4,United States,US,NY,New York,Brooklyn,11221,40.6877,-73.9267,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-07T20:14:20+0000,177.26.229.1,4,Brazil,BR,SP,São Paulo,São Paulo,01000,-23.6283,-46.6409,America/Sao_Paulo,Vivo,TELEF�NICA BRASIL S.A,AS26599 TELEFÔNICA BRASIL S.A,ip-177-26-229-1.user.vivozap.com.br
+2024-10-07T20:16:06+0000,200.211.178.110,4,Brazil,BR,SP,São Paulo,São Paulo,01000,-23.6283,-46.6409,America/Sao_Paulo,Claro S.A,Claro S/A,AS4230 CLARO S.A.,
+2024-10-07T21:14:52+0000,186.14.200.207,4,Venezuela,VE,G,Carabobo,Naguanagua,,10.2646,-68.0121,America/Caracas,Corporación Telemic C.A.,Corporación Telemic C.A,AS21826 Corporación Telemic C.A.,
+2024-10-07T21:14:54+0000,196.176.171.212,4,Tunisia,TN,11,Tunis Governorate,Tunis,,36.8232,10.1701,Africa/Tunis,ooredoo TN,,AS37693 OOREDOO TUNISIE SA,
+2024-10-07T21:14:57+0000,189.28.73.168,25,Bolivia,BO,S,Santa Cruz Department,Santa Cruz,,-17.7834,-63.1822,America/La_Paz,Telefónica Celular de Bolivia S.A.,Telefonica Celular de Bolivia S.A,AS27882 Telefónica Celular de Bolivia S.A.,LPZ-189-28-73-00168.tigo.bo
+2024-10-07T21:15:08+0000,171.4.213.181,16,Thailand,TH,50,Chiang Mai,Chiang Mai,50000,18.7929,99.0004,Asia/Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,AS45758 Triple T Broadband Public Company Limited,mx-ll-171.4.213-181.dynamic.3bb.co.th
+2024-10-07T21:24:56+0000,50.118.248.58,4,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,EGIHosting,AS18779 EGIHosting,
+2024-10-07T21:55:49+0000,181.44.116.13,14,Argentina,AR,B,Buenos Aires,Buenos Aires,1772,-36,-59.9964,America/Argentina/Buenos_Aires,Telecentro S.A.,Telecentro S.A,AS27747 Telecentro S.A.,cpe-181-44-116-13.telecentro-reversos.com.ar
+2024-10-07T22:22:50+0000,156.228.111.63,4,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Octopus Web Solution Inc,3xK Tech GmbH,AS200373 3xK Tech GmbH,
+2024-10-07T22:22:59+0000,154.94.14.184,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Multacom Corporation,3xK Tech GmbH,AS200373 3xK Tech GmbH,
+2024-10-07T22:23:04+0000,45.202.77.104,4,Italy,IT,62,Lazio,Rome,00187,41.9028,12.4964,Europe/Rome,3xK Tech GmbH,3xK Tech GmbH,AS200373 3xK Tech GmbH,
+2024-10-07T22:31:33+0000,39.37.248.34,4,Pakistan,PK,PB,Punjab,Faisalabad,38000,31.3709,73.0336,Asia/Karachi,Pakistan Telecommuication company limited,PTCL MMBB MetroE Project FAISALABAD,AS17557 Pakistan Telecommunication Company Limited,
+2024-10-07T22:31:35+0000,182.253.55.255,4,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,BIZNET,,AS17451 BIZNET NETWORKS,
+2024-10-07T22:31:39+0000,181.128.72.86,4,Colombia,CO,ANT,Antioquia,Medellín,050035,6.2529,-75.5646,America/Bogota,EPM Telecomunicaciones S.A. E.S.P.,EPM Telecomunicaciones S.A. E.S.P,AS13489 EPM Telecomunicaciones S.A. E.S.P.,adsl-181-128-72-86.une.net.co
+2024-10-07T22:31:39+0000,103.165.71.31,13,India,IN,WB,West Bengal,Siliguri,734013,26.7084,88.4318,Asia/Kolkata,Meera It Solutions Pvt Ltd,Meera It Solutions Pvt Ltd,AS141873 Meera It Solutions Pvt Ltd,
+2024-10-07T22:31:41+0000,197.54.25.181,4,Egypt,EG,PTS,Port Said,Port Said,,31.2677,32.3039,Africa/Cairo,TE Data,,AS8452 TE-AS,host-197.54.25.181.tedata.net
+2024-10-07T22:31:44+0000,157.100.137.15,4,Ecuador,EC,P,Pichincha,Quito,,-0.2309,-78.5211,America/Guayaquil,Telconet S.A,Ecuanet - Corporacion Ecuatoriana De Informacion,AS27947 Telconet S.A,jurimat.celec.gob.ec
+2024-10-07T22:50:45+0000,174.202.4.167,4,United States,US,HI,Hawaii,Honolulu,96819,21.3513,-157.8725,Pacific/Honolulu,Verizon Business,Verizon Business,AS6167 Verizon Business,167.sub-174-202-4.myvzw.com
+2024-10-07T23:25:07+0000,45.147.251.202,4,Spain,ES,MD,Madrid,Madrid,28108,40.4167,-3.7037,Europe/Madrid,"Kamatera, Inc.",Cloudwebmanage EU MD,"AS36007 Kamatera, Inc.",
+2024-10-07T23:50:06+0000,3.87.207.20,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-87-207-20.compute-1.amazonaws.com
+2024-10-08T00:29:05+0000,13.39.49.100,60,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-39-49-100.eu-west-3.compute.amazonaws.com
+2024-10-08T00:59:08+0000,54.90.219.82,26,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-90-219-82.compute-1.amazonaws.com
+2024-10-08T01:13:30+0000,64.137.124.103,25,Switzerland,CH,ZH,Zurich,Zurich,8006,47.3804,8.5412,Europe/Zurich,"Tesonet, UAB",Code Ch3,"AS133944 trafficforce, UAB",
+2024-10-08T01:13:31+0000,209.242.204.97,33,Slovenia,SI,061,Ljubljana,Ljubljana,1501,46.0503,14.5046,Europe/Ljubljana,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies,AS203020 HostRoyale Technologies Pvt Ltd,
+2024-10-08T01:13:33+0000,45.43.83.94,24,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
+2024-10-08T04:46:13+0000,159.89.192.93,23,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
