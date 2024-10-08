@@ -7809,7 +7809,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-22T06:52:40+0000,206.206.119.174,38,United States,US,NV,Nevada,Las Vegas,89147,36.1699,-115.14,America/Los_Angeles,Ipxo LLC,Colocation America Corp,AS13332 Hype Enterprises,
 2024-08-22T06:52:40+0000,103.114.59.185,35,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Morbi Infocom Pvt Ltd,Morbi Infocom Pvt Ltd,AS136557 Host Universal Pty Ltd,
 2024-08-22T06:52:40+0000,171.22.251.46,21,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,AS39486 HostRoyale Technologies Pvt Ltd,
-2024-08-22T06:52:40+0000,43.245.117.185,30,Turkey,TR,34,Istanbul,Istanbul,34122,41.0082,28.9784,Europe/Istanbul,"Tesonet, UAB",Centerville Crest Fiber Services,"AS133944 trafficforce, UAB",
 2024-08-22T06:52:40+0000,67.227.119.161,21,United States,US,CA,California,Los Angeles,90009,34.0544,-118.2441,America/Los_Angeles,Colocation America Corporation,Code200,AS21769 Colocation America Corporation,67.227.119.161.rdns.ColocationAmerica.com
 2024-08-22T06:52:41+0000,84.33.236.220,26,Italy,IT,32,Trentino-Alto Adige,Urtijëi,39046,46.5783,11.6676,Europe/Rome,Server24 Network by INCUBATEC GmbH - Srl Premium Hosting Service Provider,INCUBATEC GmbH - Srl,AS34081 INCUBATEC GmbH - Srl,
 2024-08-22T06:52:41+0000,103.99.34.233,30,Finland,FI,18,Uusimaa,Helsinki,00191,60.1797,24.9344,Europe/Helsinki,Oy Crea Nova Hosting Solution Ltd,HostRoyale Technologies Pvt Ltd,AS51765 Oy Crea Nova Hosting Solution Ltd,
@@ -10786,7 +10785,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-02T04:19:07+0000,193.26.115.148,100,United States,US,FL,Florida,Miami,33197,25.7689,-80.1946,America/New_York,ReliableSite.Net LLC,1337 Services GmbH,AS23470 ReliableSite.Net LLC,193.26.115.148.powered.by.rdp.sh
 2024-10-02T05:46:14+0000,104.164.161.235,4,United States,US,MD,Maryland,Thurmont,21788,39.6103,-77.4064,America/New_York,EGIHosting,KNB Proxy World,AS11404 Wave Broadband,
 2024-10-02T06:39:03+0000,109.37.150.62,4,The Netherlands,NL,UT,Utrecht,Utrecht,3571,52.1068,5.134,Europe/Amsterdam,VODAFONE,,AS15480 Vodafone Libertel B.V.,
-2024-10-02T06:54:02+0000,94.156.167.199,56,Bulgaria,BG,03,Varna,Varna,9000,43.2161,27.8871,Europe/Sofia,Sarnica,,AS48584 Sarnica-Net LTD,
 2024-10-02T07:25:21+0000,197.221.14.94,29,South Africa,ZA,WC,Western Cape,Villiersdorp,6848,-33.9969,19.2873,Africa/Johannesburg,xneelo-CPT,,AS37153 Xneelo (Pty) Ltd,www11.cpt4.host-h.net
 2024-10-02T07:38:04+0000,81.88.53.92,78,Italy,IT,25,Lombardy,Bergamo,24126,45.6711,9.67577,Europe/Rome,Register.IT S.p.A,Register.IT S.p.A.,AS39729 REGISTER S.P.A.,lhcp3342.webapps.net
 2024-10-02T08:23:27+0000,138.68.155.28,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -11139,4 +11137,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-08T01:13:30+0000,64.137.124.103,25,Switzerland,CH,ZH,Zurich,Zurich,8006,47.3804,8.5412,Europe/Zurich,"Tesonet, UAB",Code Ch3,"AS133944 trafficforce, UAB",
 2024-10-08T01:13:31+0000,209.242.204.97,33,Slovenia,SI,061,Ljubljana,Ljubljana,1501,46.0503,14.5046,Europe/Ljubljana,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies,AS203020 HostRoyale Technologies Pvt Ltd,
 2024-10-08T01:13:33+0000,45.43.83.94,24,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
-2024-10-08T04:46:13+0000,159.89.192.93,23,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-08T05:04:29+0000,23.94.138.56,15,United States,US,NY,New York,Buffalo,14280,42.8856,-78.8736,America/New_York,HostPapa,,AS36352 HostPapa,23-94-138-56-host.colocrossing.com
+2024-10-08T05:04:29+0000,104.143.229.128,27,Switzerland,CH,ZH,Zurich,Zurich,8006,47.3804,8.5412,Europe/Zurich,"Tesonet, UAB",Code Ch,"AS133944 trafficforce, UAB",
+2024-10-08T05:04:32+0000,43.245.117.185,31,Turkey,TR,34,Istanbul,Istanbul,34122,41.0082,28.9784,Europe/Istanbul,"Tesonet, UAB",Centerville Crest Fiber Services,"AS133944 trafficforce, UAB",
+2024-10-08T05:04:32+0000,171.22.250.97,40,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,AS39486 HostRoyale Technologies Pvt Ltd,
+2024-10-08T05:04:34+0000,89.35.80.236,26,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,Internet Resources Management SRL,H Development & Management SRL,AS48955 Internet Resources Management SRL,
+2024-10-08T05:04:34+0000,64.137.126.124,26,Japan,JP,13,Tokyo,Chiyoda,100-0001,35.694,139.754,Asia/Tokyo,Getechbrothers,CodeJP5,AS150445 Getechbrothers,
+2024-10-08T05:04:35+0000,194.32.82.49,34,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,Internet Resources Management SRL,Volt Delta GmbH,AS49203 Internet Resources Management SRL,
+2024-10-08T05:04:35+0000,209.99.165.151,30,France,FR,NAQ,Nouvelle-Aquitaine,Bordeaux,33200,44.8412,-0.5806,Europe/Paris,Geekyworks IT Solutions Pvt Ltd,US Net Incorporated,AS203999 Geekyworks IT Solutions Pvt Ltd,
+2024-10-08T05:04:36+0000,45.43.82.141,19,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
+2024-10-08T05:04:41+0000,91.123.10.97,19,Brazil,BR,SP,São Paulo,São Paulo,68515,-23.5335,-46.6359,America/Sao_Paulo,Maxihost LTDA,IPXO,AS262287 Latitude.sh LTDA,
+2024-10-08T05:04:42+0000,168.199.227.94,24,Switzerland,CH,BE,Bern,Bern,3001,46.9786,7.4483,Europe/Zurich,Hydra Communications Ltd,Private Customer,AS25369 Hydra Communications Ltd,
+2024-10-08T05:04:54+0000,184.174.30.124,22,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Colocation America Corporation,Code200,AS21769 Colocation America Corporation,
+2024-10-08T06:13:02+0000,15.237.128.43,56,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-128-43.eu-west-3.compute.amazonaws.com
+2024-10-08T07:45:06+0000,159.89.192.93,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-08T09:00:35+0000,121.91.81.226,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,HostRoyale Technologies Pvt Ltd,truview LLC,AS207990 HostRoyale Technologies Pvt Ltd,
+2024-10-08T09:00:35+0000,46.105.78.15,22,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6918,3.2021,Europe/Paris,OVH SAS,OVH ISP,AS16276 OVH SAS,ip15.ip-46-105-78.eu
+2024-10-08T09:29:54+0000,94.156.167.199,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,cheapy.host LLC,CHEAPY.HOST,AS401120 cheapy.host LLC,
+2024-10-08T09:48:28+0000,44.222.152.49,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-222-152-49.compute-1.amazonaws.com
+2024-10-08T09:48:28+0000,54.172.213.223,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-172-213-223.compute-1.amazonaws.com
+2024-10-08T09:48:28+0000,18.218.151.185,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-218-151-185.us-east-2.compute.amazonaws.com
+2024-10-08T09:48:29+0000,35.95.59.235,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-95-59-235.us-west-2.compute.amazonaws.com
+2024-10-08T09:48:29+0000,52.39.99.172,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-52-39-99-172.us-west-2.compute.amazonaws.com
