@@ -6098,7 +6098,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-08T01:08:21+0000,154.29.235.34,13,United States,US,NC,North Carolina,Charlotte,28202,35.2316,-80.8428,America/New_York,"QuickPacket, LLC",Aventice LLC,"AS46261 QuickPacket, LLC",
 2024-08-08T01:08:22+0000,64.137.79.75,20,Norway,NO,03,Oslo County,Oslo,0001,59.9139,10.7522,Europe/Oslo,Blix Solutions,Code No2,AS50304 Blix Solutions AS,
 2024-08-08T01:08:23+0000,45.43.82.150,25,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
-2024-08-08T01:08:24+0000,104.239.108.88,13,Turkey,TR,34,Istanbul,Istanbul,34122,41.0082,28.9784,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
 2024-08-08T01:08:27+0000,45.131.95.148,13,Cyprus,CY,01,Nicosia,Nicosia,,35.1638,33.3639,Asia/Nicosia,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies,AS203020 HostRoyale Technologies Pvt Ltd,
 2024-08-08T01:08:28+0000,142.111.93.141,19,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,EGIHosting,"Ace Data Centers II, L.L.C.",AS18779 EGIHosting,
 2024-08-08T01:08:31+0000,23.247.7.118,29,United States,US,CA,California,Los Angeles,90012,34.0581,-118.235,America/Los_Angeles,LayerHost,LayerHost,AS46573 LayerHost,
@@ -7393,7 +7392,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-18T10:54:21+0000,138.128.148.69,27,Germany,DE,HE,Hesse,Offenbach,63067,50.1093,8.7321,Europe/Berlin,"Getechbrothers, MB",Codede4,"AS202044 Getechbrothers, MB",
 2024-08-18T10:54:21+0000,103.99.33.171,34,Finland,FI,18,Uusimaa,Helsinki,00121,60.1699,24.9384,Europe/Helsinki,Oy Crea Nova Hosting Solution Ltd,HostRoyale Technologies Pvt Ltd,AS51765 Oy Crea Nova Hosting Solution Ltd,
 2024-08-18T10:54:22+0000,104.143.224.104,27,United Kingdom,GB,ENG,England,London,W1H,51.4995,-0.196679,Europe/London,"Getechbrothers, MB",Code Uk2,"AS202044 Getechbrothers, MB",
-2024-08-18T10:54:23+0000,104.238.20.31,33,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Code Au07,,"AS149428 Code200, UAB",
 2024-08-18T10:54:24+0000,104.233.12.47,32,United States,US,TX,Texas,Dallas,75270,32.7767,-96.797,America/Chicago,UAB code200,,AS205659 UAB code200,
 2024-08-18T10:54:24+0000,104.233.19.100,41,Germany,DE,HE,Hesse,Offenbach,63067,50.1093,8.7321,Europe/Berlin,"Getechbrothers, MB",Code De13,"AS202044 Getechbrothers, MB",
 2024-08-18T10:54:26+0000,81.21.233.217,27,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Host Universal Pty Ltd,Keminet SHPK,AS136557 Host Universal Pty Ltd,
@@ -7683,7 +7681,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-21T18:11:13+0000,216.19.206.101,36,Malta,MT,60,Valletta,Valletta,VLT,35.8956,14.5161,Europe/Malta,GetNet Inc,4q LLC,AS203999 Geekyworks IT Solutions Pvt Ltd,
 2024-08-21T18:11:14+0000,64.137.99.190,13,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"Getechbrothers, MB",Code SP,"AS202044 Getechbrothers, MB",
 2024-08-21T18:11:15+0000,45.138.117.83,24,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,web2objects GmbH,FRAConnect,AS50495 web2objects GmbH,
-2024-08-21T18:11:15+0000,84.33.241.224,31,Italy,IT,62,Lazio,Rome,00187,41.9028,12.4964,Europe/Rome,INCUBATEC GmbH - Srl,Server24 Cloud CDN,AS34081 INCUBATEC GmbH - Srl,
 2024-08-21T18:11:15+0000,154.29.235.158,19,United States,US,NC,North Carolina,Charlotte,28202,35.2316,-80.8428,America/New_York,"QuickPacket, LLC",Aventice LLC,"AS46261 QuickPacket, LLC",
 2024-08-21T18:11:16+0000,209.242.203.29,31,Slovenia,SI,061,Ljubljana,Ljubljana,1501,46.0503,14.5046,Europe/Ljubljana,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies,AS203020 HostRoyale Technologies Pvt Ltd,
 2024-08-21T18:11:16+0000,172.98.169.10,31,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Grupo Panaglobal 15 S.A,M247 Europe SRL,AS264617 GRUPO PANAGLOBAL 15 S.A,
@@ -11177,7 +11174,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-09T01:54:42+0000,104.245.144.60,17,Canada,CA,ON,Ontario,St. Catharines,L2N,43.1713,-79.2427,America/Toronto,Amanah Tech Inc.,Privax LTD,AS32489 Amanah Tech Inc.,R43.static.amanah.com
 2024-10-09T02:18:52+0000,143.198.204.117,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-09T03:22:45+0000,149.202.50.200,59,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-bd0fb58f.vps.ovh.net
-2024-10-09T03:51:00+0000,188.166.212.190,38,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-10-09T03:52:19+0000,196.65.254.86,23,Morocco,MA,01,Tanger-Tetouan-Al Hoceima,Tétouan,,35.5762,-5.3662,Africa/Casablanca,ADSL Maroc telecom,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,
 2024-10-09T03:58:35+0000,3.222.205.210,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-222-205-210.compute-1.amazonaws.com
 2024-10-09T04:07:31+0000,116.21.30.175,85,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
@@ -11287,3 +11283,30 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-10T17:47:06+0000,132.148.179.238,4,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",238.179.148.132.host.secureserver.net
 2024-10-10T17:48:09+0000,193.201.186.225,4,Hungary,HU,BU,Budapest,Budapest,1007,47.5636,19.0947,Europe/Budapest,Rackforest Zrt.,Rackforest Zrt,AS62214 Rackforest Zrt.,ispconfig.lospolo.rfclient.hu
 2024-10-10T17:48:21+0000,192.250.227.19,15,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,WHG Hosting Services Ltd,WHG Hosting Services Ltd,AS36454 WHG Hosting Services Ltd,s1087.usc1.mysecurecloudhost.com
+2024-10-10T17:57:58+0000,77.90.3.205,15,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Oliver Horscht is trading as ""SYNLINQ""",Ph24,"AS44486 Oliver Horscht is trading as ""SYNLINQ""",srv5.clouddnsserver.org
+2024-10-10T18:05:17+0000,103.189.196.30,15,India,IN,MH,Maharashtra,Bhayandar,401107,19.2944,72.8703,Asia/Kolkata,Goprime Networks And Systems Pvt Ltd,Goprime Networks and Systems PVT LTD,AS149585 GOPRIME NETWORKS AND SYSTEMS PVT LTD,ip-30-196-189-103.primeservers.net
+2024-10-10T18:38:45+0000,44.211.42.54,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-211-42-54.compute-1.amazonaws.com
+2024-10-10T18:38:46+0000,89.163.151.71,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40213,51.223,6.78245,Europe/Berlin,WIIT AG,myLoc managed IT AG,AS24961 WIIT AG,
+2024-10-10T18:40:54+0000,188.166.212.190,83,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2024-10-10T18:43:04+0000,35.173.222.250,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-173-222-250.compute-1.amazonaws.com
+2024-10-10T18:43:04+0000,3.85.166.126,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-85-166-126.compute-1.amazonaws.com
+2024-10-10T18:43:04+0000,34.227.102.30,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-227-102-30.compute-1.amazonaws.com
+2024-10-10T18:43:05+0000,3.71.42.108,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-71-42-108.eu-central-1.compute.amazonaws.com
+2024-10-10T18:44:26+0000,128.199.128.185,4,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",simpliifybox.com
+2024-10-10T18:46:09+0000,72.9.159.120,15,United States,US,IN,Indiana,Avon,46123,39.7351,-86.4154,America/Indiana/Indianapolis,DFW Datacenter,SkyToaster LLC,AS30277 DFW Datacenter,server.webhostmex.com
+2024-10-10T18:51:19+0000,202.129.16.33,39,Thailand,TH,10,Bangkok,Samphanthawong,10100,13.7215,100.515,Asia/Bangkok,CAT Telecom Public Company Limited,CAT South,"AS9931 The Communication Authoity of Thailand, CAT",
+2024-10-10T19:03:39+0000,103.3.226.157,30,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Tomato Web (Pvt) Limited,Tomato Web (Pvt) Limited,AS203020 HostRoyale Technologies Pvt Ltd,
+2024-10-10T19:03:39+0000,84.33.241.224,33,Italy,IT,62,Lazio,Rome,00187,41.9028,12.4964,Europe/Rome,INCUBATEC GmbH - Srl,Server24 Cloud CDN,AS34081 INCUBATEC GmbH - Srl,
+2024-10-10T19:03:40+0000,104.239.108.88,19,Turkey,TR,42,Konya,Konya,,37.8746,32.4932,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
+2024-10-10T19:03:41+0000,104.239.43.115,30,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"Getechbrothers, MB",Code ca3,"AS202044 Getechbrothers, MB",
+2024-10-10T19:03:42+0000,107.181.132.233,20,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
+2024-10-10T19:03:45+0000,54.251.22.3,4,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-54-251-22-3.ap-southeast-1.compute.amazonaws.com
+2024-10-10T19:03:47+0000,102.212.90.157,29,South Africa,ZA,GP,Gauteng,Johannesburg,7460,-26.2309,28.0583,Africa/Johannesburg,Lexistar Alliance Ltd.,,AS329225 Lexistar Alliance Ltd.,
+2024-10-10T19:03:52+0000,45.252.59.194,32,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,DZCRD Networks Ltd,DZCRD Networks Ltd,AS132817 DZCRD Networks Ltd,
+2024-10-10T19:04:02+0000,64.137.96.159,25,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"Getechbrothers, MB",Code SP,"AS202044 Getechbrothers, MB",
+2024-10-10T19:04:06+0000,147.185.250.74,27,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Grupo Panaglobal 15 S.A,,AS264617 GRUPO PANAGLOBAL 15 S.A,
+2024-10-10T19:04:08+0000,202.155.186.5,32,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,HostRoyale Technologies Pvt Ltd,NIXI,AS44144 HostRoyale Technologies Pvt Ltd,
+2024-10-10T19:04:09+0000,104.238.20.31,28,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Code Au07,,"AS149428 Code200, UAB",
+2024-10-10T19:04:44+0000,154.29.233.113,18,United States,US,NC,North Carolina,Charlotte,28202,35.2316,-80.8428,America/New_York,"QuickPacket, LLC",Aventice LLC,"AS46261 QuickPacket, LLC",
+2024-10-10T19:06:48+0000,95.111.231.233,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,khoudoss.wanekoohost.com
+2024-10-10T19:10:35+0000,54.227.143.165,22,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-227-143-165.compute-1.amazonaws.com
