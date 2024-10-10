@@ -6095,7 +6095,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-08T01:08:02+0000,172.98.168.20,20,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BraveWay LLC,BraveWay LLC,AS28753 Leaseweb Deutschland GmbH,
 2024-08-08T01:08:03+0000,91.212.74.124,19,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,Internet Resources Management SRL,Internet Resources Management SRL,AS49203 Internet Resources Management SRL,
 2024-08-08T01:08:12+0000,91.212.74.183,29,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,Internet Resources Management SRL,Internet Resources Management SRL,AS49203 Internet Resources Management SRL,
-2024-08-08T01:08:15+0000,23.129.254.207,24,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,Webhosting Holdings LLC,Webhosting Holdings LLC,AS965 Webhosting Holdings LLC,
 2024-08-08T01:08:18+0000,104.239.108.46,13,Turkey,TR,34,Istanbul,Istanbul,34122,41.0082,28.9784,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
 2024-08-08T01:08:21+0000,154.29.235.34,13,United States,US,NC,North Carolina,Charlotte,28202,35.2316,-80.8428,America/New_York,"QuickPacket, LLC",Aventice LLC,"AS46261 QuickPacket, LLC",
 2024-08-08T01:08:22+0000,64.137.79.75,20,Norway,NO,03,Oslo County,Oslo,0001,59.9139,10.7522,Europe/Oslo,Blix Solutions,Code No2,AS50304 Blix Solutions AS,
@@ -9012,7 +9011,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-05T21:18:05+0000,184.168.124.1,100,Japan,JP,13,Tokyo,Chiyoda,100-0001,35.694,139.754,Asia/Tokyo,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",1.124.168.184.host.secureserver.net
 2024-09-05T21:34:53+0000,34.67.191.141,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,141.191.67.34.bc.googleusercontent.com
 2024-09-05T22:09:58+0000,99.93.49.48,4,United States,US,TX,Texas,Royse City,75189,32.962,-96.3608,America/Chicago,"AT&T Services, Inc.",AT&T Corp,"AS7018 AT&T Services, Inc.",99-93-49-48.lightspeed.rcsntx.sbcglobal.net
-2024-09-05T22:13:33+0000,50.63.15.171,55,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",171.15.63.50.host.secureserver.net
 2024-09-05T22:37:36+0000,34.70.29.175,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,175.29.70.34.bc.googleusercontent.com
 2024-09-05T22:59:25+0000,181.214.206.8,4,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,GTT Communications Inc.,Ipxo,AS3257 GTT Communications Inc.,
 2024-09-05T23:15:28+0000,66.85.76.98,100,United States,US,MO,Missouri,Kansas City,64106,39.0972,-94.5673,America/Chicago,"Joe's Datacenter, LLC",CyberCloud Professionals LLC,AS19969 CyberCloud Professionals LLC,my.securebox.us
@@ -9899,7 +9897,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-17T16:20:24+0000,45.139.104.151,30,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,49.3 Networking LLC,,AS399979 49.3 Networking LLC,
 2024-09-17T17:16:42+0000,34.121.17.39,61,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,39.17.121.34.bc.googleusercontent.com
 2024-09-17T17:27:54+0000,160.176.250.199,28,Morocco,MA,01,Tanger-Tetouan-Al Hoceima,Tétouan,,35.5762,-5.3662,Africa/Casablanca,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,MarocTelecomASDL,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,
-2024-09-17T17:38:10+0000,78.142.63.55,37,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,NS1.bg,NS1,AS57344 Telehouse EAD,cloud.hostingnovapyme22.com
 2024-09-17T18:36:42+0000,180.110.243.11,36,China,CN,JS,Jiangsu,Nanjing,210000,32.0607,118.763,Asia/Shanghai,Chinanet,Chinanet JS,AS4134 CHINANET-BACKBONE,
 2024-09-17T20:00:46+0000,96.242.23.67,4,United States,US,NJ,New Jersey,Milltown,08850,40.4495,-74.4369,America/New_York,Verizon Business,Verizon Business,AS701 Verizon Business,pool-96-242-23-67.nwrknj.fios.verizon.net
 2024-09-17T20:19:56+0000,15.222.10.76,100,Canada,CA,ON,Ontario,Toronto,,43.6532,-79.3832,America/Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",ec2-15-222-10-76.ca-central-1.compute.amazonaws.com
@@ -11183,7 +11180,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-09T02:18:52+0000,143.198.204.117,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-09T03:22:45+0000,149.202.50.200,59,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-bd0fb58f.vps.ovh.net
 2024-10-09T03:51:00+0000,188.166.212.190,38,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
-2024-10-09T03:51:38+0000,143.198.206.143,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-09T03:52:19+0000,196.65.254.86,23,Morocco,MA,01,Tanger-Tetouan-Al Hoceima,Tétouan,,35.5762,-5.3662,Africa/Casablanca,ADSL Maroc telecom,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,
 2024-10-09T03:58:35+0000,3.222.205.210,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-222-205-210.compute-1.amazonaws.com
 2024-10-09T04:07:31+0000,116.21.30.175,85,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
@@ -11235,3 +11231,36 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-09T15:30:11+0000,102.212.88.197,28,South Africa,ZA,GP,Gauteng,Johannesburg,7460,-26.2309,28.0583,Africa/Johannesburg,Lexistar Alliance Ltd.,SA,AS329225 Lexistar Alliance Ltd.,
 2024-10-09T15:30:11+0000,104.239.6.110,31,Hungary,HU,BU,Budapest,Budapest,1007,47.4979,19.0402,Europe/Budapest,UAB code200,Code Hu4,AS205964 UAB code200,
 2024-10-09T15:39:04+0000,3.226.253.176,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-226-253-176.compute-1.amazonaws.com
+2024-10-09T15:47:50+0000,75.119.154.240,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,BroadbandONE,ACCELERATEDBROADBAND,AS51167 Contabo GmbH,vmi1696850.contaboserver.net
+2024-10-09T16:08:28+0000,3.15.143.152,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-15-143-152.us-east-2.compute.amazonaws.com
+2024-10-09T16:30:15+0000,50.63.15.171,47,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",171.15.63.50.host.secureserver.net
+2024-10-09T18:28:13+0000,154.216.18.234,27,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.8985,23.9036,Europe/Vilnius,Silent Connections LTD,IT Hostline LTD,AS215240 Silent Connection Ltd.,
+2024-10-09T18:59:48+0000,27.0.15.177,100,Vietnam,VN,SG,Ho Chi Minh,Quận Ba,,10.7771,106.689,Asia/Ho_Chi_Minh,SUPERDATA,"Super Online Data Co., Ltd",AS45544 SUPERDATA-VN,mx15177.superdata.vn
+2024-10-09T19:07:42+0000,186.234.80.95,51,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,20000-000,-22.9068,-43.1729,America/Sao_Paulo,Universo Online S.A.,Universo Online S.A,AS7162 Universo Online S.A.,
+2024-10-09T19:40:34+0000,154.216.18.190,31,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.8985,23.9036,Europe/Vilnius,Silent Connections LTD,IT Hostline LTD,AS215240 Silent Connection Ltd.,
+2024-10-09T20:04:37+0000,184.174.126.85,25,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Colocation America Corporation,CODE200,AS21769 Colocation America Corporation,
+2024-10-09T20:04:40+0000,142.111.255.16,21,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,EGIHosting,"Ace Data Centers II, L.L.C.",AS18779 EGIHosting,
+2024-10-09T20:04:43+0000,84.33.243.223,22,Italy,IT,62,Lazio,Rome,00187,41.9028,12.4964,Europe/Rome,INCUBATEC GmbH - Srl,Server24 Cloud CDN,AS34081 INCUBATEC GmbH - Srl,
+2024-10-09T20:04:45+0000,91.123.10.95,30,Brazil,BR,SP,São Paulo,São Paulo,68515,-23.5335,-46.6359,America/Sao_Paulo,Maxihost LTDA,IPXO,AS262287 Latitude.sh LTDA,
+2024-10-09T20:04:46+0000,23.129.254.207,34,Brazil,BR,SP,São Paulo,São Paulo,01323,-23.5335,-46.6359,America/Sao_Paulo,Webhosting Holdings LLC,Webhosting Holdings LLC,AS965 Webhosting Holdings LLC,
+2024-10-09T20:04:49+0000,45.43.186.16,25,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"trafficforce, UAB",Code Spain,"AS202496 trafficforce, UAB",
+2024-10-09T20:04:54+0000,88.218.105.112,4,Switzerland,CH,ZH,Zurich,Zurich,8000,47.3682,8.5671,Europe/Zurich,Grupo Panaglobal 15 S.A,Hostmetric VPN,AS264617 GRUPO PANAGLOBAL 15 S.A,
+2024-10-09T20:04:56+0000,104.143.244.9,46,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"Getechbrothers, MB",Code Es2,"AS202044 Getechbrothers, MB",
+2024-10-09T20:43:06+0000,103.125.255.23,98,Bangladesh,BD,C,Dhaka Division,Dhaka,1000,23.7306,90.4122,Asia/Dhaka,Md Akramul Haider,Alpha,AS38493 Royal Green Communication Limited,hosted.by.alpha.net.bd
+2024-10-09T20:51:06+0000,174.243.245.210,4,United States,US,CA,California,Riverside,92503,33.9249,-117.4592,America/Los_Angeles,Verizon Business,Verizon Business,AS6167 Verizon Business,210.sub-174-243-245.myvzw.com
+2024-10-09T23:39:57+0000,136.179.21.69,12,United States,US,NV,Nevada,Paradise,89119,36.0972,-115.147,America/Los_Angeles,SWITCH,"Mobilitie, LLC.","AS23005 SWITCH, LTD",cust-136.179.21.69.switchnap.com
+2024-10-09T23:42:12+0000,188.48.87.225,4,Saudi Arabia,SA,01,Riyadh Region,Riyadh,09848,24.6869,46.7224,Asia/Riyadh,Saudinet,,AS25019 Saudi Telecom Company JSC,
+2024-10-09T23:42:14+0000,186.98.231.140,4,Colombia,CO,MAG,Magdalena Department,Santa Marta,470001,11.2399,-74.1951,America/Bogota,Colombia Telecomunicaciones S.a. ESP,Colombia Telecomunicaciones S.a. ESP,AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP,
+2024-10-09T23:42:16+0000,190.198.22.65,4,Venezuela,VE,V,Zulia,San Carlos del Zulia,,9.00189,-71.9105,America/Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela","AS8048 CANTV Servicios, Venezuela",190-198-22-65.cnt-01-p74.cantv.net
+2024-10-09T23:42:19+0000,189.131.200.158,15,Mexico,MX,CMX,Mexico City,Álvaro Obregón,01740,19.3542,-99.2299,America/Mexico_City,UNINET,Gestión de direccionamiento UniNet,AS8151 UNINET,dsl-189-131-200-158-dyn.prod-infinitum.com.mx
+2024-10-09T23:42:19+0000,181.169.228.40,4,Argentina,AR,B,Buenos Aires,La Plata,1900,-34.9309,-57.9417,America/Argentina/Buenos_Aires,Telecom Argentina S.A,Fibertel,AS7303 Telecom Argentina S.A.,40-228-169-181.fibertel.com.ar
+2024-10-09T23:42:25+0000,116.102.150.73,13,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,,10.822,106.6257,Asia/Ho_Chi_Minh,Viettel Corporation,Viettel Group,AS24086 Viettel Corporation,
+2024-10-10T00:55:00+0000,190.167.253.216,4,Dominican Republic,DO,01,Nacional,Santo Domingo,10205,18.4615,-69.8965,America/Santo_Domingo,Compañía Dominicana de Teléfonos S. A.,Compañía Dominicana de Teléfonos S. A,AS6400 Compañía Dominicana de Teléfonos S. A.,216.253.167.190.d.dyn.codetel.net.do
+2024-10-10T00:55:09+0000,170.84.58.96,4,Brazil,BR,SC,Santa Catarina,Chapecó,89800,-27.1214,-52.6604,America/Sao_Paulo,Mhnet Telecom,Mhnet Telecom,AS28146 MHNET TELECOM,dynamic-user.170.84.58.96.mhnet.com.br
+2024-10-10T00:55:10+0000,38.253.158.147,4,Peru,PE,LMA,Lima Province,Lima,,-12.0432,-77.0282,America/Lima,Wi-net Telecom S.A.C.,WI-NET Telecom SAC,AS265691 WI-NET TELECOM S.A.C.,
+2024-10-10T00:55:15+0000,36.73.33.223,4,Indonesia,ID,JT,Central Java,Kubangwaru,,-7.3249,108.8,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-10T02:19:27+0000,159.223.49.242,55,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-10T03:10:29+0000,13.201.12.116,90,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-13-201-12-116.ap-south-1.compute.amazonaws.com
+2024-10-10T04:28:40+0000,31.13.224.152,100,Bulgaria,BG,13,Pazardzhik,Sarnitsa,4623,41.7295,24.0323,Europe/Sofia,Nybula LLC,Nybula LLC,AS401116 Nybula LLC,
+2024-10-10T04:38:06+0000,78.142.63.55,53,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,NS1.bg,NS1,AS57344 Telehouse EAD,cloud.hostingnovapyme22.com
+2024-10-10T04:40:37+0000,143.198.206.143,58,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
