@@ -3109,7 +3109,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-10T06:32:21+0000,42.101.38.52,100,China,CN,HL,Heilongjiang,Harbin,150000,45.7421,126.663,Asia/Shanghai,China Telecom,Chinanet HL,"AS137698 Haerbing , Heilongjiang Province, P.R.China.",
 2024-07-10T06:56:24+0000,89.147.108.90,100,Iceland,IS,1,Capital Region,Reykjavik,101,64.1429,-21.9447,Atlantic/Reykjavik,1984 ehf,1984 ehf,AS44925 1984 ehf,miles.torexit.syndicateguys.com
 2024-07-10T06:56:49+0000,45.66.35.35,100,The Netherlands,NL,NH,North Holland,Amsterdam,1069,52.3591,4.793,Europe/Amsterdam,Sabotage LLC,Sabotage LLC,AS61125 SABOTAGE LLC,tor-exit.sabotage.org
-2024-07-10T07:32:10+0000,35.161.107.33,12,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-161-107-33.us-west-2.compute.amazonaws.com
 2024-07-10T07:46:22+0000,52.187.62.126,31,Singapore,SG,01,Central Singapore,Singapore,168812,1.283,103.833,Asia/Singapore,Microsoft Corporation,Microsoft Azure Cloud (southeastasia),AS8075 Microsoft Corporation,
 2024-07-10T08:07:45+0000,182.44.10.67,99,China,CN,SD,Shandong,Jinan,250000,36.6683,117.021,Asia/Shanghai,Cloud Computing Corporation,Chinanet SD,AS58519 Cloud Computing Corporation,
 2024-07-10T08:39:02+0000,104.154.146.47,12,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,47.146.154.104.bc.googleusercontent.com
@@ -11119,7 +11118,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-07T22:31:41+0000,197.54.25.181,4,Egypt,EG,PTS,Port Said,Port Said,,31.2677,32.3039,Africa/Cairo,TE Data,,AS8452 TE-AS,host-197.54.25.181.tedata.net
 2024-10-07T22:31:44+0000,157.100.137.15,4,Ecuador,EC,P,Pichincha,Quito,,-0.2309,-78.5211,America/Guayaquil,Telconet S.A,Ecuanet - Corporacion Ecuatoriana De Informacion,AS27947 Telconet S.A,jurimat.celec.gob.ec
 2024-10-07T22:50:45+0000,174.202.4.167,4,United States,US,HI,Hawaii,Honolulu,96819,21.3513,-157.8725,Pacific/Honolulu,Verizon Business,Verizon Business,AS6167 Verizon Business,167.sub-174-202-4.myvzw.com
-2024-10-07T23:25:07+0000,45.147.251.202,4,Spain,ES,MD,Madrid,Madrid,28108,40.4167,-3.7037,Europe/Madrid,"Kamatera, Inc.",Cloudwebmanage EU MD,"AS36007 Kamatera, Inc.",
 2024-10-07T23:50:06+0000,3.87.207.20,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-87-207-20.compute-1.amazonaws.com
 2024-10-08T00:29:05+0000,13.39.49.100,60,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-39-49-100.eu-west-3.compute.amazonaws.com
 2024-10-08T00:59:08+0000,54.90.219.82,26,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-90-219-82.compute-1.amazonaws.com
@@ -11264,3 +11262,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-10T04:28:40+0000,31.13.224.152,100,Bulgaria,BG,13,Pazardzhik,Sarnitsa,4623,41.7295,24.0323,Europe/Sofia,Nybula LLC,Nybula LLC,AS401116 Nybula LLC,
 2024-10-10T04:38:06+0000,78.142.63.55,53,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,NS1.bg,NS1,AS57344 Telehouse EAD,cloud.hostingnovapyme22.com
 2024-10-10T04:40:37+0000,143.198.206.143,58,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-10T05:01:00+0000,143.198.199.35,54,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-10T06:04:59+0000,98.83.118.83,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-83-118-83.compute-1.amazonaws.com
+2024-10-10T06:04:59+0000,35.175.236.79,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-175-236-79.compute-1.amazonaws.com
+2024-10-10T06:04:59+0000,34.204.68.220,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-204-68-220.compute-1.amazonaws.com
+2024-10-10T06:04:59+0000,35.95.121.125,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-95-121-125.us-west-2.compute.amazonaws.com
+2024-10-10T06:04:59+0000,35.167.67.187,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-167-67-187.us-west-2.compute.amazonaws.com
+2024-10-10T06:09:54+0000,34.0.76.192,4,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0852,34.7817,Asia/Jerusalem,Google LLC,Google Cloud (me-west1),AS19527 Google LLC,192.76.0.34.bc.googleusercontent.com
+2024-10-10T06:52:27+0000,52.4.62.93,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-4-62-93.compute-1.amazonaws.com
+2024-10-10T07:55:19+0000,45.147.251.202,23,Spain,ES,MD,Madrid,Madrid,28108,40.4167,-3.7037,Europe/Madrid,"Kamatera, Inc.",Cloudwebmanage EU MD,"AS36007 Kamatera, Inc.",
+2024-10-10T08:03:43+0000,35.161.107.33,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-161-107-33.us-west-2.compute.amazonaws.com
+2024-10-10T09:59:52+0000,52.54.53.109,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-54-53-109.compute-1.amazonaws.com
+2024-10-10T11:45:50+0000,100.27.216.49,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-100-27-216-49.compute-1.amazonaws.com
+2024-10-10T13:16:23+0000,180.242.59.144,54,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-10T13:48:10+0000,193.46.254.155,27,United Kingdom,GB,ENG,England,Rushden,NN10,52.2999,-0.613313,Europe/London,Unmanaged LTD,Unmanaged LTD,AS47890 UNMANAGED LTD,
+2024-10-10T17:00:47+0000,192.99.28.121,4,France,FR,IDF,Île-de-France,Colombes,92700,48.9221,2.25333,Europe/Paris,OVH Hosting,"alin, belaid",AS16276 OVH SAS,guardian.blankipanel.com
+2024-10-10T17:09:34+0000,188.165.22.134,15,Poland,PL,02,Lower Silesia,Wroclaw,50-088,51.098,17.0321,Europe/Warsaw,OVH ISP,OVH Sp. z o. o,AS16276 OVH SAS,hosting.olnet.com.pl
+2024-10-10T17:17:53+0000,158.220.93.200,14,United Kingdom,GB,ENG,England,Portsmouth,PO9,50.8544,-1.002,Europe/London,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,svr04.resilientdns.com
+2024-10-10T17:20:19+0000,66.186.240.230,4,United States,US,LA,Louisiana,Prairieville,70769,30.3064,-90.9427,America/Chicago,EATEL,UNASSIGNED,AS5009 REV,ip-66-186-240-230.eatel.net
+2024-10-10T17:22:50+0000,52.196.27.19,69,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-52-196-27-19.ap-northeast-1.compute.amazonaws.com
+2024-10-10T17:24:08+0000,185.221.182.104,23,France,FR,IDF,Île-de-France,Paris,93200,48.9275,2.3623,Europe/Paris,PlanetHoster,Planethoster,AS53589 PlanetHoster,node192-eu.n0c.com
+2024-10-10T17:41:45+0000,185.143.45.240,100,Serbia,RS,,Central Serbia,Belgrade,,44.8201,20.3864,Europe/Belgrade,"A2 Hosting, Inc.",Zmaj 1,"AS55293 A2 Hosting, Inc.",server.althurayaa.com
+2024-10-10T17:43:01+0000,38.242.201.162,23,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,server14.tanzaniaservers.com
+2024-10-10T17:47:06+0000,132.148.179.238,4,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",238.179.148.132.host.secureserver.net
+2024-10-10T17:48:09+0000,193.201.186.225,4,Hungary,HU,BU,Budapest,Budapest,1007,47.5636,19.0947,Europe/Budapest,Rackforest Zrt.,Rackforest Zrt,AS62214 Rackforest Zrt.,ispconfig.lospolo.rfclient.hu
+2024-10-10T17:48:21+0000,192.250.227.19,15,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,WHG Hosting Services Ltd,WHG Hosting Services Ltd,AS36454 WHG Hosting Services Ltd,s1087.usc1.mysecurecloudhost.com
