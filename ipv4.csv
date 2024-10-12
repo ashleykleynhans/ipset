@@ -11177,14 +11177,12 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-09T05:05:15+0000,172.58.208.36,4,United States,US,CA,California,Los Angeles,90001,33.972,-118.242,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-09T05:05:39+0000,172.58.211.220,4,United States,US,CA,California,Los Angeles,90001,33.972,-118.242,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-09T05:51:10+0000,158.174.135.188,33,Sweden,SE,M,Skåne County,Trelleborg,231 91,55.3641,13.1751,Europe/Stockholm,Bahnhof Internet,Bahnhof AB,AS8473 Bahnhof AB,h-158-174-135-188.A444.priv.bahnhof.se
-2024-10-09T07:19:53+0000,178.128.57.195,98,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-10-09T08:16:11+0000,217.160.158.71,15,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,AS8560 ES,,AS8560 IONOS SE,
 2024-10-09T08:29:24+0000,165.22.252.28,46,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-09T08:59:26+0000,45.227.254.117,100,Lithuania,LT,VL,Vilnius,Vilnius,09311,54.6916,25.2874,Europe/Vilnius,Flyservers S.A.,UAB Host Baltic,AS267784 Flyservers S.A.,
 2024-10-09T09:23:54+0000,198.144.189.72,51,United States,US,NY,New York,Buffalo,14280,42.8856,-78.8736,America/New_York,HostPapa,ColoCrossing,AS36352 HostPapa,198-144-189-72-host.colocrossing.com
 2024-10-09T09:35:16+0000,86.143.131.145,84,United Kingdom,GB,ENG,England,Manchester,M16,53.4606,-2.2572,Europe/London,BT Public Internet Service,,AS2856 British Telecommunications PLC,host86-143-131-145.range86-143.btcentralplus.com
 2024-10-09T09:50:58+0000,165.232.164.102,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2024-10-09T10:26:08+0000,139.59.251.25,37,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
 2024-10-09T10:46:24+0000,163.116.205.122,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Netskope Inc,Netskope BOM,AS55256 Netskope Inc,
 2024-10-09T10:46:25+0000,163.116.205.114,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Netskope Inc,Netskope BOM,AS55256 Netskope Inc,
 2024-10-09T10:54:09+0000,94.156.167.147,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,cheapy.host LLC,CHEAPY.HOST,AS401120 cheapy.host LLC,
@@ -11417,3 +11415,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-11T17:29:22+0000,50.226.172.10,4,United States,US,MA,Massachusetts,Plymouth,02360,41.9137,-70.6393,America/New_York,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",
 2024-10-11T18:19:07+0000,73.220.211.223,4,United States,US,CA,California,Sacramento,95835,38.6645,-121.487,America/Los_Angeles,Comcast Cable Communications,"Comcast IP Services, L.L.C.","AS7922 Comcast Cable Communications, LLC",c-73-220-211-223.hsd1.ca.comcast.net
 2024-10-11T18:34:09+0000,96.127.230.81,4,Canada,CA,QC,Quebec,Longueuil,J4L,45.5191,-73.462,America/Toronto,EBOX,EBOX,AS1403 EBOX,96-127-230-81.qc.cable.ebox.net
+2024-10-11T21:17:58+0000,178.128.86.136,60,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2024-10-11T22:45:36+0000,52.5.145.101,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-5-145-101.compute-1.amazonaws.com
+2024-10-12T03:09:25+0000,14.162.15.170,4,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,VNPT-VNNIC,VietNam Post and Telecom Corporation,AS45899 VNPT Corp,static.vnpt.vn
+2024-10-12T03:09:25+0000,36.73.189.167,4,Indonesia,ID,JI,East Java,Banyuwangi,,-8.2471,114.3878,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-12T03:09:28+0000,181.50.102.101,4,Colombia,CO,VAC,Valle del Cauca Department,Santiago de Cali,760008,3.4129,-76.5191,America/Bogota,Telmex Colombia S.A.,Telmex Colombia S.A.,AS10620 Telmex Colombia S.A.,dynamic-ip-181500102101.cable.net.co
+2024-10-12T03:09:30+0000,136.158.62.24,4,Philippines,PH,00,Metro Manila,Manila,1012,14.5967,120.9792,Asia/Manila,ComClark Network & Technology Corp,Convergeict,AS17639 Converge ICT Solutions Inc.,24.62.158.136.convergeict.com
+2024-10-12T03:09:35+0000,190.186.1.122,11,Bolivia,BO,S,Santa Cruz Department,Santa Cruz,,-17.7834,-63.1822,America/La_Paz,Cotas Ltda.,Cotas Ltda,AS25620 COTAS LTDA.,static-ip-adsl-190.186.1.122.cotas.com.bo
+2024-10-12T03:39:15+0000,42.117.198.221,4,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,FPT Telecom Company,Vietnam Internet Network Information Center,AS18403 FPT Telecom Company,
+2024-10-12T03:53:50+0000,73.177.9.42,4,United States,US,TN,Tennessee,Cordova,38016,35.164,-89.7826,America/Chicago,Comcast Cable Communications,"Comcast Cable Communications Holdings, Inc","AS7922 Comcast Cable Communications, LLC",c-73-177-9-42.hsd1.tn.comcast.net
+2024-10-12T04:35:08+0000,178.128.57.195,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2024-10-12T04:37:15+0000,223.184.59.191,13,India,IN,KL,Kerala,Kochi,682024,9.9185,76.2558,Asia/Kolkata,Bharti Airtel,Bharti Cellular limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",
+2024-10-12T04:37:17+0000,186.66.199.71,16,Ecuador,EC,M,Manabí,Portoviejo,,-1.0535,-80.4477,America/Guayaquil,Satnet,Xtrim EC,AS14522 SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC),71.CMCD-186-66-199.gye.satnet.net
+2024-10-12T04:37:19+0000,189.222.134.132,4,Mexico,MX,BCN,Baja California,Mexicali,21255,32.5346,-115.0741,America/Tijuana,Uninet S.A. de C.V.,"Telefonos del Noroeste, S.A. de C.V",AS8151 UNINET,189.222.134.132.dsl.dyn.telnor.net
+2024-10-12T04:37:21+0000,39.47.117.85,4,Pakistan,PK,IS,Islamabad,Islamabad,44010,33.7233,73.0435,Asia/Karachi,Pakistan Telecommuication company limited,Pakistan Telecommuication company limited,AS17557 Pakistan Telecommunication Company Limited,
+2024-10-12T04:37:28+0000,182.1.150.65,4,Indonesia,ID,SA,North Sulawesi,Manado,,1.481,124.8518,Asia/Makassar,PT Telekomunikasi Selular Indonesia,,AS23693 PT. Telekomunikasi Selular,
+2024-10-12T05:02:08+0000,68.183.227.157,64,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-12T05:26:56+0000,13.201.11.144,4,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-13-201-11-144.ap-south-1.compute.amazonaws.com
+2024-10-12T05:50:26+0000,1.10.132.7,15,Thailand,TH,50,Chiang Mai,Chiang Mai,50000,18.7929,99.0004,Asia/Bangkok,TOT Public Company Limited,Shared Dynamic IP Address for Residential Broadband Services,AS23969 TOT Public Company Limited,node-sn.pool-1-10.dynamic.totinternet.net
+2024-10-12T07:31:59+0000,18.207.110.2,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-207-110-2.compute-1.amazonaws.com
+2024-10-12T09:35:43+0000,139.59.238.65,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-12T09:52:43+0000,34.201.4.2,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-201-4-2.compute-1.amazonaws.com
+2024-10-12T10:55:58+0000,83.110.86.8,35,United Arab Emirates,AE,DU,Dubai,Dubai,,25.0731,55.298,Asia/Dubai,Emirates Telecommunications Corporation,Emirates Telecommunications Corporation,AS5384 EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,bba-83-110-86-8.alshamil.net.ae
+2024-10-12T11:25:10+0000,139.59.251.25,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
