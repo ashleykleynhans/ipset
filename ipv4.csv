@@ -11286,7 +11286,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-10T19:44:25+0000,38.242.148.161,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,server38.tanzaniaservers.com
 2024-10-10T19:53:31+0000,103.157.146.146,30,Indonesia,ID,ST,Central Sulawesi,Palu,,-0.825998,119.962,Asia/Makassar,PT Warna Data Multimedia,PT Warna Data Multimedia,AS141120 PT Warna Data Multimedia,
 2024-10-10T19:58:28+0000,149.255.62.153,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,Unlimited Web Hosting UK LTD,Unlimited Web Hosting UK LTD,AS34931 Awareness Software Limited,cloud752.thundercloud.uk
-2024-10-10T20:22:38+0000,91.236.87.95,22,Poland,PL,12,Lesser Poland,Sanka,32-067,50.0756,19.6633,Europe/Warsaw,MyNET Sp. z o.o.,MyNET Sp. z o.o,AS60624 MyNET Sp. z o.o.,mn91-236-87-95.myszka.eu
 2024-10-10T20:44:11+0000,185.182.56.179,40,United Kingdom,GB,ENG,England,Dagenham,RM9,51.5565,0.134,Europe/London,Cldin B.V.,Versio B.V,AS48635 CLDIN B.V.,vserver56.axc.nl
 2024-10-10T20:46:49+0000,188.166.188.221,73,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-10-10T20:49:45+0000,194.164.163.87,15,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,IONOS SE,IONOS SE,AS8560 IONOS SE,pantoreformas.com
@@ -11538,7 +11537,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-16T02:53:20+0000,140.228.29.71,12,United States,US,TX,Texas,Dallas,75204,32.7999,-96.7945,America/Chicago,Rockion LLC,Ipxo LLC,"AS396073 Majestic Hosting Solutions, LLC",
 2024-10-16T03:46:43+0000,81.199.26.30,12,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Private Customer,AS62240 Clouvider,
 2024-10-16T05:40:02+0000,36.70.98.144,100,Indonesia,ID,JB,West Java,Bekasi,,-6.2352,106.9922,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
-2024-10-16T06:04:50+0000,164.132.171.176,54,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
 2024-10-16T08:26:56+0000,34.229.193.223,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-229-193-223.compute-1.amazonaws.com
 2024-10-16T08:33:08+0000,86.110.243.227,34,Slovakia,SK,BL,Bratislava Region,Bratislava,811 04,48.157,17.0915,Europe/Bratislava,Primanet As29405,VNET-org,AS29405 VNET a.s.,web227.webhouse.sk
 2024-10-16T08:39:27+0000,202.47.180.183,4,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,"HOSTLINE, UAB",Vpsforextrader Hk,"AS198651 HOSTLINE, UAB",
@@ -11601,5 +11599,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-16T19:34:11+0000,146.190.97.51,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-16T19:44:24+0000,24.40.237.45,4,United States,US,AR,Arkansas,Benton,72019,34.6054,-92.6255,America/Chicago,Fidelity Communication International Inc.,Cobridge Communications LLC,AS11976 Fidelity Communication International Inc.,24-40-237-45.fidnet.com
 2024-10-16T20:02:35+0000,108.170.24.122,100,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Secured Servers LLC,Secured Servers LLC,AS20454 SECURED SERVERS LLC,gains.linuxbigapps.com
-2024-10-16T20:20:37+0000,103.151.181.17,15,New Zealand,NZ,AUK,Auckland,Auckland,0624,-36.8322,174.7898,Pacific/Auckland,Auckland Data Centre Limited,Auckland Data Centre Limited,AS139054 Auckland Data Centre Limited,103-151-181-17.rdns.dcit.nz
 2024-10-16T20:21:46+0000,143.198.207.36,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-16T21:02:38+0000,186.2.140.48,4,Honduras,HN,FM,Francisco Morazán Department,Tegucigalpa,,14.0828,-87.2041,America/Tegucigalpa,Telefónica Celular S.A,Telefónica Celular S.A,AS52262 Telefónica Celular S.A,
+2024-10-16T21:02:39+0000,177.7.146.238,4,Brazil,BR,PR,Paraná,São José dos Pinhais,83065,-25.5283,-49.2161,America/Sao_Paulo,V tal,Brasil Telecom S/A - Filial Distrito Federal,AS8167 V tal,177-7-146-238.user3p.v-tal.net.br
+2024-10-16T21:02:41+0000,85.153.224.175,4,Türkiye,TR,06,Ankara,Ankara,06680,39.9107,32.8554,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,
+2024-10-16T21:02:45+0000,42.118.57.248,4,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,FPT Telecom Company,FPTDYNAMICIP,AS18403 FPT Telecom Company,
+2024-10-16T21:02:46+0000,191.19.199.202,16,Brazil,BR,SP,São Paulo,Pedreira,13920,-22.7436,-46.904,America/Sao_Paulo,TELEFÔNICA BRASIL S.A,Vivo,AS27699 TELEFÔNICA BRASIL S.A,191-19-199-202.user.vivozap.com.br
+2024-10-16T21:02:49+0000,45.11.202.37,4,Turkey,TR,26,Eskişehir,Alpu,,39.769,30.9606,Europe/Istanbul,Alfa Iletisim Hizmetleri Pazarlama Ticaret A.S.,,AS207782 ALFA ILETISIM HIZMETLERI PAZARLAMA TICARET A.S.,ns1.oristelekom.com
+2024-10-16T21:27:14+0000,51.222.253.9,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca008-ext2.a.ahrefs.com
+2024-10-16T21:40:46+0000,194.201.253.121,100,Kenya,KE,30,Nairobi County,Nairobi,09831,-1.29207,36.8219,Africa/Nairobi,KENYAWEB,Form-Net Africa,AS25568 Kenyaweb.com,mail.genbioconsortium.africa
+2024-10-16T22:14:03+0000,78.142.63.112,100,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,NS1.bg,NS1,AS57344 Telehouse EAD,cloud-db94d6.managed-vps.net
+2024-10-16T22:21:01+0000,100.27.242.135,15,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-100-27-242-135.compute-1.amazonaws.com
+2024-10-16T22:21:53+0000,5.25.21.160,15,Turkey,TR,44,Malatya,Tepehan,,38.1179,38.7262,Europe/Istanbul,Turkcell Internet,,AS16135 TURKCELL ILETISIM HIZMETLERI A.S.,
+2024-10-16T22:21:54+0000,154.192.46.44,15,Pakistan,PK,IS,Islamabad,Islamabad,44000,33.7233,73.0435,Asia/Karachi,Ebone Networks PVT Ltd,Ebone Network Pvt Ltd,AS23674 Nayatel (Pvt) Ltd,
+2024-10-16T22:21:56+0000,143.208.18.119,4,Honduras,HN,FM,Francisco Morazán Department,Tegucigalpa,,14.0389,-87.2079,America/Tegucigalpa,Cablecolor S.A.,Cablecolor S.A,AS27884 CABLECOLOR S.A.,143-208-18-119.reverse.cablecolor.hn
+2024-10-16T22:21:58+0000,95.12.112.72,4,Türkiye,TR,07,Antalya,Antalya,07050,36.8826,30.6866,Europe/Istanbul,TurkTelekom,Turk Telekomunikasyon Anonim Sirketi,AS47331 TTNet A.S.,95.12.112.72.dynamic.ttnet.com.tr
+2024-10-16T22:29:37+0000,38.242.250.246,55,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1441350.contaboserver.net
+2024-10-16T22:50:51+0000,91.236.87.95,100,Poland,PL,12,Lesser Poland,Sanka,32-067,50.0756,19.6633,Europe/Warsaw,MyNET Sp. z o.o.,MyNET Sp. z o.o,AS60624 MyNET Sp. z o.o.,mn91-236-87-95.myszka.eu
+2024-10-16T22:55:05+0000,23.27.140.132,4,United States,US,NY,New York,New York,10013,40.7218,-74.0094,America/New_York,Ace Data Centers II,Evoxt,AS149440 Evoxt Enterprise,
+2024-10-16T23:05:54+0000,198.44.136.119,4,United States,US,NY,New York,New York,10011,40.7597,-73.981,America/New_York,"tzulo, inc.",James Emerson,"AS11878 tzulo, inc.",static-198-44-136-119.cust.tzulo.com
+2024-10-16T23:14:07+0000,45.157.52.66,100,Iraq,IQ,AR,Erbil,Erbil,,36.1828,44.0105,Asia/Baghdad,"Smart Link Company for Internet Service, special company and limited responsibi","Smart Link Company Internet Service, special company and limited responsibility","AS210413 Smart Link Company for Internet Service, special company and limited responsibility",relay.coreline.tech
+2024-10-16T23:15:13+0000,164.132.171.176,59,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
+2024-10-16T23:48:03+0000,143.137.191.206,100,Brazil,BR,PA,Pará,Belém,66000-000,-1.45631,-48.5013,America/Belem,Metaweb Internet Ltda,Metaweb Internet Ltda,AS264041 Metaweb Internet Ltda,143-137-191-206.static.reverse.net2.com.br
+2024-10-17T01:13:18+0000,103.151.181.17,31,New Zealand,NZ,AUK,Auckland,Auckland,0624,-36.8322,174.7898,Pacific/Auckland,Auckland Data Centre Limited,Auckland Data Centre Limited,AS139054 Auckland Data Centre Limited,103-151-181-17.rdns.dcit.nz
+2024-10-17T02:38:00+0000,51.222.253.1,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca000-ext2.a.ahrefs.com
+2024-10-17T04:17:03+0000,24.117.146.159,4,United States,US,ID,Idaho,Meridian,83646,43.6502,-116.4343,America/Boise,"CABLE ONE, INC.",Sparklight,"AS11492 CABLE ONE, INC.",24-117-146-159.cpe.sparklight.net
