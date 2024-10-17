@@ -2199,7 +2199,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T15:42:59+0000,52.202.236.132,43,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-202-236-132.compute-1.amazonaws.com
 2024-07-05T15:46:14+0000,129.80.117.174,22,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
 2024-07-05T15:46:36+0000,129.158.253.200,17,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
-2024-07-05T15:46:36+0000,129.153.25.174,27,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
 2024-07-05T15:50:54+0000,84.17.52.72,8,Switzerland,CH,ZH,Zurich,Zurich,8040,47.3682,8.5671,Europe/Zurich,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-84-17-52-72.cdn77.com
 2024-07-05T15:55:58+0000,54.71.187.124,64,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-54-71-187-124.us-west-2.compute.amazonaws.com
 2024-07-05T16:05:30+0000,164.92.137.158,82,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -2305,7 +2304,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-05T18:05:05+0000,130.44.215.66,18,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
 2024-07-05T17:54:33+0000,130.44.215.65,17,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
 2024-07-05T17:58:32+0000,139.177.233.191,30,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
-2024-07-05T18:07:08+0000,130.44.212.110,33,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
 2024-07-05T18:07:46+0000,139.177.233.203,25,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
 2024-07-05T17:31:33+0000,139.177.233.187,25,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
 2024-07-05T17:58:39+0000,20.14.152.81,18,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
@@ -6346,7 +6344,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-09T13:37:19+0000,66.102.6.141,3,United States,US,CA,California,Mountain View,94043,37.422,-122.084,America/Los_Angeles,Google LLC,Google LLC,AS15169 Google LLC,google-proxy-66-102-6-141.google.com
 2024-08-09T13:44:49+0000,52.123.190.60,26,United States,US,IL,Illinois,Chicago,60602,41.8819,-87.6278,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),AS8075 Microsoft Corporation,
 2024-08-09T13:53:11+0000,52.112.95.133,11,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
-2024-08-09T14:19:51+0000,52.112.95.132,20,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
 2024-08-09T14:29:24+0000,3.96.134.40,3,Canada,CA,ON,Ontario,Toronto,,43.6532,-79.3832,America/Toronto,Amazon Technologies Inc.,AWS EC2 (ca-central-1),"AS16509 Amazon.com, Inc.",ec2-3-96-134-40.ca-central-1.compute.amazonaws.com
 2024-08-09T14:38:18+0000,87.201.8.23,63,United Arab Emirates,AE,AZ,Abu Dhabi,Abu Dhabi,,24.4542,54.406,Asia/Dubai,Emirates Integrated Telecommunications Company PJSC,Emirates Integrated Telecommunications Company,AS15802 Emirates Integrated Telecommunications Company PJSC,
 2024-08-09T14:43:36+0000,52.123.190.124,21,United States,US,IL,Illinois,Chicago,60602,41.8819,-87.6278,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (northcentralus),AS8075 Microsoft Corporation,
@@ -10260,7 +10257,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-23T04:09:15+0000,161.97.180.144,67,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi881353.contaboserver.net
 2024-09-23T04:24:09+0000,91.92.255.120,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
 2024-09-23T04:59:38+0000,34.1.28.2,4,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,2.28.1.34.bc.googleusercontent.com
-2024-09-23T11:04:18+0000,35.171.69.89,39,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-171-69-89.compute-1.amazonaws.com
 2024-09-23T11:11:49+0000,34.16.40.22,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,22.40.16.34.bc.googleusercontent.com
 2024-09-23T11:13:44+0000,64.67.88.3,4,United States,US,PA,Pennsylvania,Emmaus,18049,40.5266,-75.4994,America/New_York,PenTeleData Inc.,PenTeleData Inc.,AS3737 PenTeleData Inc.,64.67.88.3.res-cmts.sm3.ptd.net
 2024-09-23T11:36:45+0000,34.0.154.75,4,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC,75.154.0.34.bc.googleusercontent.com
@@ -10780,7 +10776,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-02T18:58:46+0000,35.219.237.121,24,Italy,IT,25,Lombardy,Milan,,45.4642,9.1899,Europe/Rome,Google LLC,Google Cloud (europe-west8),AS15169 Google LLC,121.237.219.35.bc.googleusercontent.com
 2024-10-02T19:11:17+0000,146.190.83.60,94,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-02T19:42:23+0000,20.169.44.107,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
-2024-10-02T20:07:24+0000,158.220.117.44,41,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
 2024-10-02T20:08:12+0000,154.216.17.87,100,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.8985,23.9036,Europe/Vilnius,Silent Connections LTD,Silent Connections LTD,AS215240 Silent Connection Ltd.,
 2024-10-02T22:00:04+0000,79.124.58.138,100,Bulgaria,BG,16,Plovdiv,Sopot,4330,42.6539,24.7548,Europe/Sofia,Tamatiya EOOD,Tamatiya EOOD,AS50360 Tamatiya EOOD,ip-58-138.4vendeta.com
 2024-10-02T22:23:05+0000,202.62.48.104,100,Cambodia,KH,12,Phnom Penh,Phnom Penh,,11.5583,104.9121,Asia/Phnom_Penh,"COGETEL Co., Ltd",COGETEL,"AS23673 Cogetel Online, Cambodia, ISP",headquarter.online.com.kh
@@ -11116,7 +11111,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-08T05:04:42+0000,168.199.227.94,24,Switzerland,CH,BE,Bern,Bern,3001,46.9786,7.4483,Europe/Zurich,Hydra Communications Ltd,Private Customer,AS25369 Hydra Communications Ltd,
 2024-10-08T05:04:54+0000,184.174.30.124,22,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,Colocation America Corporation,Code200,AS21769 Colocation America Corporation,
 2024-10-08T06:13:02+0000,15.237.128.43,56,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-128-43.eu-west-3.compute.amazonaws.com
-2024-10-08T07:45:06+0000,159.89.192.93,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-08T09:00:35+0000,121.91.81.226,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,HostRoyale Technologies Pvt Ltd,truview LLC,AS207990 HostRoyale Technologies Pvt Ltd,
 2024-10-08T09:00:35+0000,46.105.78.15,22,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6918,3.2021,Europe/Paris,OVH SAS,OVH ISP,AS16276 OVH SAS,ip15.ip-46-105-78.eu
 2024-10-08T09:29:54+0000,94.156.167.199,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,cheapy.host LLC,CHEAPY.HOST,AS401120 cheapy.host LLC,
@@ -11290,7 +11284,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-10T20:46:49+0000,188.166.188.221,73,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-10-10T20:49:45+0000,194.164.163.87,15,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,IONOS SE,IONOS SE,AS8560 IONOS SE,pantoreformas.com
 2024-10-10T21:00:04+0000,104.247.72.84,4,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc","AS22611 InMotion Hosting, Inc.",ded7011.inmotionhosting.com
-2024-10-10T21:07:29+0000,51.89.242.54,54,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,GmbH 1337 Services,AS16276 OVH SAS,ip54.ip-51-89-242.eu
 2024-10-10T21:24:57+0000,103.47.226.147,14,Singapore,SG,02,North East,Singapore,,1.35538,103.868,Asia/Singapore,"Atlantic.net, Inc.","Atlantic.Net, Inc","AS6364 Atlantic.net, Inc.",
 2024-10-10T21:33:04+0000,5.182.33.212,67,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,f31.eelserver.com
 2024-10-10T21:44:46+0000,64.227.188.157,37,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",srv.infusphere.com
@@ -11624,3 +11617,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-17T01:13:18+0000,103.151.181.17,31,New Zealand,NZ,AUK,Auckland,Auckland,0624,-36.8322,174.7898,Pacific/Auckland,Auckland Data Centre Limited,Auckland Data Centre Limited,AS139054 Auckland Data Centre Limited,103-151-181-17.rdns.dcit.nz
 2024-10-17T02:38:00+0000,51.222.253.1,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca000-ext2.a.ahrefs.com
 2024-10-17T04:17:03+0000,24.117.146.159,4,United States,US,ID,Idaho,Meridian,83646,43.6502,-116.4343,America/Boise,"CABLE ONE, INC.",Sparklight,"AS11492 CABLE ONE, INC.",24-117-146-159.cpe.sparklight.net
+2024-10-17T08:47:43+0000,74.208.186.111,22,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,IONOS SE,IONOS Inc,AS8560 IONOS SE,
+2024-10-17T09:28:20+0000,51.222.253.4,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca003-ext2.a.ahrefs.com
+2024-10-17T09:54:01+0000,45.5.66.211,4,United States,US,NJ,New Jersey,Secaucus,07094,40.7876,-74.06,America/New_York,WhiteLabelColo,EAGLEDISTRIBUTORSNETWOR,AS394474 WhiteLabelColo,
+2024-10-17T11:25:37+0000,36.85.217.3,25,Indonesia,ID,SA,North Sulawesi,Manado,,1.481,124.8518,Asia/Makassar,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-17T11:32:49+0000,152.42.161.248,14,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2024-10-17T11:59:15+0000,172.245.168.179,11,United States,US,NY,New York,Buffalo,14280,42.8856,-78.8736,America/New_York,HostPapa,RackNerd LLC,AS36352 HostPapa,172-245-168-179-host.colocrossing.com
+2024-10-17T12:07:04+0000,159.89.192.93,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-17T12:19:23+0000,51.89.242.54,71,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,GmbH 1337 Services,AS16276 OVH SAS,ip54.ip-51-89-242.eu
+2024-10-17T12:54:32+0000,38.242.193.224,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2175896.contaboserver.net
+2024-10-17T13:11:45+0000,142.93.105.243,26,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",doaprdurlanalyser06eseu13.production.topsec.com
+2024-10-17T13:26:03+0000,158.220.117.44,48,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
+2024-10-17T13:42:20+0000,52.237.196.189,15,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation,
+2024-10-17T13:45:15+0000,129.153.25.174,20,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
+2024-10-17T13:45:40+0000,139.177.233.221,16,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
+2024-10-17T13:45:53+0000,35.171.69.89,23,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-171-69-89.compute-1.amazonaws.com
+2024-10-17T13:46:04+0000,139.177.233.233,16,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
+2024-10-17T13:46:05+0000,47.128.32.229,42,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-47-128-32-229.ap-southeast-1.compute.amazonaws.com
+2024-10-17T13:46:17+0000,52.112.95.132,33,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2024-10-17T13:49:46+0000,20.191.242.65,15,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation,
+2024-10-17T13:49:50+0000,147.160.184.80,12,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
+2024-10-17T13:50:05+0000,130.44.212.110,4,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
+2024-10-17T14:08:56+0000,3.236.176.247,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-236-176-247.compute-1.amazonaws.com
