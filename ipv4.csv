@@ -10032,7 +10032,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-19T19:21:42+0000,152.42.208.0,74,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-09-19T19:48:06+0000,181.214.173.66,22,Germany,DE,BE,Land Berlin,Berlin,10178,52.5196,13.4069,Europe/Berlin,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-09-19T19:55:34+0000,51.68.46.249,58,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,249.ip-51-68-46.eu
-2024-09-19T19:56:13+0000,51.91.9.168,57,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-8b458d56.vps.ovh.net
 2024-09-19T22:20:46+0000,172.98.86.168,45,United States,US,WA,Washington,Seattle,98160,47.6034,-122.3414,America/Los_Angeles,Performive LLC,Total server solutions LLC,AS46562 Performive LLC,
 2024-09-19T22:34:14+0000,177.241.56.72,15,Mexico,MX,JAL,Jalisco,Guadalajara,44250,20.6381,-103.348,America/Mexico_City,"Mega Cable, S.A. de C.V.","Mega Cable, S.A. de C.V","AS13999 Mega Cable, S.A. de C.V.",customer-GDL-CGN-56-72.megared.net.mx
 2024-09-19T22:34:15+0000,223.206.144.163,15,Thailand,TH,84,Surat Thani,Ko Samui,84140,9.4312,99.9701,Asia/Bangkok,Triple T Broadband Public Company Limited,Triple T Broadband Public Company Limited,AS45758 Triple T Broadband Public Company Limited,mx-ll-223.206.144-163.dynamic.3bb.co.th
@@ -11254,7 +11253,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-10T18:43:05+0000,3.71.42.108,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-71-42-108.eu-central-1.compute.amazonaws.com
 2024-10-10T19:03:39+0000,103.3.226.157,30,Estonia,EE,37,Harjumaa,Tallinn,,59.4381,24.7369,Europe/Tallinn,Tomato Web (Pvt) Limited,Tomato Web (Pvt) Limited,AS203020 HostRoyale Technologies Pvt Ltd,
 2024-10-10T19:03:39+0000,84.33.241.224,33,Italy,IT,62,Lazio,Rome,00187,41.9028,12.4964,Europe/Rome,INCUBATEC GmbH - Srl,Server24 Cloud CDN,AS34081 INCUBATEC GmbH - Srl,
-2024-10-10T19:03:40+0000,104.239.108.88,19,Turkey,TR,42,Konya,Konya,,37.8746,32.4932,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
 2024-10-10T19:03:41+0000,104.239.43.115,30,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"Getechbrothers, MB",Code ca3,"AS202044 Getechbrothers, MB",
 2024-10-10T19:03:42+0000,107.181.132.233,20,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
 2024-10-10T19:03:45+0000,54.251.22.3,4,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-54-251-22-3.ap-southeast-1.compute.amazonaws.com
@@ -11412,7 +11410,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-13T05:04:42+0000,209.242.201.14,29,Slovenia,SI,061,Ljubljana,Ljubljana,1501,46.0503,14.5046,Europe/Ljubljana,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies,AS203020 HostRoyale Technologies Pvt Ltd,
 2024-10-13T05:04:44+0000,92.119.182.218,29,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Leaseweb Deutschland GmbH,Wifiber IKE,AS28753 Leaseweb Deutschland GmbH,
 2024-10-13T05:04:47+0000,102.212.90.199,29,South Africa,ZA,GP,Gauteng,Johannesburg,7460,-26.2309,28.0583,Africa/Johannesburg,Lexistar Alliance Ltd.,,AS329225 Lexistar Alliance Ltd.,
-2024-10-13T05:04:49+0000,104.239.108.46,30,Turkey,TR,42,Konya,Konya,,37.8746,32.4932,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
 2024-10-13T05:04:54+0000,198.46.148.146,18,United States,US,NY,New York,Buffalo,14280,42.8856,-78.8736,America/New_York,HostPapa,ColoCrossing,AS36352 HostPapa,198-46-148-146-host.colocrossing.com
 2024-10-13T05:04:56+0000,206.41.164.239,23,Canada,CA,BC,British Columbia,Burnaby,V5A,49.2488,-122.981,America/Regina,Geekyworks IT Solutions Pvt Ltd,HostRoyale Technologies,AS203999 Geekyworks IT Solutions Pvt Ltd,
 2024-10-13T05:49:31+0000,106.213.87.84,11,India,IN,MH,Maharashtra,Pune,411001,18.6161,73.7286,Asia/Kolkata,Bharti Airtel,Bharti Airtel Limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",
@@ -11615,7 +11612,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-17T12:19:23+0000,51.89.242.54,71,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,GmbH 1337 Services,AS16276 OVH SAS,ip54.ip-51-89-242.eu
 2024-10-17T12:54:32+0000,38.242.193.224,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2175896.contaboserver.net
 2024-10-17T13:11:45+0000,142.93.105.243,26,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",doaprdurlanalyser06eseu13.production.topsec.com
-2024-10-17T13:26:03+0000,158.220.117.44,48,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
 2024-10-17T13:42:20+0000,52.237.196.189,15,Australia,AU,NSW,New South Wales,The Rocks,2000,-33.86,151.2094,Australia/Sydney,Microsoft Corporation,Microsoft Azure Cloud (australiaeast),AS8075 Microsoft Corporation,
 2024-10-17T13:45:15+0000,129.153.25.174,20,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
 2024-10-17T13:45:40+0000,139.177.233.221,16,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,Bytedance Inc.,Bytedance Inc,AS396986 Bytedance Inc.,
@@ -11651,7 +11647,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-17T22:36:46+0000,103.151.181.17,84,New Zealand,NZ,AUK,Auckland,Auckland,0624,-36.8322,174.7898,Pacific/Auckland,Auckland Data Centre Limited,Auckland Data Centre Limited,AS139054 Auckland Data Centre Limited,103-151-181-17.rdns.dcit.nz
 2024-10-17T23:07:30+0000,51.222.253.6,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca005-ext2.a.ahrefs.com
 2024-10-18T00:51:52+0000,188.190.10.81,36,Ukraine,UA,14,Donetsk,Bakhmut,84501,48.5948,37.9707,Europe/Kiev,Kprohost LLC,INTTEL Ltd,AS214940 KPROHOST LLC,188-190-10-81.clevhosting.com
-2024-10-18T01:48:28+0000,42.118.247.14,4,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,FPT Telecom Company,Vietnam Internet Network Information Center,AS18403 FPT Telecom Company,
 2024-10-18T02:01:23+0000,37.60.255.41,23,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,SiteGround,,AS51167 Contabo GmbH,vmi1821840.contaboserver.net
 2024-10-18T04:35:42+0000,154.212.141.222,100,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.,
 2024-10-18T05:11:06+0000,193.26.115.50,100,United States,US,FL,Florida,Miami,33192,25.7689,-80.1946,America/New_York,ReliableSite.Net LLC,1337 Services GmbH,AS23470 ReliableSite.Net LLC,193.26.115.50.powered.by.rdp.sh
@@ -11691,7 +11686,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-19T00:49:16+0000,45.199.156.28,15,Spain,ES,CT,Catalonia,Barcelona,,41.385,2.1734,Europe/Madrid,Bunny Technology LLC,Bunny Technology LLC,AS5065 Bunny Communications,
 2024-10-19T00:55:57+0000,1.192.195.11,100,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
 2024-10-19T01:03:27+0000,101.198.0.182,52,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,Beijing Qihu Technology Company Limited,Beijing Qihu Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation",
-2024-10-19T01:10:58+0000,152.42.177.36,22,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
 2024-10-19T01:44:22+0000,172.59.69.0,4,United States,US,FL,Florida,Jacksonville,32225,30.3511,-81.506,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-19T02:14:30+0000,51.222.253.17,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca016-ext2.a.ahrefs.com
 2024-10-19T02:17:03+0000,172.86.115.129,13,United States,US,TX,Texas,Dallas,75217,32.7212,-96.6765,America/Chicago,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,
@@ -11703,3 +11697,83 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-19T08:39:15+0000,120.17.187.120,4,Australia,AU,NSW,New South Wales,Sydney,2144,-33.8539,151.0296,Australia/Sydney,Vodafone,,AS133612 Vodafone Australia Pty Ltd,
 2024-10-19T09:35:58+0000,154.213.185.247,100,The Netherlands,NL,LI,Limburg,Eygelshoven,6471,50.8933,6.05805,Europe/Amsterdam,Pfcloud UG,Pfcloud UG,AS51396 Pfcloud UG,
 2024-10-19T10:06:19+0000,51.222.253.16,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca015-ext2.a.ahrefs.com
+2024-10-19T11:56:49+0000,154.212.141.206,100,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.,
+2024-10-19T12:16:54+0000,34.0.69.87,14,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0852,34.7817,Asia/Jerusalem,Google LLC,Google Cloud (me-west1),AS19527 Google LLC,87.69.0.34.bc.googleusercontent.com
+2024-10-19T12:43:45+0000,188.212.141.142,4,United States,US,NY,New York,Newark,14513,43.0475,-77.094,America/New_York,HostRoyale Technologies Pvt Ltd,cleardocks LLC,AS207990 HostRoyale Technologies Pvt Ltd,
+2024-10-19T13:23:17+0000,51.91.9.168,80,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-8b458d56.vps.ovh.net
+2024-10-19T13:47:48+0000,98.110.72.252,4,United States,US,NJ,New Jersey,Berlin,08009,39.7766,-74.9285,America/New_York,Verizon Business,Verizon Business,AS701 Verizon Business,pool-98-110-72-252.cmdnnj.fios.verizon.net
+2024-10-19T15:51:20+0000,174.231.80.21,4,United States,US,VA,Virginia,Ashburn,20147,39.0113,-77.4713,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,21.sub-174-231-80.myvzw.com
+2024-10-19T16:43:56+0000,94.131.22.97,26,United States,US,NY,New York,New York,10013,40.7157,-74,America/New_York,USA,,AS265827 CAPITALFUTURO SA,
+2024-10-19T17:34:01+0000,36.70.234.227,15,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-19T18:23:55+0000,194.59.31.75,57,France,FR,IDF,Île-de-France,Paris,75000,48.8323,2.4075,Europe/Paris,12651980 Canada Inc.,Virtuo Networks France,AS399486 12651980 CANADA INC.,
+2024-10-19T19:08:42+0000,80.76.51.114,86,The Netherlands,NL,LI,Limburg,Eygelshoven,6471,50.8897,6.0563,Europe/Amsterdam,Nybula LLC,,AS401116 Nybula LLC,
+2024-10-19T19:21:37+0000,44.201.40.133,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-201-40-133.compute-1.amazonaws.com
+2024-10-19T19:29:35+0000,20.199.92.216,28,France,FR,IDF,Île-de-France,Paris,75000,48.856567,2.347322,Europe/Paris,Microsoft Corporation,Microsoft Azure Cloud (francecentral),AS8075 Microsoft Corporation,
+2024-10-19T19:54:05+0000,172.58.57.218,4,United States,US,TX,Texas,Houston,77007,29.7738,-95.406,America/Chicago,"T-Mobile USA, Inc.",T-Mobile USA,"AS21928 T-Mobile USA, Inc.",
+2024-10-19T20:26:23+0000,45.149.241.79,75,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Nybula LLC,Nybula LLC,AS401116 Nybula LLC,
+2024-10-19T20:57:49+0000,172.56.83.109,4,United States,US,AZ,Arizona,Phoenix,85021,33.5594,-112.0902,America/Phoenix,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-19T22:02:13+0000,174.215.117.149,4,United States,US,WA,Washington,Seattle,98188,47.4467,-122.2684,America/Los_Angeles,Verizon Business,Verizon Business,AS6167 Verizon Business,149.sub-174-215-117.myvzw.com
+2024-10-19T22:07:00+0000,34.205.93.160,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-205-93-160.compute-1.amazonaws.com
+2024-10-19T22:14:47+0000,172.59.79.220,4,United States,US,MO,Missouri,Kansas City,64128,39.0684,-94.5411,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-19T22:45:04+0000,194.88.100.49,4,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,
+2024-10-19T23:29:26+0000,83.121.221.243,4,Iran,IR,23,Tehran,Tehran,,35.727,51.3811,Asia/Tehran,Mobile Communication Company of Iran PLC,Mcci PS,AS197207 Mobile Communication Company of Iran PLC,
+2024-10-19T23:29:27+0000,160.154.230.154,4,Ivory Coast,CI,AB,Abidjan Autonomous District,Abidjan,,5.3536,-4.0012,Africa/Abidjan,ORANGE COTE D'IVOIRE,OCI,AS29571 Orange Côte d'Ivoire,
+2024-10-19T23:29:29+0000,181.2.33.171,4,Argentina,AR,X,Cordoba,Alta Gracia,5186,-31.6725,-64.4338,America/Argentina/Cordoba,Telecom Argentina S.A.,Telecom Personal Bs,AS7303 Telecom Argentina S.A.,host171.181-2-33.telecom.net.ar
+2024-10-19T23:29:30+0000,41.69.42.25,23,Egypt,EG,C,Cairo Governorate,Cairo,,30.0588,31.2268,Africa/Cairo,Vodafone Data,,AS24835 Vodafone Data,
+2024-10-19T23:29:33+0000,200.58.90.103,16,Bolivia,BO,C,Departamento de Cochabamba,Cochabamba,,-17.3817,-66.138,America/La_Paz,Comteco Ltda,Comteco Ltda,AS27839 Comteco Ltda,host-200-58-90-103.supernet.com.bo
+2024-10-19T23:45:48+0000,174.240.113.175,4,United States,US,MI,Michigan,Dearborn,48126,42.3344,-83.1756,America/Detroit,Verizon Business,Verizon Business,AS6167 Verizon Business,175.sub-174-240-113.myvzw.com
+2024-10-20T00:02:28+0000,174.246.137.70,4,United States,US,TX,Texas,Dallas,75287,32.9993,-96.8346,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,70.sub-174-246-137.myvzw.com
+2024-10-20T00:10:01+0000,47.221.68.72,4,United States,US,TX,Texas,Porter,77365,30.1212,-95.2678,America/Chicago,Suddenlink Communications,Suddenlink Communications,AS19108 Optimum,
+2024-10-20T00:47:46+0000,54.159.46.156,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-159-46-156.compute-1.amazonaws.com
+2024-10-20T01:20:45+0000,42.118.247.14,30,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,FPT Telecom Company,Vietnam Internet Network Information Center,AS18403 FPT Telecom Company,
+2024-10-20T01:22:14+0000,174.215.118.212,4,United States,US,WA,Washington,Seattle,98188,47.4467,-122.2684,America/Los_Angeles,Verizon Business,Verizon Business,AS6167 Verizon Business,212.sub-174-215-118.myvzw.com
+2024-10-20T02:19:21+0000,209.99.129.42,63,Türkiye,TR,34,Istanbul,Istanbul,34134,41.0145,28.9533,Europe/Istanbul,Geekyworks IT Solutions Pvt Ltd,US Net Incorporated,AS203999 Geekyworks IT Solutions Pvt Ltd,
+2024-10-20T02:19:23+0000,104.239.108.88,62,Turkey,TR,42,Konya,Konya,,37.8746,32.4932,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
+2024-10-20T02:19:23+0000,104.239.108.31,60,Turkey,TR,42,Konya,Konya,,37.8746,32.4932,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
+2024-10-20T02:19:23+0000,104.239.108.46,61,Turkey,TR,42,Konya,Konya,,37.8746,32.4932,Europe/Istanbul,"Tesonet, UAB",Code Tr,"AS133944 trafficforce, UAB",
+2024-10-20T02:19:31+0000,209.99.134.199,62,Türkiye,TR,34,Istanbul,Istanbul,34134,41.0145,28.9533,Europe/Istanbul,Geekyworks IT Solutions Pvt Ltd,US Net Incorporated,AS203999 Geekyworks IT Solutions Pvt Ltd,
+2024-10-20T02:31:49+0000,18.220.23.216,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-220-23-216.us-east-2.compute.amazonaws.com
+2024-10-20T02:31:49+0000,3.231.225.174,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-231-225-174.compute-1.amazonaws.com
+2024-10-20T02:31:49+0000,18.184.32.225,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-184-32-225.eu-central-1.compute.amazonaws.com
+2024-10-20T02:31:49+0000,3.64.217.129,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-64-217-129.eu-central-1.compute.amazonaws.com
+2024-10-20T02:31:49+0000,18.193.86.44,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-193-86-44.eu-central-1.compute.amazonaws.com
+2024-10-20T02:56:34+0000,174.211.100.242,4,United States,US,FL,Florida,Tampa,33617,28.0406,-82.3951,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,242.sub-174-211-100.myvzw.com
+2024-10-20T03:43:40+0000,50.19.50.121,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-50-19-50-121.compute-1.amazonaws.com
+2024-10-20T03:53:05+0000,75.43.55.106,4,United States,US,FL,Florida,Sanford,32771,28.7935,-81.2868,America/New_York,"AT&T Services, Inc.",AT&T Corp,"AS7018 AT&T Services, Inc.",75-43-55-106.lightspeed.okcyok.sbcglobal.net
+2024-10-20T04:20:17+0000,174.245.84.4,4,United States,US,NC,North Carolina,Charlotte,28277,35.0562,-80.8194,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,4.sub-174-245-84.myvzw.com
+2024-10-20T04:46:24+0000,115.66.96.106,4,Singapore,SG,01,Central Singapore,Singapore,148945,1.29199,103.807,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb115-66-96-106.singnet.com.sg
+2024-10-20T04:54:06+0000,103.252.200.78,4,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Myrepublic Limited,Myrepublic Limited,AS56300 MyRepublic Ltd.,78-200-252-103.myrepublic.com.sg
+2024-10-20T04:55:01+0000,116.87.22.64,4,Singapore,SG,03,North West,Singapore,779085,1.40278,103.818,Asia/Singapore,StarHub Cable Vision Ltd,SGCABLEVISION,AS55430 Starhub Ltd,64.22.87.116.starhub.net.sg
+2024-10-20T04:55:22+0000,222.164.34.78,4,Singapore,SG,01,Central Singapore,Singapore,139943,1.29582,103.79,Asia/Singapore,StarHub Cable Vision Ltd,SGCABLEVISION,AS55430 Starhub Ltd,78.34.164.222.starhub.net.sg
+2024-10-20T05:05:09+0000,116.86.186.124,4,Singapore,SG,01,Central Singapore,Singapore,408942,1.32429,103.893,Asia/Singapore,StarHub Cable Vision Ltd,SGCABLEVISION,AS55430 Starhub Ltd,124.186.86.116.starhub.net.sg
+2024-10-20T05:05:33+0000,202.166.35.189,4,Singapore,SG,04,South East,Singapore,529482,1.35352,103.942,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services","Singapore Telecommunications Ltd, Magix Services",AS9506 Singtel Fibre Broadband,bb202.166.35.189.singnet.com.sg
+2024-10-20T05:06:05+0000,42.60.123.108,4,Singapore,SG,01,Central Singapore,Singapore,148945,1.29199,103.807,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb42-60-123-108.singnet.com.sg
+2024-10-20T05:10:05+0000,119.74.53.185,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb119-74-53-185.singnet.com.sg
+2024-10-20T05:10:44+0000,116.14.102.24,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb116-14-102-24.singnet.com.sg
+2024-10-20T05:10:59+0000,58.96.201.232,4,Singapore,SG,01,Central Singapore,Singapore,408942,1.32414,103.893,Asia/Singapore,Starhub Internet Pte Ltd,STARHUBINTERNET,AS55430 Starhub Ltd,232.201.96.58.starhub.net.sg
+2024-10-20T05:15:39+0000,118.201.212.254,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,SingNet Pte Ltd,SingNet Pte Ltd,AS3758 SingNet,
+2024-10-20T05:15:56+0000,116.87.100.128,4,Singapore,SG,01,Central Singapore,Singapore,408942,1.32429,103.893,Asia/Singapore,Starhub Internet Pte Ltd,StarHub Cable Vision Ltd,AS55430 Starhub Ltd,128.100.87.116.starhub.net.sg
+2024-10-20T05:17:03+0000,103.252.201.217,15,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Myrepublic Limited,Myrepublic Limited,AS56300 MyRepublic Ltd.,217-201-252-103.myrepublic.com.sg
+2024-10-20T05:17:51+0000,58.185.224.90,4,Singapore,SG,01,Central Singapore,Singapore,148945,1.29199,103.807,Asia/Singapore,SingNet Pte Ltd,SingNet Pte Ltd,AS3758 SingNet,
+2024-10-20T05:18:12+0000,116.86.11.192,4,Singapore,SG,01,Central Singapore,Singapore,408942,1.32441,103.893,Asia/Singapore,StarHub Cable Vision Ltd,SGCABLEVISION,AS55430 Starhub Ltd,192.11.86.116.starhub.net.sg
+2024-10-20T05:19:06+0000,103.252.200.106,4,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Myrepublic Limited,Myrepublic Limited,AS56300 MyRepublic Ltd.,106-200-252-103.myrepublic.com.sg
+2024-10-20T05:19:07+0000,58.182.168.141,4,Singapore,SG,01,Central Singapore,Singapore,139937,1.29415,103.791,Asia/Singapore,StarHub Cable Vision Ltd,SGCABLEVISION,AS55430 Starhub Ltd,141.168.182.58.starhub.net.sg
+2024-10-20T05:19:14+0000,118.200.123.209,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb118-200-123-209.singnet.com.sg
+2024-10-20T05:19:56+0000,220.255.169.132,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb220-255-169-132.singnet.com.sg
+2024-10-20T05:20:34+0000,182.55.65.245,4,Singapore,SG,01,Central Singapore,Singapore,408942,1.32429,103.893,Asia/Singapore,Starhub Internet Pte Ltd,Starhub Internet Pte Ltd,AS55430 Starhub Ltd,
+2024-10-20T05:21:20+0000,138.75.59.2,4,Singapore,SG,02,North East,Singapore,533473,1.37611,103.902,Asia/Singapore,M1 LIMITED,M1 LIMITED,AS4773 MobileOne Ltd. Mobile/Internet Service Provider Singapore,
+2024-10-20T05:21:51+0000,121.6.67.170,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb121-6-67-170.singnet.com.sg
+2024-10-20T05:22:25+0000,203.169.114.50,4,Singapore,SG,01,Central Singapore,Singapore,148943,1.29229,103.808,Asia/Singapore,SingNet Pte Ltd,Sivantos Pte. Ltd.,AS3758 SingNet,bb203-169-114-50.singnet.com.sg
+2024-10-20T05:23:16+0000,115.66.141.97,4,Singapore,SG,01,Central Singapore,Singapore,148945,1.29199,103.807,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb115-66-141-97.singnet.com.sg
+2024-10-20T05:23:22+0000,202.166.18.127,4,Singapore,SG,04,South East,Singapore,529482,1.35352,103.942,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",Singapore Telecommunications Limited.,AS9506 Singtel Fibre Broadband,bb202.166.18.127.singnet.com.sg
+2024-10-20T05:23:35+0000,42.60.137.18,4,Singapore,SG,01,Central Singapore,Singapore,148945,1.29199,103.807,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb42-60-137-18.singnet.com.sg
+2024-10-20T05:24:32+0000,195.133.129.33,4,Singapore,SG,01,Central Singapore,Singapore,339914,1.3145,103.862,Asia/Singapore,Viewqwest Pte Ltd,Viewqwest Pte Ltd,AS18106 Viewqwest Pte Ltd,
+2024-10-20T05:25:32+0000,210.10.76.29,4,Singapore,SG,04,South East,Singapore,416085,1.33613,103.91,Asia/Singapore,Simba Telecom Pte Ltd,Simba,AS4817 Simba Telecom Pte Ltd,
+2024-10-20T05:26:11+0000,115.66.94.139,4,Singapore,SG,01,Central Singapore,Singapore,148945,1.29199,103.807,Asia/Singapore,"Singapore Telecommunications Ltd, Magix Services",SingNet Pte Ltd,AS9506 Singtel Fibre Broadband,bb115-66-94-139.singnet.com.sg
+2024-10-20T05:50:10+0000,157.230.41.43,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-20T06:09:35+0000,172.59.177.196,4,United States,US,NY,New York,Syracuse,13201,43.0481,-76.1474,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-20T06:37:11+0000,3.237.14.215,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-237-14-215.compute-1.amazonaws.com
+2024-10-20T06:59:56+0000,158.220.117.44,57,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
+2024-10-20T07:00:06+0000,172.248.81.66,4,United States,US,CA,California,Simi Valley,93065,34.2666,-118.7643,America/Los_Angeles,Charter Communications,Spectrum,AS20001 Charter Communications Inc,syn-172-248-081-066.res.spectrum.com
+2024-10-20T07:50:51+0000,165.22.215.19,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-20T08:06:06+0000,152.42.177.36,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
