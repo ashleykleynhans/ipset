@@ -6098,7 +6098,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-08T01:08:31+0000,209.99.129.224,13,Türkiye,TR,34,Istanbul,Istanbul,34134,41.0011,28.9675,Europe/Istanbul,Geekyworks IT Solutions Pvt Ltd,US Net Incorporated,AS203999 Geekyworks IT Solutions Pvt Ltd,
 2024-08-08T01:08:32+0000,173.0.10.10,19,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Tier.Net Technologies LLC,GigaPacket LLC,AS397423 Tier.Net Technologies LLC,
 2024-08-08T01:08:33+0000,107.181.148.47,13,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
-2024-08-08T01:08:34+0000,45.43.82.148,13,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
 2024-08-08T01:08:37+0000,102.212.88.156,13,South Africa,ZA,GP,Gauteng,Johannesburg,7460,-26.2309,28.0583,Africa/Johannesburg,Lexistar Alliance Ltd.,SA,AS329225 Lexistar Alliance Ltd.,
 2024-08-08T01:08:40+0000,45.135.139.73,20,United Kingdom,GB,ENG,England,London,EC4R,51.5088,-0.093,Europe/London,"QuickPacket, LLC",Hostmetric,"AS46261 QuickPacket, LLC",
 2024-08-08T01:08:40+0000,172.98.168.82,26,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,BraveWay LLC,BraveWay LLC,AS28753 Leaseweb Deutschland GmbH,
@@ -6939,7 +6938,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-14T20:06:58+0000,35.199.69.178,3,Brazil,BR,SP,São Paulo,Sao Paulo,,-23.5505,-46.6333,America/Sao_Paulo,Google LLC,Google Cloud (southamerica-east1),AS396982 Google LLC,178.69.199.35.bc.googleusercontent.com
 2024-08-14T20:07:03+0000,119.205.197.116,13,South Korea,KR,42,Gangwon-do,Chuncheon,242,37.8897,127.736,Asia/Seoul,Korea Telecom,Korea Telecom,AS4766 Korea Telecom,
 2024-08-14T20:07:19+0000,49.231.229.199,3,Thailand,TH,10,Bangkok,Ratchathewi,10400,13.7683,100.54,Asia/Bangkok,Hueg Jung Huat Sales-and-Service-By-SBN,,AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX,mail.engcorps.com
-2024-08-14T20:07:31+0000,34.210.15.192,3,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ipw-outbound.inkyphishfence.com
 2024-08-14T20:08:36+0000,50.250.105.85,100,United States,US,FL,Florida,Miami,33166,25.8295,-80.2927,America/New_York,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS20214 Comcast Cable Communications, LLC",50-250-105-85-static.hfc.comcastbusiness.net
 2024-08-14T20:09:03+0000,45.131.60.10,11,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Lars Jannick Volkers trading as Etheron Hosting,Etheron Hosting,AS200223 Lars Jannick Volkers trading as Etheron Hosting,web1.ping64.net
 2024-08-14T20:09:36+0000,85.214.53.38,3,Germany,DE,BE,Land Berlin,Berlin,10587,52.5234,13.3224,Europe/Berlin,Strato AG,Strato AG,AS6724 Strato AG,srv2.belarto.com
@@ -7859,7 +7857,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-08-22T14:30:31+0000,34.46.189.87,3,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,87.189.46.34.bc.googleusercontent.com
 2024-08-22T14:56:30+0000,20.37.109.6,32,Japan,JP,13,Tokyo,Tokyo,152-8503,35.68,139.77,Asia/Tokyo,Microsoft Corporation,Microsoft Azure Cloud (japaneast),AS8075 Microsoft Corporation,
 2024-08-22T15:01:32+0000,172.58.54.53,3,United States,US,TX,Texas,Houston,77002,29.7646,-95.3657,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
-2024-08-22T15:04:18+0000,96.79.173.41,3,United States,US,TX,Texas,Houston,77024,29.7805,-95.5129,America/Chicago,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS33662 Comcast Cable Communications, LLC",96-79-173-41-static.hfc.comcastbusiness.net
 2024-08-22T15:45:33+0000,20.163.179.242,3,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,
 2024-08-22T16:06:01+0000,174.197.67.104,3,United States,US,TX,Texas,Euless,76040,32.8371,-97.082,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,104.sub-174-197-67.myvzw.com
 2024-08-22T16:33:34+0000,185.228.19.135,3,United States,US,WA,Washington,Seattle,98160,47.6034,-122.3414,America/Los_Angeles,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
@@ -11589,7 +11586,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-16T22:55:05+0000,23.27.140.132,4,United States,US,NY,New York,New York,10013,40.7218,-74.0094,America/New_York,Ace Data Centers II,Evoxt,AS149440 Evoxt Enterprise,
 2024-10-16T23:05:54+0000,198.44.136.119,4,United States,US,NY,New York,New York,10011,40.7597,-73.981,America/New_York,"tzulo, inc.",James Emerson,"AS11878 tzulo, inc.",static-198-44-136-119.cust.tzulo.com
 2024-10-16T23:14:07+0000,45.157.52.66,100,Iraq,IQ,AR,Erbil,Erbil,,36.1828,44.0105,Asia/Baghdad,"Smart Link Company for Internet Service, special company and limited responsibi","Smart Link Company Internet Service, special company and limited responsibility","AS210413 Smart Link Company for Internet Service, special company and limited responsibility",relay.coreline.tech
-2024-10-16T23:15:13+0000,164.132.171.176,59,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
 2024-10-16T23:48:03+0000,143.137.191.206,100,Brazil,BR,PA,Pará,Belém,66000-000,-1.45631,-48.5013,America/Belem,Metaweb Internet Ltda,Metaweb Internet Ltda,AS264041 Metaweb Internet Ltda,143-137-191-206.static.reverse.net2.com.br
 2024-10-17T02:38:00+0000,51.222.253.1,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca000-ext2.a.ahrefs.com
 2024-10-17T04:17:03+0000,24.117.146.159,4,United States,US,ID,Idaho,Meridian,83646,43.6502,-116.4343,America/Boise,"CABLE ONE, INC.",Sparklight,"AS11492 CABLE ONE, INC.",24-117-146-159.cpe.sparklight.net
@@ -11758,7 +11754,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-20T05:50:10+0000,157.230.41.43,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-20T06:09:35+0000,172.59.177.196,4,United States,US,NY,New York,Syracuse,13201,43.0481,-76.1474,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-20T06:37:11+0000,3.237.14.215,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-237-14-215.compute-1.amazonaws.com
-2024-10-20T06:59:56+0000,158.220.117.44,57,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
 2024-10-20T07:00:06+0000,172.248.81.66,4,United States,US,CA,California,Simi Valley,93065,34.2666,-118.7643,America/Los_Angeles,Charter Communications,Spectrum,AS20001 Charter Communications Inc,syn-172-248-081-066.res.spectrum.com
 2024-10-20T07:50:51+0000,165.22.215.19,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-20T08:06:06+0000,152.42.177.36,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
@@ -11790,7 +11785,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-21T02:15:29+0000,178.128.59.91,77,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-10-21T02:21:18+0000,157.173.117.139,23,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2150121.contaboserver.net
 2024-10-21T03:57:42+0000,5.78.61.3,100,United States,US,OR,Oregon,Hillsboro,97129,45.5397,-122.9638,America/Los_Angeles,Hetzner Online GmbH,Hetzner Online GmbH,AS212317 Hetzner Online GmbH,static.3.61.78.5.clients.your-server.de
-2024-10-21T04:21:44+0000,67.212.191.154,73,United States,US,FL,Florida,Winter Park,32789,28.6,-81.3392,America/New_York,SingleHop LLC,TMDHosting,AS32475 SingleHop LLC,demowp.tmd.cloud
 2024-10-21T04:32:11+0000,64.227.174.46,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-21T05:32:36+0000,172.59.104.243,4,United States,US,LA,Louisiana,New Orleans,70113,29.9375,-90.0848,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-21T07:18:52+0000,44.197.212.218,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-197-212-218.compute-1.amazonaws.com
@@ -11903,3 +11897,32 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-22T15:14:22+0000,173.0.9.253,21,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,Tier.Net Technologies LLC,GigaPacket LLC,AS397423 Tier.Net Technologies LLC,
 2024-10-22T15:14:24+0000,192.177.86.52,4,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,EGIHosting,AS18779 EGIHosting,
 2024-10-22T15:14:27+0000,45.43.186.92,29,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"trafficforce, UAB",Code Spain,"AS202496 trafficforce, UAB",
+2024-10-22T15:22:39+0000,96.79.173.41,4,United States,US,TX,Texas,Houston,77091,29.8504,-95.4413,America/Chicago,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",
+2024-10-22T15:34:00+0000,128.90.157.14,47,Spain,ES,MD,Madrid,Madrid,28001,40.4299,-3.6691,Europe/Madrid,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc.",undefined.hostname.localhost
+2024-10-22T15:37:44+0000,164.132.171.176,53,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
+2024-10-22T16:00:42+0000,91.212.74.237,13,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,Internet Resources Management SRL,Internet Resources Management SRL,AS49203 Internet Resources Management SRL,
+2024-10-22T16:00:45+0000,45.43.82.148,27,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
+2024-10-22T16:00:49+0000,64.137.106.185,26,Switzerland,CH,ZH,Zurich,Zurich,8006,47.3804,8.5412,Europe/Zurich,"Tesonet, UAB",Code Ch4,"AS133944 trafficforce, UAB",
+2024-10-22T16:15:05+0000,67.212.191.154,85,United States,US,FL,Florida,Winter Park,32789,28.6,-81.3392,America/New_York,SingleHop LLC,TMDHosting,AS32475 SingleHop LLC,demowp.tmd.cloud
+2024-10-22T16:17:37+0000,180.252.23.215,4,Indonesia,ID,JB,West Java,Bandung,,-6.9217,107.6071,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-10-22T16:17:38+0000,105.104.126.21,4,Algeria,DZ,23,Annaba,Annaba,23000,36.7859,7.6282,Africa/Algiers,Algerie Telecom,,AS36947 Telecom Algeria,
+2024-10-22T16:17:44+0000,142.154.115.183,4,Saudi Arabia,SA,02,Mecca Region,Jeddah,,21.4849,39.192,Asia/Riyadh,Saudi Telecom Company JSC,Saudi Telecom Company JSC,AS25019 Saudi Telecom Company JSC,
+2024-10-22T16:17:48+0000,45.4.86.252,4,Honduras,HN,CR,Cortés Department,San Pedro Sula,,15.4967,-88.0338,America/Tegucigalpa,Asociacion De Servicio De Internet S. De RL,CIBERNET S. de RL de CV,AS262234 ASOCIACION DE SERVICIO DE INTERNET S. DE RL.,block4-86-static-252.asinetwork.hn
+2024-10-22T16:17:51+0000,197.49.47.63,4,Egypt,EG,C,Cairo Governorate,Cairo,,30.0588,31.2268,Africa/Cairo,TE Data,,AS8452 TE-AS,host-197.49.47.63.tedata.net
+2024-10-22T16:17:55+0000,190.89.30.58,4,Venezuela,VE,D,Aragua,Maracay,,10.2431,-67.6047,America/Caracas,"CORPORACION FIBEX TELECOM, C.A.","CORPORACION FIBEX TELECOM, C.A","AS264628 CORPORACION FIBEX TELECOM, C.A.",
+2024-10-22T16:17:55+0000,2.176.140.180,4,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,Iran Telecommunication Company PJS,Telecommunication Company of Tehran,AS58224 Iran Telecommunication Company PJS,
+2024-10-22T16:17:57+0000,41.233.220.141,4,Egypt,EG,C,Cairo Governorate,Cairo,,30.0588,31.2268,Africa/Cairo,TE Data,TE Data,AS8452 TE-AS,host-41.233.220.141.tedata.net
+2024-10-22T16:18:00+0000,175.136.142.238,4,Malaysia,MY,13,Sarawak,Kuching,93250,1.5608,110.3071,Asia/Kuching,TM TECHNOLOGY SERVICES SDN BHD,Telekom Malaysia Inc,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,
+2024-10-22T16:18:01+0000,41.97.165.18,4,Algeria,DZ,29,Mascara,Mascara,29007,35.3944,0.1378,Africa/Algiers,Algerie Telecom,,AS36947 Telecom Algeria,
+2024-10-22T16:18:23+0000,146.190.111.4,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-22T18:24:29+0000,131.216.14.82,4,United States,US,NV,Nevada,Las Vegas,89119,36.102,-115.1447,America/Los_Angeles,Nevada System of Higher Education,Nevada System of Higher Education,AS3851 Nevada System of Higher Education,
+2024-10-22T21:21:40+0000,34.210.15.192,19,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ipw-outbound.inkyphishfence.com
+2024-10-22T21:28:41+0000,79.143.187.60,46,Germany,DE,BY,Bavaria,Munich,81549,48.1077,11.6091,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,ip-60-187-143-79.static.contabo.net
+2024-10-22T21:31:51+0000,172.59.186.207,11,United States,US,IL,Illinois,Chicago,60644,41.8883,-87.7613,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-22T22:56:59+0000,75.101.205.96,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-75-101-205-96.compute-1.amazonaws.com
+2024-10-23T00:10:54+0000,158.220.117.44,79,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161468.contaboserver.net
+2024-10-23T00:29:19+0000,67.205.183.135,75,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2024-10-23T01:31:41+0000,35.174.61.215,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-174-61-215.compute-1.amazonaws.com
+2024-10-23T01:34:04+0000,174.195.82.227,4,United States,US,CA,California,Oakland,94601,37.7794,-122.2178,America/Los_Angeles,Verizon Business,Verizon Business,AS6167 Verizon Business,227.sub-174-195-82.myvzw.com
+2024-10-23T01:47:13+0000,51.222.253.20,100,Singapore,SG,01,Central Singapore,Singapore,048581,1.28141,103.851,Asia/Singapore,OVH Hosting,"Dmytro, Ahrefs Pte Ltd",AS16276 OVH SAS,proxy-ca019-ext2.a.ahrefs.com
+2024-10-23T03:01:09+0000,185.94.29.128,100,Germany,DE,HE,Hesse,Offenbach,63067,50.1093,8.7321,Europe/Berlin,dataforest GmbH,dataforest GmbH,AS58212 dataforest GmbH,
