@@ -11230,7 +11230,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-10T19:04:02+0000,64.137.96.159,25,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"Getechbrothers, MB",Code SP,"AS202044 Getechbrothers, MB",
 2024-10-10T19:04:06+0000,147.185.250.74,27,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Grupo Panaglobal 15 S.A,,AS264617 GRUPO PANAGLOBAL 15 S.A,
 2024-10-10T19:04:08+0000,202.155.186.5,32,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,HostRoyale Technologies Pvt Ltd,NIXI,AS44144 HostRoyale Technologies Pvt Ltd,
-2024-10-10T19:04:09+0000,104.238.20.31,28,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Code Au07,,"AS149428 Code200, UAB",
 2024-10-10T19:04:44+0000,154.29.233.113,18,United States,US,NC,North Carolina,Charlotte,28202,35.2316,-80.8428,America/New_York,"QuickPacket, LLC",Aventice LLC,"AS46261 QuickPacket, LLC",
 2024-10-10T19:06:48+0000,95.111.231.233,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,khoudoss.wanekoohost.com
 2024-10-10T19:10:35+0000,54.227.143.165,22,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-227-143-165.compute-1.amazonaws.com
@@ -11952,7 +11951,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-24T05:37:43+0000,44.198.182.7,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-198-182-7.compute-1.amazonaws.com
 2024-10-24T05:38:45+0000,212.227.128.208,63,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,IONOS SE,IONOS SE,AS8560 IONOS SE,ip212-227-128-208.pbiaas.com
 2024-10-24T07:19:44+0000,66.175.44.62,53,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web202c40.carrierzone.com
-2024-10-24T07:22:58+0000,159.223.49.242,97,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-24T07:23:09+0000,159.223.78.4,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-24T07:27:55+0000,137.184.147.210,73,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",edison.infill.llc
 2024-10-24T08:33:52+0000,52.57.120.66,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-52-57-120-66.eu-central-1.compute.amazonaws.com
@@ -12118,3 +12116,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-26T04:26:04+0000,64.137.96.99,30,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"Getechbrothers, MB",Code SP,"AS202044 Getechbrothers, MB",
 2024-10-26T04:43:44+0000,45.137.198.155,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,RoyaleHosting BV,RoyaleHosting BV,AS212477 RoyaleHosting BV,hosted-by.royalehosting.net
 2024-10-26T05:37:02+0000,41.109.209.168,15,Algeria,DZ,09,Blida,Blida,35012,36.4675,2.8268,Africa/Algiers,Algerie Telecom,,AS36947 Telecom Algeria,
+2024-10-26T06:53:24+0000,82.34.178.185,4,United Kingdom,GB,ENG,England,Paignton,TQ3,50.4374,-3.5806,Europe/London,Virgin Media,Virgin Media Limited,AS5089 Virgin Media Limited,newt-39-b2-v4wan-168302-cust696.vm11.cable.virginm.net
+2024-10-26T08:33:57+0000,44.243.217.98,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-44-243-217-98.us-west-2.compute.amazonaws.com
+2024-10-26T09:55:42+0000,122.56.196.64,4,New Zealand,NZ,AUK,Auckland,Auckland,1010,-36.8506,174.7679,Pacific/Auckland,Spark New Zealand Trading Limited,Spark New Zealand Trading Limited,AS4771 Spark New Zealand Trading Ltd.,122-56-196-64.mobile.spark.co.nz
+2024-10-26T11:01:42+0000,3.238.20.96,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-20-96.compute-1.amazonaws.com
+2024-10-26T11:14:20+0000,104.238.20.31,15,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8715,151.2006,Australia/Sydney,Code Au07,,"AS149428 Code200, UAB",
+2024-10-26T11:14:46+0000,198.23.214.106,18,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,HostPapa,HostPapa,AS36352 HostPapa,198-23-214-106-host.colocrossing.com
+2024-10-26T12:15:59+0000,152.42.179.157,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2024-10-26T15:05:59+0000,172.59.173.173,4,United States,US,CA,California,San Jose,95136,37.2692,-121.845,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-10-26T15:29:19+0000,50.203.191.84,4,United States,US,PA,Pennsylvania,Philadelphia,19104,39.9597,-75.1995,America/New_York,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",
+2024-10-26T16:21:24+0000,159.223.49.242,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-26T16:34:41+0000,170.64.155.7,33,Australia,AU,NSW,New South Wales,Sydney,2015,-33.8979,151.1897,Australia/Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-10-26T17:17:56+0000,18.212.221.130,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-212-221-130.compute-1.amazonaws.com
+2024-10-26T17:45:31+0000,18.217.12.38,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-217-12-38.us-east-2.compute.amazonaws.com
+2024-10-26T17:45:32+0000,44.222.183.159,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-222-183-159.compute-1.amazonaws.com
+2024-10-26T17:45:32+0000,35.158.254.121,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-35-158-254-121.eu-central-1.compute.amazonaws.com
+2024-10-26T17:45:32+0000,3.68.213.27,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-68-213-27.eu-central-1.compute.amazonaws.com
+2024-10-26T17:45:32+0000,3.79.183.7,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-79-183-7.eu-central-1.compute.amazonaws.com
+2024-10-26T17:47:08+0000,185.73.124.120,15,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Xhost Internet Solutions LP,Xhostis,AS208091 XHOST INTERNET SOLUTIONS LP,
+2024-10-26T17:52:42+0000,174.167.37.75,4,United States,US,NJ,New Jersey,Rahway,07065,40.6105,-74.2813,America/New_York,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",c-174-167-37-75.hsd1.nj.comcast.net
+2024-10-26T18:15:51+0000,172.56.82.114,4,United States,US,AZ,Arizona,Phoenix,85021,33.5594,-112.0902,America/Phoenix,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
