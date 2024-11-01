@@ -11443,7 +11443,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-15T11:00:38+0000,212.72.142.4,100,Georgia,GE,TB,Tbilisi,Tbilisi,,41.6959,44.832,Asia/Tbilisi,Caucasus Online LLC,Caucasus Online LLC,AS16010 Magticom Ltd.,mail.gbco.ge
 2024-10-15T11:20:11+0000,165.22.50.105,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-15T15:55:08+0000,178.128.25.148,77,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
-2024-10-15T16:00:14+0000,132.148.78.23,89,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",23.78.148.132.host.secureserver.net
 2024-10-15T16:16:54+0000,58.26.218.6,46,Malaysia,MY,07,Penang,George Town,10000,5.4244,100.333,Asia/Kuala_Lumpur,TM TECHNOLOGY SERVICES SDN BHD,"Tmnet, Telekom Malaysia Bhd",AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,ns1.diskspace.live
 2024-10-15T16:27:52+0000,44.203.206.199,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-203-206-199.compute-1.amazonaws.com
 2024-10-15T16:41:48+0000,103.187.97.128,64,India,IN,PB,Punjab,Sangrur,148001,30.2446,75.848,Asia/Kolkata,Fastway Royal Cable Network Private Limited,Fastway Royal Cable Network Private Limited,AS133661 Netplus Broadband Services Private Limited,
@@ -11463,7 +11462,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-16T03:46:43+0000,81.199.26.30,12,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Clouvider Limited,Private Customer,AS62240 Clouvider,
 2024-10-16T05:40:02+0000,36.70.98.144,100,Indonesia,ID,JB,West Java,Bekasi,,-6.2352,106.9922,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
 2024-10-16T08:26:56+0000,34.229.193.223,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-229-193-223.compute-1.amazonaws.com
-2024-10-16T08:39:27+0000,202.47.180.183,4,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,"HOSTLINE, UAB",Vpsforextrader Hk,"AS198651 HOSTLINE, UAB",
 2024-10-16T10:52:52+0000,89.46.104.100,59,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host100-104-46-89.serverdedicati.aruba.it
 2024-10-16T11:14:12+0000,159.223.91.165,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-16T11:27:52+0000,187.57.32.30,4,Brazil,BR,SP,São Paulo,Taubaté,,-23.0208,-45.5508,America/Sao_Paulo,Vivo,TELEF�NICA BRASIL S.A,AS27699 TELEFÔNICA BRASIL S.A,187-57-32-30.dsl.telesp.net.br
@@ -11831,7 +11829,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-22T14:19:57+0000,3.21.100.192,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-21-100-192.us-east-2.compute.amazonaws.com
 2024-10-22T14:19:58+0000,35.90.63.77,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-90-63-77.us-west-2.compute.amazonaws.com
 2024-10-22T14:19:58+0000,34.220.158.108,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-220-158-108.us-west-2.compute.amazonaws.com
-2024-10-22T14:28:54+0000,89.46.105.141,40,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host141-105-46-89.serverdedicati.aruba.it
 2024-10-22T14:30:49+0000,54.197.218.106,45,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-197-218-106.compute-1.amazonaws.com
 2024-10-22T14:44:40+0000,143.198.220.73,48,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-22T14:55:18+0000,18.206.189.73,46,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-206-189-73.compute-1.amazonaws.com
@@ -11852,7 +11849,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-22T15:14:27+0000,45.43.186.92,29,Spain,ES,MD,Madrid,Madrid,28037,40.4327,-3.621,Europe/Madrid,"trafficforce, UAB",Code Spain,"AS202496 trafficforce, UAB",
 2024-10-22T15:22:39+0000,96.79.173.41,4,United States,US,TX,Texas,Houston,77091,29.8504,-95.4413,America/Chicago,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",
 2024-10-22T15:34:00+0000,128.90.157.14,47,Spain,ES,MD,Madrid,Madrid,28001,40.4299,-3.6691,Europe/Madrid,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc.",undefined.hostname.localhost
-2024-10-22T15:37:44+0000,164.132.171.176,53,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
 2024-10-22T16:00:42+0000,91.212.74.237,13,Romania,RO,B,București,Bucharest,052829,44.4268,26.1025,Europe/Bucharest,Internet Resources Management SRL,Internet Resources Management SRL,AS49203 Internet Resources Management SRL,
 2024-10-22T16:00:45+0000,45.43.82.148,27,United Kingdom,GB,ENG,England,Tower Hamlets,E14,51.5064,-0.02,Europe/London,SYN-UK,SYN LTD,AS64080 SYN LTD,
 2024-10-22T16:00:49+0000,64.137.106.185,26,Switzerland,CH,ZH,Zurich,Zurich,8006,47.3804,8.5412,Europe/Zurich,"Tesonet, UAB",Code Ch4,"AS133944 trafficforce, UAB",
@@ -12356,4 +12352,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-01T03:24:01+0000,38.152.247.56,33,United States,US,NY,New York,Buffalo,14202,42.8943,-78.8736,America/New_York,B2 Net Solutions Inc.,ServerMania Inc,AS55286 B2 Net Solutions Inc.,
 2024-11-01T03:44:38+0000,161.97.145.217,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,server.netpoa.com
 2024-11-01T03:56:27+0000,107.172.123.187,4,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,HostPapa,RapidDedi Investments LTD,AS36352 HostPapa,107-172-123-187-host.colocrossing.com
-2024-11-01T04:30:01+0000,54.157.38.221,38,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-157-38-221.compute-1.amazonaws.com
+2024-11-01T05:42:19+0000,164.132.171.176,55,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3047943.ip-164-132-171.eu
+2024-11-01T07:18:48+0000,172.56.80.249,4,United States,US,AZ,Arizona,Phoenix,85021,33.5594,-112.0902,America/Phoenix,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-11-01T07:23:10+0000,54.157.38.221,50,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-157-38-221.compute-1.amazonaws.com
+2024-11-01T08:49:55+0000,3.239.49.110,58,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-239-49-110.compute-1.amazonaws.com
+2024-11-01T11:03:03+0000,112.215.151.250,4,Indonesia,ID,JK,Jakarta,Jakarta,,-6.21462,106.845,Asia/Jakarta,Indonesia Network Information Center,,AS24203 PT XL Axiata,
+2024-11-01T12:15:52+0000,147.75.33.148,98,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,"Packet Host, Inc.",,"AS54825 Packet Host, Inc.",
+2024-11-01T12:49:39+0000,172.56.148.159,4,United States,US,ID,Idaho,Boise,83709,43.578,-116.2954,America/Boise,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-11-01T12:59:32+0000,139.59.114.170,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-01T15:01:48+0000,132.148.78.23,83,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",23.78.148.132.host.secureserver.net
+2024-11-01T16:01:47+0000,54.159.255.10,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-159-255-10.compute-1.amazonaws.com
+2024-11-01T16:02:18+0000,52.90.220.104,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-90-220-104.compute-1.amazonaws.com
+2024-11-01T17:55:46+0000,104.232.39.19,4,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,Vivid-hosting LLC,WiredISP Inc,AS64200 VIVID-HOSTING LLC,
+2024-11-01T18:04:55+0000,107.180.118.85,38,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",85.118.180.107.host.secureserver.net
+2024-11-01T18:15:00+0000,68.178.158.76,60,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",76.158.178.68.host.secureserver.net
+2024-11-01T18:25:39+0000,45.120.137.249,100,India,IN,MH,Maharashtra,Panvel,410206,18.9894,73.1074,Asia/Kolkata,Leapswitch Networks Private Limited,,AS146943 Tier 4 Cloud Services,
+2024-11-01T18:33:02+0000,89.46.105.141,45,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A. Network,Aruba S.p.A.,AS31034 Aruba S.p.A.,host141-105-46-89.serverdedicati.aruba.it
+2024-11-01T18:35:57+0000,44.202.12.105,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-202-12-105.compute-1.amazonaws.com
+2024-11-01T18:44:20+0000,44.222.97.94,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-222-97-94.compute-1.amazonaws.com
+2024-11-01T19:02:43+0000,202.47.180.183,13,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,"HOSTLINE, UAB",Vpsforextrader Hk,"AS198651 HOSTLINE, UAB",
+2024-11-01T19:10:06+0000,91.227.33.12,12,Austria,AT,9,Vienna,Vienna,1210,48.3003,16.3441,Europe/Vienna,Evolus IT Solutions GmbH,Evolus IT Solutions GmbH,AS215120 Evolus IT Solutions GmbH,customer.evolus-ix.com
+2024-11-01T19:14:33+0000,85.214.104.2,11,Germany,DE,BE,Land Berlin,Berlin,10587,52.5234,13.3224,Europe/Berlin,Strato AG,Strato AG,AS6724 Strato AG,thors.bkd-guenzburg.de
