@@ -11443,7 +11443,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-15T11:00:38+0000,212.72.142.4,100,Georgia,GE,TB,Tbilisi,Tbilisi,,41.6959,44.832,Asia/Tbilisi,Caucasus Online LLC,Caucasus Online LLC,AS16010 Magticom Ltd.,mail.gbco.ge
 2024-10-15T11:20:11+0000,165.22.50.105,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-10-15T15:55:08+0000,178.128.25.148,77,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
-2024-10-15T16:16:54+0000,58.26.218.6,46,Malaysia,MY,07,Penang,George Town,10000,5.4244,100.333,Asia/Kuala_Lumpur,TM TECHNOLOGY SERVICES SDN BHD,"Tmnet, Telekom Malaysia Bhd",AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,ns1.diskspace.live
 2024-10-15T16:27:52+0000,44.203.206.199,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-203-206-199.compute-1.amazonaws.com
 2024-10-15T16:41:48+0000,103.187.97.128,64,India,IN,PB,Punjab,Sangrur,148001,30.2446,75.848,Asia/Kolkata,Fastway Royal Cable Network Private Limited,Fastway Royal Cable Network Private Limited,AS133661 Netplus Broadband Services Private Limited,
 2024-10-15T16:44:42+0000,52.23.2.164,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-23-2-164.compute-1.amazonaws.com
@@ -12299,7 +12298,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-30T22:19:32+0000,186.64.119.75,27,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,mail.pyme126.pymedns.net
 2024-10-30T22:52:47+0000,172.59.211.175,4,United States,US,NJ,New Jersey,Newark,07104,40.7641,-74.1654,America/New_York,"T-Mobile USA, Inc.",T-Mobile USA,"AS21928 T-Mobile USA, Inc.",
 2024-10-31T00:11:25+0000,3.71.88.125,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-71-88-125.eu-central-1.compute.amazonaws.com
-2024-10-31T00:17:51+0000,31.11.36.97,59,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A.,Aruba S.p.A.,AS31034 Aruba S.p.A.,host97-36-11-31.serverdedicati.aruba.it
 2024-10-31T00:39:14+0000,172.58.182.83,4,United States,US,TX,Texas,Dallas,75270,32.7797,-96.8022,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-10-31T00:58:30+0000,172.86.113.151,59,United States,US,TX,Texas,Dallas,75217,32.7212,-96.6765,America/Chicago,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,
 2024-10-31T01:29:03+0000,98.30.252.163,4,United States,US,KY,Kentucky,Louisville,40222,38.2652,-85.623,America/Kentucky/Louisville,Charter Communications,Spectrum,AS10796 Charter Communications Inc,syn-098-030-252-163.res.spectrum.com
@@ -12390,6 +12388,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-02T03:02:05+0000,50.19.34.214,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-50-19-34-214.compute-1.amazonaws.com
 2024-11-02T03:38:24+0000,104.219.214.209,4,United States,US,CA,California,Los Angeles,90017,34.0514,-118.2707,America/Los_Angeles,Dignitas Technology Inc,PEG-LA,AS398823 PEG TECH INC,
 2024-11-02T03:44:02+0000,5.39.85.175,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6918,3.2021,Europe/Paris,OVH SAS,OVH ISP,AS16276 OVH SAS,plesk23.wikihosting.es
-2024-11-02T03:44:22+0000,103.187.97.193,4,India,IN,PB,Punjab,Sangrur,148001,30.2446,75.848,Asia/Kolkata,Fastway Royal Cable Network Private Limited,Fastway Royal Cable Network Private Limited,AS133661 Netplus Broadband Services Private Limited,
 2024-11-02T04:09:59+0000,104.247.76.188,4,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,"InMotion Hosting, Inc.","InMotion Hosting, Inc","AS54641 InMotion Hosting, Inc.",vps114785.inmotionhosting.com
 2024-11-02T04:29:02+0000,51.79.85.129,100,Canada,CA,QC,Quebec,Beauharnois,J6N,45.3151,-73.8779,America/Toronto,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,vps-54658056.vps.ovh.ca
+2024-11-02T06:08:18+0000,142.59.68.9,4,Canada,CA,AB,Alberta,Calgary,T2E,51.0857,-114.0234,America/Edmonton,TELUS Communications Inc.,TELUS Mobility-Alberta,AS852 TELUS Communications Inc.,
+2024-11-02T06:15:08+0000,91.146.102.148,15,Spain,ES,VC,Valencia,Orihuela,03300,38.0849,-0.9455,Europe/Madrid,Loading 102,Loading web services,"AS198066 Grupo Loading Systems, S.L.",server1.infoexpo.es
+2024-11-02T06:17:18+0000,104.247.161.51,78,Türkiye,TR,34,Istanbul,Istanbul,34752,40.9776,29.1175,Europe/Istanbul,GNET Internet Telekomunikasyon A.S.,Cust Guzelhosting,AS42846 GNET Internet Telekomunikasyon A.S.,server4.seogezegeni.com
+2024-11-02T06:30:26+0000,219.95.205.15,84,Malaysia,MY,07,Penang,Jelutong,11600,5.3958,100.3125,Asia/Kuala_Lumpur,TMnet,,AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,
+2024-11-02T08:01:23+0000,104.165.105.157,4,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,Hubei Networks,AS3257 GTT Communications Inc.,
+2024-11-02T08:37:18+0000,45.148.10.69,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Pptechnology Limited,Pptechnology Limited,AS48090 PPTECHNOLOGY LIMITED,
+2024-11-02T08:40:58+0000,81.182.130.240,14,Hungary,HU,BU,Budapest,Budapest,1074,47.5636,19.0947,Europe/Budapest,Magyar Telekom,,AS5483 Magyar Telekom plc.,
+2024-11-02T08:57:00+0000,91.239.208.54,41,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,FBW NETWORKS SAS,Layer7 Networks GmbH,AS49434 FBW NETWORKS SAS,
+2024-11-02T09:01:13+0000,143.198.197.228,34,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-02T09:44:09+0000,58.26.218.6,77,Malaysia,MY,07,Penang,George Town,10000,5.4244,100.333,Asia/Kuala_Lumpur,TM TECHNOLOGY SERVICES SDN BHD,"Tmnet, Telekom Malaysia Bhd",AS4788 TM TECHNOLOGY SERVICES SDN. BHD.,ns1.diskspace.live
+2024-11-02T10:46:54+0000,91.228.199.235,23,Poland,PL,30,Greater Poland,Poznan,60-363,52.4066,16.8832,Europe/Warsaw,Cyber_Folks S.A.,Biznes-Host.pl sp. z o.o.,AS198414 Cyber_Folks S.A.,vz17994.dahost.pl
+2024-11-02T10:57:19+0000,69.49.112.75,47,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web65c75.carrierzone.com
+2024-11-02T10:57:52+0000,46.243.95.171,23,Germany,DE,SN,Saxony,Leipzig,04109,51.3397,12.3731,Europe/Berlin,dogado GmbH,Alfahosting GmbH,AS45012 dogado GmbH,host260.checkdomain.de
+2024-11-02T11:09:22+0000,43.228.245.151,19,Malaysia,MY,06,Pahang,Kuala Lipis,27207,4.21048,101.976,Asia/Kuala_Lumpur,Lee Cheung Loong,Dbess Marketing,AS45352 IP ServerOne Solutions Sdn Bhd,server.otpam.com
+2024-11-02T11:23:47+0000,5.44.111.166,4,Germany,DE,NW,North Rhine-Westphalia,Dortmund,44263,51.4858,7.47583,Europe/Berlin,dogado GmbH,dogado GmbH,AS8648 dogado GmbH,host286.checkdomain.de
+2024-11-02T12:14:34+0000,103.187.97.193,15,India,IN,PB,Punjab,Sangrur,148001,30.2446,75.848,Asia/Kolkata,Fastway Royal Cable Network Private Limited,Fastway Royal Cable Network Private Limited,AS133661 Netplus Broadband Services Private Limited,
+2024-11-02T12:18:06+0000,71.40.108.156,31,United States,US,TX,Texas,Schertz,78154,29.6078,-98.2843,America/Chicago,Global Virtual Opportunities,Spectrum,AS46549 Global Virtual Opportunities,gvo108156.gvodatacenter.com
+2024-11-02T12:18:31+0000,31.11.36.97,70,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A.,Aruba S.p.A.,AS31034 Aruba S.p.A.,host97-36-11-31.serverdedicati.aruba.it
+2024-11-02T12:23:02+0000,113.111.81.10,74,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
+2024-11-02T12:40:54+0000,15.204.240.5,4,United States,US,VA,Virginia,Reston,20190,38.9609,-77.3429,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS,vps-d88dd997.vps.ovh.us
