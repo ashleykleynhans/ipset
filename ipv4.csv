@@ -9597,7 +9597,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-13T13:58:43+0000,45.201.245.192,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,"HONG KONG Megalayer Technology Co., Limited","HONG KONG Megalayer Technology Co., Limited","AS139646 HONG KONG Megalayer Technology Co.,Limited",
 2024-09-13T13:59:05+0000,5.223.42.11,61,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,Hetzner Online GmbH,Hetzner Online GmbH,AS215859 Hetzner Online GmbH,chromium.pvtwebs.com
 2024-09-13T14:25:46+0000,138.199.59.170,29,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Cdnext WAR,AS212238 Datacamp Limited,
-2024-09-13T14:40:59+0000,103.45.229.40,67,Vietnam,VN,HN,Hanoi,Hanoi,,21.0209,105.847,Asia/Bangkok,ESC,Online Solution Company Limited,AS24085 Quang Trung Software City Development Company,sd22940.server.idn.vn
 2024-09-13T15:23:02+0000,54.89.13.82,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-89-13-82.compute-1.amazonaws.com
 2024-09-13T15:27:29+0000,116.23.163.9,30,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2024-09-13T15:47:44+0000,3.91.39.186,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-91-39-186.compute-1.amazonaws.com
@@ -10735,7 +10734,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-02T22:00:04+0000,79.124.58.138,100,Bulgaria,BG,16,Plovdiv,Sopot,4330,42.6539,24.7548,Europe/Sofia,Tamatiya EOOD,Tamatiya EOOD,AS50360 Tamatiya EOOD,ip-58-138.4vendeta.com
 2024-10-02T22:23:05+0000,202.62.48.104,100,Cambodia,KH,12,Phnom Penh,Phnom Penh,,11.5583,104.9121,Asia/Phnom_Penh,"COGETEL Co., Ltd",COGETEL,"AS23673 Cogetel Online, Cambodia, ISP",headquarter.online.com.kh
 2024-10-02T23:11:22+0000,54.242.154.86,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-242-154-86.compute-1.amazonaws.com
-2024-10-02T23:31:54+0000,195.110.124.130,37,Italy,IT,25,Lombardy,Milan,20121,45.4642,9.18998,Europe/Rome,Register S.P.A.,VIP Vlan,AS39729 REGISTER S.P.A.,alteon.register.it
 2024-10-02T23:34:45+0000,34.135.167.136,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,136.167.135.34.bc.googleusercontent.com
 2024-10-03T00:04:02+0000,34.133.255.57,39,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,57.255.133.34.bc.googleusercontent.com
 2024-10-03T00:08:48+0000,35.222.139.124,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,124.139.222.35.bc.googleusercontent.com
@@ -13106,7 +13104,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-07T00:45:08+0000,44.210.83.24,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-210-83-24.compute-1.amazonaws.com
 2024-11-07T01:59:28+0000,185.225.80.17,100,Iran,IR,23,Tehran,Tehran,,35.7219,51.3347,Asia/Tehran,Hormoz IT & Network Waves Connection Co.,Hormoz LAN,AS39364 Hormoz IT & Network Waves Connection Co. (PJS),
 2024-11-07T02:05:51+0000,74.208.235.89,100,United States,US,DC,District of Columbia,Washington,20068,38.9072,-77.0369,America/New_York,IONOS SE,IONOS Inc,AS8560 IONOS SE,
-2024-11-07T02:18:16+0000,54.161.41.14,47,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-161-41-14.compute-1.amazonaws.com
 2024-11-07T03:56:19+0000,157.230.90.231,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-07T04:05:29+0000,54.37.150.182,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ip-54-37-150.eu
 2024-11-07T05:33:00+0000,128.199.229.13,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -13128,7 +13125,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-07T14:56:12+0000,35.180.152.13,92,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-152-13.eu-west-3.compute.amazonaws.com
 2024-11-07T15:08:50+0000,52.3.226.13,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-3-226-13.compute-1.amazonaws.com
 2024-11-07T15:48:37+0000,207.180.228.139,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi370274.contaboserver.net
-2024-11-07T15:55:05+0000,152.42.197.171,29,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-07T16:02:45+0000,172.59.121.26,4,United States,US,OK,Oklahoma,Oklahoma City,73127,35.4834,-97.6315,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-11-07T16:43:23+0000,193.105.234.68,87,Iran,IR,23,Tehran,Tehran,,35.632,51.3681,Asia/Tehran,Pars Parva System LLC,Pars Parva System LLC,AS60631 Pars Parva System LLC,
 2024-11-07T16:43:25+0000,15.204.240.5,100,United States,US,VA,Virginia,Reston,20190,38.9609,-77.3429,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS,vps-d88dd997.vps.ovh.us
@@ -13138,7 +13134,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-07T16:52:55+0000,71.163.132.77,100,United States,US,VA,Virginia,Ashburn,20148,39.0127,-77.5342,America/New_York,Verizon Business,Verizon Business,AS701 Verizon Business,pool-71-163-132-77.washdc.fios.verizon.net
 2024-11-07T17:00:00+0000,71.40.108.156,100,United States,US,TX,Texas,Schertz,78154,29.6078,-98.2843,America/Chicago,Global Virtual Opportunities,Spectrum,AS46549 Global Virtual Opportunities,gvo108156.gvodatacenter.com
 2024-11-07T17:10:45+0000,142.44.191.239,100,Canada,CA,QC,Quebec,Beauharnois,J6N,45.3151,-73.8779,America/Toronto,OVH SAS,"OVH Hosting, Inc",AS16276 OVH SAS,ip239.ip-142-44-191.net
-2024-11-07T17:23:16+0000,51.91.239.11,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
 2024-11-07T17:24:02+0000,148.113.1.176,100,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,OVH SAS,OVHTECH R&D (INDIA) PRIVATE LIMITED,AS16276 OVH SAS,ns5021492.ip-148-113-1.net
 2024-11-07T18:16:46+0000,79.132.193.236,75,Iran,IR,23,Tehran,Tehran,,35.7929,51.4347,Asia/Tehran,Engineering company Morva System Plc.,Engineering company Morva System Plc,AS31476 Morva System Engineering Technical Company Private Joint Stock,
 2024-11-07T18:27:14+0000,85.128.143.216,41,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,Nazwa.pl Sp.z.o.o.,Netartcom Webhosting,AS15967 Nazwa.pl Sp.z.o.o.,static-akl216.rev.netart.com
@@ -13158,3 +13153,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-08T03:03:38+0000,52.175.255.172,45,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation,
 2024-11-08T03:39:02+0000,143.110.212.248,95,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",snowwhite.site
 2024-11-08T05:04:19+0000,134.122.34.56,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-08T06:29:50+0000,15.207.108.11,100,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,Amazon Technologies Inc.,AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-15-207-108-11.ap-south-1.compute.amazonaws.com
+2024-11-08T07:05:58+0000,104.165.105.2,4,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,Hubei Networks,AS3257 GTT Communications Inc.,
+2024-11-08T07:06:03+0000,192.177.58.12,16,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,EGIHosting,AS18779 EGIHosting,
+2024-11-08T08:25:23+0000,103.45.229.40,57,Vietnam,VN,HN,Hanoi,Hanoi,,21.0209,105.847,Asia/Bangkok,ESC,Online Solution Company Limited,AS24085 Quang Trung Software City Development Company,sd22940.server.idn.vn
+2024-11-08T09:01:13+0000,195.110.124.130,50,Italy,IT,25,Lombardy,Milan,20121,45.4642,9.18998,Europe/Rome,Register S.P.A.,VIP Vlan,AS39729 REGISTER S.P.A.,alteon.register.it
+2024-11-08T09:38:28+0000,106.222.210.250,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Bharti Airtel Limited,Bharti Airtel Ltd,"AS24560 Bharti Airtel Ltd., Telemedia Services",
+2024-11-08T10:32:51+0000,158.220.106.239,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2253827.contaboserver.net
+2024-11-08T12:18:51+0000,159.196.183.54,100,Australia,AU,VIC,Victoria,Melbourne,3005,-37.814,144.963,Australia/Melbourne,Aussie Broadband,Aussie Broadband Ltd,AS4764 Aussie Broadband,
+2024-11-08T12:41:18+0000,51.91.239.11,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
+2024-11-08T12:51:16+0000,167.71.205.28,47,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-08T13:51:50+0000,132.148.75.149,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",149.75.148.132.host.secureserver.net
+2024-11-08T13:51:53+0000,89.26.249.46,100,Portugal,PT,15,Setúbal,Palmela,2950-000,38.5694,-8.90169,Europe/Lisbon,"ONITELECOM - INFOCOMUNICACOES, S.A.",Liderlink Unipessoal LDA,"AS5626 ONITELECOM - INFOCOMUNICACOES, S.A.",a.cp.cloudlink.pt
+2024-11-08T13:52:36+0000,209.38.102.203,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-08T13:58:05+0000,60.160.103.127,42,China,CN,YN,Yunnan,Jianshui,,24.4753,101.343,Asia/Shanghai,Chinanet,Chinanet YN,AS4134 CHINANET-BACKBONE,
+2024-11-08T14:45:54+0000,161.97.169.85,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,server.netpoa.com
+2024-11-08T14:45:56+0000,213.199.44.182,29,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1831747.contaboserver.ne
+2024-11-08T14:46:49+0000,67.222.154.26,100,United States,US,TN,Tennessee,Brentwood,37027,36.0361,-86.7849,America/Chicago,DFW Datacenter,Shaun Fisher,AS30277 DFW Datacenter,felanor11.srv5.com
+2024-11-08T14:51:48+0000,3.80.159.2,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-80-159-2.compute-1.amazonaws.com
+2024-11-08T15:01:36+0000,172.56.217.132,4,United States,US,PA,Pennsylvania,Philadelphia,19123,39.9668,-75.1512,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-11-08T15:37:37+0000,152.42.197.171,71,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-08T15:41:01+0000,85.128.143.165,56,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,Nazwa.pl Sp.z.o.o.,Netartcom Webhosting,AS15967 Nazwa.pl Sp.z.o.o.,static-akl165.rev.netart.com
+2024-11-08T15:50:55+0000,54.161.41.14,56,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-161-41-14.compute-1.amazonaws.com
