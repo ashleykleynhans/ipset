@@ -13114,7 +13114,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-07T15:08:50+0000,52.3.226.13,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-3-226-13.compute-1.amazonaws.com
 2024-11-07T15:48:37+0000,207.180.228.139,100,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi370274.contaboserver.net
 2024-11-07T16:02:45+0000,172.59.121.26,4,United States,US,OK,Oklahoma,Oklahoma City,73127,35.4834,-97.6315,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
-2024-11-07T16:43:23+0000,193.105.234.68,87,Iran,IR,23,Tehran,Tehran,,35.632,51.3681,Asia/Tehran,Pars Parva System LLC,Pars Parva System LLC,AS60631 Pars Parva System LLC,
 2024-11-07T16:43:25+0000,15.204.240.5,100,United States,US,VA,Virginia,Reston,20190,38.9609,-77.3429,America/New_York,OVH SAS,OVH US LLC,AS16276 OVH SAS,vps-d88dd997.vps.ovh.us
 2024-11-07T16:44:28+0000,51.75.54.122,100,Poland,PL,14,Mazovia,Warsaw,03-481,52.2633,21.0283,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,backups.veoza.co.uk
 2024-11-07T16:45:12+0000,217.12.210.18,100,Ukraine,UA,63,Kharkivs’ka Oblast’,Kharkiv,61064,49.982,36.2566,Europe/Kyiv,Green Floid LLC,Green Floid LLC,AS15626 GREEN FLOID LLC,155022.inferno.name
@@ -13132,7 +13131,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-07T23:20:34+0000,172.59.189.161,4,United States,US,IL,Illinois,Chicago,60629,41.7697,-87.6985,America/Chicago,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-11-07T23:31:06+0000,143.110.223.97,15,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-07T23:38:12+0000,3.87.241.98,96,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-87-241-98.compute-1.amazonaws.com
-2024-11-08T00:23:32+0000,13.38.123.254,72,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-123-254.eu-west-3.compute.amazonaws.com
 2024-11-08T00:26:32+0000,172.56.252.0,4,United States,US,IN,Indiana,Indianapolis,46254,39.8499,-86.2649,America/Indiana/Indianapolis,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-11-08T01:48:20+0000,61.246.38.5,100,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Bharti Airtel,Bharti Airtel Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",abts-north-static-005.38.246.61.airtelbroadband.in
 2024-11-08T02:21:17+0000,92.223.85.238,61,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,milena1.niklanovic.example.com
@@ -13177,7 +13175,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-08T22:11:32+0000,198.23.157.26,65,United States,US,NY,New York,Buffalo,14280,42.8856,-78.8736,America/New_York,HostPapa,ColoCrossing,AS36352 HostPapa,198-23-157-26-host.colocrossing.com
 2024-11-08T22:28:01+0000,67.23.226.139,30,United States,US,FL,Florida,Orlando,32810,28.6175,-81.3932,America/New_York,HostDime.com,HostFast LLC,"AS33182 HostDime.com, Inc.",super.nseasy.com
 2024-11-08T22:49:20+0000,35.180.152.13,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-152-13.eu-west-3.compute.amazonaws.com
-2024-11-08T23:00:18+0000,103.171.161.72,48,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,MYREPUBLIC,,AS63859 PT. Eka Mas Republik,
 2024-11-08T23:12:35+0000,174.200.159.69,4,United States,US,IL,Illinois,Chicago,60621,41.7723,-87.6401,America/Chicago,Verizon Business,Verizon Business,AS6167 Verizon Business,69.sub-174-200-159.myvzw.com
 2024-11-09T00:20:59+0000,116.90.60.141,62,Australia,AU,VIC,Victoria,Hawthorn,3122,-37.826,145.034,Australia/Melbourne,Hostopia Australia Web Pty Ltd,,AS55803 Hostopia Australia Web Pty Ltd,vmres13.web-servers.com.au
 2024-11-09T01:12:32+0000,34.207.159.163,15,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-207-159-163.compute-1.amazonaws.com
@@ -13273,5 +13270,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-11T04:22:17+0000,68.183.233.87,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-11T05:16:19+0000,154.212.141.178,100,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.,
 2024-11-11T06:16:33+0000,3.85.43.90,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-85-43-90.compute-1.amazonaws.com
-2024-11-11T06:22:13+0000,212.253.95.234,86,Türkiye,TR,34,Istanbul,Istanbul,34096,41.0145,28.9533,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Solnet,AS34984 Superonline Iletisim Hizmetleri A.S.,host-212-253-95-234.reverse.superonline.net
 2024-11-11T06:24:47+0000,172.58.209.19,4,United States,US,CA,California,Los Angeles,90001,33.972,-118.242,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-11-11T07:22:53+0000,13.38.123.254,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-123-254.eu-west-3.compute.amazonaws.com
+2024-11-11T07:42:30+0000,201.131.126.17,47,Mexico,MX,JAL,Jalisco,Guadalajara,44100,20.6573,-103.398,America/Mexico_City,"HostDime.com, Inc.",HostDime.com.mx S.A. de C.V,"AS33182 HostDime.com, Inc.",facilishjrzy.peackjge.de
+2024-11-11T08:37:34+0000,130.250.204.50,4,United States,US,AZ,Arizona,Bullhead City,86442,35.1063,-114.5925,America/Phoenix,Tristate Wifi LLC,Tristate Wifi LLC,AS397354 Tristate Wifi LLC,visit.keznews.com
+2024-11-11T09:09:26+0000,35.159.78.20,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-35-159-78-20.eu-central-1.compute.amazonaws.com
+2024-11-11T09:44:32+0000,35.88.78.215,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-88-78-215.us-west-2.compute.amazonaws.com
+2024-11-11T10:52:37+0000,164.92.180.78,42,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-11T12:18:30+0000,20.117.240.203,4,United Kingdom,GB,ENG,England,City of London,EC3R 7LP,51.5113,-0.079212,Europe/London,Microsoft Corporation,Microsoft Azure Cloud (uksouth),AS8075 Microsoft Corporation,
+2024-11-11T13:04:22+0000,18.217.194.226,43,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-217-194-226.us-east-2.compute.amazonaws.com
+2024-11-11T14:10:50+0000,106.219.167.108,11,India,IN,DL,National Capital Territory of Delhi,New Delhi,110043,28.652,77.1663,Asia/Kolkata,Bharti Airtel,Bharti Airtel Ltd,"AS24560 Bharti Airtel Ltd., Telemedia Services",
+2024-11-11T14:46:03+0000,64.227.141.162,31,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-11T15:02:40+0000,23.95.132.56,46,United States,US,NY,New York,Buffalo,14280,42.8856,-78.8736,America/New_York,HostPapa,,AS36352 HostPapa,23-95-132-56-host.colocrossing.com
+2024-11-11T15:09:36+0000,159.223.40.230,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-11T15:14:08+0000,159.89.238.14,72,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",mp-wordpress-theme-enviroment-ligaaqui.com
+2024-11-11T15:18:58+0000,51.210.176.205,61,France,FR,IDF,Île-de-France,Noisy-le-Sec,93130,48.8921,2.4673,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-06988f5e.vps.ovh.net
+2024-11-11T15:31:17+0000,35.180.119.249,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-119-249.eu-west-3.compute.amazonaws.com
+2024-11-11T16:05:38+0000,103.171.161.72,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2114,106.8446,Asia/Jakarta,MYREPUBLIC,,AS63859 PT. Eka Mas Republik,
+2024-11-11T16:10:15+0000,107.20.25.224,43,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-107-20-25-224.compute-1.amazonaws.com
+2024-11-11T16:19:20+0000,212.253.95.234,100,Türkiye,TR,34,Istanbul,Istanbul,34096,41.0145,28.9533,Europe/Istanbul,Superonline Iletisim Hizmetleri A.S.,Solnet,AS34984 Superonline Iletisim Hizmetleri A.S.,host-212-253-95-234.reverse.superonline.net
+2024-11-11T16:21:57+0000,193.105.234.68,100,Iran,IR,23,Tehran,Tehran,,35.632,51.3681,Asia/Tehran,Pars Parva System LLC,Pars Parva System LLC,AS60631 Pars Parva System LLC,
+2024-11-11T16:24:27+0000,13.38.8.183,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-8-183.eu-west-3.compute.amazonaws.com
+2024-11-11T16:28:44+0000,54.36.174.69,27,Poland,PL,02,Lower Silesia,Wroclaw,50-088,51.098,17.0321,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,ns31131313.ip-54-36-174.eu
+2024-11-11T16:42:24+0000,3.93.59.203,58,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-93-59-203.compute-1.amazonaws.com
