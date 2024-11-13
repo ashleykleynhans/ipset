@@ -9636,7 +9636,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-14T10:03:24+0000,51.81.245.138,100,United States,US,OR,Oregon,Hillsboro,97129,45.5397,-122.9638,America/Los_Angeles,OVH SAS,OVH US LLC,AS16276 OVH SAS,ns1000054.ip-51-81-245.us
 2024-09-14T10:07:05+0000,34.172.196.234,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,234.196.172.34.bc.googleusercontent.com
 2024-09-14T10:15:21+0000,138.199.56.239,36,Czechia,CZ,10,Prague,Prague,110 00,50.0883,14.4124,Europe/Prague,Datacamp Limited,Cdnext PRG,AS212238 Datacamp Limited,
-2024-09-14T10:18:11+0000,212.143.94.254,47,Israel,IL,HA,Haifa,Haifa,,32.816,34.9821,Asia/Jerusalem,013 Netvision Network,,AS1680 Cellcom Fixed Line Communication L.P,
 2024-09-14T10:37:31+0000,3.238.180.177,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-180-177.compute-1.amazonaws.com
 2024-09-14T11:05:34+0000,34.41.188.139,68,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,139.188.41.34.bc.googleusercontent.com
 2024-09-14T11:15:27+0000,172.59.176.196,4,United States,US,NY,New York,Syracuse,13201,43.0481,-76.1474,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
@@ -13380,3 +13379,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-12T23:07:32+0000,87.106.105.117,93,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,IONOS SE,IONOS SE,AS8560 IONOS SE,ip87-106-105-117.pbiaas.com
 2024-11-12T23:53:15+0000,181.214.218.162,44,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-11-13T01:00:35+0000,184.151.230.226,4,Canada,CA,BC,British Columbia,Surrey,V3V,49.1865,-122.8772,America/Vancouver,Bell Canada,Bell Mobility Inc.,AS577 Bell Canada,
+2024-11-13T05:15:13+0000,52.27.124.29,27,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-52-27-124-29.us-west-2.compute.amazonaws.com
+2024-11-13T05:16:47+0000,54.38.100.155,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,ONYPHE,AS16276 OVH SAS,morse.probe.onyphe.net
+2024-11-13T05:24:46+0000,54.38.100.152,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,ONYPHE,AS16276 OVH SAS,oneill.probe.onyphe.net
+2024-11-13T06:20:31+0000,3.218.145.172,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-218-145-172.compute-1.amazonaws.com
+2024-11-13T07:26:19+0000,103.148.74.123,11,Bangladesh,BD,E,Rajshahi Division,Rajshahi,6000,24.3605,88.6049,Asia/Dhaka,Sinthia Telecom,Md. Shahidul Islam,AS140084 Sinthia Telecom,
+2024-11-13T07:51:30+0000,178.128.117.66,90,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2024-11-13T07:52:27+0000,180.242.58.180,31,Indonesia,ID,JK,Jakarta,Jakarta,11730,-6.2077,106.8354,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
+2024-11-13T08:38:40+0000,98.81.28.48,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-81-28-48.compute-1.amazonaws.com
+2024-11-13T09:28:51+0000,18.203.39.35,15,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,Amazon Technologies Inc.,AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-18-203-39-35.eu-west-1.compute.amazonaws.com
+2024-11-13T09:28:51+0000,85.115.34.100,14,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,Forcepoint Cloud London,,AS44444 Forcepoint Cloud Ltd,wslmail.afterwork.com
+2024-11-13T09:38:45+0000,38.242.211.149,54,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi1947604.contaboserver.net
+2024-11-13T10:25:41+0000,212.143.94.254,49,Israel,IL,HA,Haifa,Haifa,,32.816,34.9821,Asia/Jerusalem,013 Netvision Network,,AS1680 Cellcom Fixed Line Communication L.P,
+2024-11-13T11:00:09+0000,128.199.194.235,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-13T11:18:40+0000,44.192.128.130,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-192-128-130.compute-1.amazonaws.com
+2024-11-13T12:45:59+0000,103.201.149.30,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,SKNETWORK,,AS133001 Airnet Cable And Datacom Pvt Ltd,
+2024-11-13T12:51:06+0000,13.38.10.37,15,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-10-37.eu-west-3.compute.amazonaws.com
+2024-11-13T13:08:50+0000,13.201.123.86,78,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-13-201-123-86.ap-south-1.compute.amazonaws.com
+2024-11-13T14:06:06+0000,43.205.233.99,43,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-43-205-233-99.ap-south-1.compute.amazonaws.com
+2024-11-13T14:37:49+0000,129.222.3.117,4,United States,US,VA,Virginia,Ashburn,,39.0437,-77.4874,America/New_York,SpaceX Starlink,"SpaceX Services, Inc.",AS14593 Space Exploration Technologies Corporation,customer.ashnvax2.pop.starlinkisp.net
+2024-11-13T15:03:43+0000,172.58.114.126,4,United States,US,CA,California,Santa Ana,92704,33.7256,-117.9119,America/Los_Angeles,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
+2024-11-13T15:10:21+0000,15.188.64.141,48,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,"Amazon.com, Inc.",AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-188-64-141.eu-west-3.compute.amazonaws.com
+2024-11-13T16:09:16+0000,64.227.55.47,47,United States,US,CA,California,Santa Clara,95051,37.3417,-121.9753,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-13T16:16:04+0000,54.196.84.23,15,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-196-84-23.compute-1.amazonaws.com
