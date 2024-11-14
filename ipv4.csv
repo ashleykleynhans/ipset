@@ -13286,7 +13286,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-11T16:21:57+0000,193.105.234.68,100,Iran,IR,23,Tehran,Tehran,,35.632,51.3681,Asia/Tehran,Pars Parva System LLC,Pars Parva System LLC,AS60631 Pars Parva System LLC,
 2024-11-11T16:24:27+0000,13.38.8.183,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-8-183.eu-west-3.compute.amazonaws.com
 2024-11-11T16:28:44+0000,54.36.174.69,27,Poland,PL,02,Lower Silesia,Wroclaw,50-088,51.098,17.0321,Europe/Warsaw,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,ns31131313.ip-54-36-174.eu
-2024-11-11T16:42:24+0000,3.93.59.203,58,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-93-59-203.compute-1.amazonaws.com
 2024-11-11T18:03:32+0000,157.245.159.214,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-11T19:06:24+0000,107.20.25.224,64,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-107-20-25-224.compute-1.amazonaws.com
 2024-11-11T20:14:28+0000,45.200.148.139,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.2087,106.8455,Asia/Jakarta,AS136052 PT Cloud Hosting Indonesia,,AS50580 Mario Networks Limited,
@@ -13416,8 +13415,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-13T23:19:26+0000,70.55.19.91,4,Canada,CA,ON,Ontario,Etobicoke,M9A,43.6661,-79.529,America/Toronto,Bell Canada,Sympatico HSE,AS577 Bell Canada,bras-base-toroon2643w-grc-34-70-55-19-91.dsl.bell.ca
 2024-11-14T00:24:06+0000,3.26.164.50,4,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",ec2-3-26-164-50.ap-southeast-2.compute.amazonaws.com
 2024-11-14T01:00:29+0000,13.38.10.37,37,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-10-37.eu-west-3.compute.amazonaws.com
-2024-11-14T01:49:21+0000,212.227.128.208,71,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,IONOS SE,De Ber Ionos Cloud Txl,AS8560 IONOS SE,ip212-227-128-208.pbiaas.com
 2024-11-14T04:05:29+0000,108.147.197.53,4,United States,US,CA,California,San Diego,92154,32.5799,-117.0694,America/Los_Angeles,"AT&T Services, Inc.",AT&T Mobility LLC,"AS7018 AT&T Services, Inc.",
 2024-11-14T04:50:23+0000,194.114.136.39,63,Japan,JP,27,Ōsaka,Osaka,,34.6937,135.5022,Asia/Tokyo,Owl Limited,Owl Limited,AS23959 Owl Limited,
 2024-11-14T05:00:07+0000,152.42.163.112,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
 2024-11-14T05:12:49+0000,45.138.16.106,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,45.138.16.106.powered.by.rdp.sh
+2024-11-14T05:45:47+0000,172.235.38.214,42,United States,US,CA,California,Los Angeles,90060,34.0544,-118.2441,America/Los_Angeles,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172-235-38-214.ip.linodeusercontent.com
+2024-11-14T06:46:04+0000,137.74.239.155,100,France,FR,BRE,Brittany,Saint-Grégoire,35760,48.157,-1.6881,Europe/Paris,OVH SAS,ONYPHE,AS16276 OVH SAS,mae.probe.onyphe.net
+2024-11-14T06:47:05+0000,103.148.74.115,4,Bangladesh,BD,E,Rajshahi Division,Rajshahi,6000,24.3605,88.6049,Asia/Dhaka,Sinthia Telecom,Md. Shahidul Islam,AS140084 Sinthia Telecom,
+2024-11-14T06:53:22+0000,137.74.239.149,100,France,FR,BRE,Brittany,Saint-Grégoire,35760,48.157,-1.6881,Europe/Paris,OVH SAS,ONYPHE,AS16276 OVH SAS,phillips.probe.onyphe.net
+2024-11-14T07:14:42+0000,51.195.200.162,36,United Kingdom,GB,ENG,England,Erith,DA8,51.4808,0.174675,Europe/London,OVH SAS,OVH Ltd,AS16276 OVH SAS,vps-3c36c8a2.vps.ovh.net
+2024-11-14T07:36:10+0000,15.235.160.194,63,Singapore,SG,01,Central Singapore,Singapore,069536,1.27989,103.849,Asia/Singapore,OVH SAS,OVH Singapore PTE. LTD,AS16276 OVH SAS,ns5014722.ip-15-235-160.net
+2024-11-14T07:49:23+0000,3.237.82.177,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-237-82-177.compute-1.amazonaws.com
+2024-11-14T08:00:24+0000,212.227.128.208,75,Germany,DE,BE,Land Berlin,Berlin,10178,52.52,13.405,Europe/Berlin,IONOS SE,De Ber Ionos Cloud Txl,AS8560 IONOS SE,ip212-227-128-208.pbiaas.com
+2024-11-14T11:32:46+0000,128.199.222.49,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-14T12:49:39+0000,161.35.11.110,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-14T13:08:49+0000,3.234.141.172,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-234-141-172.compute-1.amazonaws.com
+2024-11-14T13:30:46+0000,104.234.53.83,23,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Velcom,ONTAR-40 (Velcom INC),AS206092 Internet Utilities Europe and Asia Limited,
+2024-11-14T13:32:31+0000,104.234.53.70,16,United States,US,NY,New York,New York,10118,40.7123,-74.0068,America/New_York,Velcom,ONTAR-40 (Velcom INC),AS206092 Internet Utilities Europe and Asia Limited,
+2024-11-14T13:33:26+0000,3.93.59.203,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-93-59-203.compute-1.amazonaws.com
+2024-11-14T14:00:10+0000,15.206.75.172,100,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,Amazon Technologies Inc.,AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-15-206-75-172.ap-south-1.compute.amazonaws.com
+2024-11-14T14:38:08+0000,45.85.240.128,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,M247 Europe SRL,PNV Limited,AS9009 M247 Europe SRL,
+2024-11-14T14:38:11+0000,154.216.225.57,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,M247 Europe SRL,Future Tech Distribution,AS9009 M247 Europe SRL,
+2024-11-14T14:38:13+0000,54.37.100.111,4,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,OVH SAS,OVH Srl,AS16276 OVH SAS,ip111.ip-54-37-100.eu
+2024-11-14T14:38:17+0000,51.255.119.152,4,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ip152.ip-51-255-119.eu
+2024-11-14T15:39:39+0000,103.119.154.218,62,Cambodia,KH,18,Preah Sihanouk,Sihanoukville,,10.6093,103.53,Asia/Phnom_Penh,BigHub Co,,"AS137989 BigHub Co.,Ltd",
+2024-11-14T15:39:39+0000,202.178.119.215,69,Cambodia,KH,18,Preah Sihanouk,Sihanoukville,,10.6093,103.53,Asia/Phnom_Penh,Cambodia Data Communication,,AS38235 ANGKOR DATA COMMUNICATION,
