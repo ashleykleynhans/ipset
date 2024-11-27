@@ -10946,7 +10946,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-06T19:02:07+0000,87.120.117.242,36,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,EKABI,Ekabi LLC,AS401115 EKABI,
 2024-10-06T19:06:08+0000,3.10.24.69,100,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc.",ec2-3-10-24-69.eu-west-2.compute.amazonaws.com
 2024-10-06T21:11:58+0000,46.38.249.161,47,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,NETCUP-GMBH,AS197540 netcup GmbH,af9a1.netcup.net
-2024-10-06T23:13:48+0000,97.74.88.7,71,Japan,JP,13,Tokyo,Chiyoda,100-0001,35.694,139.754,Asia/Tokyo,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",7.88.74.97.host.secureserver.net
 2024-10-06T23:21:03+0000,216.173.103.221,26,Czechia,CZ,10,Prague,Prague,120 00,50.0755,14.4378,Europe/Prague,code-cz,,"AS133944 trafficforce, UAB",
 2024-10-06T23:21:03+0000,84.33.11.17,25,Germany,DE,BY,Bavaria,Munich,80331,48.1351,11.582,Europe/Berlin,Server24 Network by INCUBATEC GmbH - Srl Premium Hosting Service Provider,,AS34081 INCUBATEC GmbH - Srl,
 2024-10-06T23:21:05+0000,166.88.224.18,15,United States,US,IL,Illinois,Chicago,60666,41.8781,-87.6298,America/Chicago,EGIHosting,"Ace Data Centers II, L.L.C.",AS18779 EGIHosting,
@@ -12413,7 +12412,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-03T23:31:59+0000,154.212.141.205,100,Hong Kong,HK,,Kowloon,Hong Kong,999077,22.3193,114.169,Asia/Hong_Kong,Agotoz HK Limited,,AS9465 AGOTOZ PTE. LTD.,
 2024-11-04T00:49:44+0000,173.25.121.144,4,United States,US,MN,Minnesota,Prior Lake,55372,44.7098,-93.4129,America/Chicago,Mediacom Communications Corp,Mediacom Communications Corp,AS30036 Mediacom Communications Corp,173-25-121-144.client.mchsi.com
 2024-11-04T01:21:39+0000,45.126.43.35,100,Indonesia,ID,JB,West Java,Weru,,-6.70927,108.528,Asia/Jakarta,PT Awan Data Teknologi,PT Awan Data Teknologi,AS151592 PT Awan Data Teknologi,server35.mail01.awandata.cc
-2024-11-04T04:40:55+0000,54.90.219.82,20,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-90-219-82.compute-1.amazonaws.com
 2024-11-04T05:22:49+0000,77.78.224.134,15,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Sarajevo,,43.8453,18.3592,Europe/Sarajevo,Telemach BH,,AS42560 Telemach BH d.o.o. Sarajevo,cable-77-78-224-134.dynamic.telemach.ba
 2024-11-04T05:37:01+0000,54.221.115.158,82,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-221-115-158.compute-1.amazonaws.com
 2024-11-04T05:45:11+0000,179.104.70.85,4,Brazil,BR,MG,Minas Gerais,Nova Serrana,35519,-19.8422,-44.974,America/Sao_Paulo,ALGAR TELECOM S/A,ALGAR TELECOM S/A,AS53006 ALGAR TELECOM S/A,179-104-070-85.xd-dynamic.algarnetsuper.com.br
@@ -13665,7 +13663,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-21T23:51:57+0000,217.160.11.179,81,Germany,DE,NW,North Rhine-Westphalia,Essen,45127,51.4576,7.02246,Europe/Berlin,IONOS SE,De Rhr Bap Ngcs Public,AS8560 IONOS SE,
 2024-11-22T00:18:52+0000,54.235.15.42,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-235-15-42.compute-1.amazonaws.com
 2024-11-22T01:15:25+0000,157.245.205.102,70,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2024-11-22T02:41:02+0000,3.141.194.0,76,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-141-194-0.us-east-2.compute.amazonaws.com
 2024-11-22T02:55:03+0000,113.23.49.141,4,Vietnam,VN,HN,Hanoi,Hanoi,100000,21.0184,105.8461,Asia/Bangkok,FPT Telecom Company,FPTDYNAMICIP,AS18403 FPT Telecom Company,
 2024-11-22T02:55:04+0000,183.171.242.59,4,Malaysia,MY,10,Selangor,Petaling Jaya,47301,3.0999,101.5965,Asia/Kuala_Lumpur,Celcom Axiata Berhad,Celcom Axiata Berhad,AS10030 Celcom Axiata Berhad,
 2024-11-22T02:55:05+0000,190.124.160.166,4,Honduras,HN,FM,Francisco Morazán Department,Florencia,,14.0833,-87.1833,America/Tegucigalpa,Redes y Telecomunicaciones,Unilever,AS27932 Redes y Telecomunicaciones,block160-static166.reytelhn.net
@@ -14146,3 +14143,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-27T05:05:03+0000,54.193.176.132,16,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",ec2-54-193-176-132.us-west-1.compute.amazonaws.com
 2024-11-27T05:12:59+0000,3.142.250.179,15,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-142-250-179.us-east-2.compute.amazonaws.com
 2024-11-27T05:22:59+0000,3.101.85.166,15,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",ec2-3-101-85-166.us-west-1.compute.amazonaws.com
+2024-11-27T05:34:40+0000,54.241.104.238,15,United States,US,CA,California,San Jose,95141,37.3394,-121.895,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",ec2-54-241-104-238.us-west-1.compute.amazonaws.com
+2024-11-27T06:17:37+0000,104.222.46.253,4,United States,US,NY,New York,Buffalo,14202,42.8867,-78.8927,America/New_York,ColoUp,ColoUp,AS19084 ColoUp,host.coloup.com
+2024-11-27T06:49:26+0000,104.234.204.195,15,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,Ipxo LLC,Virtuo Holdings Inc,AS399486 12651980 CANADA INC.,
+2024-11-27T07:23:26+0000,24.199.233.98,54,United States,US,NC,North Carolina,Greensboro,27408,36.1047,-79.8201,America/New_York,Spectrum,Colfax Furniture of Greensboro FIA,AS11426 Charter Communications Inc,syn-024-199-233-098.biz.spectrum.com
+2024-11-27T07:24:29+0000,149.50.102.103,21,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp.zo.o,AS201814 MEVSPACE sp. z o.o.,
+2024-11-27T09:49:56+0000,97.74.88.7,33,Japan,JP,13,Tokyo,Chiyoda,100-0001,35.694,139.754,Asia/Tokyo,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",7.88.74.97.host.secureserver.net
+2024-11-27T10:06:52+0000,178.128.192.152,30,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",doaprdurlanalyser01eseu13.production.topsec.com
+2024-11-27T11:01:53+0000,104.248.149.0,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-27T11:27:25+0000,157.211.203.195,4,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Wireline,CPE,AS58507 Wireline,cpe-195-203-211-157.matenbn.com.au
+2024-11-27T13:06:38+0000,185.208.156.160,100,United States,US,TX,Texas,Aldine,77037,29.9014,-95.4001,America/Chicago,Global-Data System IT Corporation,Simple Carrier LLC,AS42624 Global-Data System IT Corporation,
+2024-11-27T13:41:44+0000,37.247.244.80,15,Poland,PL,14,Mazovia,Warsaw,05-075,52.251,21.2091,Europe/Warsaw,Polkomtel Sp. z o.o.,Polkomtel Sp. z o.o,AS21243 Polkomtel Sp. z o.o.,
+2024-11-27T13:48:45+0000,54.72.38.15,100,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,"Amazon.com, Inc.",AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-54-72-38-15.eu-west-1.compute.amazonaws.com
+2024-11-27T14:18:07+0000,108.136.230.181,4,Indonesia,ID,JK,Jakarta,Jakarta,,-6.1741,106.8296,Asia/Jakarta,Amazon.com,AWS EC2 (ap-southeast-3),"AS16509 Amazon.com, Inc.",ec2-108-136-230-181.ap-southeast-3.compute.amazonaws.com
+2024-11-27T14:51:47+0000,24.231.178.46,4,United States,US,MI,Michigan,Brighton,48116,42.5353,-83.7768,America/Detroit,Charter Communications,Spectrum,AS20115 Charter Communications,syn-024-231-178-046.res.spectrum.com
+2024-11-27T16:42:26+0000,54.90.219.82,19,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-90-219-82.compute-1.amazonaws.com
+2024-11-27T17:00:08+0000,86.105.212.160,51,France,FR,HDF,Hauts-de-France,Valenciennes,59300,50.3525,3.5283,Europe/Paris,Techcrea Solutions SAS,Firstheberg,AS197922 Techcrea Solutions SAS,vps-83854.fhnet.fr
+2024-11-27T18:08:12+0000,3.141.194.0,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-141-194-0.us-east-2.compute.amazonaws.com
+2024-11-27T19:13:41+0000,5.181.190.49,13,Poland,PL,14,Mazovia,Warsaw,02-634,52.1957,20.9921,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp. z o.o,AS201814 MEVSPACE sp. z o.o.,
+2024-11-27T19:13:42+0000,149.50.96.138,22,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp.zo.o,AS201814 MEVSPACE sp. z o.o.,
+2024-11-27T19:14:58+0000,149.50.103.49,4,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp.zo.o,AS201814 MEVSPACE sp. z o.o.,
+2024-11-27T21:09:15+0000,98.81.53.241,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-81-53-241.compute-1.amazonaws.com
