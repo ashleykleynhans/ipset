@@ -681,7 +681,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T11:43:39+0000,213.232.87.232,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Tefincom S.A.,NordVPN,AS136787 TEFINCOM S.A.,
 2024-06-24T11:45:00+0000,212.102.35.61,21,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-212-102-35-61.cdn77.com
 2024-06-24T11:50:54+0000,111.230.202.147,100,China,CN,GD,Guangdong,Shenzhen,518000,22.5431,114.058,Asia/Shanghai,Shenzhen Tencent Computer Systems Company Limited,"Tencent cloud computing (Beijing) Co., Ltd.",AS45090 Shenzhen Tencent Computer Systems Company Limited,
-2024-06-24T12:01:15+0000,154.0.175.200,100,South Africa,ZA,GP,Gauteng,Sandton,2196,-26.0461,28.0599,Africa/Johannesburg,Afrihost (Pty) Ltd,,AS37611 Afrihost (Pty) Ltd,radagast.aserv.co.za
 2024-06-24T12:13:19+0000,178.128.187.183,100,United States,US,CA,California,Santa Clara,95051,37.3417,-121.9753,America/Los_Angeles,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-06-24T12:57:38+0000,51.38.41.215,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns3119637.ip-51-38-41.eu
 2024-06-24T13:14:11+0000,91.206.201.120,24,Ukraine,UA,30,Kyiv City,Kyiv,01011,50.4501,30.5234,Europe/Kiev,new Delta-X,"""DELTA-X"" LTD",AS200000 Hosting Ukraine LTD,web29.default-host.net
@@ -13203,7 +13202,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-09T23:42:03+0000,172.59.176.55,4,United States,US,NY,New York,Solvay,13219,43.0581,-76.2074,America/New_York,"T-Mobile USA, Inc.","T-Mobile USA, Inc.","AS21928 T-Mobile USA, Inc.",
 2024-11-10T01:01:20+0000,172.58.151.102,4,United States,US,TN,Tennessee,Nashville,37211,36.0711,-86.7196,America/Chicago,"T-Mobile USA, Inc.",T-Mobile USA,"AS21928 T-Mobile USA, Inc.",
 2024-11-10T01:21:33+0000,5.181.188.149,100,Poland,PL,14,Mazovia,Warsaw,02-634,52.1957,20.9921,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp. z o.o,AS201814 MEVSPACE sp. z o.o.,
-2024-11-10T01:56:23+0000,86.110.243.227,55,Slovakia,SK,BL,Bratislava Region,Bratislava,811 04,48.157,17.0915,Europe/Bratislava,Primanet As29405,VNET-org,AS29405 VNET a.s.,web227.webhouse.sk
 2024-11-10T02:19:25+0000,13.38.123.99,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-13-38-123-99.eu-west-3.compute.amazonaws.com
 2024-11-10T02:39:03+0000,172.59.192.140,4,United States,US,TX,Texas,Fort Worth,76112,32.7507,-97.2095,America/Chicago,"T-Mobile USA, Inc.",T-Mobile USA,"AS21928 T-Mobile USA, Inc.",
 2024-11-10T04:39:54+0000,98.84.54.208,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-84-54-208.compute-1.amazonaws.com
@@ -14164,3 +14162,28 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-27T19:13:42+0000,149.50.96.138,22,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp.zo.o,AS201814 MEVSPACE sp. z o.o.,
 2024-11-27T19:14:58+0000,149.50.103.49,4,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,MEVSPACE sp. z o.o.,Meverywhere sp.zo.o,AS201814 MEVSPACE sp. z o.o.,
 2024-11-27T21:09:15+0000,98.81.53.241,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,BellSouth.net Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-98-81-53-241.compute-1.amazonaws.com
+2024-11-27T21:53:33+0000,35.180.225.226,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-35-180-225-226.eu-west-3.compute.amazonaws.com
+2024-11-27T22:27:48+0000,123.160.174.30,15,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,Chinanet,Chinanet HA,AS4134 CHINANET-BACKBONE,
+2024-11-27T22:31:02+0000,36.106.166.186,34,China,CN,TJ,Tianjin,Tianjin,,39.1488,117.1762,Asia/Shanghai,ASN for TIANJIN Provincial Net of CT,Chinanet TJ,AS17638 ASN for TIANJIN Provincial Net of CT,
+2024-11-27T23:10:58+0000,35.90.130.86,70,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-35-90-130-86.us-west-2.compute.amazonaws.com
+2024-11-27T23:44:50+0000,172.59.211.75,4,United States,US,NJ,New Jersey,Bayonne,07002,40.6759,-74.1314,America/New_York,"T-Mobile USA, Inc.",T-Mobile USA,"AS21928 T-Mobile USA, Inc.",
+2024-11-27T23:55:46+0000,193.32.126.232,100,France,FR,IDF,Île-de-France,Paris,75001,48.8323,2.4075,Europe/Paris,31173 Services AB,31173 Services France,AS39351 31173 Services AB,
+2024-11-28T00:38:55+0000,54.188.140.61,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-54-188-140-61.us-west-2.compute.amazonaws.com
+2024-11-28T00:40:23+0000,18.236.125.206,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-18-236-125-206.us-west-2.compute.amazonaws.com
+2024-11-28T00:47:41+0000,35.207.251.152,40,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,152.251.207.35.bc.googleusercontent.com
+2024-11-28T01:16:38+0000,54.158.1.30,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-158-1-30.compute-1.amazonaws.com
+2024-11-28T03:11:34+0000,154.0.175.200,35,South Africa,ZA,GP,Gauteng,Sandton,2196,-26.0461,28.0599,Africa/Johannesburg,Afrihost (Pty) Ltd,,AS37611 Afrihost (Pty) Ltd,radagast.aserv.co.za
+2024-11-28T04:00:02+0000,18.116.25.63,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-116-25-63.us-east-2.compute.amazonaws.com
+2024-11-28T04:09:51+0000,44.204.215.201,30,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-204-215-201.compute-1.amazonaws.com
+2024-11-28T06:01:52+0000,52.203.227.17,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-203-227-17.compute-1.amazonaws.com
+2024-11-28T06:25:35+0000,157.245.84.227,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-28T06:35:29+0000,5.196.113.5,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,OVH SAS,ONYPHE,AS16276 OVH SAS,bridget.probe.onyphe.net
+2024-11-28T09:19:36+0000,86.110.243.227,41,Slovakia,SK,BL,Bratislava Region,Bratislava,811 02,48.157,17.0915,Europe/Bratislava,Primanet As29405,VNET-org,AS29405 VNET a.s.,web227.webhouse.sk
+2024-11-28T10:07:38+0000,159.223.42.144,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-28T10:39:57+0000,121.91.81.138,4,United Kingdom,GB,ENG,England,London,W1B,51.5072,-0.127586,Europe/London,HostRoyale Technologies Pvt Ltd,truview LLC,AS207990 HostRoyale Technologies Pvt Ltd,
+2024-11-28T10:39:58+0000,193.70.55.51,12,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ip51.ip-193-70-55.eu
+2024-11-28T10:40:00+0000,51.38.162.5,12,Spain,ES,MD,Madrid,Madrid,28008,40.4273,-3.71344,Europe/Madrid,OVH SAS,OVH Hispano,AS16276 OVH SAS,ip5.ip-51-38-162.eu
+2024-11-28T10:40:03+0000,195.210.116.158,4,United Kingdom,GB,ENG,England,London,WC2N,51.5074,-0.1196,Europe/London,Adoard Global Reach LLC,Adoard Global Reach LLC,AS207088 ADOARD GLOBAL REACH LLC,
+2024-11-28T10:40:04+0000,178.33.71.40,17,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6918,3.2021,Europe/Paris,OVH SAS,OVH ISP,AS16276 OVH SAS,ip40.ip-178-33-71.eu
+2024-11-28T10:49:43+0000,41.10.31.47,4,South Africa,ZA,GP,Gauteng,Johannesburg,2191,-26.2309,28.0583,Africa/Johannesburg,Vodacom ENS,,AS36994 Vodacom,vc-vb-41-10-31-47.umts.vodacom.co.za
+2024-11-28T11:05:18+0000,13.58.33.64,71,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-13-58-33-64.us-east-2.compute.amazonaws.com
