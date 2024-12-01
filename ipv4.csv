@@ -14170,7 +14170,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-28T00:40:23+0000,18.236.125.206,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-18-236-125-206.us-west-2.compute.amazonaws.com
 2024-11-28T00:47:41+0000,35.207.251.152,40,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,152.251.207.35.bc.googleusercontent.com
 2024-11-28T01:16:38+0000,54.158.1.30,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-158-1-30.compute-1.amazonaws.com
-2024-11-28T03:11:34+0000,154.0.175.200,35,South Africa,ZA,GP,Gauteng,Sandton,2196,-26.0461,28.0599,Africa/Johannesburg,Afrihost (Pty) Ltd,,AS37611 Afrihost (Pty) Ltd,radagast.aserv.co.za
 2024-11-28T04:00:02+0000,18.116.25.63,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-116-25-63.us-east-2.compute.amazonaws.com
 2024-11-28T06:01:52+0000,52.203.227.17,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-52-203-227-17.compute-1.amazonaws.com
 2024-11-28T06:25:35+0000,157.245.84.227,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -14230,7 +14229,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-28T23:38:01+0000,93.152.220.246,100,United States,US,UT,Utah,Salt Lake City,,40.7607,-111.891,America/Denver,https://geofeeds.cyberzonehub.com/geofeed.csv,,AS209854 Cyberzone S.A.,
 2024-11-29T01:37:43+0000,3.27.230.30,4,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",ec2-3-27-230-30.ap-southeast-2.compute.amazonaws.com
 2024-11-29T01:52:32+0000,209.29.96.46,4,Canada,CA,ON,Ontario,Toronto,M6C,43.6922,-79.4309,America/Toronto,TELUS Communications Inc,TELUS Mobility-Ontario,AS852 TELUS Communications Inc.,ip5-46.eyrkonaeac07.dialup.ca.telus.com
-2024-11-29T02:15:08+0000,68.183.115.183,85,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-29T03:46:48+0000,18.215.237.93,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-215-237-93.compute-1.amazonaws.com
 2024-11-29T06:42:16+0000,167.172.176.191,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-29T06:55:05+0000,147.124.71.12,4,Canada,CA,ON,Ontario,Markham,L3R,43.8528,-79.3211,America/Toronto,CIK Telecom INC,CIK Telecom INC,AS54614 CIK Telecom INC,
@@ -14269,3 +14267,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-30T11:48:53+0000,139.5.200.74,100,Hong Kong,HK,KWT,Wong Tai Sin,San Po Kong,,22.3366,114.197,Asia/Hong_Kong,Netsec Limited,Unique Logic Limited,AS45753 Netsec Limited,
 2024-11-30T11:56:22+0000,113.111.81.203,31,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2024-11-30T12:35:03+0000,143.110.212.11,97,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-30T14:29:56+0000,143.198.169.159,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-11-30T14:32:44+0000,152.42.189.50,86,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2024-11-30T15:58:40+0000,154.0.175.200,45,South Africa,ZA,GP,Gauteng,Sandton,2196,-26.0461,28.0599,Africa/Johannesburg,Afrihost (Pty) Ltd,,AS37611 Afrihost (Pty) Ltd,radagast.aserv.co.za
+2024-11-30T16:05:11+0000,184.151.246.216,4,Canada,CA,MB,Manitoba,Winnipeg,R2K,49.9235,-97.0811,America/Winnipeg,Bell Canada,Bell Mobility Inc.,AS577 Bell Canada,
+2024-11-30T16:22:18+0000,24.114.110.127,4,Canada,CA,QC,Quebec,Montreal,H3S,45.5059,-73.631,America/Toronto,Rogers Communications Canada Inc.,Rogers Cable Inc. Nmkt,AS812 Rogers Communications Canada Inc.,
+2024-11-30T16:57:47+0000,24.114.111.215,4,Canada,CA,QC,Quebec,Montreal,H3S,45.5059,-73.631,America/Toronto,Rogers Communications Canada Inc.,Rogers Communications Canada Inc,AS812 Rogers Communications Canada Inc.,
+2024-11-30T17:39:07+0000,35.207.198.24,15,India,IN,MH,Maharashtra,Mumbai,,19.0759,72.8776,Asia/Kolkata,Google LLC,Google Cloud (asia-south1),AS15169 Google LLC,24.198.207.35.bc.googleusercontent.com
+2024-11-30T19:03:03+0000,209.52.88.88,4,Canada,CA,BC,British Columbia,Burnaby,V5G,49.2529,-123.01,America/Regina,TELUS Communications Inc.,TELUS Mobility-British Columbia,AS852 TELUS Communications Inc.,
+2024-11-30T19:24:02+0000,77.78.224.15,71,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Sarajevo,,43.8453,18.3592,Europe/Sarajevo,Telemach BH,,AS42560 Telemach BH d.o.o. Sarajevo,cable-77-78-224-15.dynamic.telemach.ba
+2024-11-30T20:15:29+0000,38.34.73.23,4,Canada,CA,BC,British Columbia,Victoria,V8V,48.4152,-123.3655,America/Vancouver,Cipherkey Exchange Corp.,Internet Lightspeed,AS25668 Cipherkey Exchange Corp.,
+2024-11-30T21:14:31+0000,31.94.72.229,4,United Kingdom,GB,ENG,England,Hackney,N4,51.5708,-0.1033,Europe/London,British Telecommunications PLC,EE Limited,AS2856 British Telecommunications PLC,
+2024-11-30T22:54:16+0000,15.237.110.8,4,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-110-8.eu-west-3.compute.amazonaws.com
+2024-11-30T23:18:47+0000,68.183.115.183,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-12-01T00:03:37+0000,54.152.212.133,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-152-212-133.compute-1.amazonaws.com
+2024-12-01T00:23:40+0000,173.208.167.226,4,United States,US,MO,Missouri,Kansas City,64116,39.1374,-94.5786,America/Chicago,"WholeSale Internet, Inc.","WholeSale Internet, Inc","AS32097 WholeSale Internet, Inc.",
+2024-12-01T00:35:26+0000,157.245.58.66,42,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-12-01T00:41:32+0000,114.10.47.199,14,Indonesia,ID,JI,East Java,Malang,65151,-7.9826,112.6308,Asia/Jakarta,PT. INDOSAT Tbk,IOH B2B,AS4761 INDOSAT Internet Network Provider,
+2024-12-01T00:52:27+0000,173.170.223.199,4,United States,US,FL,Florida,Spring Hill,34606,28.4643,-82.5998,America/New_York,Charter Communications,Spectrum,"AS33363 Charter Communications, Inc",syn-173-170-223-199.res.spectrum.com
+2024-12-01T04:39:26+0000,66.74.129.137,4,United States,US,CA,California,Los Angeles,90032,34.0767,-118.1802,America/Los_Angeles,Charter Communications Inc,Spectrum,AS20001 Charter Communications Inc,syn-066-074-129-137.wifi.spectrum.com
+2024-12-01T05:10:24+0000,174.195.131.203,4,United States,US,CA,California,Chino,91710,34.0121,-117.6883,America/Los_Angeles,Verizon Business,Verizon Business,AS6167 Verizon Business,203.sub-174-195-131.myvzw.com
