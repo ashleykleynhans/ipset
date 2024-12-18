@@ -15442,3 +15442,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-12-18T12:04:17+0000,45.130.203.200,15,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
 2024-12-18T12:08:06+0000,45.130.203.210,35,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
 2024-12-18T12:11:26+0000,45.130.203.221,28,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T12:18:14+0000,45.130.203.198,31,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T12:18:16+0000,45.130.203.236,33,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T12:20:48+0000,45.130.203.191,34,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T12:22:02+0000,45.130.203.186,26,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T12:41:48+0000,45.130.203.212,24,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T12:44:00+0000,45.130.203.214,48,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T13:04:08+0000,45.130.203.197,26,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T13:10:26+0000,45.130.203.180,49,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T13:11:26+0000,45.130.203.230,49,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T13:11:51+0000,45.130.203.182,25,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T13:15:58+0000,45.130.203.189,24,Algeria,DZ,16,Algiers,Algiers,16006,36.7377,3.0839,Africa/Algiers,GSL Networks Pty LTD,Algiers,AS137409 GSL Networks Pty LTD,
+2024-12-18T13:20:13+0000,209.97.175.191,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-12-18T13:27:17+0000,18.219.116.181,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-219-116-181.us-east-2.compute.amazonaws.com
+2024-12-18T15:37:31+0000,18.216.193.56,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-216-193-56.us-east-2.compute.amazonaws.com
+2024-12-18T15:37:31+0000,18.118.16.219,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-118-16-219.us-east-2.compute.amazonaws.com
+2024-12-18T15:42:38+0000,34.140.130.14,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,14.130.140.34.bc.googleusercontent.com
+2024-12-18T16:01:26+0000,34.45.237.169,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,169.237.45.34.bc.googleusercontent.com
+2024-12-18T16:13:49+0000,44.192.16.240,69,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-192-16-240.compute-1.amazonaws.com
+2024-12-18T17:45:43+0000,141.94.139.221,100,France,FR,GES,Grand Est,Strasbourg,67000,48.5734,7.75211,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,ns31426808.ip-141-94-139.eu
+2024-12-18T18:04:13+0000,34.217.105.98,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-217-105-98.us-west-2.compute.amazonaws.com
+2024-12-18T18:04:13+0000,35.169.117.238,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-169-117-238.compute-1.amazonaws.com
