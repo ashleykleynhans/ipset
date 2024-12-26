@@ -10487,7 +10487,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-27T19:02:46+0000,158.220.114.64,22,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2161466.contaboserver.net
 2024-09-27T19:14:16+0000,194.143.194.245,100,Spain,ES,MD,Madrid,Madrid,28070,40.4168,-3.70379,Europe/Madrid,Redestel Networks S.L.,Redestel ZGZ Hosting,AS8311 Redestel Networks S.L.,plesk.zcenter.es
 2024-09-27T19:37:12+0000,186.64.116.195,100,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,mail.blue185.dnsmisitio.net
-2024-09-27T20:06:52+0000,103.146.203.40,100,Indonesia,ID,JK,Jakarta,Jakarta,,-6.21462,106.845,Asia/Jakarta,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,AS136052 PT Cloud Hosting Indonesia,
 2024-09-27T20:07:20+0000,14.248.82.120,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0292,105.8526,Asia/Bangkok,VNPT,Vietnam Posts and Telecommunications Group,AS45899 VNPT Corp,
 2024-09-27T20:56:57+0000,3.0.217.6,45,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-3-0-217-6.ap-southeast-1.compute.amazonaws.com
 2024-09-27T21:05:54+0000,103.178.187.135,68,Bangladesh,BD,E,Rajshahi Division,Bogra,5860,24.813,89.3152,Asia/Dhaka,EarthTel,Speed Net.ISP,AS58715 EARTH TELECOMMUNICATION (Pvt) LTD.,
@@ -13182,7 +13181,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-10T07:50:16+0000,164.90.181.169,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",gidadointercontinental.site
 2024-11-10T08:57:11+0000,170.64.196.160,100,Australia,AU,NSW,New South Wales,Sydney,2015,-33.8979,151.1897,Australia/Sydney,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",geodelintegrated.site
 2024-11-10T08:59:44+0000,185.241.208.89,100,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
-2024-11-10T10:44:38+0000,217.19.239.242,53,Belgium,BE,VLG,Flanders,Ghent,9050,51.1135,3.79128,Europe/Brussels,HOSTING-SERVICE,,AS34762 Combell NV,217.19.239.242.static.hosted.by.combell.com
 2024-11-10T12:14:00+0000,196.112.123.173,58,Morocco,MA,06,Casablanca-Settat,Casablanca,,33.5792,-7.6133,Africa/Casablanca,MEDITELECOM,MEDITELECOM,AS36925 MEDITELECOM,
 2024-11-10T12:16:50+0000,87.120.84.46,23,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Rekade International LTD,Rekade International LTD,,
 2024-11-10T12:42:08+0000,157.245.201.151,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -14140,7 +14138,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-28T12:18:31+0000,198.12.66.26,46,United States,US,NY,New York,Buffalo,14205,42.8856,-78.8736,America/New_York,HostPapa,ColoCrossing,AS36352 HostPapa,198-12-66-26-host.colocrossing.com
 2024-11-28T12:29:58+0000,159.223.54.23,13,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-28T12:50:10+0000,168.151.119.177,4,United States,US,AZ,Arizona,Phoenix,85036,33.4475,-112.0866,America/Phoenix,Geekyworks IT Solutions Pvt Ltd,"Intelligence Network, Inc",AS203999 Geekyworks IT Solutions Pvt Ltd,
-2024-11-28T14:08:04+0000,213.136.84.143,26,Germany,DE,BY,Bavaria,Nuremberg,90475,49.405,11.1617,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,srv.hostley.io
 2024-11-28T14:50:34+0000,44.204.215.201,41,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-204-215-201.compute-1.amazonaws.com
 2024-11-28T15:11:34+0000,104.248.145.34,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-28T15:19:02+0000,75.233.252.194,4,United States,US,AZ,Arizona,Phoenix,85012,33.5065,-112.0664,America/Phoenix,Verizon Business,Verizon Business,AS6167 Verizon Business,194.sub-75-233-252.myvzw.com
@@ -14230,7 +14227,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-30T22:54:16+0000,15.237.110.8,4,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Amazon Technologies Inc.,AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-237-110-8.eu-west-3.compute.amazonaws.com
 2024-11-30T23:18:47+0000,68.183.115.183,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7924,-74.0096,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-12-01T00:03:37+0000,54.152.212.133,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-152-212-133.compute-1.amazonaws.com
-2024-12-01T00:23:40+0000,173.208.167.226,4,United States,US,MO,Missouri,Kansas City,64116,39.1374,-94.5786,America/Chicago,"WholeSale Internet, Inc.","WholeSale Internet, Inc","AS32097 WholeSale Internet, Inc.",
 2024-12-01T00:35:26+0000,157.245.58.66,42,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-12-01T00:41:32+0000,114.10.47.199,14,Indonesia,ID,JI,East Java,Malang,65151,-7.9826,112.6308,Asia/Jakarta,PT. INDOSAT Tbk,IOH B2B,AS4761 INDOSAT Internet Network Provider,
 2024-12-01T00:52:27+0000,173.170.223.199,4,United States,US,FL,Florida,Spring Hill,34606,28.4643,-82.5998,America/New_York,Charter Communications,Spectrum,"AS33363 Charter Communications, Inc",syn-173-170-223-199.res.spectrum.com
@@ -15941,6 +15937,26 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-12-26T06:20:32+0000,45.139.252.25,11,Iceland,IS,1,Capital Region,Reykjavík,,64.1465,-21.9426,Atlantic/Reykjavik,Cyberzone S.A.,Cyberzone S.A,AS209854 Cyberzone S.A.,
 2024-12-26T06:21:26+0000,35.178.202.15,100,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc.",ec2-35-178-202-15.eu-west-2.compute.amazonaws.com
 2024-12-26T07:19:21+0000,31.11.36.97,56,Italy,IT,52,Tuscany,Arezzo,52100,43.4631,11.8783,Europe/Rome,Aruba S.p.A.,Aruba S.p.A.,AS31034 Aruba S.p.A.,host97-36-11-31.serverdedicati.aruba.it
-2024-12-26T07:33:08+0000,3.236.27.162,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-236-27-162.compute-1.amazonaws.com
 2024-12-26T08:10:24+0000,110.138.81.231,43,Indonesia,ID,JK,Jakarta,Jakarta,11730,-6.2056,106.8376,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
 2024-12-26T08:18:58+0000,77.78.226.67,74,Bosnia and Herzegovina,BA,BIH,Federation of Bosnia and Herzegovina,Sarajevo,,43.8453,18.3592,Europe/Sarajevo,Telemach BH,,AS42560 Telemach BH d.o.o. Sarajevo,cable-77-78-226-67.dynamic.telemach.ba
+2024-12-26T09:30:35+0000,213.136.84.143,36,France,FR,GES,Grand Est,Lauterbourg,67630,48.9742,8.1851,Europe/Paris,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,srv.hostley.io
+2024-12-26T09:38:56+0000,3.236.27.162,31,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-236-27-162.compute-1.amazonaws.com
+2024-12-26T10:06:36+0000,52.37.73.176,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-52-37-73-176.us-west-2.compute.amazonaws.com
+2024-12-26T10:22:11+0000,217.19.239.242,64,Belgium,BE,VLG,Flanders,Ghent,9050,51.1135,3.79128,Europe/Brussels,HOSTING-SERVICE,,AS34762 Combell NV,217.19.239.242.static.hosted.by.combell.com
+2024-12-26T10:23:06+0000,103.150.37.82,100,Taiwan,TW,TXG,Taichung City,Taichung,,24.144,120.6844,Asia/Taipei,HostingInside LTD.,"Bestware Products Co., Ltd.",AS9678 HostingInside LTD.,37-150-103-82.hostinginside.com
+2024-12-26T10:51:42+0000,44.204.144.186,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-204-144-186.compute-1.amazonaws.com
+2024-12-26T11:21:35+0000,173.208.167.226,13,United States,US,MO,Missouri,Kansas City,64116,39.1374,-94.5786,America/Chicago,"WholeSale Internet, Inc.","WholeSale Internet, Inc","AS32097 WholeSale Internet, Inc.",
+2024-12-26T12:19:47+0000,45.94.31.133,30,Netherlands,NL,NH,North Holland,Amsterdam,,52.36,4.855,Europe/Amsterdam,1337 Services GmbH,,AS210558 1337 Services GmbH,xxxx
+2024-12-26T12:32:32+0000,54.186.54.176,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-54-186-54-176.us-west-2.compute.amazonaws.com
+2024-12-26T12:32:32+0000,18.184.34.181,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-184-34-181.eu-central-1.compute.amazonaws.com
+2024-12-26T12:38:47+0000,3.208.9.212,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-208-9-212.compute-1.amazonaws.com
+2024-12-26T12:44:45+0000,35.212.171.43,4,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS15169 Google LLC,43.171.212.35.bc.googleusercontent.com
+2024-12-26T13:21:21+0000,104.154.24.136,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,136.24.154.104.bc.googleusercontent.com
+2024-12-26T14:35:52+0000,18.211.66.203,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-211-66-203.compute-1.amazonaws.com
+2024-12-26T15:18:08+0000,3.68.213.106,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-68-213-106.eu-central-1.compute.amazonaws.com
+2024-12-26T15:18:09+0000,3.129.209.216,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-129-209-216.us-east-2.compute.amazonaws.com
+2024-12-26T16:09:39+0000,154.12.31.254,100,United States,US,CA,California,Pasadena,91117,34.1555,-118.1429,America/Los_Angeles,"High Family Technology Co., Limited",FOJ IP TECHNOLOGY LIMITED,"AS142032 High Family Technology Co., Limited",
+2024-12-26T16:09:41+0000,209.38.77.69,100,United States,US,CA,California,Santa Clara,95054,37.3986,-121.964,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-12-26T16:11:47+0000,103.146.203.40,100,Indonesia,ID,JB,West Java,Cicurug,,-6.84196,106.725,Asia/Jakarta,PT Cloud Hosting Indonesia,PT Cloud Hosting Indonesia,AS136052 PT Cloud Hosting Indonesia,
+2024-12-26T16:16:02+0000,184.168.115.88,80,Japan,JP,13,Tokyo,Chiyoda,100-0001,35.694,139.754,Asia/Tokyo,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",88.115.168.184.host.secureserver.net
+2024-12-26T16:20:43+0000,198.244.206.25,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,StarkRDP Service,AS16276 OVH SAS,ip25.ip-198-244-206.eu
