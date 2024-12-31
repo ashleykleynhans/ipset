@@ -16330,3 +16330,24 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-12-31T13:26:36+0000,190.232.106.7,4,Peru,PE,ARE,Arequipa,Arequipa,,-16.4014,-71.5343,America/Lima,Telefonica del Peru S.A.A.,pe-tdp-erx14,AS6147 Telefonica del Peru S.A.A.,
 2024-12-31T13:26:38+0000,14.139.171.136,14,India,IN,PY,Union Territory of Puducherry,Kāraikāl,609609,10.9137,79.8307,Asia/Kolkata,National Knowledge Network,,AS55824 NKN Core Network,
 2024-12-31T13:42:28+0000,18.118.208.193,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-118-208-193.us-east-2.compute.amazonaws.com
+2024-12-31T14:46:38+0000,3.80.164.217,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-80-164-217.compute-1.amazonaws.com
+2024-12-31T15:36:12+0000,3.66.164.84,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-66-164-84.eu-central-1.compute.amazonaws.com
+2024-12-31T15:45:09+0000,142.93.214.155,71,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2024-12-31T15:47:35+0000,197.42.153.164,4,Egypt,EG,C,Cairo Governorate,Cairo,,30.0588,31.2268,Africa/Cairo,TE Data,,AS8452 TE-AS,host-197.42.153.164.tedata.net
+2024-12-31T15:47:36+0000,186.70.33.108,13,Ecuador,EC,G,Guayas,Milagro,,-2.1296,-79.6017,America/Guayaquil,Satnet,Xtrim GYE,AS14522 SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC),108.cpe-186-70-33.gye.satnet.net
+2024-12-31T15:47:38+0000,137.59.192.170,4,Pakistan,PK,JK,Azad Jammu and Kashmir(POK),New Mirpur,47951,33.1478,73.7519,Asia/Karachi,Sky Telecom,New-ip,AS55453 SKYTELECOM,
+2024-12-31T15:47:40+0000,154.251.6.57,4,Algeria,DZ,21,Skikda,Azzaba,21001,36.7382,7.0968,Africa/Algiers,Telecom Algeria,new,AS36947 Telecom Algeria,
+2024-12-31T15:47:44+0000,171.245.233.60,4,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,700000,10.822,106.6257,Asia/Ho_Chi_Minh,Viettel Corporation,VIETEL,AS7552 Viettel Group,dynamic-ip-adsl.viettel.vn
+2024-12-31T15:47:45+0000,197.184.165.78,4,South Africa,ZA,GP,Gauteng,Johannesburg,2194,-26.0964,27.991,Africa/Johannesburg,RAIN GROUP HOLDINGS (PTY) LTD,RAIN GROUP HOLDINGS (PTY) LTD,AS37105 RAIN GROUP HOLDINGS (PTY) LTD,rain-197-184-165-78.rain.network
+2024-12-31T15:47:47+0000,158.62.10.20,4,Philippines,PH,40,Calabarzon,Nasugbu,4231,14.0727,120.6228,Asia/Manila,Globe Telecom Inc.,GBB,AS132199 Globe Telecom Inc.,
+2024-12-31T15:47:48+0000,158.140.191.61,4,Indonesia,ID,BT,Banten,South Tangerang,15413,-6.2876,106.722,Asia/Jakarta,PT. Eka Mas Republik,Myrepublic,AS63859 PT. Eka Mas Republik,host-158.140.191-61.myrepublic.co.id
+2024-12-31T15:47:49+0000,62.201.255.168,4,Iraq,IQ,SU,Sulaymaniyah,Sulaymaniyah,,35.5641,45.4326,Asia/Baghdad,NETWORKS-FTTH,,AS44217 IQ Networks for Data and Internet Services Ltd,
+2024-12-31T15:47:52+0000,203.210.135.40,4,Vietnam,VN,HN,Hanoi,Hanoi,100000,21.0184,105.8461,Asia/Bangkok,VietNam Post and Telecom Corporation,Ha Noi Post and Telecom Company,AS45899 VNPT Corp,adsl.hnpt.com.vn
+2024-12-31T16:16:03+0000,190.242.25.194,4,Honduras,HN,IN,Intibucá Department,La Esperanza,,14.3111,-88.1806,America/Tegucigalpa,Telefónica Celular S.A,Telefónica Celular S.A,AS52262 Telefónica Celular S.A,
+2024-12-31T16:16:03+0000,177.36.240.6,4,Brazil,BR,PA,Pará,Redenção,68550,-8.064,-50.1815,America/Belem,JC SERVICOS DE INTERNET LTDA,JC SERVICOS DE INTERNET LTDA,AS262404 JC SERVICOS DE INTERNET LTDA,240-36-177-6.grupojcc.com.br
+2024-12-31T16:16:05+0000,190.207.241.186,4,Venezuela,VE,V,Zulia,San Carlos del Zulia,,9.00189,-71.9105,America/Caracas,"CANTV Servicios, Venezuela","CANTV Servicios, Venezuela","AS8048 CANTV Servicios, Venezuela",190-207-241-186.may-08-p69.cantv.net
+2024-12-31T16:16:08+0000,197.229.6.225,4,South Africa,ZA,WC,Western Cape,Cape Town,7441,-33.91,18.4304,Africa/Johannesburg,Telkom SA Ltd.,Telkom SA Ltd,AS37457 Telkom SA Ltd.,8ta-229-6-225.telkomadsl.co.za
+2024-12-31T16:16:09+0000,117.55.251.46,4,Myanmar,MM,06,Yangon,Yangon,,16.7964,96.1667,Asia/Yangon,Myanmar Broadband Telecom Co,,"AS135300 Myanmar Broadband Telecom Co., Ltd",
+2024-12-31T16:16:11+0000,170.238.162.25,13,Brazil,BR,RJ,Rio de Janeiro,Rio de Janeiro,24000,-22.9201,-43.0811,America/Sao_Paulo,NCS-Fibra ( New Central Solutions ),Speed NEW Telecomunicacoes Ltda,AS266327 NCS-Fibra ( New Central Solutions ),
+2024-12-31T16:16:13+0000,120.29.88.192,4,Philippines,PH,03,Central Luzon,Angeles City,2009,15.1521,120.5863,Asia/Manila,Converge-ict Solution Inc,Converge ICT Solution Inc,AS17639 Converge ICT Solutions Inc.,192.88.29.120.-rev.convergeict.com
+2024-12-31T16:16:14+0000,196.171.119.143,4,Togo,TG,M,Maritime,Lomé,,6.1316,1.224,Africa/Lome,TogoTelecom,,"AS24691 TogoTelecom, Togo",
