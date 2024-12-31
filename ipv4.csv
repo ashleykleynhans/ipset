@@ -15459,7 +15459,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-12-19T02:48:07+0000,3.70.226.120,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-70-226-120.eu-central-1.compute.amazonaws.com
 2024-12-19T03:38:18+0000,18.216.18.221,23,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-216-18-221.us-east-2.compute.amazonaws.com
 2024-12-19T04:11:23+0000,51.20.9.70,100,Sweden,SE,AB,Stockholm,Stockholm,100 05,59.3293,18.0686,Europe/Stockholm,"Amazon.com, Inc.",AWS EC2 (eu-north-1),"AS16509 Amazon.com, Inc.",ec2-51-20-9-70.eu-north-1.compute.amazonaws.com
-2024-12-19T04:45:01+0000,146.148.41.254,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,254.41.148.146.bc.googleusercontent.com
 2024-12-19T04:50:45+0000,210.18.211.182,4,Australia,AU,NSW,New South Wales,Sydney,1001,-33.8688,151.209,Australia/Sydney,Brennan Voice and Data Pty Ltd,Brennan Voice and Data Pty Ltd,AS9738 Brennan IT,
 2024-12-19T05:05:31+0000,150.241.113.97,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Cloud Hosting Solutions, Limited.","Cloud Hosting Solutions, Limited","AS199785 Cloud Hosting Solutions, Limited.",
 2024-12-19T05:19:18+0000,3.124.209.95,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-124-209-95.eu-central-1.compute.amazonaws.com
@@ -16198,3 +16197,86 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-12-30T21:16:41+0000,34.56.15.35,19,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,35.15.56.34.bc.googleusercontent.com
 2024-12-30T21:38:36+0000,18.207.201.1,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-207-201-1.compute-1.amazonaws.com
 2024-12-30T21:38:36+0000,18.226.98.121,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-226-98-121.us-east-2.compute.amazonaws.com
+2024-12-30T22:36:40+0000,45.62.89.44,43,Canada,CA,ON,Ontario,Pembroke,K8A,45.7393,-77.2068,America/Toronto,NRTC Communications,NRTC Communications,AS40440 NRTC Communications,
+2024-12-30T22:49:35+0000,35.222.249.197,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,197.249.222.35.bc.googleusercontent.com
+2024-12-30T23:04:40+0000,34.118.202.247,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,247.202.118.34.bc.googleusercontent.com
+2024-12-30T23:42:25+0000,35.225.131.13,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,13.131.225.35.bc.googleusercontent.com
+2024-12-31T00:22:28+0000,44.204.142.142,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-204-142-142.compute-1.amazonaws.com
+2024-12-31T00:22:28+0000,3.64.211.190,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-64-211-190.eu-central-1.compute.amazonaws.com
+2024-12-31T00:33:04+0000,18.208.247.202,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-208-247-202.compute-1.amazonaws.com
+2024-12-31T00:33:30+0000,18.205.190.76,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-205-190-76.compute-1.amazonaws.com
+2024-12-31T00:33:34+0000,54.164.124.57,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-164-124-57.compute-1.amazonaws.com
+2024-12-31T00:46:47+0000,34.229.155.110,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-229-155-110.compute-1.amazonaws.com
+2024-12-31T01:12:01+0000,35.194.48.202,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,202.48.194.35.bc.googleusercontent.com
+2024-12-31T01:38:48+0000,34.0.158.127,15,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC,127.158.0.34.bc.googleusercontent.com
+2024-12-31T02:07:50+0000,3.70.223.68,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-70-223-68.eu-central-1.compute.amazonaws.com
+2024-12-31T03:58:47+0000,54.214.60.226,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-54-214-60-226.us-west-2.compute.amazonaws.com
+2024-12-31T04:32:35+0000,157.245.55.248,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",windows11.gz-s-4vcpu-8gb-sgp1-01
+2024-12-31T06:12:08+0000,146.148.41.254,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,254.41.148.146.bc.googleusercontent.com
+2024-12-31T06:16:41+0000,209.87.169.208,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:46+0000,209.87.169.51,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:48+0000,209.87.169.39,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:49+0000,209.87.169.222,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:51+0000,209.87.169.212,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:53+0000,209.87.169.69,18,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:54+0000,209.87.169.221,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:55+0000,209.87.169.34,15,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:56+0000,209.87.169.70,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:57+0000,209.87.169.210,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:16:59+0000,209.87.169.74,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:00+0000,209.87.169.32,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:01+0000,209.87.169.225,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:03+0000,209.87.169.71,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:05+0000,209.87.169.41,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:06+0000,209.87.169.230,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:07+0000,209.87.169.231,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:09+0000,209.87.169.218,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:10+0000,209.87.169.240,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:11+0000,209.87.169.227,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:12+0000,209.87.169.59,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:17+0000,209.87.169.30,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:18+0000,209.87.169.45,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:19+0000,209.87.169.249,18,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:21+0000,209.87.169.53,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:22+0000,209.87.169.49,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:25+0000,209.87.169.245,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:26+0000,209.87.169.75,14,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:28+0000,209.87.169.228,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:31+0000,209.87.169.60,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:32+0000,209.87.169.248,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:34+0000,209.87.169.55,14,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:37+0000,209.87.169.247,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:40+0000,209.87.169.68,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:43+0000,209.87.169.233,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:44+0000,209.87.169.57,16,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:46+0000,209.87.169.243,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:49+0000,209.87.169.29,14,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:50+0000,209.87.169.38,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:17:51+0000,209.87.169.215,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:17+0000,209.87.169.239,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:20+0000,209.87.169.54,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:21+0000,209.87.169.50,15,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:24+0000,209.87.169.37,18,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:25+0000,209.87.169.207,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:28+0000,209.87.169.42,23,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:30+0000,209.87.169.226,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:31+0000,185.198.240.24,4,United States,US,NJ,New Jersey,Trenton,08644,40.2152,-74.7471,America/New_York,Clouvider Limited,"VPN Consumer New Jersey, United States of America",AS62240 Clouvider,
+2024-12-31T06:18:32+0000,209.87.169.217,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:34+0000,209.87.169.64,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:36+0000,209.87.169.67,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:39+0000,209.87.169.46,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:42+0000,209.87.169.61,16,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:45+0000,209.87.169.234,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:49+0000,209.87.169.253,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:56+0000,209.87.169.223,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:18:58+0000,209.87.169.52,20,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:07+0000,209.87.169.36,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:18+0000,209.87.169.237,4,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:24+0000,209.87.169.246,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:27+0000,209.87.169.244,13,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:31+0000,209.87.169.40,11,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:38+0000,209.87.169.242,18,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:39+0000,209.87.169.220,14,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:19:46+0000,209.87.169.72,18,United States,US,NJ,New Jersey,Jersey City,07395,40.731,-74.0771,America/New_York,Active Data,,AS62240 Clouvider,
+2024-12-31T06:30:10+0000,3.79.100.98,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,Amazon Technologies Inc.,AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-3-79-100-98.eu-central-1.compute.amazonaws.com
+2024-12-31T06:40:04+0000,52.36.65.159,4,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-52-36-65-159.us-west-2.compute.amazonaws.com
