@@ -11066,7 +11066,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-09T10:46:25+0000,163.116.205.114,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Netskope Inc,Netskope BOM,AS55256 Netskope Inc,
 2024-10-09T10:54:09+0000,94.156.167.147,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,cheapy.host LLC,CHEAPY.HOST,AS401120 cheapy.host LLC,
 2024-10-09T11:27:21+0000,176.126.165.71,30,Kyrgyzstan,KG,GB,Gorod Bishkek,Bishkek,,42.8746,74.5698,Asia/Bishkek,"Hoster kg, Ltd.","Hoster kg, Ltd.","AS59684 Hoster kg, Ltd.",anna.hoster.kg
-2024-10-09T11:35:41+0000,1.192.195.5,59,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
 2024-10-09T11:39:17+0000,178.128.30.107,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2024-10-09T12:11:23+0000,196.191.94.176,4,Ethiopia,ET,AM,Amhara,Dessie,,11.1333,39.6333,Africa/Addis_Ababa,Ethiotelecom,,AS24757 Ethio Telecom,
 2024-10-09T12:37:47+0000,167.99.235.43,100,United States,US,NJ,New Jersey,North Bergen,07047,40.793,-74.0247,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
@@ -11556,7 +11555,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-10-18T22:12:29+0000,23.137.253.109,50,United States,US,PA,Pennsylvania,Allentown,18109,40.6367,-75.4397,America/New_York,IncogNET LLC,IncogNET LLC,AS210630 IncogNET LLC,
 2024-10-18T22:18:18+0000,205.185.117.149,76,United States,US,NV,Nevada,Las Vegas,89101,36.1697,-115.1236,America/Los_Angeles,FranTech Solutions,FranTech Solutions,AS53667 FranTech Solutions,tor-exit.greektor.com
 2024-10-18T22:18:45+0000,185.220.103.7,58,United States,US,NY,New York,Brooklyn,11232,40.6561,-74.0078,America/New_York,The Calyx Institute,The Calyx Institute,AS4224 The Calyx Institute,anatkamm.tor-exit.calyxinstitute.org
-2024-10-18T22:33:53+0000,1.192.192.4,79,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
 2024-10-18T23:14:04+0000,101.198.0.181,39,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,Beijing Qihu Technology Company Limited,Beijing Qihu Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation",
 2024-10-18T23:35:01+0000,174.198.197.16,4,United States,US,NJ,New Jersey,Mount Laurel,08054,39.9458,-74.9042,America/New_York,Verizon Business,Verizon Business,AS6167 Verizon Business,16.sub-174-198-197.myvzw.com
 2024-10-19T00:42:35+0000,101.198.0.155,61,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,Beijing Qihu Technology Company Limited,Beijing Qihu Technology Company Limited,"AS23724 IDC, China Telecommunications Corporation",
@@ -13077,7 +13075,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-08T07:05:58+0000,104.165.105.2,4,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,Hubei Networks,AS3257 GTT Communications Inc.,
 2024-11-08T07:06:03+0000,192.177.58.12,16,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,EGIHosting,EGIHosting,AS18779 EGIHosting,
 2024-11-08T09:38:28+0000,106.222.210.250,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Bharti Airtel Limited,Bharti Airtel Ltd,"AS24560 Bharti Airtel Ltd., Telemedia Services",
-2024-11-08T10:32:51+0000,158.220.106.239,4,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2253827.contaboserver.net
 2024-11-08T12:18:51+0000,159.196.183.54,100,Australia,AU,VIC,Victoria,Melbourne,3005,-37.814,144.963,Australia/Melbourne,Aussie Broadband,Aussie Broadband Ltd,AS4764 Aussie Broadband,
 2024-11-08T12:41:18+0000,51.91.239.11,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
 2024-11-08T12:51:16+0000,167.71.205.28,47,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -17261,7 +17258,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-01-17T00:01:06+0000,34.44.188.191,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,191.188.44.34.bc.googleusercontent.com
 2025-01-17T00:22:22+0000,34.42.41.85,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,85.41.42.34.bc.googleusercontent.com
 2025-01-17T00:27:46+0000,34.211.148.90,100,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-34-211-148-90.us-west-2.compute.amazonaws.com
-2025-01-17T01:29:41+0000,1.192.192.8,76,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
 2025-01-17T01:39:39+0000,101.199.254.198,25,China,CN,BJ,Beijing,Jinrongjie,,39.9319,116.345,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
 2025-01-17T01:40:29+0000,101.199.254.204,32,China,CN,BJ,Beijing,Jinrongjie,,39.9319,116.345,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
 2025-01-17T01:41:01+0000,101.199.254.242,48,China,CN,BJ,Beijing,Jinrongjie,,39.9319,116.345,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
@@ -17271,3 +17267,27 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-01-17T01:59:10+0000,1.192.192.6,50,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
 2025-01-17T02:01:34+0000,101.199.254.243,22,China,CN,BJ,Beijing,Jinrongjie,,39.9319,116.345,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
 2025-01-17T02:21:43+0000,1.192.195.8,68,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
+2025-01-17T02:34:10+0000,101.199.254.237,48,China,CN,BJ,Beijing,Jinrongjie,,39.9319,116.345,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
+2025-01-17T02:35:56+0000,180.163.220.41,23,China,CN,SH,Shanghai,Shanghai,200000,31.2304,121.474,Asia/Shanghai,China Telecom (Group),Chinanet SH,AS4812 China Telecom (Group),
+2025-01-17T02:43:15+0000,1.192.192.4,54,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
+2025-01-17T03:46:36+0000,1.192.195.5,96,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
+2025-01-17T03:53:39+0000,50.114.206.247,83,United States,US,OH,Ohio,Columbus,43215,39.9625,-83.0061,America/New_York,Ipxo LLC,,"AS62564 LINVEO, LLC",
+2025-01-17T04:19:21+0000,3.135.19.61,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-135-19-61.us-east-2.compute.amazonaws.com
+2025-01-17T04:21:32+0000,1.192.192.8,81,China,CN,HA,Henan,Zhengzhou,450000,34.7657,113.753,Asia/Shanghai,China Telecom,Chinanet HA,"AS137687 Luoyang, Henan Province, P.R.China.",
+2025-01-17T04:37:42+0000,34.121.135.51,33,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,51.135.121.34.bc.googleusercontent.com
+2025-01-17T05:08:53+0000,44.200.13.4,15,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-200-13-4.compute-1.amazonaws.com
+2025-01-17T05:14:21+0000,176.123.10.110,100,Moldova,MD,CU,Chișinău Municipality,Chisinau,MD-2000,46.9895,28.8602,Europe/Chisinau,Alexhost SRL,Alexhost SRL,AS200019 ALEXHOST SRL,
+2025-01-17T07:15:06+0000,34.121.152.152,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,152.152.121.34.bc.googleusercontent.com
+2025-01-17T07:54:46+0000,34.46.88.51,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,51.88.46.34.bc.googleusercontent.com
+2025-01-17T08:22:23+0000,35.184.2.31,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,31.2.184.35.bc.googleusercontent.com
+2025-01-17T08:47:10+0000,34.53.1.150,15,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,150.1.53.34.bc.googleusercontent.com
+2025-01-17T09:35:53+0000,34.72.63.97,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,97.63.72.34.bc.googleusercontent.com
+2025-01-17T09:55:42+0000,34.0.139.187,4,United States,US,TX,Texas,Dallas,,32.7766,-96.7969,America/Chicago,Google LLC,Google Cloud (us-south1),AS15169 Google LLC,187.139.0.34.bc.googleusercontent.com
+2025-01-17T10:36:02+0000,158.220.106.239,12,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1878,6.8607,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2253827.contaboserver.net
+2025-01-17T10:46:52+0000,54.87.32.224,30,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-87-32-224.compute-1.amazonaws.com
+2025-01-17T11:06:34+0000,44.244.29.78,15,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-44-244-29-78.us-west-2.compute.amazonaws.com
+2025-01-17T11:15:32+0000,35.229.76.31,15,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,31.76.229.35.bc.googleusercontent.com
+2025-01-17T13:05:34+0000,44.215.127.208,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-215-127-208.compute-1.amazonaws.com
+2025-01-17T13:08:41+0000,34.1.1.218,4,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC,218.1.1.34.bc.googleusercontent.com
+2025-01-17T13:26:59+0000,35.197.119.159,4,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,159.119.197.35.bc.googleusercontent.com
+2025-01-17T13:50:28+0000,35.230.30.76,4,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,76.30.230.35.bc.googleusercontent.com
