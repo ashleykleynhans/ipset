@@ -394,7 +394,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-21T17:52:45+0000,64.226.78.121,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d12a1cb769.scan.leakix.org
 2024-06-21T17:52:46+0000,159.89.12.166,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",c5d51acfea.scan.leakix.org
 2024-06-21T17:52:59+0000,139.162.155.225,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,139-162-155-225.ip.linodeusercontent.com
-2024-06-21T17:54:49+0000,138.197.191.87,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",ca65e15345.scan.leakix.org
 2024-06-21T17:54:49+0000,206.189.19.19,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",b37662257c.scan.leakix.org
 2024-06-21T17:54:49+0000,178.128.207.138,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",eab9c05722.scan.leakix.org
 2024-06-21T17:55:53+0000,159.89.17.243,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a05c4808ab.scan.leakix.org
@@ -570,7 +569,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-22T17:24:55+0000,37.46.113.252,34,Luxembourg,LU,LU,Luxembourg,Luxembourg,L-1661,49.6113,6.1294,Europe/Luxembourg,AltusHost B.V.,AS51430 Network,AS51430 AltusHost B.V.,lux-net-ip.as51430.net
 2024-06-22T17:53:36+0000,134.209.25.199,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",f952b6ebb7.scan.leakix.org
 2024-06-22T17:53:36+0000,138.68.144.227,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",c165c2962c.scan.leakix.org
-2024-06-22T17:53:37+0000,64.226.65.160,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a46db02ec6.scan.leakix.org
 2024-06-22T18:09:23+0000,94.228.169.199,87,Austria,AT,9,Vienna,Vienna,1010,48.2049,16.3662,Europe/Vienna,Aeza International LTD,Aeza International LTD,AS210644 AEZA INTERNATIONAL LTD,coherent-sugar.aeza.network
 2024-06-22T19:46:41+0000,103.42.56.49,87,Vietnam,VN,SG,Ho Chi Minh,Phường Bảy,,10.7704,106.684,Asia/Ho_Chi_Minh,THEGIOISO,Digital world data online company,AS45899 VNPT Corp,ip.vnptcorp.com
 2024-06-22T20:25:03+0000,91.92.254.72,100,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3676,4.90414,Europe/Amsterdam,Limenet,Limenet,AS394711 Limenet,
@@ -3258,7 +3256,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-07-12T10:39:59+0000,191.96.168.159,16,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Cogent Communications,Ipxo,AS174 Cogent Communications,
 2024-07-12T11:14:07+0000,20.38.38.32,100,United States,US,AZ,Arizona,Phoenix,85001,33.448376,-112.074036,America/Phoenix,Microsoft Corporation,Microsoft Azure Cloud (westus3),AS8075 Microsoft Corporation,
 2024-07-12T11:31:12+0000,139.162.141.82,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,"Akamai Technologies, Inc.","Linode, LLC",AS63949 Akamai Connected Cloud,139-162-141-82.ip.linodeusercontent.com
-2024-07-12T11:31:14+0000,139.59.132.8,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a113ac0491.scan.leakix.org
 2024-07-12T11:36:13+0000,87.236.176.189,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT,likeable.monitoring.internet-measurement.com
 2024-07-12T11:59:58+0000,87.236.176.152,100,United Kingdom,GB,ENG,England,Leeds,LS1,53.8008,-1.54908,Europe/London,Constantine Cybersecurity Ltd.,Internetmeasurement D,AS211298 INTERNET MEASUREMENT,intelligent.monitoring.internet-measurement.com
 2024-07-12T12:21:27+0000,34.75.124.3,11,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,3.124.75.34.bc.googleusercontent.com
@@ -8561,7 +8558,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-03T11:01:24+0000,192.166.246.240,4,Singapore,SG,01,Central Singapore,Singapore,,1.28967,103.85,Asia/Singapore,PacketHub S.A.,NordVPN,AS147049 PacketHub S.A.,
 2024-09-03T11:12:03+0000,52.62.86.98,4,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",ec2-52-62-86-98.ap-southeast-2.compute.amazonaws.com
 2024-09-03T11:26:56+0000,138.68.82.23,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",e154df25ea.scan.leakix.org
-2024-09-03T11:27:35+0000,209.97.180.8,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a0d8574844.scan.leakix.org
 2024-09-03T11:27:35+0000,64.227.32.66,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",d103188940.scan.leakix.org
 2024-09-03T11:27:57+0000,143.110.213.72,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",cec2b92574.scan.leakix.org
 2024-09-03T11:28:01+0000,206.81.24.227,100,Germany,DE,HE,Hesse,Frankfurt am Main,60341,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",b59bc1c6ef.scan.leakix.org
@@ -18585,7 +18581,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-02-21T01:16:18+0000,34.41.14.86,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,86.14.41.34.bc.googleusercontent.com
 2025-02-21T01:16:53+0000,34.134.83.242,15,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,242.83.134.34.bc.googleusercontent.com
 2025-02-21T01:38:47+0000,34.136.219.106,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,106.219.136.34.bc.googleusercontent.com
-2025-02-21T02:07:18+0000,89.248.165.51,84,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,Quasi Networks LTD.,AS202425 IP Volume inc,recyber.net
 2025-02-21T02:39:08+0000,141.98.10.33,100,Lithuania,LT,KU,Kaunas,Kaunas,44001,54.9072,24.0019,Europe/Vilnius,UAB Host Baltic,,AS209605 UAB Host Baltic,
 2025-02-21T03:10:15+0000,34.1.29.100,34,United States,US,OH,Ohio,Columbus,,39.9611,-82.9987,America/New_York,Google LLC,Google Cloud (us-east5),AS15169 Google LLC,100.29.1.34.bc.googleusercontent.com
 2025-02-21T03:46:41+0000,3.89.79.78,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-89-79-78.compute-1.amazonaws.com
@@ -18890,3 +18885,22 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-02-28T12:21:04+0000,147.182.149.75,100,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",dec04dc34a.scan.leakix.org
 2025-02-28T12:21:07+0000,207.154.197.113,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",bf57ea116e.scan.leakix.org
 2025-02-28T12:57:50+0000,178.128.88.66,59,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2025-02-28T13:10:23+0000,167.71.205.244,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-02-28T13:36:45+0000,52.169.82.28,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2025-02-28T13:42:56+0000,3.238.33.196,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-33-196.compute-1.amazonaws.com
+2025-02-28T13:54:05+0000,34.225.10.29,14,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-225-10-29.compute-1.amazonaws.com
+2025-02-28T14:41:40+0000,151.80.89.237,37,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6974,3.178,Europe/Paris,OVH SAS,GmbH 1337 Services,AS16276 OVH SAS,ip237.ip-151-80-89.eu
+2025-02-28T14:49:50+0000,52.164.206.1,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2025-02-28T14:51:00+0000,139.59.132.8,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1169,8.6837,Europe/Berlin,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a113ac0491.scan.leakix.org
+2025-02-28T14:51:02+0000,64.226.65.160,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a46db02ec6.scan.leakix.org
+2025-02-28T14:51:02+0000,138.197.191.87,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1169,8.6837,Europe/Berlin,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",ca65e15345.scan.leakix.org
+2025-02-28T15:01:53+0000,13.69.217.194,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2025-02-28T15:30:12+0000,167.71.215.249,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-02-28T16:59:54+0000,89.248.165.51,71,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,IP Volume inc,Quasi Networks LTD.,AS202425 IP Volume inc,recyber.net
+2025-02-28T18:05:42+0000,68.183.10.253,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-02-28T19:21:32+0000,34.227.161.126,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-227-161-126.compute-1.amazonaws.com
+2025-02-28T19:34:31+0000,209.97.180.8,100,United Kingdom,GB,ENG,England,Slough,SL1,51.5368,-0.6718,Europe/London,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",a0d8574844.scan.leakix.org
+2025-02-28T20:04:30+0000,178.128.218.200,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2025-02-28T20:09:24+0000,159.223.57.171,91,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-02-28T20:25:39+0000,34.70.113.207,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,207.113.70.34.bc.googleusercontent.com
+2025-02-28T21:00:08+0000,13.74.119.92,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
