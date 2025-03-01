@@ -17599,7 +17599,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-01-26T10:17:31+0000,212.143.94.254,50,Israel,IL,HA,Haifa,Qiryat Motsqin,,32.8415,35.0746,Asia/Jerusalem,013 Netvision Network,,AS1680 Cellcom Fixed Line Communication L.P,
 2025-01-26T10:39:15+0000,64.227.151.3,100,India,IN,KA,Karnataka,Bengaluru,560100,12.9634,77.5855,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-01-26T11:44:58+0000,159.223.65.171,23,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2025-01-26T13:21:15+0000,35.174.236.63,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-174-236-63.compute-1.amazonaws.com
 2025-01-26T13:53:26+0000,170.39.218.115,54,France,FR,IDF,Île-de-France,Paris,78140,48.7855,2.1971,Europe/Paris,FBW Reseaux Fibres inc,,AS34534 FBW NETWORKS SAS,
 2025-01-26T14:19:21+0000,185.241.208.118,57,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,1337 Services GmbH,1337 Services GmbH,AS210558 1337 Services GmbH,
 2025-01-26T17:04:27+0000,44.220.87.201,100,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-220-87-201.compute-1.amazonaws.com
@@ -18849,11 +18848,9 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-02-28T01:23:16+0000,178.128.28.91,35,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2025-02-28T02:16:21+0000,126.94.60.170,23,Japan,JP,13,Tokyo,Minato-ku,105-0012,35.6552,139.761,Asia/Tokyo,SoftBank Corp.,SOFTBANK Corp,AS17676 SoftBank Corp.,softbank126094060170.bbtec.net
 2025-02-28T03:02:02+0000,196.119.99.1,100,Morocco,MA,04,Rabat-Salé-Kénitra,Salé,,34.0531,-6.7985,Africa/Casablanca,MEDITELECOM,MEDITELECOM,AS36925 MEDITELECOM,
-2025-02-28T03:15:34+0000,167.172.68.46,38,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-02-28T03:58:46+0000,113.66.222.156,44,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2025-02-28T04:10:02+0000,90.190.20.99,4,Estonia,EE,79,Tartu,Tartu,,58.3794,26.7322,Europe/Tallinn,Telia Eesti AS,,AS3249 Telia Eesti AS,99-20-190-90.dyn.estpak.ee
 2025-02-28T04:48:55+0000,34.41.164.234,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,234.164.41.34.bc.googleusercontent.com
-2025-02-28T04:57:42+0000,13.229.96.209,30,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-13-229-96-209.ap-southeast-1.compute.amazonaws.com
 2025-02-28T05:04:47+0000,3.12.166.9,12,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-12-166-9.us-east-2.compute.amazonaws.com
 2025-02-28T05:15:05+0000,51.12.49.88,4,Sweden,SE,X,Gävleborg County,Gävle,800 02,60.673664,17.1456,Europe/Stockholm,Microsoft Corporation,Microsoft Azure Cloud (swedencentral),AS8075 Microsoft Corporation,
 2025-02-28T05:28:53+0000,35.170.53.204,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-170-53-204.compute-1.amazonaws.com
@@ -18871,7 +18868,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-02-28T09:53:02+0000,196.251.117.229,100,Seychelles,SC,16,La Rivière Anglaise,Victoria,,-4.62113,55.4522,Indian/Mahe,internet-secuirty-STK,internet secuirty STK,,
 2025-02-28T10:11:56+0000,68.183.9.16,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",fafb352f31.scan.leakix.org
 2025-02-28T10:11:56+0000,167.99.210.137,100,The Netherlands,NL,NH,North Holland,Amsterdam,1098,52.352,4.9392,Europe/Amsterdam,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",b2dcc8edcd.scan.leakix.org
-2025-02-28T11:09:24+0000,18.141.240.54,99,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-18-141-240-54.ap-southeast-1.compute.amazonaws.com
 2025-02-28T11:15:37+0000,38.170.102.147,4,Canada,CA,QC,Quebec,Montreal,H3E 1T9,45.4666,-73.5414,America/Toronto,B2 Net Solutions Inc.,ServerMania Inc,AS55286 B2 Net Solutions Inc.,
 2025-02-28T11:21:08+0000,167.172.232.142,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",cd1a65400e.scan.leakix.org
 2025-02-28T12:09:56+0000,128.199.111.34,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -18924,3 +18920,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-01T07:00:42+0000,139.59.231.87,15,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-03-01T07:17:55+0000,47.129.167.20,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-47-129-167-20.ap-southeast-1.compute.amazonaws.com
 2025-03-01T07:24:30+0000,188.213.128.195,94,Switzerland,CH,LU,Lucerne,Nottwil,6207,47.1347,8.13774,Europe/Zurich,Infomaniak Network SA,Infomaniak Network SA,AS29222 Infomaniak Network SA,188-213-128-195.dc3-a.pub1.etik-cloud.com
+2025-03-01T08:05:36+0000,167.172.68.46,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-01T08:29:44+0000,52.169.181.33,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2025-03-01T09:06:22+0000,45.86.211.59,59,United States,US,AZ,Arizona,Phoenix,85034,33.4413,-112.0421,America/Phoenix,Clouvider Limited,Clouvider HB,AS62240 Clouvider,
+2025-03-01T09:09:45+0000,13.229.96.209,80,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-13-229-96-209.ap-southeast-1.compute.amazonaws.com
+2025-03-01T09:13:16+0000,3.238.15.189,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-15-189.compute-1.amazonaws.com
+2025-03-01T10:26:24+0000,35.185.185.85,15,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,85.185.185.35.bc.googleusercontent.com
+2025-03-01T10:48:21+0000,146.190.81.56,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-01T10:55:17+0000,159.223.63.158,96,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-01T11:30:01+0000,52.169.89.232,100,Ireland,IE,L,Leinster,Dublin,D01,53.3478,-6.2597,Europe/Dublin,Microsoft Corporation,Microsoft Azure Cloud (northeurope),AS8075 Microsoft Corporation,
+2025-03-01T12:16:45+0000,47.129.181.83,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,Amazon Technologies Inc,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-47-129-181-83.ap-southeast-1.compute.amazonaws.com
+2025-03-01T12:25:53+0000,3.219.233.5,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-219-233-5.compute-1.amazonaws.com
+2025-03-01T12:26:47+0000,15.188.49.180,4,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,"Amazon.com, Inc.",AWS EC2 (eu-west-3),"AS16509 Amazon.com, Inc.",ec2-15-188-49-180.eu-west-3.compute.amazonaws.com
+2025-03-01T12:53:10+0000,13.233.194.157,57,India,IN,MH,Maharashtra,Mumbai,400001,19.076,72.8777,Asia/Kolkata,Amazon Technologies Inc.,AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",ec2-13-233-194-157.ap-south-1.compute.amazonaws.com
+2025-03-01T13:26:25+0000,35.244.75.101,4,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS396982 Google LLC,101.75.244.35.bc.googleusercontent.com
+2025-03-01T13:37:08+0000,34.143.129.6,15,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,6.129.143.34.bc.googleusercontent.com
+2025-03-01T14:10:38+0000,34.66.249.118,15,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,118.249.66.34.bc.googleusercontent.com
+2025-03-01T14:12:23+0000,18.141.240.54,100,Singapore,SG,01,Central Singapore,Singapore,048582,1.28009,103.851,Asia/Singapore,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",ec2-18-141-240-54.ap-southeast-1.compute.amazonaws.com
+2025-03-01T15:55:38+0000,35.184.106.84,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,84.106.184.35.bc.googleusercontent.com
+2025-03-01T16:16:32+0000,35.174.236.63,14,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-35-174-236-63.compute-1.amazonaws.com
+2025-03-01T17:01:03+0000,35.215.72.187,31,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS15169 Google LLC,187.72.215.35.bc.googleusercontent.com
+2025-03-01T17:02:54+0000,140.245.38.91,100,Singapore,SG,05,South West,Singapore,609934,1.32773,103.746,Asia/Singapore,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,
+2025-03-01T17:05:04+0000,152.42.161.62,48,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
