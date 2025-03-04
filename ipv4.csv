@@ -9147,7 +9147,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-08T10:15:37+0000,44.200.76.246,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-200-76-246.compute-1.amazonaws.com
 2024-09-08T11:01:52+0000,149.102.244.37,43,Poland,PL,14,Mazovia,Warsaw,00-510,52.2296,21.0067,Europe/Warsaw,Datacamp Limited,Datacamp Limited,AS212238 Datacamp Limited,unn-149-102-244-37.datapacket.com
 2024-09-08T12:30:59+0000,93.185.165.86,17,United States,US,CA,California,San Jose,95141,37.3387,-121.885,America/Los_Angeles,S.C. INFOTECH-GRUP S.R.L.,S.C. INFOTECH-GRUP S.R.L,AS201670 S.C. INFOTECH-GRUP S.R.L.,av3.apesec.com
-2024-09-08T12:48:30+0000,195.178.110.135,15,Iceland,IS,1,Capital Region,Reykjavik,105,64.147,-21.9408,Atlantic/Reykjavik,Pptechnology Limited,API VERSA OU,AS48090 PPTECHNOLOGY LIMITED,
 2024-09-08T13:06:50+0000,51.89.153.112,100,United Kingdom,GB,ENG,England,London,EC1N,51.5074,-0.1196,Europe/London,OVH SAS,OVH Ltd,AS16276 OVH SAS,ns3145504.ip-51-89-153.eu
 2024-09-08T13:06:52+0000,104.244.79.50,100,Luxembourg,LU,ME,Mersch,Roost,L-7759,49.7866,6.0753,Europe/Luxembourg,FranTech Solutions,BuyVM,AS53667 FranTech Solutions,LuxembourgTorNew3.Quetzalcoatl-relays.org
 2024-09-08T13:23:14+0000,34.87.68.245,4,Singapore,SG,01,Central Singapore,Singapore,190464,1.3048,103.8622,Asia/Singapore,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,245.68.87.34.bc.googleusercontent.com
@@ -18998,3 +18997,23 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-04T02:59:12+0000,141.98.252.214,52,United Kingdom,GB,ENG,England,Whitechapel,E1,51.5128,-0.0638,Europe/London,31173 Services AB,31173 Services AB,AS39351 31173 Services AB,
 2025-03-04T03:13:20+0000,139.59.111.114,30,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,DIGITALOCEAN,"DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-03-04T04:18:56+0000,36.66.71.19,15,Indonesia,ID,JK,Jakarta,Jakarta,11730,-6.2114,106.8446,Asia/Jakarta,PT. Telekomunikasi Indonesia,,AS7713 PT Telekomunikasi Indonesia,
+2025-03-04T04:27:57+0000,137.59.162.234,36,Indonesia,ID,JB,West Java,Depok,,-6.37973,106.825,Asia/Jakarta,PT SumberKoneksi Indotelematika,,AS59281 PT Sumber Koneksi Indonesia,subs-162.59.137.ski.net.id
+2025-03-04T06:13:40+0000,3.238.80.72,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-238-80-72.compute-1.amazonaws.com
+2025-03-04T07:54:29+0000,193.32.126.167,69,France,FR,IDF,Île-de-France,Paris,75001,48.8558,2.3494,Europe/Paris,31173 Services AB,31173 Services France,AS39351 31173 Services AB,
+2025-03-04T11:13:17+0000,18.205.41.123,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-205-41-123.compute-1.amazonaws.com
+2025-03-04T11:58:11+0000,204.10.194.251,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4459,11.0267,Europe/Berlin,Advin Services LLC,Advin Services LLC,AS206216 Advin Services LLC,
+2025-03-04T13:32:14+0000,178.128.86.201,49,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2025-03-04T13:44:52+0000,40.83.50.49,4,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
+2025-03-04T14:26:02+0000,172.200.199.56,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-04T14:37:59+0000,37.9.34.116,15,United States,US,VA,Virginia,Manassas,20109,38.7911,-77.5264,America/New_York,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,reserved.ds
+2025-03-04T14:41:10+0000,18.213.110.58,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-213-110-58.compute-1.amazonaws.com
+2025-03-04T15:01:50+0000,141.98.252.185,99,United Kingdom,GB,ENG,England,Whitechapel,E1,51.5128,-0.0638,Europe/London,31173 Services AB,31173 Services AB,AS39351 31173 Services AB,
+2025-03-04T15:23:20+0000,172.176.128.188,15,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-04T16:52:36+0000,185.62.1.75,54,Poland,PL,14,Mazovia,Warsaw,00-510,52.2297,21.0122,Europe/Warsaw,IP SERVICES Sp. zo.o.,IP SERVICES Sp. zo.o,AS34907 IP SERVICES Sp. zo.o.,
+2025-03-04T17:22:59+0000,74.249.15.99,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-04T17:26:46+0000,3.145.165.18,15,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-145-165-18.us-east-2.compute.amazonaws.com
+2025-03-04T18:12:40+0000,195.178.110.135,100,Iceland,IS,1,Capital Region,Reykjavik,105,64.147,-21.9408,Atlantic/Reykjavik,Techoff SRV Limited,API VERSA OU,AS48090 TECHOFF SRV LIMITED,
+2025-03-04T18:32:23+0000,104.232.39.125,4,United States,US,IL,Illinois,Elk Grove Village,60007,42.0048,-87.9954,America/Chicago,Vivid-hosting LLC,WiredISP Inc,AS64200 VIVID-HOSTING LLC,
+2025-03-04T18:34:59+0000,40.86.29.115,4,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
+2025-03-04T19:03:49+0000,20.57.78.132,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-04T19:24:16+0000,162.240.229.140,4,United States,US,UT,Utah,Provo,84606,40.2066,-111.643,America/Denver,Unified Layer,Unified Layer,AS46606 Unified Layer,server.noqta.me
