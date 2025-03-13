@@ -19337,3 +19337,38 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-13T14:50:02+0000,106.38.221.148,11,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,"IDC, China Telecommunications Corporation",Chinanet BJ,"AS23724 IDC, China Telecommunications Corporation",
 2025-03-13T14:50:03+0000,106.38.221.106,17,China,CN,BJ,Beijing,Beijing,100000,39.9042,116.407,Asia/Shanghai,"IDC, China Telecommunications Corporation",Chinanet BJ,"AS23724 IDC, China Telecommunications Corporation",
 2025-03-13T15:04:20+0000,194.33.45.89,100,United States,US,NY,New York,New York,10013,40.7157,-74,America/New_York,Clouvider Limited,Clouvider HB,AS62240 Clouvider,
+2025-03-13T15:25:49+0000,92.204.139.236,4,United States,US,VA,Virginia,Warrenton,20186,38.6877,-77.8369,America/New_York,"GoDaddy.com, LLC",,"AS398108 GoDaddy.com, LLC",ns1010712.ip-92-204-139.us
+2025-03-13T15:34:51+0000,77.90.153.239,100,Germany,DE,BY,Bavaria,Augsburg,86161,48.3459,10.9161,Europe/Berlin,Railnet LLC,Virtualine Technologies,AS214943 Railnet LLC,
+2025-03-13T16:29:49+0000,159.203.117.77,100,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-13T16:34:55+0000,185.87.187.218,4,The Netherlands,NL,FL,Flevoland,Lelystad,8232,52.5185,5.47142,Europe/Amsterdam,Cldin B.V.,Totaaldomein BV,AS48635 CLDIN B.V.,www58.totaalholding.nl
+2025-03-13T17:13:13+0000,18.207.129.85,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-207-129-85.compute-1.amazonaws.com
+2025-03-13T17:31:48+0000,38.124.220.165,4,Mexico,MX,NLE,Nuevo León,Monterrey,64720,25.6759,-100.3208,America/Monterrey,PC ONLINE,Cogent communications - IPENG,AS270179 PC ONLINE,larg72.mxwebserver.com
+2025-03-13T17:32:06+0000,182.93.93.87,83,Nepal,NP,P3,Bagmati Province,Kathmandu,,27.7108,85.3251,Asia/Kathmandu,Subisu Cablenet,,"AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",everest.weblinknepal.net
+2025-03-13T17:32:15+0000,52.233.64.95,4,United States,US,WA,Washington,Quincy,98848,47.233,-119.852,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus2),AS8075 Microsoft Corporation,
+2025-03-13T17:32:17+0000,149.56.141.154,4,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,OVH SAS,"OVH Hosting, Inc.",AS16276 OVH SAS,vps-d7ed39fe.vps.ovh.ca
+2025-03-13T17:32:24+0000,210.16.120.71,4,Singapore,SG,01,Central Singapore,Singapore,142048,1.30154,103.798,Asia/Singapore,HostUS,,AS7489 HostUS,cloud.revostack.com
+2025-03-13T17:32:41+0000,89.22.111.250,4,Germany,DE,NW,North Rhine-Westphalia,Dortmund,44139,51.5062,7.47043,Europe/Berlin,dogado GmbH,dogado GmbH,AS8648 dogado GmbH,server.hager-web.com
+2025-03-13T17:32:53+0000,161.35.10.177,4,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-13T17:32:56+0000,92.42.107.232,4,France,FR,GES,Grand Est,Strasbourg,67000,48.5848,7.7419,Europe/Paris,velia.net Internetdienste GmbH,Tawasol Riyadh,AS29066 velia.net Internetdienste GmbH,
+2025-03-13T17:33:02+0000,138.197.143.176,4,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",jasonellis.ca
+2025-03-13T17:33:33+0000,159.203.103.59,4,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-13T17:33:39+0000,192.145.239.210,100,United States,US,CA,California,Los Angeles,90009,34.0549,-118.243,America/Los_Angeles,"InMotion Hosting, Inc.","InMotion Hosting, Inc","AS22611 InMotion Hosting, Inc.",ngx249.inmotionhosting.com
+2025-03-13T17:34:14+0000,195.49.212.165,4,Kazakhstan,KZ,75,Almaty,Almaty,050000,43.2384,76.9462,Asia/Almaty,PS Internet Company LLP,"""Complex Service Company"" LLC",AS48716 PS Internet Company LLP,
+2025-03-13T17:34:20+0000,5.100.248.109,55,Israel,IL,M,Central District,Rosh Haayin,4809139,32.0958,34.9521,Asia/Jerusalem,CLOUDWEBMANAGE,,AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD,pl.webconcepts.co.il
+2025-03-13T17:34:33+0000,68.183.238.251,4,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",web1.wpnall.com
+2025-03-13T17:34:38+0000,208.109.8.85,4,Japan,JP,12,Chiba,Chiba,260-0026,35.6074,140.107,Asia/Tokyo,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",85.8.109.208.host.secureserver.net
+2025-03-13T17:36:27+0000,206.72.206.92,4,United States,US,NJ,New Jersey,Secaucus,07094,40.7862,-74.0743,America/New_York,"Interserver, Inc","Interserver, Inc","AS19318 Interserver, Inc",server.azagroup.com
+2025-03-13T17:36:34+0000,195.250.31.241,13,India,IN,MH,Maharashtra,Mumbai,400703,19.0336,73.0118,Asia/Kolkata,WHG Hosting Services Ltd,WHG Hosting Services Ltd,AS199404 WHG Hosting Services Ltd,149748-gconp.com
+2025-03-13T17:36:40+0000,35.76.3.210,4,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,"Amazon.com, Inc.",AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-35-76-3-210.ap-northeast-1.compute.amazonaws.com
+2025-03-13T17:36:41+0000,103.175.163.75,16,India,IN,RJ,Rajasthan,Jaipur,302003,26.8998,75.7012,Asia/Kolkata,Cloudminister Technologies Private Limited,Cloudminister Technologies Private Limited,AS147237 CLOUDMINISTER TECHNOLOGIES PRIVATE LIMITED,server.payveda.com
+2025-03-13T17:36:48+0000,51.68.97.113,4,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6916,3.20151,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,cani-idees.com
+2025-03-13T17:36:57+0000,178.254.8.80,15,Germany,DE,BE,Land Berlin,Berlin,10555,52.5233,13.3426,Europe/Berlin,BLU-VH,1blu AG,AS42730 EVANZO e-commerce GmbH,rogosch.jetzt
+2025-03-13T17:37:31+0000,87.76.8.76,4,Russia,RU,ULY,Ulyanovsk Oblast,Ulyanovsk,432072,54.3354,48.3888,Europe/Ulyanovsk,JSC Telecom.ru,Telecom.ru Ltd,AS50716 Telecom.ru Ltd,ns2.simdev.ru
+2025-03-13T17:37:55+0000,51.254.130.189,4,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,189.ip-51-254-130.eu
+2025-03-13T17:38:18+0000,164.52.213.215,4,India,IN,UP,Uttar Pradesh,Noida,201307,28.5341,77.3538,Asia/Kolkata,E2E Networks Limited,E2E Networks Limited,"AS132420 282, Sector 19",e2e-82-215.ssdcloudindia.net
+2025-03-13T17:38:39+0000,64.227.143.134,4,India,IN,KA,Karnataka,Bengaluru,560100,12.9753,77.591,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-13T17:38:50+0000,5.44.111.112,4,Germany,DE,NW,North Rhine-Westphalia,Dortmund,44263,51.4858,7.47583,Europe/Berlin,dogado GmbH,dogado GmbH,AS8648 dogado GmbH,web112.alfahosting-server.de
+2025-03-13T17:38:54+0000,70.32.104.91,4,United States,US,VA,Virginia,Ashburn,20149,39.0469,-77.4903,America/New_York,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",2wbq-xptq.accessdomain.com
+2025-03-13T17:39:50+0000,208.109.235.67,4,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",67.235.109.208.host.secureserver.net
+2025-03-13T17:40:44+0000,197.232.243.115,4,Kenya,KE,30,Nairobi County,Nairobi,09831,-1.2841,36.8155,Africa/Nairobi,Jamii Telecommunications Limited,Faiba Home,AS36866 Jamii Telecommunications Limited,interstellarswkenya.co.ke
+2025-03-13T17:41:02+0000,172.105.33.243,4,India,IN,MH,Maharashtra,Mumbai,400017,19.0748,72.8856,Asia/Kolkata,Akamai Technologies,Linode,AS63949 Akamai Connected Cloud,172-105-33-243.ip.linodeusercontent.com
