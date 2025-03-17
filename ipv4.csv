@@ -19521,7 +19521,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-15T19:54:18+0000,172.176.128.182,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
 2025-03-15T20:41:09+0000,172.200.181.161,13,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
 2025-03-15T21:29:53+0000,162.19.114.227,15,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
-2025-03-15T21:42:10+0000,57.128.79.183,29,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
 2025-03-15T22:47:31+0000,129.151.171.247,48,South Africa,ZA,GP,Gauteng,Johannesburg,1601,-26.2309,28.0583,Africa/Johannesburg,Oracle Corporation,Oracle Corporation,AS31898 Oracle Corporation,
 2025-03-15T22:51:32+0000,209.97.164.46,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-03-15T22:51:36+0000,13.239.17.202,4,Australia,AU,NSW,New South Wales,Sydney,2000,-33.8591,151.2002,Australia/Sydney,Amazon Technologies Inc.,AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",ec2-13-239-17-202.ap-southeast-2.compute.amazonaws.com
@@ -19602,7 +19601,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-17T03:07:04+0000,180.163.220.51,100,China,CN,SH,Shanghai,Shanghai,200000,31.2304,121.474,Asia/Shanghai,China Telecom (Group),Chinanet SH,AS4812 China Telecom (Group),
 2025-03-17T03:52:45+0000,123.6.49.14,100,China,CN,HA,Henan,Zhengzhou,450000,34.7472,113.625,Asia/Shanghai,CNC Group CHINA169 Henan Province Network,,AS4837 CHINA UNICOM China169 Backbone,hn.kd.ny.adsl
 2025-03-17T04:09:19+0000,159.65.4.242,90,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2025-03-17T04:13:31+0000,91.134.232.209,37,Germany,DE,SL,Saarland,Saarbrücken,66111,49.2402,6.98519,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS,ip209.ip-91-134-232.eu
 2025-03-17T05:21:07+0000,167.71.193.98,44,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-03-17T05:29:30+0000,110.138.36.84,100,Indonesia,ID,JK,Jakarta,Jakarta,11730,-6.2114,106.8446,Asia/Jakarta,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,
 2025-03-17T05:46:59+0000,180.163.220.95,100,China,CN,SH,Shanghai,Shanghai,200000,31.2304,121.474,Asia/Shanghai,China Telecom (Group),Chinanet SH,AS4812 China Telecom (Group),
@@ -19612,7 +19610,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-17T07:20:59+0000,44.220.89.220,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-220-89-220.compute-1.amazonaws.com
 2025-03-17T07:28:45+0000,180.163.220.43,100,China,CN,SH,Shanghai,Shanghai,200000,31.2304,121.474,Asia/Shanghai,China Telecom (Group),Chinanet SH,AS4812 China Telecom (Group),
 2025-03-17T07:30:28+0000,34.28.246.172,11,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,172.246.28.34.bc.googleusercontent.com
-2025-03-17T07:42:08+0000,159.89.202.193,46,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-03-17T07:47:04+0000,101.199.254.203,100,China,CN,BJ,Beijing,Jinrongjie,,39.9319,116.345,Asia/Shanghai,China Unicom Beijing Province Network,Beijing Qihu Technology Company Limited,AS4808 China Unicom Beijing Province Network,
 2025-03-17T08:06:23+0000,88.214.24.225,74,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Layer7 Networks GmbH,Layer7 Networks GmbH,AS199912 Layer7 Networks GmbH,
 2025-03-17T08:11:16+0000,202.146.132.77,63,Indonesia,ID,JK,Jakarta,Jakarta,,-6.24115,106.825,Asia/Jakarta,JASNITA,,AS24212 PT. JASNITA TELEKOMINDO,
@@ -19623,3 +19620,29 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-17T08:16:56+0000,79.125.78.245,4,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,Amazon EU AWS Dublin,AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-79-125-78-245.eu-west-1.compute.amazonaws.com
 2025-03-17T08:18:22+0000,34.255.179.34,4,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,Amazon Technologies Inc.,AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-34-255-179-34.eu-west-1.compute.amazonaws.com
 2025-03-17T08:26:05+0000,165.22.107.189,72,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-17T08:51:32+0000,141.94.211.144,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
+2025-03-17T09:00:46+0000,57.128.79.183,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
+2025-03-17T09:03:30+0000,57.128.79.89,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
+2025-03-17T09:05:39+0000,110.249.202.49,52,China,CN,HE,Hebei,Zhangjiakou,075000,40.7687,114.886,Asia/Shanghai,China Unicom Hebei Province Network,,AS4837 CHINA UNICOM China169 Backbone,bytespider-110-249-202-49.crawl.bytedance.com
+2025-03-17T09:11:01+0000,3.255.235.160,4,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,Amazon Technologies Inc.,AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-3-255-235-160.eu-west-1.compute.amazonaws.com
+2025-03-17T09:14:37+0000,51.210.147.167,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9959,2.11757,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
+2025-03-17T10:11:36+0000,159.89.202.193,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-17T10:18:22+0000,52.195.230.112,29,Japan,JP,13,Tokyo,Tokyo,150-0002,35.6895,139.692,Asia/Tokyo,Amazon Technologies Inc.,AWS EC2 (ap-northeast-1),"AS16509 Amazon.com, Inc.",ec2-52-195-230-112.ap-northeast-1.compute.amazonaws.com
+2025-03-17T10:24:55+0000,54.246.71.136,4,Ireland,IE,L,Leinster,Dublin,D02,53.3498,-6.26031,Europe/Dublin,"Amazon.com, Inc.",AWS EC2 (eu-west-1),"AS16509 Amazon.com, Inc.",ec2-54-246-71-136.eu-west-1.compute.amazonaws.com
+2025-03-17T10:26:50+0000,34.139.78.126,30,United States,US,SC,South Carolina,North Charleston,,32.8771,-80.013,America/New_York,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,126.78.139.34.bc.googleusercontent.com
+2025-03-17T11:14:57+0000,159.223.85.11,30,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-17T11:20:12+0000,91.134.232.209,50,Germany,DE,SL,Saarland,Saarbrücken,66111,49.2402,6.98519,Europe/Berlin,OVH SAS,OVH GmbH,AS16276 OVH SAS,ip209.ip-91-134-232.eu
+2025-03-17T11:36:30+0000,180.163.220.45,100,China,CN,SH,Shanghai,Shanghai,200000,31.2304,121.474,Asia/Shanghai,China Telecom (Group),Chinanet SH,AS4812 China Telecom (Group),
+2025-03-17T13:21:39+0000,20.57.71.121,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-17T13:28:25+0000,102.222.249.207,4,South Africa,ZA,GP,Gauteng,Edenvale,1609,-26.1304,28.1832,Africa/Johannesburg,DIRECTEL COMMUNICATIONS (PTY) LTD,Rocketnet,AS327849 DIRECTEL COMMUNICATIONS (PTY) LTD,102-222-249-207.rev.rocketnet.space
+2025-03-17T13:34:21+0000,129.213.127.90,63,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
+2025-03-17T13:51:38+0000,123.6.49.9,100,China,CN,HA,Henan,Zhengzhou,450000,34.7472,113.625,Asia/Shanghai,CNC Group CHINA169 Henan Province Network,,AS4837 CHINA UNICOM China169 Backbone,hn.kd.ny.adsl
+2025-03-17T13:55:01+0000,193.176.31.8,31,The Netherlands,NL,NH,North Holland,Amsterdam,1012,52.3759,4.8975,Europe/Amsterdam,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,8.31.176.193.baremetal.zare.com
+2025-03-17T14:11:13+0000,34.68.87.149,20,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,149.87.68.34.bc.googleusercontent.com
+2025-03-17T14:28:52+0000,20.57.46.145,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-17T14:35:41+0000,51.20.137.93,100,Sweden,SE,AB,Stockholm,Stockholm,100 05,59.3293,18.0686,Europe/Stockholm,"Amazon.com, Inc.",AWS EC2 (eu-north-1),"AS16509 Amazon.com, Inc.",ec2-51-20-137-93.eu-north-1.compute.amazonaws.com
+2025-03-17T14:41:02+0000,92.223.85.153,57,Singapore,SG,01,Central Singapore,Singapore,,1.30415,103.852,Asia/Singapore,G-Core Labs S.A.,GCL,AS199524 G-Core Labs S.A.,vpn-gw-prod-005.sin0-gcl.ff.avast.com
+2025-03-17T14:44:12+0000,20.57.71.112,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-17T14:54:49+0000,116.21.31.94,48,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
+2025-03-17T15:17:41+0000,18.206.86.11,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-206-86-11.compute-1.amazonaws.com
+2025-03-17T15:52:41+0000,44.192.61.255,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-192-61-255.compute-1.amazonaws.com
