@@ -8842,7 +8842,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-09-05T15:05:12+0000,45.129.35.2,20,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Tefincom S.A.,Packethub S.A,AS136787 TEFINCOM S.A.,
 2024-09-05T15:26:04+0000,34.42.58.221,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,221.58.42.34.bc.googleusercontent.com
 2024-09-05T15:31:00+0000,208.109.34.85,100,United States,US,AZ,Arizona,Tempe,85284,33.3359,-111.894,America/Phoenix,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS398101 GoDaddy.com, LLC",85.34.109.208.host.secureserver.net
-2024-09-05T15:34:48+0000,18.159.188.155,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-159-188-155.eu-central-1.compute.amazonaws.com
 2024-09-05T15:46:05+0000,157.10.98.11,100,India,IN,UP,Uttar Pradesh,Dadri,203207,28.5526,77.5548,Asia/Kolkata,Bharat Datacenter,Bharatdc,AS151704 BHARAT DATACENTER,atlas.cloudwebers.com
 2024-09-05T15:58:46+0000,66.175.44.32,61,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web172c40.carrierzone.com
 2024-09-05T16:08:25+0000,188.126.89.117,42,Finland,FI,18,Uusimaa,Helsinki,02630,60.2096,24.7783,Europe/Helsinki,GleSYS AB,"PRIVATE INTERNET ACCESS, Inc",AS42708 GleSYS AB,
@@ -19776,7 +19775,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-20T17:12:51+0000,85.204.70.96,100,France,FR,IDF,Île-de-France,Paris,75001,48.8558,2.3494,Europe/Paris,Hydra Communications Ltd,Hydra Communications Ltd,AS25369 Hydra Communications Ltd,
 2025-03-20T18:58:53+0000,18.213.113.152,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-213-113-152.compute-1.amazonaws.com
 2025-03-20T19:50:08+0000,100.24.4.4,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-100-24-4-4.compute-1.amazonaws.com
-2025-03-20T20:00:08+0000,138.197.18.174,32,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
 2025-03-20T20:05:41+0000,40.83.4.193,4,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
 2025-03-20T20:22:13+0000,195.231.87.162,43,Italy,IT,25,Lombardy,Ponte San Pietro,24036,45.7059,9.5872,Europe/Rome,Aruba S.p.A.,Aruba S.p.A. - Cloud Services,AS31034 Aruba S.p.A.,mn-politics.com
 2025-03-20T20:34:56+0000,64.49.9.59,4,United States,US,DE,Delaware,Wilmington,19801,39.7466,-75.549,America/New_York,Atomic Networks LLC,Atomic Networks LLC,,
@@ -19792,7 +19790,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-20T22:47:33+0000,34.133.212.45,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,45.212.133.34.bc.googleusercontent.com
 2025-03-20T23:03:36+0000,167.71.87.138,14,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2025-03-21T00:08:11+0000,34.123.198.89,1,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,89.198.123.34.bc.googleusercontent.com
-2025-03-21T00:55:06+0000,154.3.62.33,16,United States,US,CA,California,Sunnyvale,94088,37.3651,-122.0383,America/Los_Angeles,Cogent Communications,MixRank,AS174 Cogent Communications,
 2025-03-21T01:59:49+0000,54.210.91.242,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-210-91-242.compute-1.amazonaws.com
 2025-03-21T03:27:31+0000,35.240.83.86,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS15169 Google LLC,86.83.240.35.bc.googleusercontent.com
 2025-03-21T04:22:25+0000,34.44.199.175,13,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,175.199.44.34.bc.googleusercontent.com
@@ -19814,7 +19811,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-21T12:00:15+0000,170.39.218.98,100,United States,US,NJ,New Jersey,Secaucus,07094,40.7895,-74.0565,America/New_York,FBW Reseaux Fibres inc.,,AS52053 REDHEBERG Association declaree,
 2025-03-21T14:24:51+0000,51.8.152.194,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Germany,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
 2025-03-21T15:12:46+0000,172.176.243.25,73,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
-2025-03-21T15:30:28+0000,88.214.24.222,94,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Layer7 Networks GmbH,Layer7 Networks GmbH,AS199912 Layer7 Networks GmbH,
 2025-03-21T15:46:03+0000,20.246.78.77,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
 2025-03-21T16:25:46+0000,80.94.95.244,31,Bulgaria,BG,22,Sofia-Capital,Sofia,1000,42.6977,23.3219,Europe/Sofia,SS-Net,Unmanaged LTD,AS204428 SS-Net,
 2025-03-21T16:38:18+0000,3.239.33.99,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-239-33-99.compute-1.amazonaws.com
@@ -19846,3 +19842,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-22T00:50:23+0000,18.235.10.126,29,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-18-235-10-126.compute-1.amazonaws.com
 2025-03-22T01:04:28+0000,79.127.224.102,55,Belgium,BE,BRU,Brussels Capital,Brussels,1000,50.8534,4.347,Europe/Brussels,Datacamp Limited,Cdn77 BRU,AS60068 Datacamp Limited,unn-79-127-224-102.datapacket.com
 2025-03-22T02:22:00+0000,51.79.230.129,100,Singapore,SG,01,Central Singapore,Singapore,069536,1.27994,103.849,Asia/Singapore,OVH Hosting,OVH Singapore PTE. LTD,AS16276 OVH SAS,ns5007905.ip-51-79-230.net
+2025-03-22T02:40:29+0000,139.59.37.136,4,India,IN,KA,Karnataka,Bengaluru,560100,12.9753,77.591,Asia/Kolkata,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-22T03:09:22+0000,138.197.18.174,60,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-22T03:20:01+0000,183.201.126.155,4,China,CN,BJ,Beijing,Jinrongjie,,39.9155,116.36,Asia/Shanghai,China Mobile Communications Corporation,China Mobile Communications Corporation,AS132510 IDC ShanXi China Mobile communications corporation,
+2025-03-22T03:20:02+0000,183.201.126.125,4,China,CN,BJ,Beijing,Jinrongjie,,39.9155,116.36,Asia/Shanghai,China Mobile Communications Corporation,China Mobile Communications Corporation,AS132510 IDC ShanXi China Mobile communications corporation,
+2025-03-22T05:19:58+0000,154.3.62.33,23,United States,US,CA,California,Sunnyvale,94088,37.3651,-122.0383,America/Los_Angeles,Cogent Communications,MixRank,AS174 Cogent Communications,
+2025-03-22T05:37:32+0000,128.199.136.186,36,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-22T06:36:29+0000,91.219.150.140,4,Russia,RU,MOW,Moscow,Moscow,,55.875,37.6691,Europe/Moscow,LLC Smart Ape,LLC Smart Ape,AS56694 LLC Smart Ape,s1103613.srvape.com
+2025-03-22T08:42:44+0000,34.173.191.102,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,102.191.173.34.bc.googleusercontent.com
+2025-03-22T09:04:44+0000,67.205.185.160,4,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-22T09:29:37+0000,13.53.136.117,100,Sweden,SE,AB,Stockholm,Stockholm,100 05,59.3293,18.0686,Europe/Stockholm,Amazon Technologies Inc.,AWS EC2 (eu-north-1),"AS16509 Amazon.com, Inc.",ec2-13-53-136-117.eu-north-1.compute.amazonaws.com
+2025-03-22T09:36:07+0000,88.214.24.222,100,France,FR,IDF,Île-de-France,Paris,75000,48.8566,2.35222,Europe/Paris,Layer7 Networks GmbH,Layer7 Networks GmbH,AS199912 Layer7 Networks GmbH,
+2025-03-22T09:36:39+0000,167.172.156.117,13,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-22T09:42:37+0000,3.235.46.207,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-235-46-207.compute-1.amazonaws.com
+2025-03-22T10:08:02+0000,170.39.218.50,100,United States,US,NJ,New Jersey,Secaucus,07094,40.7895,-74.0565,America/New_York,FBW Reseaux Fibres inc.,,AS52053 REDHEBERG Association declaree,
+2025-03-22T11:47:31+0000,143.244.57.121,100,France,FR,IDF,Île-de-France,Paris,75001,48.8558,2.3494,Europe/Paris,Datacamp Limited,Cdn77 PAR,AS60068 Datacamp Limited,unn-143-244-57-121.datapacket.com
+2025-03-22T13:02:43+0000,104.248.62.206,70,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-22T13:44:06+0000,3.236.132.96,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-236-132-96.compute-1.amazonaws.com
+025-03-22T14:32:31+0000,18.159.188.155,4,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1109,8.68213,Europe/Berlin,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",ec2-18-159-188-155.eu-central-1.compute.amazonaws.com
+2025-03-22T14:34:26+0000,3.87.5.146,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-87-5-146.compute-1.amazonaws.com
+2025-03-22T15:11:16+0000,52.176.37.210,4,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
+2025-03-22T15:40:00+0000,35.212.136.100,31,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS15169 Google LLC,100.136.212.35.bc.googleusercontent.com
+2025-03-22T15:41:57+0000,132.196.51.59,4,United States,US,IA,Iowa,Des Moines,50309,41.5908,-93.6208,America/Chicago,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,
