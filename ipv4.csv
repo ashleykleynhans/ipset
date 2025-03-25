@@ -632,7 +632,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-24T02:34:09+0000,52.160.33.137,100,United States,US,CA,California,San Francisco,94109,37.783,-122.417,America/Los_Angeles,Microsoft Corporation,Microsoft Azure Cloud (westus),AS8075 Microsoft Corporation,azpdwe0.stretchoid.com
 2024-06-24T02:51:13+0000,148.72.214.194,100,Singapore,SG,03,North West,Singapore,858877,1.35208,103.82,Asia/Singapore,"GoDaddy.com, LLC","GoDaddy.com, LLC","AS26496 GoDaddy.com, LLC",194.214.72.148.host.secureserver.net
 2024-06-24T02:57:50+0000,103.214.175.9,100,Hong Kong,HK,KSS,Sham Shui Po,Cheung Sha Wan,,22.3363,114.158,Asia/Hong_Kong,VH-GLOBAL,"Hong Kong YunLiFang Co., Limited",AS42960 VH Global Limited,
-2024-06-24T03:13:35+0000,171.244.0.91,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,VIETEL,Viettel Corporation,AS7552 Viettel Group,
 2024-06-24T03:35:53+0000,150.109.148.216,100,Hong Kong,HK,,Kowloon,Hong Kong,96521,22.3193,114.169,Asia/Hong_Kong,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",
 2024-06-24T04:16:28+0000,140.228.24.56,74,Canada,CA,QC,Quebec,Montreal,H3H,45.5075,-73.5887,America/Toronto,Cogent Communications,Freedomtech Solutions Ltd,AS174 Cogent Communications,
 2024-06-24T04:12:49+0000,54.37.121.239,100,France,FR,HDF,Hauts-de-France,Gravelines,59820,50.9871,2.12554,Europe/Paris,OVH SAS,Ovh Hosting,AS16276 OVH SAS,gwc.cluster027.hosting.ovh.net
@@ -1070,7 +1069,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-06-27T14:10:28+0000,45.32.133.2,11,United States,US,CA,California,Santa Clara,95054,37.3931,-121.962,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.32.133.2.vultrusercontent.com
 2024-06-27T14:22:53+0000,84.17.48.63,100,Germany,DE,HE,Hesse,Frankfurt am Main,60313,50.1187,8.6842,Europe/Berlin,Datacamp Limited,Cdn77 FRA Itx2,AS212238 Datacamp Limited,unn-84-17-48-63.cdn77.com
 2024-06-27T13:54:59+0000,45.77.87.199,11,United States,US,CA,California,Los Angeles,90012,34.0544,-118.244,America/Los_Angeles,The Constant Company,"Vultr Holdings, LLC","AS20473 The Constant Company, LLC",45.77.87.199.vultrusercontent.com
-2024-06-27T14:48:45+0000,103.159.239.202,100,India,IN,MH,Maharashtra,Nagpur,440001,21.1124,79.1038,Asia/Kolkata,M21 Data Center,,AS141294 M21 Data Center,ns1.gyrowebtech.in
 2024-06-27T15:32:32+0000,45.119.84.18,100,Vietnam,VN,SG,Ho Chi Minh,Quan Binh Thanh,,10.79,106.711,Asia/Ho_Chi_Minh,Long Van System Solution JSC,Lvss,AS131386 Long Van System Solution JSC,
 2024-06-27T15:38:58+0000,43.130.42.77,91,United States,US,CA,California,Santa Clara,,37.3541,-121.9552,America/Los_Angeles,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",
 2024-06-27T15:53:47+0000,64.23.242.25,100,United States,US,CA,California,San Francisco,94142,37.7809,-122.4245,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -13749,7 +13747,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2024-11-24T21:05:47+0000,122.170.110.179,77,India,IN,GJ,Gujarat,Ahmedabad,380007,23.0276,72.5871,Asia/Kolkata,BHARTI,ABTS-MUMBAI,"AS24560 Bharti Airtel Ltd., Telemedia Services",ind.cloudman.co.in
 2024-11-24T21:17:24+0000,188.68.47.250,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,NETCUP-GMBH,AS197540 netcup GmbH,a2ffa.netcup.net
 2024-11-24T21:32:15+0000,212.108.195.238,100,Hungary,HU,BU,Budapest,Budapest,1125,47.5636,19.0947,Europe/Budapest,Invitech ICT Services Kft.,Invitech ICT Services Kft,AS12301 Invitech ICT Services Kft.,f6.hu
-2024-11-24T21:46:14+0000,186.64.114.150,75,Chile,CL,ML,Maule Region,Curicó,,-34.9839,-71.2425,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,blue174.dnsmisitio.net
 2024-11-24T22:25:02+0000,128.199.164.76,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
 2024-11-24T23:04:36+0000,80.74.155.60,100,Switzerland,CH,ZH,Zurich,Zurich,8005,47.3875,8.52269,Europe/Zurich,METANET AG,Metanet AG,AS21069 METANET AG,torn.sui-inter.net
 2024-11-24T23:05:39+0000,172.234.212.139,71,United States,US,IL,Illinois,Chicago,60602,41.8874,-87.6318,America/Chicago,"Akamai Technologies, Inc.","Akamai Technologies, Inc.",AS63949 Akamai Connected Cloud,172-234-212-139.ip.linodeusercontent.com
@@ -17974,7 +17971,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-02-08T06:02:09+0000,34.133.50.21,4,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,21.50.133.34.bc.googleusercontent.com
 2025-02-08T06:50:12+0000,3.129.210.165,4,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-3-129-210-165.us-east-2.compute.amazonaws.com
 2025-02-08T06:50:13+0000,18.236.137.6,13,United States,US,OR,Oregon,Portland,97207,45.5235,-122.676,America/Los_Angeles,"Amazon.com, Inc.",AWS EC2 (us-west-2),"AS16509 Amazon.com, Inc.",ec2-18-236-137-6.us-west-2.compute.amazonaws.com
-2025-02-08T07:14:47+0000,104.155.43.195,78,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,195.43.155.104.bc.googleusercontent.com
 2025-02-08T08:03:57+0000,113.66.222.248,54,China,CN,GD,Guangdong,Guangzhou,,23.1181,113.2539,Asia/Shanghai,Chinanet,Chinanet GD,AS4134 CHINANET-BACKBONE,
 2025-02-08T08:15:25+0000,34.46.194.198,14,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,198.194.46.34.bc.googleusercontent.com
 2025-02-08T11:07:09+0000,3.80.100.119,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-3-80-100-119.compute-1.amazonaws.com
@@ -20120,3 +20116,51 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-25T12:07:55+0000,178.128.124.107,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2025-03-25T12:19:26+0000,200.71.126.114,4,Canada,CA,ON,Ontario,Westmount,M9P,43.6946,-79.5331,America/Toronto,Soluciones Favorables,Tiffany Leach,AS263821 Soluciones Favorables,
 2025-03-25T12:21:08+0000,51.8.153.182,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Germany,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-25T12:46:46+0000,188.164.193.150,36,Spain,ES,VC,Valencia,Valencia,46001,39.4699,-0.376288,Europe/Madrid,"AXARNET COMUNICACIONES, S.L.","AXARNET COMUNICACIONES, S.L","AS50926 AXARNET COMUNICACIONES, S.L.",ns1.ev28.com
+2025-03-25T12:57:27+0000,18.220.160.35,100,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-220-160-35.us-east-2.compute.amazonaws.com
+2025-03-25T13:08:46+0000,139.59.243.224,14,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T13:13:57+0000,172.176.196.204,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-25T13:49:52+0000,18.171.251.110,97,United Kingdom,GB,ENG,England,London,W1B,51.5074,-0.127758,Europe/London,Amazon Technologies Inc.,AWS EC2 (eu-west-2),"AS16509 Amazon.com, Inc.",ec2-18-171-251-110.eu-west-2.compute.amazonaws.com
+2025-03-25T13:50:00+0000,18.218.19.20,85,United States,US,OH,Ohio,Dublin,43017,40.0992,-83.1141,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",ec2-18-218-19-20.us-east-2.compute.amazonaws.com
+2025-03-25T14:38:03+0000,159.203.177.184,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T14:53:22+0000,198.199.76.91,18,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-25T15:19:53+0000,67.205.184.30,13,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T15:45:24+0000,44.204.144.145,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-204-144-145.compute-1.amazonaws.com
+2025-03-25T15:48:22+0000,196.251.89.80,100,The Netherlands,NL,NH,North Holland,Amsterdam,1106,52.2986,4.9728,Europe/Amsterdam,cheapy.host LLC,Internet Secuirty Cheapyhost,AS401120 cheapy.host LLC,
+2025-03-25T16:14:08+0000,45.157.54.73,100,Iraq,IQ,AR,Erbil,'Aynkawah,,36.2306,43.9944,Asia/Baghdad,"Smart Link Company for Internet Service, special company and limited responsibi","Smart Link Company Internet Service, special company and limited responsibility","AS210413 Smart Link Company for Internet Service, special company and limited responsibility",
+2025-03-25T16:50:09+0000,129.146.167.118,100,United States,US,AZ,Arizona,Phoenix,85008,33.4656,-111.9956,America/Phoenix,Oracle Corporation,Oracle Cloud Infrastructure (us-phoenix-1),AS31898 Oracle Corporation,
+2025-03-25T17:19:24+0000,185.232.69.229,100,Germany,DE,BY,Bavaria,Nuremberg,90431,49.4423,11.0191,Europe/Berlin,netcup GmbH,netcup GmbH,AS197540 netcup GmbH,v2202303142085221314.powersrv.de
+2025-03-25T17:23:10+0000,157.245.131.229,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-25T17:23:37+0000,133.130.103.36,100,Japan,JP,13,Tokyo,Chiyoda,100-8111,35.6916,139.768,Asia/Tokyo,"GMO Internet, Inc.",CNODE,"AS7506 GMO Internet Group, Inc.",v133-130-103-36.a02c.g.tyo1.static.cnode.io
+2025-03-25T17:24:30+0000,206.217.128.210,100,United States,US,NY,New York,Buffalo,14205,42.8864,-78.8784,America/New_York,HostPapa,CENTRIOHOST-LLC,AS36352 HostPapa,node.webproserver.com
+2025-03-25T17:27:40+0000,94.229.76.74,48,United Kingdom,GB,ENG,England,Canary Wharf,E14,51.5064,-0.02,Europe/London,UK Dedicated Servers Limited,Virdee IP,AS42831 UK Dedicated Servers Limited,24host.24host.uk
+2025-03-25T17:29:08+0000,186.64.119.170,100,Chile,CL,RM,Santiago Metropolitan,Santiago,8320000,-33.4489,-70.6693,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,blue155.dnsmisitio.net
+2025-03-25T17:29:43+0000,45.90.73.206,100,Iran,IR,23,Tehran,Tehran,,35.6824,51.4158,Asia/Tehran,Mizban Dade Pasargad,Mizban Dade Pasargad LLC,AS64458 Mizban Dade Pasargad LLC,s3.mizbandp.com
+2025-03-25T17:32:29+0000,67.205.181.19,4,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T17:36:46+0000,186.64.119.145,100,Chile,CL,RM,Santiago Metropolitan,Santiago,8320000,-33.4489,-70.6693,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,blue195.dnsmisitio.net
+2025-03-25T17:37:13+0000,161.97.121.145,100,France,FR,GES,Grand Est,Lauterbourg,67630,48.9742,8.1851,Europe/Paris,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2518886.contaboserver.net
+2025-03-25T17:38:21+0000,155.133.142.66,100,France,FR,IDF,Île-de-France,Paris,75013,48.8219,2.3709,Europe/Paris,GANDI is an ICANN accredited registrar,GANDI,AS29169 GANDI SAS,gw3.sd6.gpaas.net
+2025-03-25T17:44:43+0000,186.64.114.150,100,Chile,CL,RM,Santiago Metropolitan,Santiago,8320000,-33.4489,-70.6693,America/Santiago,ZAM LTDA.,ZAM LTDA,AS52368 ZAM LTDA.,blue174.dnsmisitio.net
+2025-03-25T17:49:36+0000,51.38.235.150,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,vps-70e85042.vps.ovh.net
+2025-03-25T17:50:05+0000,115.78.7.179,100,Vietnam,VN,SG,Ho Chi Minh,Ho Chi Minh City,700000,10.822,106.6257,Asia/Ho_Chi_Minh,VIETELftth,,AS7552 Viettel Group,
+2025-03-25T17:50:55+0000,161.97.82.217,100,France,FR,GES,Grand Est,Lauterbourg,67630,48.9742,8.1851,Europe/Paris,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2507110.contaboserver.net
+2025-03-25T17:51:11+0000,171.244.0.91,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,VIETEL,Viettel Corporation,AS7552 Viettel Group,
+2025-03-25T17:53:33+0000,51.38.119.44,100,Germany,DE,HE,Hesse,Limburg an der Lahn,65550,50.3986,8.07958,Europe/Berlin,OVH SAS,OVH,AS16276 OVH SAS,ip44.ip-51-38-119.eu
+2025-03-25T17:55:07+0000,109.123.76.134,100,United Kingdom,GB,ENG,England,London,EC3N,51.5212,-0.0719517,Europe/London,UK2.NET,,AS13213 UK-2 Limited,persephone-new.safeukdns.net
+2025-03-25T17:56:11+0000,109.199.124.78,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1864,6.8624,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,vmi2006255.contaboserver.net
+2025-03-25T17:57:44+0000,132.145.196.107,100,United States,US,VA,Virginia,Ashburn,20147,39.018,-77.539,America/New_York,Oracle Corporation,Oracle Cloud Infrastructure (us-ashburn-1),AS31898 Oracle Corporation,
+2025-03-25T18:04:27+0000,103.159.239.202,100,India,IN,MH,Maharashtra,Nagpur,440001,21.1124,79.1038,Asia/Kolkata,M21 Data Center,,AS141294 M21 Data Center,ns1.gyrowebtech.in
+2025-03-25T18:07:00+0000,167.99.0.38,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T18:08:55+0000,66.175.44.24,74,Canada,CA,ON,Ontario,Waterloo,N2V,43.4643,-80.5204,America/Toronto,Internet Names For Business Inc.,Internet Names Business Inc,AS30447 Internet Names For Business Inc.,web164c40.carrierzone.com
+2025-03-25T18:10:34+0000,69.10.52.140,100,United States,US,NJ,New Jersey,Secaucus,07094,40.7862,-74.0743,America/New_York,"Interserver, Inc","Interserver, Inc","AS19318 Interserver, Inc",server2.datastratege.ca
+2025-03-25T18:14:08+0000,138.128.245.84,100,United States,US,CA,California,Santa Clara,95054,37.3541,-121.9552,America/Los_Angeles,Kamatera,Cloud Web Manage,"AS396948 Kamatera, Inc.",
+2025-03-25T18:15:29+0000,62.173.149.72,100,Russia,RU,MOW,Moscow,Moscow,144700,55.7558,37.6173,Europe/Moscow,Internet-Cosmos LLC,JSC Planetahost,AS34300 Internet-Cosmos LLC,lexkertis2.example.com
+2025-03-25T18:16:38+0000,66.102.128.27,93,Canada,CA,ON,Ontario,Toronto,M5A,43.6547,-79.3623,America/Toronto,HostPapa,HostPapa,AS40092 HostPapa,res-cp1-mx.yyz2.websiteservername.com
+2025-03-25T18:16:58+0000,150.95.110.113,100,Vietnam,VN,HN,Hanoi,Hanoi,,21.0278,105.834,Asia/Bangkok,GMO-Z.com Runsystem Joint Stock Company,GMO-Z.com Runsystem Joint Stock Company,AS131392 GMO-Z.com Runsystem Joint Stock Company,v150-95-110-113.a00d.g.han1.static.cnode.io
+2025-03-25T18:24:38+0000,138.197.193.251,22,United States,US,CA,California,Santa Clara,95051,37.3419,-121.9754,America/Los_Angeles,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T18:24:39+0000,64.227.5.91,43,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-25T18:26:12+0000,104.155.43.195,100,Belgium,BE,BRU,Brussels Capital,Brussels,1930,50.9009,4.4855,Europe/Brussels,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,195.43.155.104.bc.googleusercontent.com
+2025-03-25T18:28:05+0000,62.169.25.232,100,Germany,DE,NW,North Rhine-Westphalia,Düsseldorf,40599,51.1864,6.8624,Europe/Berlin,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,cp.dawebhost.com
+2025-03-25T18:29:21+0000,134.209.215.45,100,United States,US,NJ,New Jersey,North Bergen,07047,40.7964,-74.0203,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",my.jgportal.site
+2025-03-25T18:29:34+0000,35.204.172.12,100,Netherlands,NL,GR,Groningen,Groningen,,53.2193,6.5665,Europe/Amsterdam,Google LLC,Google Cloud (europe-west4),AS15169 Google LLC,vps1.skaggbyran.net
+2025-03-25T18:32:03+0000,103.191.76.181,100,Malaysia,MY,10,Selangor,Petaling Jaya,47820,3.16593,101.607,Asia/Kuala_Lumpur,Jimat Technology Solution,Jimat Technology Solution,AS136727 Jimat Technology Solution,
