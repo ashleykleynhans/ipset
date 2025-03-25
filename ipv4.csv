@@ -19698,7 +19698,6 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-19T06:15:15+0000,178.33.107.250,32,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6918,3.2021,Europe/Paris,OVH SAS,OVH ISP,AS16276 OVH SAS,ip250.ip-178-33-107.eu
 2025-03-19T06:20:48+0000,45.86.211.12,100,United States,US,AZ,Arizona,Phoenix,85034,33.4413,-112.0421,America/Phoenix,Clouvider Limited,Clouvider HB,AS62240 Clouvider,
 2025-03-19T07:21:23+0000,64.225.17.195,29,United States,US,NJ,New Jersey,Clifton,07014,40.8364,-74.1403,America/New_York,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
-2025-03-19T07:21:42+0000,178.128.124.107,55,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
 2025-03-19T07:22:11+0000,103.88.132.242,100,India,IN,JH,Jharkhand,Jamshedpur,831001,22.8006,86.1871,Asia/Kolkata,Ashok Secure Broadband Network Pvt Ltd,Ashok Secure Broadband Network Pvt Ltd,AS134942 Ashok Secure Broadband Network Pvt Ltd,speedtest.asbnetwork.co.in
 2025-03-19T07:38:05+0000,45.61.160.94,4,United States,US,TX,Texas,Dallas,75217,32.7212,-96.6765,America/Chicago,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,94.160.61.45.static.cloudzy.com
 2025-03-19T09:20:45+0000,128.199.156.185,78,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
@@ -20099,3 +20098,25 @@ Date Added,IP,Abuse Confidence Score,Country,Country Code,Region,Region Name,Cit
 2025-03-25T03:13:20+0000,54.165.27.114,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-54-165-27-114.compute-1.amazonaws.com
 2025-03-25T03:50:15+0000,51.83.35.123,100,France,FR,HDF,Hauts-de-France,Roubaix,59100,50.6924,3.20113,Europe/Paris,OVH SAS,OVH,AS16276 OVH SAS,
 2025-03-25T04:30:15+0000,172.177.241.169,64,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-25T05:26:18+0000,34.0.78.29,15,Israel,IL,TA,Tel Aviv,Tel Aviv,,32.0852,34.7817,Asia/Jerusalem,Google LLC,Google Cloud (me-west1),AS19527 Google LLC,29.78.0.34.bc.googleusercontent.com
+2025-03-25T05:40:26+0000,34.207.145.215,30,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-34-207-145-215.compute-1.amazonaws.com
+2025-03-25T05:48:06+0000,110.249.202.109,62,China,CN,HE,Hebei,Zhangjiakou,075000,40.7687,114.886,Asia/Shanghai,China Unicom Hebei Province Network,,AS4837 CHINA UNICOM China169 Backbone,bytespider-110-249-202-109.crawl.bytedance.com
+2025-03-25T06:09:45+0000,64.23.195.82,58,United States,US,CA,California,San Francisco,94142,37.7794,-122.4176,America/Los_Angeles,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",
+2025-03-25T06:54:18+0000,44.223.85.248,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",ec2-44-223-85-248.compute-1.amazonaws.com
+2025-03-25T06:56:14+0000,37.59.218.16,100,Germany,DE,SL,Saarland,Saarbrücken,66111,49.2402,6.98519,Europe/Berlin,OVH ISP,pixabit interactive GmbH,AS16276 OVH SAS,
+2025-03-25T07:39:07+0000,110.249.201.89,50,China,CN,HE,Hebei,Zhangjiakou,075000,40.7687,114.886,Asia/Shanghai,China Unicom Hebei Province Network,,AS4837 CHINA UNICOM China169 Backbone,bytespider-110-249-201-89.crawl.bytedance.com
+2025-03-25T07:49:20+0000,35.212.230.245,15,United States,US,OR,Oregon,The Dalles,97058,45.5945,-121.1786,America/Los_Angeles,Google LLC,Google Cloud (us-west1),AS15169 Google LLC,245.230.212.35.bc.googleusercontent.com
+2025-03-25T07:50:18+0000,35.215.115.17,31,United States,US,CA,California,Los Angeles,,34.0522,-118.2436,America/Los_Angeles,Google LLC,Google Cloud (us-west2),AS15169 Google LLC,17.115.215.35.bc.googleusercontent.com
+2025-03-25T07:54:29+0000,185.196.10.54,54,Switzerland,CH,BE,Bern,Bern,3000,46.948,7.44745,Europe/Zurich,Global-Data System IT Corporation,Global-Data System IT Corporation,AS42624 Global-Data System IT Corporation,security
+2025-03-25T08:02:59+0000,34.57.145.61,23,United States,US,IA,Iowa,Council Bluffs,,41.2619,-95.8608,America/Chicago,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,61.145.57.34.bc.googleusercontent.com
+2025-03-25T09:14:43+0000,82.165.125.50,100,Germany,DE,NW,North Rhine-Westphalia,Essen,45127,51.4576,7.02246,Europe/Berlin,IONOS SE,De Rhr Bap Ngcs Public,AS8560 IONOS SE,
+2025-03-25T09:24:13+0000,35.217.35.197,4,Finland,FI,02,South Karelia,Lappeenranta,,61.0549,28.1896,Europe/Helsinki,Google LLC,Google Cloud (europe-north1),AS15169 Google LLC,197.35.217.35.bc.googleusercontent.com
+2025-03-25T09:31:30+0000,35.213.250.139,14,Australia,AU,NSW,New South Wales,Sydney,,-33.8688,151.2092,Australia/Sydney,Google LLC,Google Cloud (australia-southeast1),AS15169 Google LLC,139.250.213.35.bc.googleusercontent.com
+2025-03-25T10:44:08+0000,38.54.6.35,4,United States,US,VA,Virginia,Ashburn,20149,39.0438,-77.4874,America/New_York,Kaopu Cloud HK Limited,LightNode-US,AS138915 Kaopu Cloud HK Limited,
+2025-03-25T11:04:09+0000,37.59.218.227,100,Germany,DE,SL,Saarland,Saarbrücken,66111,49.2402,6.98519,Europe/Berlin,OVH ISP,pixabit interactive GmbH,AS16276 OVH SAS,
+2025-03-25T11:05:04+0000,20.10.49.145,100,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Corporation,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
+2025-03-25T11:06:18+0000,34.1.3.250,15,France,FR,IDF,Île-de-France,Paris,,48.8566,2.3522,Europe/Paris,Google LLC,Google Cloud (europe-west9),AS15169 Google LLC,250.3.1.34.bc.googleusercontent.com
+2025-03-25T11:15:10+0000,5.25.154.108,15,Türkiye,TR,06,Ankara,Ankara,06460,39.9208,32.8375,Europe/Istanbul,Turkcell Internet,,AS16135 TURKCELL ILETISIM HIZMETLERI A.S.,
+2025-03-25T12:07:55+0000,178.128.124.107,100,Singapore,SG,05,South West,Singapore,627753,1.32123,103.695,Asia/Singapore,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",
+2025-03-25T12:19:26+0000,200.71.126.114,4,Canada,CA,ON,Ontario,Westmount,M9P,43.6946,-79.5331,America/Toronto,Soluciones Favorables,Tiffany Leach,AS263821 Soluciones Favorables,
+2025-03-25T12:21:08+0000,51.8.153.182,4,United States,US,VA,Virginia,Boydton,23917,36.677696,-78.37471,America/New_York,Microsoft Germany,Microsoft Azure Cloud (eastus2),AS8075 Microsoft Corporation,
